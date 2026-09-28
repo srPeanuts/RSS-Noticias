@@ -64,24 +64,19 @@ h2.sec small{font-weight:500;text-transform:none;letter-spacing:0}
 .capa span{display:block;font-size:12px;margin-top:5px;color:var(--muted);line-height:1.25}
 .capa em{font-style:normal;color:var(--accent)}
 /* cartões */
-/* lista: um tema por linha; o n.º 1 com o dobro da altura (medida em ajustarDestaque) */
+/* lista: um tema por linha; o n.º 1 com título maior e mais linhas de resumo */
 .lista{display:flex;flex-direction:column;gap:8px}
 .lista>.tema{padding:10px 16px}
 .lista .tema h3{font-size:17px}
 .lista .resumo{-webkit-line-clamp:2!important}
-.lista.destaque>.tema:first-child{padding:16px 18px}
+.lista.destaque>.tema:first-child h3{font-size:23px}
+.lista.destaque>.tema:first-child .resumo{-webkit-line-clamp:4!important;font-size:15px}
 /* Opinião em grelha: cartões da mesma linha com a mesma altura */
 .grelha-opiniao{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
 .grelha-opiniao>.tema{padding:12px 14px;align-content:start}
 .grelha-opiniao .tema h3{font-size:16px}
 .grelha-opiniao .resumo{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .grelha-opiniao .resumo.aberto{display:block;-webkit-line-clamp:unset;overflow:visible}
-.outras{grid-column:2;list-style:none;margin:8px 0 0;padding:8px 0 0;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:5px}
-.outras li{font-size:14px;line-height:1.35}
-.outras li a{text-decoration:none}.outras li a:hover{text-decoration:underline}
-.outras li small{color:var(--muted);margin-left:6px;font-size:12px}
-.lista.destaque>.tema:first-child h3{font-size:23px}
-.lista.destaque>.tema:first-child .resumo{-webkit-line-clamp:5!important;font-size:15px}
 .tema{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;grid-template-columns:34px 1fr;gap:4px 10px;align-content:start}
 .tema.sem-rank{grid-template-columns:1fr}.tema.sem-rank>*{grid-column:1}
 .rank{font:700 22px/1 "Source Serif 4",Georgia,serif;color:var(--muted);padding-top:2px}
@@ -311,13 +306,11 @@ function cartao(t, i, periodo, dias){
       ${(t.palavras||[]).slice(0,2).map(k=>`<span class="kw">${esc(k)}</span>`).join("")}
     </div>
     ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p><button class="mais" hidden>▾ Ler resumo completo</button>` : ""}
-    ${i === 0 ? outrasNoticias(t) : ""}
     ${periodo ? cobertura(t.serie, dias, t.categoria) : ""}
-    ${detalhesNoticias(t, i === 0 ? new Set(escolherOutras(t).map(a => a.link)) : new Set())}
+    ${detalhesNoticias(t, new Set())}
   </article>`;
 }
 
-/* No tema n.º 1: títulos de outras notícias sobre o mesmo assunto, já visíveis */
 /* Remove repetições do mesmo artigo (mesmo jornal e mesma hora = título corrigido) */
 function artigosUnicos(t){
   // fica a última versão guardada (a do título corrigido), mantendo a ordem original
@@ -326,14 +319,6 @@ function artigosUnicos(t){
   const escolhidos = new Set(ultima.values());
   return (t.artigos || []).filter(a => escolhidos.has(a));
 }
-function escolherOutras(t){
-  // primeiro uma notícia por jornal; depois completa até 4 com outras notícias diferentes
-  const vistas = new Set([t.titulo]), fontes = new Set(), lista = [];
-  const arts = artigosUnicos(t);
-  for (const a of arts) if (!vistas.has(a.titulo) && !fontes.has(a.fonte)) { vistas.add(a.titulo); fontes.add(a.fonte); lista.push(a); }
-  for (const a of arts) if (lista.length < 4 && !vistas.has(a.titulo)) { vistas.add(a.titulo); lista.push(a); }
-  return lista.slice(0, 4);
-}
 function detalhesNoticias(t, jaMostradas){
   const titulos = new Set(artigosUnicos(t).filter(a => jaMostradas.has(a.link)).map(a => a.titulo));
   const resto = artigosUnicos(t).filter(a => !jaMostradas.has(a.link) && !titulos.has(a.titulo));
@@ -341,12 +326,6 @@ function detalhesNoticias(t, jaMostradas){
   const txt = jaMostradas.size ? `Ver mais ${resto.length} ${resto.length==1?"notícia":"notícias"}` : (resto.length==1 ? "Ver a notícia" : `Ver as ${resto.length} notícias`);
   return `<details><summary>${txt}</summary><ul>${listaArtigos({artigos: resto})}</ul></details>`;
 }
-function outrasNoticias(t){
-  const lista = escolherOutras(t);
-  if (!lista.length) return "";
-  return `<ul class="outras">${lista.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.titulo)}</a><small>${esc(a.fonte)}</small></li>`).join("")}</ul>`;
-}
-
 /* Alguns jornais põem um email ou o próprio nome do jornal no campo do autor */
 function autorLimpo(autor, fonte){
   const a = String(autor || "").replace(/\S+@\S+/g, "").replace(/[()]/g, "").trim();
@@ -513,7 +492,6 @@ async function render(){
         (st.vista==="semana" ? blocoEmAlta(d.em_alta, dias) : "") +
         blocoTemas(filtrarTemas(d.temas), true, dias);
     }
-    ajustarDestaque(alvo);
     ativarResumos(alvo);
     alvo.querySelectorAll("[data-ir]").forEach(el => el.onclick = () => { st.vista = el.dataset.ir; render(); window.scrollTo(0,0); });
   } catch(e){
@@ -529,17 +507,6 @@ document.addEventListener("touchstart", e => { const el = e.target.closest("[dat
 
 let larguraAnterior = window.innerWidth, espera;
 window.addEventListener("resize", () => { clearTimeout(espera); espera = setTimeout(() => { if (Math.abs(window.innerWidth - larguraAnterior) > 40){ larguraAnterior = window.innerWidth; render(); } }, 200); });
-
-/* O tema n.º 1 de cada lista fica com o dobro da altura típica das outras linhas */
-function ajustarDestaque(raiz){
-  raiz.querySelectorAll(".lista.destaque").forEach(lista => {
-    const [primeiro, ...resto] = lista.children;
-    if (!primeiro || !resto.length) return;
-    const alturas = resto.map(e => e.offsetHeight).sort((a,b) => a-b);
-    const tipica = alturas[Math.floor(alturas.length/2)];
-    primeiro.style.minHeight = (2 * tipica) + "px";
-  });
-}
 
 function ativarResumos(raiz){
   raiz.querySelectorAll(".resumo").forEach(p => {
