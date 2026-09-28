@@ -144,5 +144,3 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 - **Atualização ou email falhados:** no separador **Actions**, uma execução com ✗ vermelho tem o detalhe do erro. Clica nela e depois no passo que falhou.
 - **A página não mostra as alterações:** espera 1 a 2 minutos depois do push e recarrega com **Ctrl+F5**.
 - **O email não chega:** confirma os secrets (os nomes têm de estar exatamente como na tabela acima) e procura na pasta de spam.
-
----
