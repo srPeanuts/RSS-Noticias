@@ -51,8 +51,8 @@
   "categoria": "politica",
   "palavras": [
    "comunidades intermunicipais",
-   "20 euros",
    "pcp",
+   "euros",
    "lisboa porto"
   ],
   "fontes": [
@@ -123,8 +123,8 @@
   "palavras": [
    "sete",
    "detidas",
-   "lisboa",
-   "pessoas"
+   "pessoas",
+   "lisboa"
   ],
   "fontes": [
    "RTP",
@@ -154,9 +154,8 @@
   "categoria": "governo",
   "palavras": [
    "governo querer",
-   "acusa governo",
-   "carneiro acusa",
-   "desalojamento margem"
+   "acusa",
+   "carneiro"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -216,9 +215,9 @@
   "resumo": "Foram registados mais de 2.600 casos de maus tratos e abandono de animais desde janeiro de 2024.",
   "categoria": "sociedade",
   "palavras": [
+   "600",
    "animais",
    "casos",
-   "600",
    "2024"
   ],
   "fontes": [
@@ -247,10 +246,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
+   "tranquilamente cruzarem",
+   "policia",
    "passeavam tranquilamente",
-   "caminho policia",
-   "cruzarem",
-   "maritima"
+   "cruzarem caminho"
   ],
   "fontes": [
    "Notícias de Coimbra"
@@ -272,10 +271,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "absoluta",
-   "duvida",
-   "tenho",
-   "ad"
+   "serao ganhas",
+   "maioria absoluta",
+   "ad maioria",
+   "nao tenho"
   ],
   "fontes": [
    "Observador"
@@ -321,10 +320,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "absorver afastar",
-   "chega",
-   "discurso",
-   "desvalorize"
+   "absorver",
+   "reconquista discurso",
+   "dividido",
+   "discurso extremista"
   ],
   "fontes": [
    "Observador"
@@ -397,9 +396,9 @@
   "categoria": "economia",
   "palavras": [
    "reformar-se 2029",
-   "15",
    "publicos",
-   "quase"
+   "quase",
+   "macau"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -421,10 +420,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "medida",
-   "verde",
-   "luis montenegro",
-   "porto passe"
+   "simples",
+   "caminho porto",
+   "montenegro caminho",
+   "passe verde"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -471,10 +470,10 @@
   "resumo": "O último barco picareto construído pelo mestre calafate Manuel Pires Fontes, de Ortiga, no concelho de Mação, vai integrar o acervo do Museu de Marinha, culminando um processo de preservação desta embarcação tradicional iniciado há quase duas décadas.",
   "categoria": "sociedade",
   "palavras": [
-   "picareto construido",
    "museu marinha",
-   "ortiga",
-   "integrar"
+   "mestre",
+   "picareto",
+   "construido"
   ],
   "fontes": [
    "RTP"
@@ -497,7 +496,8 @@
   "categoria": "economia",
   "palavras": [
    "rendimento",
-   "tornar-se normal",
+   "tornar-se",
+   "normal",
    "fonte"
   ],
   "fontes": [
@@ -595,10 +595,10 @@
   "resumo": "“Tender Loving Care”, de Mike Leigh, foi o grande vencedor do Festival de San Sebastián. Cinema ético sem compromissos que volta a consagrar o veterano de 83 anos. Uma edição marcada pelo humor neurótico de Jesse Eisenberg, em “A Grande Estreia”, ignorado no palmarés",
   "categoria": "sociedade",
   "palavras": [
-   "mike leigh",
-   "sebastian",
+   "leigh",
    "san",
-   "vencem"
+   "sebastian",
+   "mike"
   ],
   "fontes": [
    "Expresso"
@@ -620,10 +620,10 @@
   "resumo": "São Francisco, Estados Unidos, 27 set 2026 (Lusa) -- O secretário do Tesouro dos Estados Unidos (EUA) afirmou ter enviado emissários por todo o mundo a exigir medidas para isolar economicamente Teerão e celebrou as restrições contra os bancos e a aviação do Irão.",
   "categoria": "economia",
   "palavras": [
-   "eua",
-   "teerao",
    "tesouro",
-   "isolar"
+   "teerao",
+   "isolar",
+   "eua"
   ],
   "fontes": [
    "RTP"
@@ -670,9 +670,9 @@
   "resumo": "O programa de análise semanal conduzido por António José Teixeira é agora emitido aos sábados às 23h00. No início da nova temporada, a crise dos combustíveis esteve em grande destaque, com a análise de António Costa Silva, doutor em Engenharia de Reservatórios Petrolíferos e antigo ministro da Economia.",
   "categoria": "economia",
   "palavras": [
-   "crise combustiveis",
-   "custo vida",
-   "aumenta",
+   "crise",
+   "combustiveis aumenta",
+   "vida insatisfacao",
    "semanario"
   ],
   "fontes": [
@@ -695,10 +695,10 @@
   "resumo": "Morrem todos os anos mais de 80 mil pessoas sem acesso a Cuidados Paliativos em Portugal.",
   "categoria": "sociedade",
   "palavras": [
-   "cuidados paliativos",
+   "cuidados",
+   "paliativos",
    "casa desde",
-   "equipa apoia",
-   "paliativos braga"
+   "equipa apoia"
   ],
   "fontes": [
    "RTP"
@@ -745,10 +745,10 @@
   "resumo": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
   "categoria": "governo",
   "palavras": [
-   "eusebio",
-   "ministro trabalho",
    "marques carvalho",
-   "91"
+   "91",
+   "eusebio marques",
+   "trabalho eusebio"
   ],
   "fontes": [
    "RTP"
@@ -773,7 +773,7 @@
    "casas",
    "residentes",
    "compradas",
-   "adquiridas"
+   "junho foram-no"
   ],
   "fontes": [
    "RTP"
@@ -822,8 +822,8 @@
   "palavras": [
    "profissoes",
    "mundial",
-   "presidente republica",
-   "felicita"
+   "presidente",
+   "republica"
   ],
   "fontes": [
    "RTP"
@@ -845,8 +845,8 @@
   "resumo": "A Herdade da Granja, em Idanha-a-Nova, abriu as portas. A entrada foi gratuita.",
   "categoria": "sociedade",
   "palavras": [
-   "aberto",
-   "comunidade",
+   "aberto comunidade",
+   "promoveu aberto",
    "festival boom",
    "boom promoveu"
   ],

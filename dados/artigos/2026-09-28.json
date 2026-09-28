@@ -3824,5 +3824,120 @@
   ],
   "categoria_forcada": "",
   "categoria": "sociedade"
+ },
+ {
+  "titulo": "PSP dispara cinco vezes para fugitivo em Braga",
+  "link": "https://observador.pt/2026/09/28/psp-disparou-5-vezes-sobre-viatura-usada-para-tentar-atropelar-agente-em-braga/",
+  "resumo": "O condutor tentou fugir em marcha atrás a alta velocidade e virou o carro na direção do polícia. Abandonou a viatura perto do local. Não há feridos.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T16:51:37+01:00",
+  "cats_feed": [
+   "PSP",
+   "Polícia",
+   "Segurança",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Legumes crus ou cozinhados: qual é melhor? – A sua pergunta",
+  "link": "https://observador.pt/programas/aprender-a-comer/legumes-crus-ou-cozinhados-qual-e-melhor-a-sua-pergunta/",
+  "resumo": "Adaptar a textura à idade e continuar a oferecer pode fazer diferença. A Nutricionista Mariana Chaves explica os cuidados que devemos ter e quais as melhores opções no consumo de vegetais na infância.",
+  "fonte": "Observador",
+  "autor": "Mariana Chaves",
+  "data": "2026-09-28T16:51:15+01:00",
+  "cats_feed": [
+   "Saúde",
+   "Nutrição",
+   "Ciência"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Lagarde vê na IA potencial para reduzir pressões inflacionistas a longo prazo",
+  "link": "https://www.rtp.pt/noticias/economia/lagarde-ve-na-ia-potencial-para-reduzir-pressoes-inflacionistas-a-longo-prazo_n1768247",
+  "resumo": "A presidente do Banco Central Europeu (BCE), Christine Lagarde, considerou hoje que a inteligência artificial (IA) \"poderá contribuir\" para reduzir as pressões inflacionistas a longo prazo através do aumento da produtividade e da redução dos custos de produção.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T17:47:48+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Quatro acusados no caso das gémeas. \"Ninguém está acima da Constituição e da Lei\"",
+  "link": "https://www.rtp.pt/noticias/pais/quatro-acusados-no-caso-das-gemeas-ninguem-esta-acima-da-constituicao-e-da-lei_n1768250",
+  "resumo": "Depois de o Ministério Público ter deduzido acusação contra quatro arguidos no chamado \"caso das gémeas\", incluindo o filho do ex-presidente Marcelo Rebelo de Sousa, a defesa de Nuno Rebelo de Sousa está a ponderar abertura de instrução. O anterior chefe de Estado veio, por sua vez, vincar que ninguém está acima lei. A mãe das meninas vincou que não está \"acusada de ter burlado o Estado português\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T17:55:52+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Pinto Luz garante que \"até meados de outubro\" é escolhido o comprador da TAP",
+  "link": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/pinto-luz-garante-que-ate-meados-de-outubro-e-escolhido-o-comprador-da-tap",
+  "resumo": "As propostas melhoradas são entregues até dia 30 de setembro e o Governo tem 15 dias para decidir se opta por ter um parceiro alemão ou franco-neerlandês. Dono de fatia minoritária da TAP escolhido a meio de outubro.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T16:45:16+01:00",
+  "cats_feed": [
+   "Turismo & Lazer"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "BE questiona Governo sobre ciberataque à Universidade de Aveiro",
+  "link": "https://www.noticiasaominuto.com/pais/3058490/be-questiona-governo-sobre-ciberataque-a-universidade-de-aveiro#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T16:45:44+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Governo compromete-se a alargar apoios do gasóleo ao setor industrial",
+  "link": "https://www.noticiasaominuto.com/economia/3058470/governo-compromete-se-a-alargar-apoios-do-gasoleo-ao-setor-industrial#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T16:47:28+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Apetite não é controlado por sistemas isolados. Investigadores descobrem rede cerebral mais complexa",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/apetite-nao-e-controlado-por-sistemas-isolados-investigadores-descobrem-rede-cerebral-mais-complexa",
+  "resumo": "Fome, saciedade, prazer e recompensa estão mais interligados do que se pensava. Uma revisão científica de investigadores da Universidade do Minho mostra que esta ligação pode ajudar a explicar por que razão alguns tratamentos para a obesidade e outras perturbações alimentares têm resultados limitados. O conteúdo Apetite não é controlado por sistemas isolados. Investigadores descobrem rede cerebral mais complexa aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-09-28T15:49:01+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Saúde",
+   "Apetite",
+   "Cérebro",
+   "Isto é útil",
+   "Nacional",
+   "Universidade do Minho"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
  }
 ]

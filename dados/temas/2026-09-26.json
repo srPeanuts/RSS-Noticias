@@ -36,9 +36,9 @@
   "resumo": "A porta-voz do Livre acusou hoje o Governo de \"falta de respeito institucional\" ao avisar que a margem negocial no Orçamento do Estado para 2027 é \"muito limitada\" antes de se reunir com os partidos na próxima semana.",
   "categoria": "politica",
   "palavras": [
-   "respeito",
-   "institucional",
-   "falta",
+   "falta respeito",
+   "respeito institucional",
+   "condicionar partida",
    "orcamental"
   ],
   "fontes": [
@@ -252,9 +252,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "elas nao",
+   "expetativas",
+   "existem",
    "onde elas",
-   "nao existem",
    "oe nao"
   ],
   "fontes": [
@@ -352,9 +352,9 @@
   "categoria": "sociedade",
   "palavras": [
    "alvor",
-   "vigiada",
    "praia",
-   "zona nao"
+   "zona nao",
+   "nao vigiada"
   ],
   "fontes": [
    "RTP"
@@ -376,10 +376,10 @@
   "resumo": "Quatro anos depois, o coração de D. Pedro IV volta a estar exposto ao público na Igreja da Lapa, no Porto.",
   "categoria": "sociedade",
   "palavras": [
-   "exposto publico",
-   "pedro",
-   "iv",
-   "volta exposto"
+   "coracao",
+   "publico",
+   "iv volta",
+   "pedro iv"
   ],
   "fontes": [
    "RTP"
@@ -452,8 +452,8 @@
   "categoria": "economia",
   "palavras": [
    "clientes",
-   "ayamonte",
    "90",
+   "ayamonte",
    "combustiveis"
   ],
   "fontes": [
@@ -476,10 +476,10 @@
   "resumo": "O PCP argumentou hoje hoje que a Capital Europeia da Cultura (CEC) Évora_27 \"corre sérios riscos de não atingir os seus objetivos\", por se verificarem no projeto \"linhas de afunilamento político e governamentalização\",",
   "categoria": "sociedade",
   "palavras": [
-   "politico",
+   "afunilamento politico",
+   "capital",
    "cultura",
-   "afunilamento",
-   "capital"
+   "europeia"
   ],
   "fontes": [
    "RTP"
@@ -501,10 +501,10 @@
   "resumo": "Dois cidadãos guineenses em situação irregular no país foram identificados na sexta-feira numa operação conjunta de fiscalização realizada na zona ribeirinha de Portimão, anunciou hoje a Autoridade Marítima Nacional (AMN).",
   "categoria": "sociedade",
   "palavras": [
-   "situacao",
-   "irregular identificados",
+   "guineenses situacao",
+   "identificados",
    "dois",
-   "guineenses"
+   "situacao irregular"
   ],
   "fontes": [
    "RTP"
@@ -601,10 +601,10 @@
   "resumo": "O secretário-geral do PCP afirmou hoje ter \"expectativa zero\" acerca da proposta de Orçamento do Estado para 2027 do Governo e apelou a uma \"política de ferro e fogo\" contra o aumento do custo de vida.",
   "categoria": "economia",
   "palavras": [
-   "acerca proposta",
-   "ferro",
-   "politica",
-   "fogo"
+   "ferro fogo",
+   "acerca",
+   "proposta",
+   "politica ferro"
   ],
   "fontes": [
    "RTP"
