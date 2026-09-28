@@ -100,10 +100,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "abster-se",
    "condicoes",
-   "acores",
-   "ps"
+   "admite abster-se",
+   "ps acores",
+   "acores admite"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -164,10 +164,10 @@
   "resumo": "O Passe Ferroviário Verde pode começar a ser utilizado nos comboios suburbanos da CP em Lisboa e no Porto a partir deste domingo, anunciou hoje o Governo.",
   "categoria": "politica",
   "palavras": [
-   "passe",
-   "comboios suburbanos",
    "verde",
-   "domingo"
+   "passe",
+   "lisboa porto",
+   "porto partir"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -198,8 +198,8 @@
   "palavras": [
    "residentes",
    "estrangeiros nao",
-   "restricao",
-   "sns estrangeiros"
+   "sns",
+   "restricao"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -259,10 +259,9 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "tribunal suspeitas",
+   "tribunal",
    "escutas cabreiro",
-   "cabreiro tribunal",
-   "suspeitas escutas"
+   "suspeitas"
   ],
   "fontes": [
    "Observador"
@@ -334,8 +333,8 @@
   "resumo": "São cada vez mais os portugueses que recorrem aos postos de combustível em Espanha para abastecer. Em Ayamonte, já representam 90 a 95% dos clientes.",
   "categoria": "economia",
   "palavras": [
-   "ayamonte",
    "90",
+   "ayamonte",
    "clientes",
    "combustiveis"
   ],
@@ -384,10 +383,10 @@
   "resumo": "Um homem de nacionalidade irlandesa, de 64 anos, morreu hoje após alegadamente ter entrado em dificuldades na água, numa zona não vigiada na praia da Prainha, em Alvor, concelho de Portimão, anunciou a Autoridade Marítima Nacional (AMN).",
   "categoria": "sociedade",
   "palavras": [
-   "vigiada",
    "alvor",
-   "zona nao",
-   "praia"
+   "nao vigiada",
+   "praia",
+   "zona nao"
   ],
   "fontes": [
    "RTP"
