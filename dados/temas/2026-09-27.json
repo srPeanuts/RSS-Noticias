@@ -4,10 +4,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "aeroporto",
-   "emergencia",
+   "emergencia aeroporto",
    "aviao",
-   "sa carneiro"
+   "carneiro porto",
+   "sa"
   ],
   "fontes": [
    "Expresso",
@@ -43,10 +43,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "20",
-   "pcp",
+   "euros",
+   "lisboa porto",
    "intermunicipais",
-   "comunidades"
+   "pcp"
   ],
   "fontes": [
    "Diário de Notícias",
@@ -117,7 +117,7 @@
    "sete",
    "pessoas detidas",
    "lisboa",
-   "encerrada"
+   "psp"
   ],
   "fontes": [
    "RTP",
@@ -146,9 +146,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "acusa governo",
-   "carneiro acusa",
+   "acusa",
    "governo querer",
+   "carneiro",
    "desalojamento margem"
   ],
   "fontes": [
@@ -209,10 +209,10 @@
   "resumo": "Foram registados mais de 2.600 casos de maus tratos e abandono de animais desde janeiro de 2024.",
   "categoria": "sociedade",
   "palavras": [
-   "2024",
-   "animais",
+   "600",
    "casos",
-   "600"
+   "animais",
+   "2024"
   ],
   "fontes": [
    "RTP"
@@ -240,10 +240,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "policia",
    "passeavam",
    "maritima",
-   "tranquilamente cruzarem"
+   "caminho policia",
+   "cruzarem caminho"
   ],
   "fontes": [
    "Notícias de Coimbra"
@@ -265,10 +265,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "ganhas ad",
    "absoluta",
-   "maioria",
-   "2029 serao"
+   "tenho pequena",
+   "duvida",
+   "nao tenho"
   ],
   "fontes": [
    "Observador"
@@ -315,9 +315,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "discurso extremista",
+   "chega dividido",
    "absorver",
-   "extremista assusta",
+   "extremista",
    "reconquista discurso"
   ],
   "fontes": [
@@ -390,9 +390,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "funcionarios",
+   "funcionarios publicos",
    "macau reformar-se",
-   "quase 15"
+   "quase 15",
+   "reformar-se 2029"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -414,10 +415,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "verde",
-   "simples",
    "montenegro caminho",
-   "caminho porto"
+   "luis montenegro",
+   "passe verde",
+   "medida simples"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -464,10 +465,10 @@
   "resumo": "O último barco picareto construído pelo mestre calafate Manuel Pires Fontes, de Ortiga, no concelho de Mação, vai integrar o acervo do Museu de Marinha, culminando um processo de preservação desta embarcação tradicional iniciado há quase duas décadas.",
   "categoria": "sociedade",
   "palavras": [
-   "picareto construido",
-   "ultimo",
-   "museu",
-   "marinha"
+   "ortiga",
+   "picareto",
+   "construido",
+   "mestre"
   ],
   "fontes": [
    "RTP"
@@ -589,10 +590,10 @@
   "resumo": "“Tender Loving Care”, de Mike Leigh, foi o grande vencedor do Festival de San Sebastián. Cinema ético sem compromissos que volta a consagrar o veterano de 83 anos. Uma edição marcada pelo humor neurótico de Jesse Eisenberg, em “A Grande Estreia”, ignorado no palmarés",
   "categoria": "sociedade",
   "palavras": [
-   "san",
-   "leigh",
    "sebastian",
-   "mike"
+   "san",
+   "mike leigh",
+   "ternura ferida"
   ],
   "fontes": [
    "Expresso"
@@ -615,9 +616,9 @@
   "categoria": "economia",
   "palavras": [
    "tesouro",
-   "teerao",
    "isolar",
-   "eua"
+   "eua",
+   "teerao"
   ],
   "fontes": [
    "RTP"
@@ -664,9 +665,9 @@
   "resumo": "O programa de análise semanal conduzido por António José Teixeira é agora emitido aos sábados às 23h00. No início da nova temporada, a crise dos combustíveis esteve em grande destaque, com a análise de António Costa Silva, doutor em Engenharia de Reservatórios Petrolíferos e antigo ministro da Economia.",
   "categoria": "economia",
   "palavras": [
-   "crise combustiveis",
-   "custo",
-   "combustiveis aumenta",
+   "crise",
+   "vida",
+   "analise",
    "insatisfacao"
   ],
   "fontes": [
@@ -691,8 +692,8 @@
   "palavras": [
    "paliativos",
    "cuidados",
-   "braga equipa",
-   "doentes"
+   "apoia",
+   "equipa"
   ],
   "fontes": [
    "RTP"
@@ -739,10 +740,10 @@
   "resumo": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
   "categoria": "politica",
   "palavras": [
-   "marques carvalho",
-   "91",
-   "trabalho eusebio",
-   "eusebio marques"
+   "carvalho",
+   "ministro trabalho",
+   "eusebio marques",
+   "trabalho eusebio"
   ],
   "fontes": [
    "RTP"
@@ -767,7 +768,7 @@
    "casas",
    "residentes",
    "compradas",
-   "compraram menos"
+   "foram-no familias"
   ],
   "fontes": [
    "RTP"
@@ -789,10 +790,10 @@
   "resumo": "O Parlamento vai discutir e votar na generalidade esta semana as alterações à lei do arrendamento propostas pelo Governo. Há novas regras para as rendas antigas e maior flexibilidade nos contratos.",
   "categoria": "economia",
   "palavras": [
-   "votar",
    "alteracoes",
-   "parlamento",
-   "arrendamento"
+   "arrendamento",
+   "votar",
+   "parlamento"
   ],
   "fontes": [
    "RTP"
@@ -839,9 +840,10 @@
   "resumo": "A Herdade da Granja, em Idanha-a-Nova, abriu as portas. A entrada foi gratuita.",
   "categoria": "sociedade",
   "palavras": [
-   "boom",
+   "boom promoveu",
    "aberto comunidade",
-   "promoveu"
+   "promoveu aberto",
+   "festival boom"
   ],
   "fontes": [
    "RTP"
@@ -890,8 +892,8 @@
   "palavras": [
    "gasolina",
    "preco",
-   "querem",
-   "deixem"
+   "querem baixar",
+   "consumir"
   ],
   "fontes": [
    "Expresso"
