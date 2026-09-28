@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-28T20:36+01:00",
+ "atualizado": "2026-09-28T22:49+01:00",
  "hoje": "2026-09-28",
  "dias": [
   "2026-09-26",
@@ -7,21 +7,19 @@
   "2026-09-28"
  ],
  "fontes": {
-  "https://observador.pt/feed/": 51,
   "https://feeds.feedburner.com/PublicoRSS": 10,
   "https://feeds.feedburner.com/expresso-geral": 50,
   "https://www.rtp.pt/noticias/rss/politica": 50,
   "https://www.rtp.pt/noticias/rss/economia": 50,
   "https://www.rtp.pt/noticias/rss/pais": 50,
   "https://www.rtp.pt/noticias/rss/cultura": 50,
-  "https://eco.sapo.pt/feed/": 22,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
   "http://feeds.dn.pt/DN-Ultimas": 20,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50,
-  "https://24noticias.sapo.pt/feed": "erro HTTP 403",
+  "https://24noticias.sapo.pt/feed": 25,
   "http://feeds.jn.pt/JN-Ultimas": 20,
   "http://feeds.tsf.pt/TSF-Ultimas": 20
  },
@@ -29,13 +27,11 @@
  "nomes_fontes": [
   "CNN Portugal",
   "Diário de Notícias",
-  "ECO",
   "Expresso",
   "Jornal Económico",
   "Jornal de Negócios",
   "Jornal de Notícias",
   "Notícias ao Minuto",
-  "Observador",
   "Público",
   "RTP",
   "SAPO 24",

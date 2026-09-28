@@ -4851,11 +4851,11 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Encontrado corpo de um dos trabalhadores soterrados em obra de hotel em Porto Covo",
-  "link": "https://expresso.pt/sociedade/2026-09-28-encontrado-corpo-de-um-dos-trabalhadores-soterrados-em-obra-de-hotel-em-porto-covo-bff47ca7",
-  "resumo": "As operações de resgate continuam para encontrar o segundo trabalhador soterrado",
+  "titulo": "Deslizamento de terras provoca pelo menos um morto em Porto Covo",
+  "link": "https://expresso.pt/sociedade/2026-09-28-deslizamento-de-terras-provoca-pelo-menos-um-morto-em-porto-covo-bff47ca7",
+  "resumo": "As operações de resgate continuam para encontrar o segundo trabalhador soterrado. Ambas as vítimas têm nacionalidade estrangeira",
   "fonte": "Expresso",
-  "autor": "Agência Lusa",
+  "autor": "Expresso",
   "data": "2026-09-28T18:14:11+01:00",
   "cats_feed": [
    "Sociedade"
@@ -5769,6 +5769,648 @@
   "autor": "",
   "data": "2026-09-28T18:52:00+01:00",
   "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Um “percurso acidentado” e aplicação feita “à pressa”: as queixas dos camionistas proibidos de entrar na VCI",
+  "link": "https://www.publico.pt/2026/09/28/local/reportagem/percurso-acidentado-aplicacao-pressa-queixas-camionistas-proibidos-entrar-vci-2189613",
+  "resumo": "Falta de motoristas, descontentamento com o desvio e maiores consumos de combustível são aspectos negativos apontados após proibição de pesados na VCI. Transportadoras insatisfeitas com aplicação.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T19:48:15+00:00",
+  "cats_feed": [
+   "Porto"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Anda cá",
+  "link": "https://www.publico.pt/2026/09/28/p3/cronica/anda-ca-2189575",
+  "resumo": "Olha para aqui, sou tua amiga, serei tua amante, não se pode falhar tantas vezes um amor tão perfeitinho, não se devia poder adiar esse encontro de labaredas. Crónica de Cláudia Lucas Chéu",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T19:42:34+00:00",
+  "cats_feed": [
+   "Megafone"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "“O pai pode ajudar?” MP confirma papel de Nuno Rebelo de Sousa no caso das gémeas",
+  "link": "https://www.publico.pt/2026/09/28/politica/noticia/pai-ajudar-mp-confirma-papel-nuno-rebelo-sousa-caso-gemeas-2189544",
+  "resumo": "Ministério Público acusa Nuno Rebelo de Sousa e conclui que se aproveitou do facto de ser filho do então Presidente da República.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T19:34:43+00:00",
+  "cats_feed": [
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "OE2027: Apoio às artes vai ter reforço de 10 milhões de euros",
+  "link": "https://www.publico.pt/2026/09/28/culturaipsilon/noticia/oe2027-apoio-artes-vai-reforco-10-milhoes-euros-2189615",
+  "resumo": "Numa sessão que reuniu agentes culturais e mecenas no CCB, a ministra da Cultura, Margarida Balseiro Lopes, anunciou ainda actualização anual em função da inflação dos apoios quadrienais da DGArtes.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T18:58:32+00:00",
+  "cats_feed": [
+   "Mecenato"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "A maior aula de meditação do mundo? Aconteceu em Lisboa e entrou para o Guinness",
+  "link": "https://www.publico.pt/2026/09/28/impar/noticia/maior-aula-meditacao-mundo-aconteceu-lisboa-entrou-guinness-2189614",
+  "resumo": "A 26 de Setembro fez-se história no Wanderlust, festival de bem-estar que decorreu no Jardim da Torre de Belém. Há nova dose a 10 de Outubro, na Madeira.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T18:43:55+00:00",
+  "cats_feed": [
+   "Bem-estar"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "“Não basta crescer”. Seguro pede turismo “compatível com a qualidade de vida dos portugueses”",
+  "link": "https://www.publico.pt/2026/09/28/politica/noticia/nao-basta-crescer-seguro-pede-turismo-compativel-qualidade-vida-portugueses-2189595",
+  "resumo": "Chefe de Estado pediu “nova ambição” para o turismo, que passe por decidir sobre o aeroporto de Lisboa e a TAP, alargar a actividade turística ao interior ou aumentar salários no sector.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T18:38:34+00:00",
+  "cats_feed": [
+   "Presidente da República"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "\"Os acidentes rodoviários são uma pandemia silenciosa: sabemos que existe, sabemos como prevenir, mas continuamos a não fazer o suficiente\"",
+  "link": "https://expresso.pt/sociedade/2026-09-28-os-acidentes-rodoviarios-sao-uma-pandemia-silenciosa-sabemos-que-existe-sabemos-como-prevenir-mas-continuamos-a-nao-fazer-o-suficiente-aa8cec34",
+  "resumo": "A meta lançada pela ONU para reduzir para metade as mortes e os feridos graves nas estradas até 2030 foi assumida por dezenas de países, incluindo Portugal, mas está longe de ser cumprida, reconhece Jean Todt, enviado especial da ONU para a Segurança Rodoviária . Defende mais fiscalização, cuidados pós-acidente eficazes e mais regras para bicicletas e trotinetes elétricas",
+  "fonte": "Expresso",
+  "autor": "Helena Bento",
+  "data": "2026-09-28T22:38:17+01:00",
+  "cats_feed": [
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "CAP exige ao Governo \"pacote urgente\" de 140 milhões de euros de apoios aos agricultores",
+  "link": "https://expresso.pt/economia/2026-09-28-cap-exige-ao-governo-pacote-urgente-de-140-milhoes-de-euros-de-apoios-aos-agricultores-6b063b82",
+  "resumo": "\"É o mínimo indispensável para mitigar o brutal fosso de competitividade que existe atualmente\" face a Espanha, diz Conselho de Presidentes da CAP a justificar o pedido de medidas de apoio. Confederação avança para São Bento",
+  "fonte": "Expresso",
+  "autor": "Margarida Cardoso",
+  "data": "2026-09-28T21:22:38+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "\"Estejam preparados, façam formação (em IA) para não perderem oportunidades\", aconselha o governador do Banco de Portugal",
+  "link": "https://expresso.pt/economia/2026-09-28-estejam-preparados-facam-formacao--em-ia--para-nao-perderem-oportunidades-aconselha-o-governador-do-banco-de-portugal-8888a9a6",
+  "resumo": "O governador do Banco de Portugal considera a evolução do turismo em Portugal excelente, mas alerta para os desafios da IA e os constrangimentos da incerteza geopolítica e da necessidade de reforçar infraestruturas",
+  "fonte": "Expresso",
+  "autor": "Isabel Vicente",
+  "data": "2026-09-28T21:10:51+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Porque é que a Nvidia vai fazer a maior recompra de ações da história?",
+  "link": "https://expresso.pt/economia/mercados-financeiros/2026-09-28-porque-e-que-a-nvidia-vai-fazer-a-maior-recompra-de-acoes-da-historia--db36bcd9",
+  "resumo": "A fabricante de chips Nvidia aprovou o maior reforço de sempre ao seu programa de recompra de ações, ultrapassando um programa similar da Apple. Saiba como funciona este tipo de operação no mercado de capitais",
+  "fonte": "Expresso",
+  "autor": "Gonçalo Almeida",
+  "data": "2026-09-28T20:00:08+01:00",
+  "cats_feed": [
+   "Mercados Financeiros"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Alex Perry: “Não quero que morram crianças africanas para eu poder aquecer a minha casa”",
+  "link": "https://expresso.pt/palop/mocambique/2026-09-28-a-totalenergies-diz-em-publico-que-salvou-2500-pessoas-mas-nos-documentos-admite-que-25-mil-ficaram-a-porta-alex-perry-em-entrevista-ea835b08",
+  "resumo": "A petrolífera francesa afirma que retirou mais de 2500 pessoas do complexo de gás de Afungi, no nordeste de Moçambique, durante um ataque jiadista em 2021. O jornalista britânico, autor do livro “Vai Jorrar Sangue”, garante que documentos internos da empresa contam 25 mil pessoas deixadas do lado de fora dos portões e que centenas delas foram mortas pelo Al-Shabab. A empresa não contestou o número quando contactada pelo Expresso e, num documento de 2024, escreve que “mais de 25 mil pessoas” se refugiaram na península de Afungi",
+  "fonte": "Expresso",
+  "autor": "Hélder Gomes",
+  "data": "2026-09-28T20:00:00+01:00",
+  "cats_feed": [
+   "Moçambique"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "O que se sabe do Orçamento? Chega salienta \"falta de medidas\", PS valoriza verbas para cobrir fim do PRR",
+  "link": "https://expresso.pt/partidos-politicos/2026-09-28-o-que-se-sabe-do-orcamento--chega-salienta-falta-de-medidas-ps-valoriza-verbas-para-cobrir-fim-do-prr-cbc12fe2",
+  "resumo": "Governo reuniu-se com os dois maiores partidos da oposição para apresentar dados genéricos do Orçamento do Estado para 2027. Previsão inclui excedente de 0,2%, crescimento de 2% e inflação ao nível do corrente ano",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T19:52:59+01:00",
+  "cats_feed": [
+   "Partidos Políticos"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Lacerda Sales rejeita acusação no caso das gémeas e diz ter recebido despacho “com enorme surpresa”",
+  "link": "https://expresso.pt/justica/2026-09-28-lacerda-sales-rejeita-acusacao-no-caso-das-gemeas-e-diz-ter-recebido-despacho-com-enorme-surpresa-19dd1a4e",
+  "resumo": "O antigo governante garante que atuou sempre dentro da lei e promete contestar as conclusões da investigação",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:54:38+01:00",
+  "cats_feed": [
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Entrevista a André Ventura. \"Justiça deu razão ao Chega\" no caso das Gémeas",
+  "link": "https://www.rtp.pt/noticias/politica/entrevista-a-andre-ventura-justica-deu-razao-ao-chega-no-caso-das-gemeas_n1768303",
+  "resumo": "Em entrevista à RTP Notícias no dia em que se conheceu a acusação no chamado \"caso das Gémeas\", o presidente do Chega salientou o papel do partido para levar o assunto ao Parlamento e denunciou a \"teia de interesses, cunhas e abusos\" que permitiram um \"tratamento preferencial\" das duas meninas luso-brasileiras.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T22:30:38+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Guerra híbrida. UE discute mecanismo de resposta",
+  "link": "https://www.rtp.pt/noticias/politica/guerra-hibrida-ue-discute-mecanismo-de-resposta_v1768302",
+  "resumo": "A União Europeia começou a discutir um novo mecanismo de resposta às ameaças híbridas.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T22:00:47+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE2027. Governo prevê crescimento a rondar os 2%",
+  "link": "https://www.rtp.pt/noticias/politica/oe2027-governo-preve-crescimento-a-rondar-os-2_v1768299",
+  "resumo": "O Governo começou a apresentar aos partidos as linhas gerais da proposta de Orçamento de Estado para o próximo ano.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T21:50:47+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Caso das Gémeas. CPI já apontava suspeitas sobre os arguidos",
+  "link": "https://www.rtp.pt/noticias/politica/caso-das-gemeas-cpi-ja-apontava-suspeitas-sobre-os-arguidos_v1768297",
+  "resumo": "O caso das gémeas foi denunciado em 2023 e objeto de uma comissão de inquérito.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T21:44:47+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Cerca de 200 polícias manifestam-se na véspera de reunião com MAI",
+  "link": "https://www.rtp.pt/noticias/pais/cerca-de-200-policias-manifestam-se-na-vespera-de-reuniao-com-mai_n1768294",
+  "resumo": "Cerca de 200 polícias e guardas manifestaram-se hoje, em silêncio, no Porto, na véspera de novas reuniões com o ministro da Administração Interna sobre a reestruturação das carreiras e a organização do tempo de trabalho.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T22:58:31+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Quatro em cada dez interrupções da gravidez feitas por mulheres estrangeiras",
+  "link": "https://www.rtp.pt/noticias/pais/quatro-em-cada-dez-interrupcoes-da-gravidez-feitas-por-mulheres-estrangeiras_n1768291",
+  "resumo": "Mais de quatro em cada dez interrupções da gravidez em 2025 foram realizadas por mulheres estrangeiras, revelou hoje a Direção-Geral da Saúde (DGS), que pede respostas adequadas à diversidade linguística, social e cultural nessa área.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T22:58:13+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Surto de gripe A em lar de Estremoz já provocou cinco mortos",
+  "link": "https://www.rtp.pt/noticias/pais/surto-de-gripe-a-em-lar-de-estremoz-ja-provocou-cinco-mortos_v1768298",
+  "resumo": "A unidade Local de saúde disse que está a acompanhar a situação e que não ocorreu agravamento clínico dos utentes que estão no lar.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T21:47:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "\"Criar valor acrescentado\". Turismo deve apostar no interior e em experiências",
+  "link": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/criar-valor-acrescentado-turismo-deve-apostar-no-interior-e-em-experiencias",
+  "resumo": "O setor do turismo voltou a discutir o futuro. Com o crescimento a abrandar, os \"players\" querem agora novas apostas para manter o ritmo, que podem passar por novos destinos, nomeadamente no interior, e novas experiências de maior valor. Num país com um aeroporto esgotado, o setor defende a necessidade de aumentar as dormidas em todo o país.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T22:18:50+01:00",
+  "cats_feed": [
+   "Turismo & Lazer"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "CAP exige pacote de 140 milhões em medidas para recuperar competitividade do setor",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/cap-exige-pacote-de-140-milhoes-em-medidas-para-recuperar-competitividade-do-setor",
+  "resumo": "A decisão foi tomada por unanimidade na reunião extraordinária do Conselho de Presidentes da Confederação dos Agricultores de Portugal (CAP), que decorreu esta segunda-feira, em Lisboa.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T22:13:57+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Isto não é um líder",
+  "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/isto-nao-e-um-lider",
+  "resumo": "Carneiro foi repescar o tema porque se entusiasmou (novamente) com os ventos que vêm de Espanha, mesmo sabendo que as soluções de Sánchez vão piorar a oferta de habitação...",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T21:30:00+01:00",
+  "cats_feed": [
+   "Camilo Lourenço"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Chega fala em excedente de 0,2%. PS aponta falta de apoios a famílias",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/chega-fala-em-excedente-de-0-2-ps-aponta-falta-de-apoios-a-familias",
+  "resumo": "O Governo iniciou as reuniões com os partidos com assento parlamentar sobre a proposta de Orçamento do Estado para 2027. À saída do encontro, o Chega revelou que o Executivo aponta a um excedente no próximo ano. Do lado do PS, o foco foi na ausência de um mecanismo de apoio às famílias.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T21:27:00+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Wall Street desce com petróleo e juros da dívida em alta. Meta recua quase 5%",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-desce-com-petroleo-e-juros-da-divida-em-alta-meta-recua-quase-5",
+  "resumo": "As principais praças norte-americanas chegaram ao fim da sessão de segunda-feira com recuos. Os preços do petróleo oscilaram durante o dia, depois de o Irão ter afastado novas negociações com os Estados Unidos, embora os contactos indiretos continuem entre as partes em conflito.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T21:22:09+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Vendas da Shein na Europa caem ainda antes da taxa da UE",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/vendas-da-shein-na-europa-caem-ainda-antes-da-taxa-da-ue",
+  "resumo": "Gigante do retalho online chinesa fechou o segundo trimestre com vendas globais de 9.727 milhões de euros, tendo a margem de lucro líquida caído para 2,1% devido à escalada nos preços do transporte devido ao conflito no Médio Oriente.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T20:37:15+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Hospital da Luz e Granter criam agente de IA para gestão de fundos europeus na saúde",
+  "link": "https://jornaleconomico.sapo.pt/noticias/hospital-da-luz-e-granter-criam-agente-de-ia-para-gestao-de-fundos-europeus-na-saude/",
+  "resumo": "O projeto-piloto decorreu no âmbito da Intelligent Health Platform (IHP), uma 'test bed' criada ao abrigo do Plano de Recuperação e Resiliência (PRR).",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T21:19:06+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Saúde",
+   "StartUP",
+   "O Hospital da Luz Learning Health e Granter"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Estudo da NOS revela que a Guarda liderou o crescimento populacional no Verão e Lisboa perdeu 9% dos utilizadores",
+  "link": "https://jornaleconomico.sapo.pt/noticias/estudo-da-nos-revela-que-a-guarda-liderou-o-crescimento-populacional-no-verao-e-lisboa-perdeu-9-dos-utilizadores/",
+  "resumo": "Esta variação no distrito da capital esteve diretamente associada às saídas para férias, com cerca de 40% das deslocações a terem como destino o Algarve e cerca de um terço a repartirem-se pela Península de Setúbal e Costa Alentejana.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T21:13:22+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Tribunal obriga CGD a reintegrar trabalhadora despedida por justa causa",
+  "link": "https://jornaleconomico.sapo.pt/noticias/tribunal-obriga-cgd-a-reintegrar-trabalhadora-despedida-por-justa-causa/",
+  "resumo": "Segundo a mesma fonte, era ainda pedida indemnização por danos não patrimoniais sofridos na sequência do despedimento \"em montante não inferior a 10.000 euros\", tendo a Caixa sido absolvida desse pedido.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T21:08:16+00:00",
+  "cats_feed": [
+   "Banca",
+   "Empresas",
+   "Sapo Economia",
+   "CGD",
+   "STEC"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "ISCTE Executive Education e Banco Montepio lançam programa avançado de liderança",
+  "link": "https://jornaleconomico.sapo.pt/noticias/iscte-executive-education-e-banco-montepio-lancam-programa-avancado-de-lideranca/",
+  "resumo": "Ao longo de sete módulos, a formação aborda dimensões como decisão, criação de valor, controlo, negociação e foresight, preparando os participantes para equilibrar resultados de curto prazo com a sustentabilidade e a viabilidade das organizações.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T21:05:18+00:00",
+  "cats_feed": [
+   "Banca",
+   "Empresas",
+   "Sapo Economia",
+   "Universidades e Emprego",
+   "ISCTE",
+   "montepio"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "MC e Universidade Aberta entregam 45 canudos",
+  "link": "https://jornaleconomico.sapo.pt/noticias/mc-e-universidade-aberta-entregam-os-primeiros-45-canudos/",
+  "resumo": "Com a duração de três anos e com um total de 180 ECTS, a licenciatura em Gestão de Vendas e Retalho, ministrada ao abrigo da parceria entre a empresa do grupo Sonae MC e a Universidade Aberta, dá os primeiros 45 licenciados à empresa.",
+  "fonte": "Jornal Económico",
+  "autor": "Almerinda Romeira",
+  "data": "2026-09-28T21:02:28+00:00",
+  "cats_feed": [
+   "Distribuição",
+   "Empresas",
+   "Sapo Economia",
+   "Universidades e Emprego"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Joana Branco é a nova diretora da fábrica da Tabaqueira em Sintra",
+  "link": "https://jornaleconomico.sapo.pt/noticias/joana-branco-e-a-nova-diretora-da-fabrica-da-tabaqueira-em-sintra/",
+  "resumo": "É a primeira mulher a liderar a unidade industrial de Albarraque, sucedendo a João Brigão. À frente da fábrica de Albarraque, terá como prioridades reforçar o papel da Tabaqueira como referência industrial em Portugal e na rede global da Philip Morris International, com aposta na exportação, na inovação e no desenvolvimento de pessoas.",
+  "fonte": "Jornal Económico",
+  "autor": "Redação",
+  "data": "2026-09-28T21:00:53+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Pessoas",
+   "Sapo Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Concorrência dá “luz verde” à compra da Caravela pela Allianz",
+  "link": "https://jornaleconomico.sapo.pt/noticias/concorrencia-da-luz-verde-a-compra-da-caravela-pela-allianz/",
+  "resumo": "Em comunicado, a AdC regista que o seu Conselho de Administração decidiu, numa reunião em 25 de setembro, adotar “uma decisão de não oposição à operação de concentração”, por considerar “que a mesma não é suscetível de criar entraves significativos à concorrência efetiva no mercado nacional ou numa parte substancial deste”.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T20:57:16+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Seguros",
+   "allianz"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "OE2027: Chega vai insistir com Governo para baixar o IVA dos combustíveis",
+  "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-chega-vai-insistir-com-governo-para-baixar-o-iva-dos-combustiveis/",
+  "resumo": "Segundo André Ventura, na reunião, desta segunda-feira, \"o Chega voltou a insistir numa coisa que é da mais elementar justiça que é descer os impostos sobre os combustíveis\". \"O Governo diz que não quer descer os impostos dos combustíveis. Nós vamos continuar nesta luta\", garantiu.",
+  "fonte": "Jornal Económico",
+  "autor": "Bianca Marques",
+  "data": "2026-09-28T20:53:06+00:00",
+  "cats_feed": [
+   "OE 2027",
+   "Política",
+   "Sapo Atualidade"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Wall Street fecha em baixa com yields em alta e tensões no Estreito de Ormuz",
+  "link": "https://jornaleconomico.sapo.pt/noticias/wall-street-fecha-em-baixa-com-yields-em-alta-e-tensoes-no-estreito-de-ormuz/",
+  "resumo": "A rejeição pelo Presidente Donald Trump de uma proposta iraniana para reabrir o Estreito de Ormuz e avançar para um cessar-fogo alimentou a procura por ativos de risco e elevou os prémios de risco geopolítico.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T20:37:49+00:00",
+  "cats_feed": [
+   "Mercados",
+   "Sapo Economia",
+   "trump"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Caso gémeas: Brilhante Dias convicto de que Lacerda Sales está inocente",
+  "link": "https://www.noticiasaominuto.com/pais/3058615/caso-gemeas-brilhante-dias-convicto-de-que-ex-secretario-de-estado-lacerda-sales-esta-inocente#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T20:39:27+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Português de 29 anos morre em acidente de trabalho na Suíça",
+  "link": "https://cnnportugal.iol.pt/acidente/acidente-de-trabalho/portugues-de-29-anos-morre-em-acidente-de-trabalho-na-suica/20260928/6abad522d34e9a786e75a031",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T21:49:38.366952+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "\"Estamos a trabalhar com um sistema que já devia ter sido mudado há muito tempo\". Será a lei eleitoral um \"bloqueio à governação\"?",
+  "link": "https://cnnportugal.iol.pt/lei-eleitoral/sistema-de-governo/estamos-a-trabalhar-com-um-sistema-que-ja-devia-ter-sido-mudado-ha-muito-tempo-sera-a-lei-eleitoral-um-bloqueio-a-governacao/20260928/6abab06fd34e53c759c7425b",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T21:49:38.367228+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "\"É com Marcelo Rebelo de Sousa que tudo começa. Acho bizarro que o Ministério Público não o tenha arrolado\"",
+  "link": "https://cnnportugal.iol.pt/videos/e-com-marcelo-rebelo-de-sousa-que-tudo-comeca-acho-bizarro-que-o-ministerio-publico-nao-o-tenha-arrolado/6abab0a00cf22b9f8904ced4",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T21:49:38.367379+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "\"Ministério Público valorizou um relatório de um organismo da administração pública (IGAS)\"",
+  "link": "https://cnnportugal.iol.pt/videos/ministerio-publico-valorizou-um-relatorio-de-um-organismo-da-administracao-publica-igas/6abab08b0cf22b9f8904ced3",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T21:49:38.367400+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Presidente da República pede estratégia a prazo para “nova etapa” no turismo",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/presidente-da-republica-pede-estrategia-a-prazo-para-nova-etapa-no-turismo",
+  "resumo": "O Presidente da República, António José Seguro, apelou esta segunda-feira a que se prepare uma estratégia de médio e longo prazo para uma \"nova etapa\" no turismo em Portugal, com crescimento equilibrado e sustentável, coesão territorial e melhores salários. O conteúdo Presidente da República pede estratégia a prazo para “nova etapa” no turismo aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-28T21:36:18+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "António José Seguro",
+   "Presidente da República",
+   "Turismo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Professores de português no estrangeiro têm aumentos de 20% até 2029",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/professores-de-portugues-no-estrangeiro-tem-aumentos-de-20-ate-2029",
+  "resumo": "O Governo e os sindicatos representativos dos professores e leitores de português no estrangeiro chegaram a acordo sobre o novo Regime do Ensino de Português no Estrangeiro (RJEPE), que implica investimento adicional de 8,6 milhões de euros e abrange professores e leitores em todo o mundo. O conteúdo Professores de português no estrangeiro têm aumentos de 20% até 2029 aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-28T20:20:07+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Educação",
+   "Ensino",
+   "Ministro dos Negócios Estrangeiros",
+   "Paulo Rangel",
+   "Português",
+   "Português no estrangeiro"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Associação Sindical de Profissionais da Polícia acusa MAI de “não fazer nada”",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/associacao-sindical-de-profissionais-da-policia-acusa-mai-de-nao-fazer-nada",
+  "resumo": "O presidente da Associação Sindical de Profissionais da Polícia critica o Ministro da Administração Interna, Luís Neves, afirmando que este \"não fez nada\" pela Polícia de Segurança Pública (PSP). O conteúdo Associação Sindical de Profissionais da Polícia acusa MAI de “não fazer nada” aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-28T19:36:30+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Associação Sindical de Profissionais da Polícia",
+   "Luís Neves",
+   "Ministro da Administração Interna",
+   "PSP"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Hospital Pedro Hispano realiza primeira cirurgia robótica com bypass gástrico",
+  "link": "https://24noticias.sapo.pt/saude/artigos/hospital-pedro-hispano-realiza-primeira-cirurgia-robotica-com-bypass-gastrico",
+  "resumo": "O Hospital Pedro Hispano realizou esta segunda-feira a primeira cirurgia assistida por robô da Unidade Local de Saúde de Matosinhos. A intervenção, um bypass gástrico, marcou o início da utilização clínica do sistema HugoTM, da Medtronic, na ULSM. O conteúdo Hospital Pedro Hispano realiza primeira cirurgia robótica com bypass gástrico aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-09-28T18:15:29+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Saúde",
+   "Hospital Pedro Hispano",
+   "Nacional",
+   "Operação"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Um morto e um trabalhador ainda soterrado após acidente em obra de hotel em Porto Covo",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/um-morto-e-um-trabalhador-ainda-soterrado-apos-acidente-em-obra-de-hotel-em-porto-covo",
+  "resumo": "Dois trabalhadores ficaram soterrados esta segunda-feira numa obra de construção de um hotel em Porto Covo, no concelho de Sines. O corpo de um deles foi encontrado ao final da tarde. As operações de resgate do segundo trabalhador continuam. O conteúdo Um morto e um trabalhador ainda soterrado após acidente em obra de hotel em Porto Covo aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-09-28T17:59:49+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Acidente",
+   "Hotel",
+   "Nacional",
+   "Porto Covo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Mais de quatro mil pessoas viram o coração de D. Pedro IV no Porto",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/mais-de-quatro-mil-pessoas-viram-o-coracao-de-d-pedro-iv-no-porto",
+  "resumo": "Cerca de 4.400 pessoas visitaram, durante três dias, a exposição do coração de D. Pedro IV, que esteve patente no Salão Nobre da Igreja da Lapa, no Porto. A iniciativa conjunta da Câmara do Porto e da Irmandade da Lapa permitiu voltar a mostrar ao público o maior legado do monarca português. O conteúdo Mais de quatro mil pessoas viram o coração de D. Pedro IV no Porto aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-09-28T17:36:08+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Câmara Municipal do Porto",
+   "D. Pedro IV",
+   "Fora de Casa",
+   "Monarquia",
+   "Porto"
+  ],
   "categoria_forcada": "",
   "categoria": "sociedade"
  }
