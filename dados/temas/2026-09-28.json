@@ -4,10 +4,10 @@
   "resumo": "O Presidente da República apelou hoje a que se prepare uma estratégia de médio e longo prazo para uma \"nova etapa\" no turismo em Portugal, com crescimento equilibrado e sustentável, coesão territorial e melhores salários.",
   "categoria": "economia",
   "palavras": [
-   "etapa",
+   "etapa turismo",
    "estrategia",
-   "coesao",
-   "melhores salarios"
+   "prazo etapa",
+   "coesao"
   ],
   "fontes": [
    "CNN Portugal",
@@ -51,8 +51,8 @@
   "categoria": "economia",
   "palavras": [
    "cap",
-   "pacote",
    "140",
+   "pacote",
    "exige"
   ],
   "fontes": [
@@ -152,10 +152,10 @@
   "resumo": "Dois trabalhadores ficaram soterrados esta segunda-feira numa obra de construção de um hotel em Porto Covo, no concelho de Sines. O corpo de um deles foi encontrado ao final da tarde. As operações de resgate do segundo trabalhador continuam. O conteúdo Um morto e um trabalhador ainda soterrado após acidente em obra de hotel em Porto Covo aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "porto covo",
+   "covo",
+   "porto",
    "obra",
-   "hotel",
-   "morto"
+   "hotel"
   ],
   "fontes": [
    "Expresso",
@@ -192,8 +192,9 @@
   "categoria": "sociedade",
   "palavras": [
    "estrangeiro",
-   "sindicatos",
-   "regime ensino"
+   "governo sindicatos",
+   "regime ensino",
+   "sindicatos acordam"
   ],
   "fontes": [
    "Público",
@@ -230,9 +231,8 @@
   "categoria": "sociedade",
   "palavras": [
    "mp acusa",
-   "ex-secretario",
    "filho marcelo",
-   "estado"
+   "ex-secretario estado"
   ],
   "fontes": [
    "Expresso",
@@ -440,10 +440,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "reduzir pressoes",
-   "inflacionistas longo",
+   "inflacionistas",
    "lagarde",
-   "pressoes inflacionistas"
+   "pressoes",
+   "ia potencial"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -472,10 +472,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "lacerda sales",
-   "caso",
-   "gemeas",
-   "convicto"
+   "lacerda",
+   "sales",
+   "caso gemeas",
+   "inocente"
   ],
   "fontes": [
    "Expresso",
@@ -538,7 +538,7 @@
   "palavras": [
    "policia",
    "sindical profissionais",
-   "associacao",
+   "associacao sindical",
    "exigir"
   ],
   "fontes": [
@@ -570,7 +570,8 @@
   "palavras": [
    "passos coelho",
    "defende",
-   "estado"
+   "estado",
+   "agilidade decisoes"
   ],
   "fontes": [
    "Expresso",
@@ -631,9 +632,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "marcha lenta",
+   "lenta",
+   "marcha",
    "empresarios",
-   "reunem-se",
    "terraplanagens governo"
   ],
   "fontes": [
@@ -663,10 +664,10 @@
   "resumo": "Mais de quatro em cada dez interrupções da gravidez em 2025 foram realizadas por mulheres estrangeiras, revelou, esta segunda-feira, a Direção-Geral da Saúde (DGS), que pede respostas adequadas à diversidade linguística, social e cultural nessa área. O conteúdo Em 2025, quatro em cada dez interrupções da gravidez foram por mulheres estrangeiras aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "interrupcoes",
-   "mulheres estrangeiras",
-   "quatro cada",
-   "gravidez"
+   "cada dez",
+   "dez interrupcoes",
+   "interrupcoes gravidez",
+   "quatro cada"
   ],
   "fontes": [
    "RTP",
@@ -696,8 +697,8 @@
   "categoria": "economia",
   "palavras": [
    "agroalimentar",
-   "aumenta 30",
    "ue aumenta",
+   "aumenta 30",
    "30 mil"
   ],
   "fontes": [
@@ -759,8 +760,8 @@
   "resumo": "O ministro das Infraestruturas e Habitação, Miguel Pinto Luz, admitiu hoje que o custo do Novo Aeroporto de Lisboa (NAL) não será conhecido \"enquanto o projeto não estiver definido\".",
   "categoria": "economia",
   "palavras": [
-   "nao conhecido",
    "custo aeroporto",
+   "nao conhecido",
    "projeto",
    "conhecido antes"
   ],
@@ -791,9 +792,9 @@
   "resumo": "Agentes da PSP e GNR exigem ao Governo uma valorização salarial.",
   "categoria": "governo",
   "palavras": [
-   "200",
    "vespera",
-   "policias",
+   "200 policias",
+   "cerca 200",
    "manifestam-se"
   ],
   "fontes": [
@@ -823,10 +824,10 @@
   "resumo": "A Comissão do Mercado de Valores Mobiliários (CMVM) fechou nove processos de contraordenação em 2025, onde foram aplicadas 10 coimas e uma admoestação, no valor total de 280 mil euros.",
   "categoria": "economia",
   "palavras": [
-   "coimas",
-   "total 280",
+   "cmvm",
    "valor total",
-   "cmvm"
+   "10 coimas",
+   "total 280"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -857,8 +858,8 @@
   "palavras": [
    "precos combustiveis",
    "semana",
-   "ligeira descida",
-   "descida precos"
+   "descida precos",
+   "ligeira"
   ],
   "fontes": [
    "RTP"
@@ -887,8 +888,8 @@
   "categoria": "economia",
   "palavras": [
    "mil passageiros",
-   "passageiros agosto",
-   "madeira",
+   "madeira movimentaram",
+   "aeroportos madeira",
    "movimentaram 606"
   ],
   "fontes": [
@@ -920,7 +921,7 @@
    "arguidos",
    "caso",
    "gemeas",
-   "apontava suspeitas"
+   "apontava"
   ],
   "fontes": [
    "RTP"
@@ -950,8 +951,8 @@
   "palavras": [
    "livre",
    "oe2027",
-   "dificilmente acompanhara",
-   "antecipa dificilmente"
+   "dificilmente",
+   "acompanhara proposta"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -982,7 +983,7 @@
    "oito meses",
    "kristin",
    "tempestade",
-   "desalojadas"
+   "73"
   ],
   "fontes": [
    "RTP"
@@ -1012,6 +1013,7 @@
   "palavras": [
    "lei eleitoral",
    "sistema",
+   "cnn",
    "summit"
   ],
   "fontes": [
@@ -1040,10 +1042,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "mario centeno",
+   "mario",
+   "forte",
    "quer primeiro-ministro",
-   "posicao forte",
-   "primeiro-ministro posicao"
+   "posicao"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1065,10 +1067,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "relatorio",
-   "organismo administracao",
-   "publico valorizou",
-   "publica igas"
+   "relatorio organismo",
+   "publica igas",
+   "valorizou relatorio",
+   "publico valorizou"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1090,10 +1092,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "baratos abastecer",
+   "combustiveis ficam",
    "poupa",
-   "nestes postos",
-   "ficam baratos",
-   "combustiveis ficam"
+   "postos"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1117,8 +1119,8 @@
   "palavras": [
    "roma",
    "padres",
-   "nomes 300",
-   "criancas mortas"
+   "genocidio levam",
+   "300 criancas"
   ],
   "fontes": [
    "SAPO 24"
@@ -1140,10 +1142,10 @@
   "resumo": "“À espera dos portugueses” para despedir o sérvio incómodo O conteúdo Portugueses ao serviço da Hungria censuram Ricardo Araújo Pereira da Sérvia? aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "ricardo",
-   "servico hungria",
+   "ricardo araujo",
    "servia",
-   "hungria censuram"
+   "araujo pereira",
+   "censuram ricardo"
   ],
   "fontes": [
    "SAPO 24"
@@ -1165,10 +1167,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "multa",
+   "condenada multa",
+   "acidente 2014",
    "swiftair condenada",
-   "euros acidente",
-   "acidente 2014"
+   "euros acidente"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1190,10 +1192,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "publicas",
+   "estamos brincar",
    "fogo centeno",
-   "faz aviso",
-   "estamos brincar"
+   "publicas",
+   "faz aviso"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1215,10 +1217,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "questoes poderiam",
-   "poderiam acessorias",
-   "limpar caso",
-   "vem limpar"
+   "questoes",
+   "acessorias",
+   "poderiam",
+   "limpar"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1241,9 +1243,9 @@
   "categoria": "economia",
   "palavras": [
    "setembro",
-   "norte precos",
-   "precos casas",
-   "sobem"
+   "casas estabilizam",
+   "sobem norte",
+   "norte precos"
   ],
   "fontes": [
    "SAPO 24"
@@ -1268,7 +1270,7 @@
    "mercado calcado",
    "reino unido",
    "unido mercado",
-   "eua destronam"
+   "destronam"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1290,10 +1292,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "urbana abranda",
-   "reabilitacao urbana",
-   "nivel atividade",
-   "atividade reabilitacao"
+   "urbana",
+   "abranda agosto",
+   "atividade"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1316,9 +1317,9 @@
   "categoria": "economia",
   "palavras": [
    "setor industrial",
-   "governo compromete-se",
-   "gasoleo setor",
-   "compromete-se alargar"
+   "alargar apoios",
+   "apoios gasoleo",
+   "compromete-se"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1340,10 +1341,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "pensoes subsidios",
-   "subsidios apoios",
    "recebe outubro",
-   "descubra recebe"
+   "subsidios apoios",
+   "apoios descubra",
+   "pensoes subsidios"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1365,10 +1366,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "universitarios",
-   "governo explica",
+   "universitarios governo",
+   "atencao universitarios",
    "fiscais",
-   "explica apoios"
+   "governo explica"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1390,9 +1391,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "roaming sobe",
-   "sobe 67",
+   "estrangeiros usarem",
    "usarem roaming",
+   "67",
    "maio agosto"
   ],
   "fontes": [
@@ -1415,9 +1416,9 @@
   "resumo": "Um homem de 41 anos foi detido na Amadora por suspeita de seis crimes sexuais e um crime de coação contra uma menor, que tinha 11 anos quando os primeiros atos terão ocorrido. O suspeito ficou em prisão preventiva. O conteúdo Amadora: homem que era cuidador informal de crianças detido por suspeita de crimes sexuais aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
+   "crimes",
    "sexuais",
    "detido",
-   "crimes",
    "suspeita"
   ],
   "fontes": [
@@ -1440,10 +1441,10 @@
   "resumo": "Segundo a mesma fonte, era ainda pedida indemnização por danos não patrimoniais sofridos na sequência do despedimento \"em montante não inferior a 10.000 euros\", tendo a Caixa sido absolvida desse pedido.",
   "categoria": "economia",
   "palavras": [
-   "justa causa",
+   "cgd",
+   "causa",
    "despedida justa",
-   "cgd reintegrar",
-   "obriga cgd"
+   "tribunal obriga"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1466,8 +1467,8 @@
   "categoria": "sociedade",
   "palavras": [
    "lar",
-   "mortos",
-   "estremoz",
+   "estremoz provocou",
+   "cinco mortos",
    "surto gripe"
   ],
   "fontes": [
@@ -1490,10 +1491,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "protestam frente",
    "meia",
+   "protestam frente",
    "trabalhadores protestam",
-   "frente cimeira"
+   "centena"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1515,10 +1516,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "taxa municipal",
+   "barcelos",
    "turistica dois",
-   "municipal turistica",
-   "euros dormida"
+   "dormida",
+   "municipal turistica"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1543,7 +1544,7 @@
    "tabaqueira",
    "fabrica",
    "albarraque",
-   "sintra"
+   "joana branco"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1565,10 +1566,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "brent dispara",
    "petroleo comeca",
-   "semana alta",
-   "dolares",
-   "dispara 107"
+   "comeca semana",
+   "dolares"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1590,10 +1591,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "leilao",
-   "ria aveiro",
-   "nao atingiu",
-   "privada ria"
+   "ilha privada",
+   "aveiro acaba",
+   "leilao ilha",
+   "nao atingiu"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1615,10 +1616,10 @@
   "resumo": "Um “porto seguro” para a privatização da TAP e não mais atrasos com o novo aeroporto, foram apelos deixados pelo presidente da Confederação do Turismo, que está a meses de deixar a presidência e orgulha-se de deixar “um sector mais robusto”",
   "categoria": "economia",
   "palavras": [
-   "intermedia",
-   "calheiros",
+   "alternativa intermedia",
+   "francisco calheiros",
    "aeroporto portela",
-   "alternativa"
+   "calheiros pede"
   ],
   "fontes": [
    "Expresso"
@@ -1640,10 +1641,10 @@
   "resumo": "País deita fora 1,82 milhões de toneladas de alimentos por ano, com as famílias responsáveis por quase dois terços do total. Todos os dias, são mais de 10 milhões de euros deitados ao lixo.",
   "categoria": "economia",
   "palavras": [
-   "aumentou 12",
-   "alimentar aumentou",
    "ultimos cinco",
-   "desperdicio alimentar"
+   "desperdicio alimentar",
+   "alimentar aumentou",
+   "12 ultimos"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1665,10 +1666,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "montenegro subida",
    "seguro montenegro",
-   "pede audiencias",
-   "confagri pede"
+   "confagri",
+   "montenegro subida",
+   "pede audiencias"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1740,10 +1741,10 @@
   "resumo": "A Sociedade Portuguesa de Cardiologia quer um rastreio obrigatório a partir dos 35 anos de idade e que as farmácias passem a despistar sinais de risco como a pressão arterial, colesterol e glicémia.",
   "categoria": "sociedade",
   "palavras": [
+   "doencas",
    "mil mortes",
-   "provocadas doencas",
-   "doencas cardiovasculares",
-   "mortes provocadas"
+   "provocadas",
+   "cardiovasculares"
   ],
   "fontes": [
    "RTP"
@@ -1767,7 +1768,6 @@
   "palavras": [
    "impulsionar",
    "formacao",
-   "gratuita",
    "vagas"
   ],
   "fontes": [
@@ -1790,10 +1790,10 @@
   "resumo": "A segunda edição do concurso Arte Coesão Territorial, do Programa de Apoio em Parceria da Direção-Geral das Artes (DGArtes), prevê uma verba extra de 500 mil euros, destinada apenas às entidades apoiadas na primeira edição, foi hoje anunciado.",
   "categoria": "sociedade",
   "palavras": [
-   "verba extra",
-   "extra 500",
+   "verba",
    "arte coesao",
-   "apoio parceria"
+   "500 mil",
+   "extra"
   ],
   "fontes": [
    "RTP"
@@ -1815,10 +1815,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "extraordinario douro",
-   "douro abrem",
+   "apoio extraordinario",
    "candidaturas apoio",
-   "apoio extraordinario"
+   "douro",
+   "abrem"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1840,10 +1840,10 @@
   "resumo": "Pela primeira vez, a Direção Geral da Saúde apresenta directrizes sobre a alimentação nas creches para crianças até aos três anos. O manual aponta caminhos, ao nível da oferta alimentar, num período considerado muito importante da vida.",
   "categoria": "sociedade",
   "palavras": [
-   "materno",
-   "protecao",
    "recomenda promocao",
-   "aleitamento"
+   "promocao protecao",
+   "protecao aleitamento",
+   "materno"
   ],
   "fontes": [
    "RTP"
@@ -1865,10 +1865,10 @@
   "resumo": "Embora Portugal tenha um dos \"spreads\" mais baixos da Zona Euro, a fatura com juros vai agravar-se até 2030, de 6,3 mil milhões para 9,4 mil milhões de euros por ano. Corrida global ao financiamento, condições mais agravadas e maiores défices explicam. Aviso é deixado pelo CFP.",
   "categoria": "economia",
   "palavras": [
-   "fatura juros",
+   "fatura",
    "2030",
-   "subir quase",
-   "divida subir"
+   "juros",
+   "avisa"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1890,10 +1890,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "tragedia",
-   "protestam combustiveis",
-   "alertam",
-   "agricultores"
+   "alertam tragedia",
+   "agricultores alertam",
+   "tragedia protestam",
+   "protestam combustiveis"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1915,10 +1915,10 @@
   "resumo": "O presidente do conselho de administração da companhia portuguesa garante que a equipa liderada por Luís Rodrigues está a fazer uma monitorização diária do preço do jet fuel. A TAP tem um \"hedging\" de 50%.",
   "categoria": "economia",
   "palavras": [
-   "jet",
-   "fuel",
+   "jet fuel",
    "tap",
-   "garante"
+   "garante",
+   "preocupacao"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1940,7 +1940,7 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "saber",
+   "circula lisboa",
    "porto tudo",
    "passe 20",
    "tudo deve"
@@ -1965,10 +1965,10 @@
   "resumo": "O Hospital Pedro Hispano realizou esta segunda-feira a primeira cirurgia assistida por robô da Unidade Local de Saúde de Matosinhos. A intervenção, um bypass gástrico, marcou o início da utilização clínica do sistema HugoTM, da Medtronic, na ULSM. O conteúdo Hospital Pedro Hispano realiza primeira cirurgia robótica com bypass gástrico aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "primeira cirurgia",
    "hospital pedro",
-   "pedro hispano",
-   "gastrico"
+   "primeira cirurgia",
+   "bypass gastrico",
+   "pedro hispano"
   ],
   "fontes": [
    "SAPO 24"
@@ -1990,10 +1990,10 @@
   "resumo": "Cerca de 4.400 pessoas visitaram, durante três dias, a exposição do coração de D. Pedro IV, que esteve patente no Salão Nobre da Igreja da Lapa, no Porto. A iniciativa conjunta da Câmara do Porto e da Irmandade da Lapa permitiu voltar a mostrar ao público o maior legado do monarca português. O conteúdo Mais de quatro mil pessoas viram o coração de D. Pedro IV no Porto aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "pedro iv",
-   "coracao pedro",
-   "pessoas",
-   "iv porto"
+   "iv",
+   "coracao",
+   "pedro",
+   "pessoas"
   ],
   "fontes": [
    "SAPO 24"
@@ -2015,10 +2015,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "prazos",
+   "credito",
    "habitacao euribor",
-   "euribor desce",
-   "credito habitacao"
+   "prazos",
+   "euribor desce"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2041,9 +2041,9 @@
   "categoria": "sociedade",
   "palavras": [
    "encceja",
-   "incompleto lisboa",
+   "brasileiros",
    "ensino medio",
-   "medio incompleto"
+   "incompleto lisboa"
   ],
   "fontes": [
    "Público"
@@ -2065,10 +2065,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "afasta",
    "minimas",
    "ue governo",
-   "reservas",
-   "governo afasta"
+   "disrupcao"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2091,8 +2091,8 @@
   "categoria": "economia",
   "palavras": [
    "resulta opcoes",
+   "banca europeia",
    "opcoes politicas",
-   "fragmentacao banca",
    "europeia resulta"
   ],
   "fontes": [
@@ -2116,9 +2116,9 @@
   "categoria": "sociedade",
   "palavras": [
    "caem 45",
-   "numero",
    "nacionalidade caem",
-   "aquisicoes nacionalidade"
+   "aquisicoes nacionalidade",
+   "45 2025"
   ],
   "fontes": [
    "Expresso"
@@ -2141,9 +2141,9 @@
   "categoria": "sociedade",
   "palavras": [
    "investigadores",
-   "sistemas",
-   "rede cerebral",
-   "isolados"
+   "nao controlado",
+   "isolados",
+   "complexa"
   ],
   "fontes": [
    "SAPO 24"
@@ -2166,9 +2166,9 @@
   "categoria": "sociedade",
   "palavras": [
    "cultura",
-   "ponta",
-   "restaurantes",
-   "delgada"
+   "onde comer",
+   "delgada capital",
+   "ponta delgada"
   ],
   "fontes": [
    "Expresso"
@@ -2190,9 +2190,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "concurso superior",
+   "dragagens",
    "porto figueira",
-   "milhoes dragagens",
-   "nove milhoes",
    "superior nove"
   ],
   "fontes": [
@@ -2216,9 +2216,9 @@
   "categoria": "economia",
   "palavras": [
    "petroleo",
-   "recua",
+   "divida alta",
    "wall",
-   "alta meta"
+   "meta recua"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2243,7 +2243,7 @@
    "parliament",
    "deputados",
    "health",
-   "futuro saude"
+   "60"
   ],
   "fontes": [
    "Expresso"
@@ -2265,10 +2265,10 @@
   "resumo": "Os Prémios de Banda Desenhada da Amadora 2026, atribuídos no âmbito do festival AmadoraBD, vão ter 24 obras portuguesas e estrangeiras a concurso e reforçaram o valor monetário em duas categorias, revelou a organização.",
   "categoria": "sociedade",
   "palavras": [
-   "desenhada",
    "premios banda",
-   "festival amadorabd",
-   "obras"
+   "amadorabd 24",
+   "obras",
+   "banda desenhada"
   ],
   "fontes": [
    "RTP"
@@ -2290,10 +2290,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "instituicoes",
-   "descredito",
    "democraticas",
-   "chega beneficia"
+   "beneficia",
+   "instituicoes",
+   "descredito"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2315,10 +2315,10 @@
   "resumo": "O Tribunal de Évora começa a julgar na terça-feira, à porta fechada, um homem acusado de ter matado outro com um sabre, no concelho de Montemor-o-Novo, neste distrito alentejano, há cerca de três anos.",
   "categoria": "sociedade",
   "palavras": [
-   "evora comeca",
+   "evora",
    "sabre",
-   "tribunal evora",
-   "julgar"
+   "julgar",
+   "homem acusado"
   ],
   "fontes": [
    "RTP"
@@ -2342,8 +2342,7 @@
   "palavras": [
    "volta",
    "mudar sistema",
-   "sistema devolucao",
-   "quer mudar"
+   "devolucao"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2366,8 +2365,8 @@
   "categoria": "sociedade",
   "palavras": [
    "base",
-   "inglaterra",
-   "detidos suspeitas",
+   "aerea",
+   "suspeitas terrorismo",
    "terrorismo junto"
   ],
   "fontes": [
@@ -2391,9 +2390,9 @@
   "categoria": "politica",
   "palavras": [
    "brilhante",
-   "forma",
-   "preparado apoiar",
-   "estara"
+   "forma insensivel",
+   "governo forma",
+   "apoiar"
   ],
   "fontes": [
    "RTP"
@@ -2416,9 +2415,9 @@
   "categoria": "economia",
   "palavras": [
    "governador banco",
-   "preparados",
-   "nao perderem",
-   "facam"
+   "perderem oportunidades",
+   "facam",
+   "estejam"
   ],
   "fontes": [
    "Expresso"
@@ -2440,10 +2439,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "ineficaz",
-   "tercos maiores",
    "maiores empresas",
-   "sistema fiscal"
+   "consideram",
+   "sistema fiscal",
+   "fiscal ineficaz"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2466,9 +2465,9 @@
   "categoria": "economia",
   "palavras": [
    "mantem",
-   "retorno",
-   "certificados",
-   "outubro taxa"
+   "taxa retorno",
+   "outubro taxa",
+   "aforro"
   ],
   "fontes": [
    "Expresso"
@@ -2490,9 +2489,9 @@
   "resumo": "O projeto-piloto decorreu no âmbito da Intelligent Health Platform (IHP), uma 'test bed' criada ao abrigo do Plano de Recuperação e Resiliência (PRR).",
   "categoria": "economia",
   "palavras": [
-   "ia gestao",
-   "luz granter",
-   "hospital luz",
+   "fundos europeus",
+   "agente",
+   "criam",
    "gestao fundos"
   ],
   "fontes": [
@@ -2516,8 +2515,8 @@
   "categoria": "sociedade",
   "palavras": [
    "fiambre",
-   "sumos",
    "bolachas",
+   "sumos",
    "creches"
   ],
   "fontes": [
@@ -2541,9 +2540,9 @@
   "categoria": "economia",
   "palavras": [
    "vendas",
+   "shein",
    "antes taxa",
-   "europa caem",
-   "shein europa"
+   "taxa ue"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2565,10 +2564,10 @@
   "resumo": "A petrolífera francesa afirma que retirou mais de 2500 pessoas do complexo de gás de Afungi, no nordeste de Moçambique, durante um ataque jiadista em 2021. O jornalista britânico, autor do livro “Vai Jorrar Sangue”, garante que documentos internos da empresa contam 25 mil pessoas deixadas do lado de fora dos portões e que centenas delas foram mortas pelo Al-Shabab. A empresa não contestou o número quando contactada pelo Expresso e, num documento de 2024, escreve que “mais de 25 mil pessoas” se refugiaram na península de Afungi",
   "categoria": "economia",
   "palavras": [
-   "morram criancas",
-   "quero morram",
-   "criancas africanas",
-   "perry nao"
+   "africanas",
+   "aquecer",
+   "alex",
+   "quero morram"
   ],
   "fontes": [
    "Expresso"
@@ -2591,9 +2590,9 @@
   "categoria": "governo",
   "palavras": [
    "planeamento",
-   "defende politicas",
-   "desenrascanco falta",
-   "neves defende"
+   "falta confianca",
+   "neves defende",
+   "defende politicas"
   ],
   "fontes": [
    "Expresso"
@@ -2615,10 +2614,10 @@
   "resumo": "Ao longo de sete módulos, a formação aborda dimensões como decisão, criação de valor, controlo, negociação e foresight, preparando os participantes para equilibrar resultados de curto prazo com a sustentabilidade e a viabilidade das organizações.",
   "categoria": "economia",
   "palavras": [
-   "iscte executive",
-   "lancam",
-   "education banco",
-   "montepio"
+   "iscte",
+   "programa avancado",
+   "executive education",
+   "avancado lideranca"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2640,10 +2639,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "destacados",
    "ue adota",
-   "trabalhadores destacados",
-   "proteger trabalhadores",
-   "regras proteger"
+   "regras proteger",
+   "proteger trabalhadores"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2666,9 +2665,9 @@
   "categoria": "politica",
   "palavras": [
    "mecanismo resposta",
-   "ue discute",
+   "guerra hibrida",
    "hibrida ue",
-   "guerra hibrida"
+   "discute"
   ],
   "fontes": [
    "RTP"
@@ -2690,10 +2689,10 @@
   "resumo": "Esta variação no distrito da capital esteve diretamente associada às saídas para férias, com cerca de 40% das deslocações a terem como destino o Algarve e cerca de um terço a repartirem-se pela Península de Setúbal e Costa Alentejana.",
   "categoria": "economia",
   "palavras": [
-   "perdeu utilizadores",
-   "guarda liderou",
-   "revela guarda",
-   "crescimento populacional"
+   "liderou",
+   "crescimento populacional",
+   "estudo revela",
+   "populacional verao"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2715,10 +2714,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "seguranca ativo",
+   "almeida",
+   "castro",
    "economico turismo",
-   "castro almeida",
-   "ativo economico"
+   "seguranca ativo"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2740,10 +2739,10 @@
   "resumo": "Um estudante da Faculdade de Engenharia do Porto criou uma plataforma que calcula onde é mais barato abastecer, tendo em conta a distância, o consumo do carro e até os descontos em vigor.",
   "categoria": "economia",
   "palavras": [
-   "estudante",
+   "calcula",
    "onde barato",
-   "plataforma calcula",
-   "calcula onde"
+   "estudante",
+   "barato abastecer"
   ],
   "fontes": [
    "RTP"
@@ -2767,6 +2766,7 @@
   "palavras": [
    "seguranca",
    "ia",
+   "lanca ferramenta",
    "impedir"
   ],
   "fontes": [
@@ -2789,10 +2789,10 @@
   "resumo": "Na Cimeira do Turismo Português, o ex-candidato presidencial social-democrata lamentou a falta de \"produtividade\" de Portugal e defendeu que a Inteligência Artificial é \"instrumento\" que pode ajudar a virar o jogo",
   "categoria": "politica",
   "palavras": [
-   "pequenas medias",
-   "ia dirigido",
-   "incentivos",
-   "medias empresas"
+   "dirigido",
+   "pequenas",
+   "marques",
+   "medias"
   ],
   "fontes": [
    "Expresso"
@@ -2814,10 +2814,10 @@
   "resumo": "Com a duração de três anos e com um total de 180 ECTS, a licenciatura em Gestão de Vendas e Retalho, ministrada ao abrigo da parceria entre a empresa do grupo Sonae MC e a Universidade Aberta, dá os primeiros 45 licenciados à empresa.",
   "categoria": "economia",
   "palavras": [
-   "mc universidade",
    "universidade aberta",
-   "entregam 45",
-   "aberta entregam"
+   "mc",
+   "canudos",
+   "entregam 45"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2841,8 +2841,8 @@
   "palavras": [
    "agricultura",
    "bruxelas",
-   "fertilizantes",
-   "europeia devia"
+   "criar acoes",
+   "combustiveis fertilizantes"
   ],
   "fontes": [
    "RTP"
@@ -2864,10 +2864,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "questiona",
+   "be questiona",
    "universidade aveiro",
-   "governo ciberataque",
-   "ciberataque universidade"
+   "ciberataque",
+   "questiona governo"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2889,10 +2889,10 @@
   "resumo": "Maria da Graça Carvalho esteve em Bruxelas para chamar a atenção da situação de Portugal no que se refere à energia.",
   "categoria": "economia",
   "palavras": [
-   "atencao",
    "energia",
+   "atencao",
    "bruxelas",
-   "vier"
+   "cada medidas"
   ],
   "fontes": [
    "RTP"
@@ -2914,10 +2914,10 @@
   "resumo": "Pela primeira vez em 115 anos, a Câmara de Comércio e Indústria de Portugal, no Rio de Janeiro, tem uma mulher presidente.",
   "categoria": "economia",
   "palavras": [
-   "rio janeiro",
-   "mulher presidente",
    "camara comercio",
-   "janeiro primeira"
+   "rio",
+   "mulher presidente",
+   "janeiro"
   ],
   "fontes": [
    "RTP"
@@ -2939,10 +2939,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "sobe 11",
    "ranking competitividade",
-   "lugar ranking",
-   "competitividade turistica"
+   "sobe 11",
+   "competitividade turistica",
+   "lugar ranking"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2965,9 +2965,9 @@
   "categoria": "politica",
   "palavras": [
    "ambicao",
-   "negativas",
-   "pressiona turismo",
-   "seguro pressiona"
+   "negativas setor",
+   "seguro pressiona",
+   "fechar"
   ],
   "fontes": [
    "Expresso"
@@ -2990,9 +2990,9 @@
   "categoria": "economia",
   "palavras": [
    "lisboa turismo",
-   "ouca",
-   "pressao destinos",
-   "visitados lugar"
+   "condicoes desenvolver",
+   "visitados lugar",
+   "pressao destinos"
   ],
   "fontes": [
    "Expresso"
@@ -3014,9 +3014,9 @@
   "resumo": "A cultura e o culto do surf atraíram gente de todo o mundo à Praia do Cabedelo, na Figueira da Foz.",
   "categoria": "sociedade",
   "palavras": [
-   "praia cabedelo",
    "surf",
-   "musica",
+   "praia",
+   "cabedelo",
    "gastronomia festival"
   ],
   "fontes": [
@@ -3039,10 +3039,10 @@
   "resumo": "\"Aqueles que decidem politicamente não podem estar a ser responsabilizados por matérias no plano técnico, mas aqueles que estão na área técnica não podem estar a ser responsabilizados por decisões políticas que os decisores políticos não querem tomar\", sustentou Passos Coelho.",
   "categoria": "politica",
   "palavras": [
-   "responsabilizados",
-   "simplificar passos",
-   "gastar gaste",
-   "passos aspira"
+   "agil",
+   "passos aspira",
+   "gastar",
+   "gaste"
   ],
   "fontes": [
    "RTP"
@@ -3066,8 +3066,8 @@
   "palavras": [
    "macao",
    "javalis",
-   "temos drama",
-   "invasao"
+   "tragico",
+   "desespera invasao"
   ],
   "fontes": [
    "RTP"
@@ -3090,9 +3090,9 @@
   "categoria": "economia",
   "palavras": [
    "apoio familias",
-   "ps",
    "oe",
-   "mecanismo apoio"
+   "ps",
+   "critica ausencia"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -3164,9 +3164,9 @@
   "categoria": "sociedade",
   "palavras": [
    "sabemos",
-   "silenciosa",
-   "pandemia",
-   "fazer suficiente"
+   "acidentes rodoviarios",
+   "fazer suficiente",
+   "continuamos"
   ],
   "fontes": [
    "Expresso"
@@ -3190,8 +3190,8 @@
   "palavras": [
    "habitacao publica",
    "2030",
-   "publica ganha",
-   "ganha almofada"
+   "almofada",
+   "ganha"
   ],
   "fontes": [
    "Expresso"
@@ -3214,8 +3214,9 @@
   "categoria": "economia",
   "palavras": [
    "recompra acoes",
+   "nvidia",
    "maior",
-   "nvidia"
+   "acoes historia"
   ],
   "fontes": [
    "Expresso"
@@ -3237,8 +3238,9 @@
   "resumo": "O anúncio foi feito por Nuno Melo em Bruxelas onde a Agência Europeia de Defesa conclui que o investimento dos Estados-membros ainda não cobre a ameaça russa.",
   "categoria": "economia",
   "palavras": [
-   "municoes",
-   "pequeno calibre",
+   "fabrica municoes",
+   "pequeno",
+   "calibre",
    "receber"
   ],
   "fontes": [
@@ -3264,7 +3266,7 @@
    "entrevista",
    "razao",
    "ventura justica",
-   "justica deu"
+   "chega caso"
   ],
   "fontes": [
    "RTP"
@@ -3286,10 +3288,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "morre acidente",
-   "trabalho suica",
+   "29 morre",
    "acidente trabalho",
-   "29 morre"
+   "suica",
+   "morre acidente"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3338,8 +3340,8 @@
   "palavras": [
    "montijo",
    "pinto luz",
-   "contam comigo",
-   "luz quer"
+   "decisoes mancas",
+   "aeroporto alcochete"
   ],
   "fontes": [
    "Expresso"
@@ -3362,8 +3364,8 @@
   "categoria": "sociedade",
   "palavras": [
    "nata",
-   "pastel",
-   "melhor",
+   "melhor pastel",
+   "crocante",
    "revelado"
   ],
   "fontes": [
@@ -3386,10 +3388,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "soberanas",
-   "obrigacoes",
    "europeias alta",
-   "bolsas europeias"
+   "alta atentas",
+   "soberanas",
+   "obrigacoes"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -3412,9 +3414,9 @@
   "categoria": "economia",
   "palavras": [
    "custar",
-   "remete",
-   "quanto",
-   "ira"
+   "aeroporto pinto",
+   "luz remete",
+   "quanto ira"
   ],
   "fontes": [
    "Expresso"
@@ -3437,9 +3439,9 @@
   "categoria": "sociedade",
   "palavras": [
    "defesa filho",
-   "filho ex-presidente",
    "ex-presidente republica",
-   "fundamento"
+   "filho ex-presidente",
+   "nao fundamento"
   ],
   "fontes": [
    "RTP"
@@ -3461,10 +3463,10 @@
   "resumo": "A atriz Rita Cabaço estreia-se na encenação com \"Caminho do Céu\", peça que parte do Holocausto para olhar o presente e refletir sobre a normalização do absurdo e a repetição de mecanismos de violência e desumanização.",
   "categoria": "sociedade",
   "palavras": [
-   "olhar",
-   "rita",
-   "presente",
-   "holocausto"
+   "holocausto",
+   "encenacao",
+   "rita cabaco",
+   "cabaco estreia-se"
   ],
   "fontes": [
    "RTP"
@@ -3486,10 +3488,10 @@
   "resumo": "Protesto de trabalhadores do turismo junto ao local onde decorre a Cimeira do setor. Os empresários apelam ao governo para que não hesite nos grandes projetos como a venda da TAP e o novo aeroporto.",
   "categoria": "economia",
   "palavras": [
-   "protesto trabalhadores",
+   "turismo junto",
    "cimeira setor",
-   "trabalhadores turismo",
-   "turismo junto"
+   "protesto",
+   "trabalhadores turismo"
   ],
   "fontes": [
    "RTP"
@@ -3512,9 +3514,9 @@
   "categoria": "economia",
   "palavras": [
    "problemas",
-   "recusa",
-   "baixar iva",
-   "iva combustiveis"
+   "proativa reduzir",
+   "concorrencia",
+   "baixar iva"
   ],
   "fontes": [
    "Expresso"
@@ -3538,8 +3540,8 @@
   "palavras": [
    "portos acores",
    "passageiros desembarcados",
-   "desembarcados portos",
-   "baixam agosto"
+   "acores baixam",
+   "desembarcados portos"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -3561,10 +3563,10 @@
   "resumo": "Na reunião desta segunda-feira de manhã com o ministro das Infraestruturas, os empresários saíram aparentemente satisfeitos.",
   "categoria": "economia",
   "palavras": [
+   "alargar descontos",
    "terraplanagem",
-   "governo mostra",
    "descontos gasoleo",
-   "mostra abertura"
+   "abertura alargar"
   ],
   "fontes": [
    "RTP"
@@ -3587,9 +3589,9 @@
   "categoria": "economia",
   "palavras": [
    "interior",
-   "valor acrescentado",
    "experiencias",
-   "criar valor"
+   "criar valor",
+   "acrescentado"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -3613,8 +3615,8 @@
   "palavras": [
    "maricarmen",
    "acordo",
-   "permite",
-   "imobiliaria"
+   "idosa",
+   "87"
   ],
   "fontes": [
    "Público"
@@ -3637,9 +3639,9 @@
   "categoria": "economia",
   "palavras": [
    "estado turismo",
-   "secretario estado",
+   "secretario",
    "milhoes capacidade",
-   "garante secretario"
+   "capacidade crescer"
   ],
   "fontes": [
    "Expresso"

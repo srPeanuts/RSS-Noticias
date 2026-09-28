@@ -4,10 +4,10 @@
   "resumo": "O gasóleo deverá baixar cinco cêntimos por litro e a gasolina dois cêntimos. Os dados são da Anarec e já têm em conta os descontos do Governo sobre o Imposto sobre os Produtos Petrolíferos e Energéticos.",
   "categoria": "economia",
   "palavras": [
-   "preco",
-   "combustiveis",
-   "espere",
-   "abastecer"
+   "preco combustiveis",
+   "combustiveis cair",
+   "carro",
+   "espere abastecer"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -36,10 +36,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "acusa",
-   "governo querer",
-   "carneiro",
-   "desalojamento"
+   "querer",
+   "carneiro acusa",
+   "acusa governo",
+   "desalojamento margem"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -68,9 +68,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "20 euros",
-   "comunidades",
    "pcp",
+   "comunidades",
+   "euros",
    "intermunicipais"
   ],
   "fontes": [
@@ -102,8 +102,8 @@
   "palavras": [
    "medo",
    "centeno",
-   "sabe",
-   "questiona"
+   "ele sabe",
+   "sabemos questiona"
   ],
   "fontes": [
    "RTP"
@@ -131,10 +131,10 @@
   "resumo": "A Guarda Nacional Republicana (GNR) disse hoje que registou mais de 2.600 casos de abandono e maus-tratos a animais desde o início de 2024 em todo o território nacional.",
   "categoria": "sociedade",
   "palavras": [
+   "animais",
+   "600 casos",
    "2024",
-   "casos",
-   "600",
-   "animais"
+   "desde"
   ],
   "fontes": [
    "RTP"
@@ -162,10 +162,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "pj",
-   "haver informalidade",
-   "informalidade inaceitavel",
-   "continua haver"
+   "informalidade",
+   "buscas pj",
+   "haver",
+   "continua"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -187,10 +187,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "reformar-se 2029",
-   "quase",
-   "publicos macau",
-   "macau reformar-se"
+   "macau reformar-se",
+   "2029",
+   "publicos",
+   "funcionarios"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -212,10 +212,10 @@
   "resumo": "A Herdade da Granja, em Idanha-a-Nova, abriu as portas. A entrada foi gratuita.",
   "categoria": "sociedade",
   "palavras": [
-   "promoveu aberto",
-   "festival boom",
+   "festival",
    "comunidade",
-   "boom promoveu"
+   "aberto",
+   "boom"
   ],
   "fontes": [
    "RTP"
@@ -238,8 +238,9 @@
   "categoria": "sociedade",
   "palavras": [
    "arte",
-   "moderna antiguidades",
-   "contemporanea"
+   "antiguidades",
+   "evento reuniu",
+   "contemporanea moderna"
   ],
   "fontes": [
    "RTP"
@@ -261,10 +262,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "montenegro eleito",
-   "fazer diferente",
-   "faca",
-   "espero"
+   "eleito",
+   "espero",
+   "diferente costa",
+   "faca"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -286,10 +287,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "luis montenegro",
+   "verde medida",
    "montenegro caminho",
-   "medida simples",
-   "verde medida"
+   "passe verde",
+   "luis montenegro"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -311,10 +312,10 @@
   "resumo": "O Presidente da República felicitou hoje os 10 jovens da seleção nacional que participaram no Mundial das Profissões, reconhecendo \"o trabalho e a dedicação\" que permitiram alcançar a melhor classificação de sempre do país nesta competição.",
   "categoria": "economia",
   "palavras": [
-   "presidente republica",
+   "presidente",
    "profissoes",
    "mundial",
-   "republica felicita"
+   "republica"
   ],
   "fontes": [
    "RTP"
@@ -336,10 +337,10 @@
   "resumo": "O último barco picareto construído pelo mestre calafate Manuel Pires Fontes, de Ortiga, no concelho de Mação, vai integrar o acervo do Museu de Marinha, culminando um processo de preservação desta embarcação tradicional iniciado há quase duas décadas.",
   "categoria": "sociedade",
   "palavras": [
-   "museu marinha",
+   "integrar",
+   "museu",
    "picareto construido",
-   "ortiga",
-   "ultimo"
+   "mestre"
   ],
   "fontes": [
    "RTP"
@@ -361,9 +362,9 @@
   "resumo": "São Francisco, Estados Unidos, 27 set 2026 (Lusa) -- O secretário do Tesouro dos Estados Unidos (EUA) afirmou ter enviado emissários por todo o mundo a exigir medidas para isolar economicamente Teerão e celebrou as restrições contra os bancos e a aviação do Irão.",
   "categoria": "economia",
   "palavras": [
-   "tesouro",
    "teerao",
    "isolar",
+   "tesouro",
    "eua"
   ],
   "fontes": [
@@ -386,10 +387,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "pagar iuc",
-   "semana afinal",
+   "pagar",
+   "iuc",
    "explicador semana",
-   "afinal pagar"
+   "semana afinal"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -411,10 +412,10 @@
   "resumo": "Um avião que seguia rumo a Boston fez uma aterragem de emergência no aeroporto do Porto esta tarde, após ter sido detetado fumo na cabine.",
   "categoria": "sociedade",
   "palavras": [
-   "aeroporto",
-   "emergencia",
    "aviao",
-   "regressa"
+   "emergencia aeroporto",
+   "regressa",
+   "aeroporto sa"
   ],
   "fontes": [
    "RTP"
@@ -436,10 +437,10 @@
   "resumo": "Morrem todos os anos mais de 80 mil pessoas sem acesso a Cuidados Paliativos em Portugal.",
   "categoria": "sociedade",
   "palavras": [
-   "paliativos",
    "cuidados",
-   "equipa apoia",
-   "doentes casa"
+   "paliativos",
+   "equipa",
+   "doentes"
   ],
   "fontes": [
    "RTP"
@@ -461,9 +462,9 @@
   "resumo": "Sete pessoas foram detidas na última noite em Mem Martins, no concelho de Sintra, em Lisboa, por terem arremessado pedras contra polícias, atingindo dois agentes, no final de um evento de música, anunciou hoje a PSP.",
   "categoria": "sociedade",
   "palavras": [
+   "policias",
    "final",
    "sete",
-   "policias",
    "sintra"
   ],
   "fontes": [
@@ -487,9 +488,9 @@
   "categoria": "economia",
   "palavras": [
    "crise combustiveis",
-   "insatisfacao",
-   "custo vida",
-   "semanario crise"
+   "analise",
+   "custo",
+   "vida"
   ],
   "fontes": [
    "RTP"
@@ -514,7 +515,7 @@
    "casas",
    "residentes",
    "compradas",
-   "adquiridas"
+   "comparando 2025"
   ],
   "fontes": [
    "RTP"
@@ -536,10 +537,10 @@
   "resumo": "O Parlamento vai discutir e votar na generalidade esta semana as alterações à lei do arrendamento propostas pelo Governo. Há novas regras para as rendas antigas e maior flexibilidade nos contratos.",
   "categoria": "economia",
   "palavras": [
+   "lei arrendamento",
    "votar",
-   "alteracoes",
-   "arrendamento",
-   "parlamento"
+   "parlamento",
+   "alteracoes"
   ],
   "fontes": [
    "RTP"
@@ -561,10 +562,10 @@
   "resumo": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
   "categoria": "politica",
   "palavras": [
-   "marques",
-   "trabalho eusebio",
+   "eusebio",
    "ministro trabalho",
-   "carvalho"
+   "carvalho",
+   "91"
   ],
   "fontes": [
    "RTP"
