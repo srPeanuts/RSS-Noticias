@@ -146,15 +146,45 @@ def construir(n_por_categoria: int = 3) -> tuple[str, str, str]:
     return assunto, html, "\n".join(texto)
 
 
-HORA_ENVIO = 9   # hora de Lisboa; o agendamento corre às 8:30 e 9:30 UTC e só uma delas cai nesta hora
+HORA_ENVIO = 9          # fallback do cron (8:30 e 9:30 UTC); só uma cai nesta hora em Lisboa
+HORA_MANHA_MAX = 7      # primeira atualização do dia (cron 6:05 UTC → 6h/7h Lisboa)
+
+
+def _saida_github(chave: str, valor: str) -> None:
+    caminho = os.environ.get("GITHUB_OUTPUT")
+    if caminho:
+        with open(caminho, "a", encoding="utf-8") as f:
+            f.write(f"{chave}={valor}\n")
+
+
+def dados_sao_de_hoje(agora: datetime | None = None) -> bool:
+    agora = agora or datetime.now(LISBOA)
+    indice = ler(SITE / "indice.json", {}) or {}
+    return indice.get("hoje") == agora.date().isoformat()
+
+
+def deve_enviar(agora: datetime | None = None, evento: str | None = None) -> bool:
+    """Quando o workflow deve mesmo enviar (vs. só gerar pré-visualização local)."""
+    agora = agora or datetime.now(LISBOA)
+    evento = evento if evento is not None else os.environ.get("GITHUB_EVENT_NAME", "")
+    if evento == "schedule":
+        return agora.hour == HORA_ENVIO
+    if evento == "workflow_run":
+        return agora.hour <= HORA_MANHA_MAX
+    return True
 
 
 def main():
-    # No envio agendado, só envia se em Lisboa forem 9h (resolve a mudança de hora verão/inverno).
-    # Envios manuais (Run workflow) enviam sempre.
     agora = datetime.now(LISBOA)
-    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and agora.hour != HORA_ENVIO:
-        print(f"São {agora:%H:%M} em Lisboa: este agendamento não é o das {HORA_ENVIO}h. Nada a enviar.")
+    evento = os.environ.get("GITHUB_EVENT_NAME", "")
+    if not deve_enviar(agora, evento):
+        if evento == "schedule":
+            print(f"São {agora:%H:%M} em Lisboa: este agendamento não é o das {HORA_ENVIO}h. Nada a enviar.")
+        else:
+            print(f"São {agora:%H:%M} em Lisboa: não é a primeira atualização do dia. Nada a enviar.")
+        return 0
+    if evento in ("schedule", "workflow_run") and not dados_sao_de_hoje(agora):
+        print("Os dados publicados não são de hoje: nada a enviar.")
         return 0
     assunto, html, texto = construir()
     (RAIZ / "resumo_email.html").write_text(html, encoding="utf-8")
@@ -185,6 +215,7 @@ def main():
             s.login(utilizador, password)
             s.send_message(msg)
     print(f"Email enviado para {para}: {assunto}")
+    _saida_github("enviado", "true")
     return 0
 
 

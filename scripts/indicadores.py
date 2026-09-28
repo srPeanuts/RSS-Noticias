@@ -4,7 +4,7 @@ Indicadores económicos de Portugal (dados oficiais do Eurostat, API gratuita e 
 Cada indicador guarda o último valor, o anterior e uma série curta para o gráfico.
 """
 
-import requests
+from rede import obter
 
 API = "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/"
 
@@ -44,9 +44,7 @@ INDICADORES = [
 def _serie(dataset: str, params: dict, geo: str, n: int) -> list:
     """Devolve [(periodo, valor), ...] do mais antigo para o mais recente."""
     q = dict(params, geo=geo, lastTimePeriod=n)
-    r = requests.get(API + dataset, params=q, timeout=30)
-    r.raise_for_status()
-    d = r.json()
+    d = obter(API + dataset, params=q, timeout=30).json()
     ids, tamanhos = d["id"], d["size"]
     # passo (stride) de cada dimensão no índice "achatado" do JSON-stat
     passos, acc = {}, 1

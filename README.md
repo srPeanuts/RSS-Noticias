@@ -19,7 +19,7 @@ Seis vezes por dia (por volta das 7h, 10h, 13h, 16h, 19h e 22h), a app:
 5. **Ordena os temas por importância,** medida pelo número de jornais diferentes que falam de cada um.
 6. **Atualiza a página web** e guarda o histórico, que alimenta as vistas Semana e Mês.
 
-Uma vez por dia recolhe também os **indicadores económicos** do Eurostat e, às 9h30, envia o **resumo por email**.
+Uma vez por dia recolhe também os **indicadores económicos** do Eurostat e, **depois da primeira atualização da manhã**, envia o **resumo por email**. Se essa atualização falhar, tenta outra vez por volta das 9h30.
 
 ---
 
@@ -90,7 +90,7 @@ Os dados são do Eurostat e são mensais ou trimestrais, por isso mudam poucas v
 
 ## Resumo diário por email
 
-Todos os dias por volta das **9h30** chega um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos.
+Todos os dias, depois da primeira recolha da manhã (por volta das **7h**), chega um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos. Se essa recolha falhar, o email tenta outra vez por volta das **9h30**, mas só se os dados desse dia já estiverem publicados.
 
 ### Configurar
 
@@ -127,14 +127,16 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 |---|---|
 | `fontes.json` | Lista de feeds RSS e de capas |
 | `scripts/atualizar.py` | Recolhe as notícias e as capas, classifica, agrupa e gera os dados da página |
+| `scripts/rede.py` | Pedidos HTTP com retries quando um site falha temporariamente |
 | `scripts/indicadores.py` | Vai buscar os indicadores económicos ao Eurostat |
 | `scripts/tendencias.py` | Calcula os temas em alta e quem está nas notícias |
 | `scripts/enviar_email.py` | Monta e envia o resumo por email |
 | `docs/index.html` | A página web da app |
 | `docs/data/` | Dados que a página mostra (gerados automaticamente) |
 | `dados/` | Histórico de notícias, temas e capas de cada dia (gerado automaticamente) |
+| `tests/` | Testes da classificação, dos retries e do horário do email |
 | `.github/workflows/atualizar.yml` | Agenda a atualização 6 vezes por dia |
-| `.github/workflows/resumo-email.yml` | Agenda o email diário |
+| `.github/workflows/resumo-email.yml` | Envia o email após a atualização da manhã (com fallback às 9h30) |
 
 ---
 
