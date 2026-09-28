@@ -54,7 +54,10 @@ h2.sec small{font-weight:500;text-transform:none;letter-spacing:0}
 .capa em{font-style:normal;color:var(--accent)}
 /* cartões */
 .lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;align-items:start}
-@media (min-width:700px){.lista.destaque>.tema:first-child{grid-column:span 2}.lista.destaque>.tema:first-child h3{font-size:22px}}
+.lista.colunas{display:flex;flex-wrap:wrap;align-items:flex-start}
+.lista.colunas>.tema{flex:1 1 100%}
+.lista .coluna{flex:1 1 0;min-width:0;display:flex;flex-direction:column;gap:12px}
+.lista.destaque>.tema:first-child h3{font-size:22px}
 .tema{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;grid-template-columns:34px 1fr;gap:4px 10px;align-content:start}
 .tema.sem-rank{grid-template-columns:1fr}.tema.sem-rank>*{grid-column:1}
 .rank{font:700 22px/1 "Source Serif 4",Georgia,serif;color:var(--muted);padding-top:2px}
@@ -210,11 +213,11 @@ function cartao(t, i, periodo, dias){
     <div class="meta">
       ${tag(t.categoria)} ${t.em_alta ? `<span class="alta">▲ em alta</span>` : ""}
       ${forca(t.n_fontes)} <span>${t.n_fontes} ${t.n_fontes==1?"fonte":"fontes"} · ${t.n_artigos} ${t.n_artigos==1?"notícia":"notícias"}${extra}</span>
-      ${(t.palavras||[]).slice(0,3).map(k=>`<span class="kw">${esc(k)}</span>`).join("")}
+      ${(t.palavras||[]).slice(0,2).map(k=>`<span class="kw">${esc(k)}</span>`).join("")}
     </div>
     ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p><button class="mais" hidden>▾ Ler resumo completo</button>` : ""}
     ${periodo ? cobertura(t.serie, dias, t.categoria) : ""}
-    <details><summary>Ver notícias (${esc(t.fontes.join(", "))})</summary><ul>${listaArtigos(t)}</ul></details>
+    <details><summary>Ver ${t.n_artigos==1?"a notícia":"as "+t.artigos.length+" notícias"}</summary><ul>${listaArtigos(t)}</ul></details>
   </article>`;
 }
 
@@ -369,6 +372,7 @@ async function render(){
         (st.vista==="semana" ? blocoEmAlta(d.em_alta, dias) : "") +
         blocoTemas(d.temas, true, dias);
     }
+    montarColunas(alvo);
     ativarResumos(alvo);
     alvo.querySelectorAll("[data-ir]").forEach(el => el.onclick = () => { st.vista = el.dataset.ir; render(); window.scrollTo(0,0); });
   } catch(e){
@@ -381,6 +385,28 @@ async function render(){
 document.addEventListener("mouseover", e => { const el = e.target.closest("[data-tip]"); if (!el) return; const r = el.getBoundingClientRect(); mostrarTip(el.dataset.tip, r.left + r.width/2, r.top); });
 document.addEventListener("mouseout", e => { if (e.target.closest("[data-tip]")) esconderTip(); });
 document.addEventListener("touchstart", e => { const el = e.target.closest("[data-tip]"); if (!el) { esconderTip(); return; } const r = el.getBoundingClientRect(); mostrarTip(el.dataset.tip, r.left + r.width/2, r.top); }, {passive:true});
+
+/* Grelha em colunas: cada cartão vai para a coluna mais curta, pela ordem do ranking,
+   para não ficarem buracos por baixo dos cartões mais baixos. */
+function montarColunas(raiz){
+  raiz.querySelectorAll(".lista").forEach(lista => {
+    const cartoes = [...lista.children];
+    const largura = lista.clientWidth;
+    const n = largura >= 880 ? 3 : largura >= 580 ? 2 : 1;
+    if (n === 1 || cartoes.length < 2) return;
+    const destaque = lista.classList.contains("destaque") ? cartoes.shift() : null;
+    lista.innerHTML = "";
+    lista.classList.add("colunas");
+    if (destaque) lista.appendChild(destaque);
+    const colunas = Array.from({length:n}, () => { const c = document.createElement("div"); c.className = "coluna"; lista.appendChild(c); return c; });
+    cartoes.forEach(cartao => {
+      const alvo = colunas.reduce((a, b) => b.offsetHeight < a.offsetHeight ? b : a);
+      alvo.appendChild(cartao);
+    });
+  });
+}
+let larguraAnterior = window.innerWidth, espera;
+window.addEventListener("resize", () => { clearTimeout(espera); espera = setTimeout(() => { if (Math.abs(window.innerWidth - larguraAnterior) > 40){ larguraAnterior = window.innerWidth; render(); } }, 200); });
 
 function ativarResumos(raiz){
   raiz.querySelectorAll(".resumo").forEach(p => {
