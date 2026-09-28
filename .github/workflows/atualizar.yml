@@ -6,8 +6,8 @@
 "jobs": { "atualizar": {
 "runs-on": "ubuntu-latest",
 "steps": [
-{ "uses": "actions/checkout@v4" },
-{ "uses": "actions/setup-python@v5", "with": { "python-version": "3.12", "cache": "pip" } },
+{ "uses": "actions/checkout@v5" },
+{ "uses": "actions/setup-python@v6", "with": { "python-version": "3.12", "cache": "pip" } },
 { "name": "Instalar dependencias", "run": "pip install -r requirements.txt" },
 { "name": "Recolher e analisar noticias", "run": "python scripts/atualizar.py" },
 { "name": "Guardar resultados", "run": "git config user.name atualizador && git config user.email atualizador@users.noreply.github.com && git add dados docs/data && (git diff --cached --quiet || git commit -m \"Atualizacao automatica\") && git pull --rebase --autostash && git push" }
