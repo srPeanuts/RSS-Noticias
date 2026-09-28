@@ -1,14 +1,12 @@
 {
   "_nota": "Lista de fontes. Podes acrescentar ou remover linhas. 'categoria' força a categoria de todas as notícias desse feed (deixa vazio para classificação automática).",
   "feeds": [
-    {"fonte": "Observador",          "url": "https://observador.pt/feed/",                         "categoria": ""},
     {"fonte": "Público",             "url": "https://feeds.feedburner.com/PublicoRSS",             "categoria": ""},
     {"fonte": "Expresso",            "url": "https://feeds.feedburner.com/expresso-geral",         "categoria": ""},
     {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/politica",            "categoria": "politica"},
     {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/economia",            "categoria": "economia"},
     {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/pais",                "categoria": "sociedade"},
     {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/cultura",             "categoria": "sociedade"},
-    {"fonte": "ECO",                 "url": "https://eco.sapo.pt/feed/",                           "categoria": "economia"},
     {"fonte": "Jornal de Negócios",  "url": "https://www.jornaldenegocios.pt/rss",                 "categoria": "economia"},
     {"fonte": "Jornal Económico",    "url": "https://jornaleconomico.sapo.pt/feed",                "categoria": "economia"},
     {"fonte": "Diário de Notícias",  "url": "http://feeds.dn.pt/DN-Ultimas",                       "categoria": ""},
