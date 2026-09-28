@@ -9,12 +9,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#f7f5f0; --card:#ffffff; --ink:#1b1a17; --muted:#6b675e; --line:#e4e0d6;
-  --accent:#b3261e; --pol:#3558a8; --eco:#1f7a4d; --soc:#9a5a12; --chip:#efece4;
+  --bg:#f7f5f0; --card:#ffffff; --ink:#1b1a17; --muted:#6b675e; --line:#e4e0d6; --grid:#ecebe6;
+  --accent:#b3261e; --chip:#efece4;
+  /* categorias: paleta categórica validada (slots 1-5), sempre acompanhada do nome */
+  --politica:#2a78d6; --governo:#eb6834; --economia:#1baf7a; --sociedade:#eda100; --opiniao:#e87ba4;
+  --serie:#2a78d6; --serie-fraca:#b7d3f6;
+  --bom:#1f7a4d; --mau:#b3261e;
 }
 @media (prefers-color-scheme: dark){
-  :root{ --bg:#141412; --card:#1d1c1a; --ink:#ecebe6; --muted:#a19d93; --line:#2f2e2a;
-         --accent:#ef6b61; --pol:#8aa8ee; --eco:#6cc79a; --soc:#e0a458; --chip:#2a2926; }
+  :root{ --bg:#141412; --card:#1d1c1a; --ink:#ecebe6; --muted:#a19d93; --line:#2f2e2a; --grid:#2a2926;
+         --accent:#ef6b61; --chip:#2a2926;
+         --politica:#3987e5; --governo:#d95926; --economia:#199e70; --sociedade:#c98500; --opiniao:#d55181;
+         --serie:#3987e5; --serie-fraca:#184f95; --bom:#6cc79a; --mau:#ef6b61; }
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
@@ -25,37 +31,48 @@ header{border-bottom:1px solid var(--line);background:var(--card);position:stick
 h1{font:700 26px/1.1 "Source Serif 4",Georgia,serif;margin:0;letter-spacing:-.01em}
 h1 span{color:var(--accent)}
 .upd{color:var(--muted);font-size:12px;white-space:nowrap}
-nav.tabs{display:flex;gap:4px;padding-bottom:0}
-nav.tabs button{background:none;border:0;border-bottom:3px solid transparent;padding:8px 12px;font:600 14px Inter,sans-serif;color:var(--muted);cursor:pointer}
+nav.tabs{display:flex;gap:2px;overflow-x:auto}
+nav.tabs button{background:none;border:0;border-bottom:3px solid transparent;padding:8px 12px;font:600 14px Inter,sans-serif;color:var(--muted);cursor:pointer;white-space:nowrap}
 nav.tabs button.on{color:var(--ink);border-color:var(--accent)}
 .bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin:18px 0 10px}
-.chips{display:flex;gap:6px;flex-wrap:wrap}
-.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:5px 12px;font:500 13px Inter,sans-serif;cursor:pointer}
+.chips{display:flex;gap:6px;overflow-x:auto;max-width:100%;padding-bottom:2px}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:5px 12px;font:500 13px Inter,sans-serif;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.chip i{width:8px;height:8px;border-radius:2px}
 .chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .datenav{display:flex;align-items:center;gap:6px;font-weight:600}
 .datenav button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;width:32px;height:32px;cursor:pointer;font-size:16px}
 .datenav button:disabled{opacity:.35;cursor:default}
 .periodo{color:var(--muted);font-size:13px}
-h2.sec{font:700 13px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:26px 0 10px;display:flex;align-items:center;gap:8px}
+h2.sec{font:700 13px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:28px 0 10px;display:flex;align-items:center;gap:8px}
 h2.sec i{width:10px;height:10px;border-radius:2px;display:inline-block}
+h2.sec small{font-weight:500;text-transform:none;letter-spacing:0}
+/* capas */
 .capas{display:flex;gap:12px;overflow-x:auto;padding:4px 2px 12px;scroll-snap-type:x mandatory}
 .capa{flex:0 0 auto;width:264px;scroll-snap-align:start;cursor:zoom-in;text-align:center;background:none;border:0;padding:0;color:inherit}
 .capa img{width:264px;height:352px;object-fit:cover;object-position:top;border-radius:4px;border:1px solid var(--line);background:var(--chip);display:block}
 .capa span{display:block;font-size:12px;margin-top:5px;color:var(--muted);line-height:1.25}
 .capa em{font-style:normal;color:var(--accent)}
-.lista .tema{align-content:start}.lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px}.lista .resumo{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.lista .resumo.aberto{display:block;-webkit-line-clamp:unset;overflow:visible}.mais{grid-column:2;justify-self:start;background:none;border:0;padding:2px 0;margin-top:2px;color:var(--muted);font:600 12px Inter,sans-serif;cursor:pointer}.mais:hover{color:var(--ink)}@media (min-width:700px){.lista>.tema:first-child{grid-column:span 2}.lista>.tema:first-child h3{font-size:22px}}
-.tema{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;grid-template-columns:34px 1fr;gap:4px 10px}
+/* cartões */
+.lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;align-items:start}
+@media (min-width:700px){.lista.destaque>.tema:first-child{grid-column:span 2}.lista.destaque>.tema:first-child h3{font-size:22px}}
+.tema{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;grid-template-columns:34px 1fr;gap:4px 10px;align-content:start}
+.tema.sem-rank{grid-template-columns:1fr}.tema.sem-rank>*{grid-column:1}
 .rank{font:700 22px/1 "Source Serif 4",Georgia,serif;color:var(--muted);padding-top:2px}
 .tema h3{margin:0;font:600 18px/1.3 "Source Serif 4",Georgia,serif}
+.tema h3 a{text-decoration:none}.tema h3 a:hover{text-decoration:underline}
 .meta{grid-column:2;display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;color:var(--muted)}
-.tag{border-radius:4px;padding:1px 7px;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:#fff}
-.t-politica{background:var(--pol)} .t-economia{background:var(--eco)} .t-sociedade{background:var(--soc)}
-@media (prefers-color-scheme: dark){ .tag{color:#111} }
+.tag{display:inline-flex;align-items:center;gap:5px;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--ink)}
+.tag i{width:9px;height:9px;border-radius:2px}
+.alta{font-weight:600;color:var(--accent)}
 .forca{display:inline-flex;gap:2px;vertical-align:middle}
 .forca b{width:6px;height:12px;border-radius:1px;background:var(--line)}
-.forca b.on{background:var(--accent)}
+.forca b.on{background:var(--muted)}
 .kw{background:var(--chip);border-radius:4px;padding:1px 6px}
 .resumo{grid-column:2;margin:4px 0 0;color:var(--muted);font-size:14px}
+.lista .resumo{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.lista .resumo.aberto{display:block;-webkit-line-clamp:unset;overflow:visible}
+.mais{grid-column:2;justify-self:start;background:none;border:0;padding:2px 0;margin-top:2px;color:var(--muted);font:600 12px Inter,sans-serif;cursor:pointer}
+.mais:hover{color:var(--ink)}
 details{grid-column:2;margin-top:6px}
 summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--accent);list-style:none}
 summary::-webkit-details-marker{display:none}
@@ -64,10 +81,43 @@ details ul{margin:8px 0 0;padding:0;list-style:none;display:flex;flex-direction:
 details li{font-size:14px;line-height:1.35}
 details li small{color:var(--muted);display:block;font-size:12px}
 details li a{text-decoration:none} details li a:hover{text-decoration:underline}
-.crono{grid-column:2;display:flex;gap:3px;margin-top:8px;flex-wrap:wrap}
-.crono span{width:14px;height:14px;border-radius:3px;background:var(--line)}
-.crono span.on{background:var(--accent)}
-.vazio{padding:40px 16px;text-align:center;color:var(--muted);background:var(--card);border:1px dashed var(--line);border-radius:10px}
+/* gráfico de cobertura (barras por dia) */
+.cob{grid-column:2;margin-top:8px}
+.cob .barras{display:flex;align-items:flex-end;justify-content:space-between;gap:2px;height:36px;border-bottom:1px solid var(--grid)}
+.cob .barras span{flex:0 1 24px;min-width:2px;border-radius:3px 3px 0 0;background:var(--c);opacity:.9;cursor:default}
+.cob .barras span.zero{height:2px!important;background:var(--grid);opacity:1}
+.cob .eixo{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:2px}
+/* em alta */
+.alta-lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+.alta-item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
+.alta-item b{font:600 15px/1.3 "Source Serif 4",Georgia,serif}
+.alta-item a{text-decoration:none}.alta-item a:hover{text-decoration:underline}
+.alta-item .cob{grid-column:auto;margin-top:auto}
+.alta-item .rodape{display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--muted)}
+/* quem está nas notícias */
+.quem{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;display:grid;grid-template-columns:minmax(120px,210px) 1fr;gap:6px 12px;align-items:center}
+.quem .nome{font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.quem .linha{display:flex;align-items:center;gap:8px}
+.quem .linha span{height:14px;border-radius:0 4px 4px 0;background:var(--serie);min-width:2px}
+.quem .linha em{font-style:normal;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+/* indicadores */
+.ind-grelha{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.ind-grelha.mini{grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-bottom:12px}
+.ind{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+.ind .rot{font-size:13px;color:var(--muted);font-weight:500}
+.ind .val{font:600 30px/1.1 Inter,sans-serif}
+.ind .val small{font-size:16px;font-weight:500;color:var(--muted);margin-left:2px}
+.ind .var{font-size:12px;font-weight:600}
+.ind .var.bom{color:var(--bom)} .ind .var.mau{color:var(--mau)} .ind .var.neutro{color:var(--muted)}
+.ind .sub{font-size:12px;color:var(--muted)}
+.ind svg{width:100%;height:64px;display:block;margin-top:6px;overflow:visible}
+.ind.pequeno{padding:10px 12px;gap:2px;cursor:pointer}
+.ind.pequeno .val{font-size:20px}
+.ind.pequeno .rot{font-size:12px}
+.ind a.fonte{font-size:12px;color:var(--muted)}
+.tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--bg);font-size:12px;padding:5px 8px;border-radius:6px;z-index:30;display:none;max-width:260px;line-height:1.35}
+.vazio{padding:30px 16px;text-align:center;color:var(--muted);background:var(--card);border:1px dashed var(--line);border-radius:10px}
+.nota{font-size:13px;color:var(--muted);margin:4px 0 0}
 footer{color:var(--muted);font-size:12px;padding:30px 0 40px}
 footer details{margin:0}
 .lb{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:20;padding:16px}
@@ -84,17 +134,13 @@ footer details{margin:0}
       <button data-v="hoje" class="on">Hoje</button>
       <button data-v="semana">Semana</button>
       <button data-v="mes">Mês</button>
+      <button data-v="indicadores">Indicadores</button>
     </nav>
   </div>
 </header>
 <main class="wrap">
   <div class="bar">
-    <div class="chips" id="chips">
-      <button class="chip on" data-c="todas">Todas</button>
-      <button class="chip" data-c="politica">Política</button>
-      <button class="chip" data-c="economia">Economia</button>
-      <button class="chip" data-c="sociedade">Sociedade e Cultura</button>
-    </div>
+    <div class="chips" id="chips"></div>
     <div class="datenav" id="datenav">
       <button id="prev" aria-label="Dia anterior">‹</button><span id="diaTxt"></span><button id="next" aria-label="Dia seguinte">›</button>
     </div>
@@ -104,17 +150,25 @@ footer details{margin:0}
   <footer id="rodape"></footer>
 </main>
 <div class="lb" id="lb"><img alt=""><a target="_blank" rel="noopener">Abrir no VerCapas ↗</a></div>
+<div class="tip" id="tip"></div>
 
 <script>
-const NOMES = {politica:"Política", economia:"Economia", sociedade:"Sociedade e Cultura"};
-const CORES = {politica:"var(--pol)", economia:"var(--eco)", sociedade:"var(--soc)"};
+const CATS = ["politica","governo","economia","sociedade","opiniao"];
+const NOTICIAS = ["politica","governo","economia","sociedade"];
+const NOMES = {politica:"Política", governo:"Governo", economia:"Economia", sociedade:"Sociedade e Cultura", opiniao:"Opinião"};
 const st = {vista:"hoje", cat:"todas", dia:null, indice:null, cache:{}};
-try { const g = JSON.parse(localStorage.getItem("np-pref")||"{}"); if (g.cat) st.cat = g.cat; } catch(e){}
+try { const g = JSON.parse(localStorage.getItem("np-pref")||"{}"); if (g.cat && (g.cat==="todas"||CATS.includes(g.cat))) st.cat = g.cat; } catch(e){}
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDia = d => new Date(d+"T12:00:00").toLocaleDateString("pt-PT",{weekday:"short",day:"numeric",month:"short"});
+const fmtDiaCurto = d => new Date(d+"T12:00:00").toLocaleDateString("pt-PT",{day:"numeric",month:"short"});
 const fmtHora = iso => { const d = new Date(iso); return d.toLocaleDateString("pt-PT",{day:"numeric",month:"short"})+" · "+d.toLocaleTimeString("pt-PT",{hour:"2-digit",minute:"2-digit"}); };
+const num = (v, casas=1) => v==null ? "–" : Number(v).toLocaleString("pt-PT",{minimumFractionDigits:casas,maximumFractionDigits:casas});
+const tag = c => `<span class="tag"><i style="background:var(--${c})"></i>${NOMES[c]}</span>`;
+
+/* chips de categoria */
+$("#chips").innerHTML = `<button class="chip" data-c="todas">Todas</button>` + CATS.map(c => `<button class="chip" data-c="${c}"><i style="background:var(--${c})"></i>${NOMES[c]}</button>`).join("");
 
 async function carregar(url){
   if (st.cache[url]) return st.cache[url];
@@ -122,40 +176,70 @@ async function carregar(url){
   if (!r.ok) throw new Error(r.status);
   return st.cache[url] = await r.json();
 }
+async function talvez(url){ try { return await carregar(url); } catch(e){ return null; } }
 
+/* ---------- tooltip partilhado ---------- */
+const tip = $("#tip");
+function mostrarTip(html, x, y){ tip.innerHTML = html; tip.style.display = "block";
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  tip.style.left = Math.min(window.innerWidth - w - 8, Math.max(8, x - w/2)) + "px";
+  tip.style.top = (y - h - 12 < 8 ? y + 16 : y - h - 12) + "px"; }
+function esconderTip(){ tip.style.display = "none"; }
+document.addEventListener("scroll", esconderTip, {passive:true});
+
+/* ---------- peças ---------- */
 function forca(n){ const k = Math.min(5, Math.max(1, Math.ceil(n/2))); return `<span class="forca" title="${n} fontes">${[1,2,3,4,5].map(i=>`<b class="${i<=k?"on":""}"></b>`).join("")}</span>`; }
 
+function cobertura(serie, dias, cat){
+  if (!serie || !dias) return "";
+  const max = Math.max(...serie, 1);
+  const barras = serie.map((v,i) => `<span class="${v?"":"zero"}" style="height:${v? Math.max(8, v/max*100):0}%" data-tip="${esc(fmtDia(dias[i]))}: ${v ? v+" pontos de cobertura" : "sem cobertura"}"></span>`).join("");
+  return `<div class="cob" style="--c:var(--${cat})"><div class="barras">${barras}</div><div class="eixo"><span>${fmtDiaCurto(dias[0])}</span><span>${fmtDiaCurto(dias[dias.length-1])}</span></div></div>`;
+}
+
+function listaArtigos(t){
+  return t.artigos.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.titulo)}</a><small>${esc(a.fonte)} · ${fmtHora(a.data)}</small></li>`).join("");
+}
+
 function cartao(t, i, periodo, dias){
-  const artigos = t.artigos.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.titulo)}</a><small>${esc(a.fonte)} · ${fmtHora(a.data)}</small></li>`).join("");
-  let crono = "";
-  if (periodo && dias){
-    const on = new Set(t.dias);
-    crono = `<div class="crono" title="Dias em que o tema apareceu">${dias.map(d=>`<span class="${on.has(d)?"on":""}" title="${fmtDia(d)}"></span>`).join("")}</div>`;
-  }
+  if (t.categoria === "opiniao") return cartaoOpiniao(t);
+  const extra = periodo ? ` · ${t.n_dias} ${t.n_dias==1?"dia":"dias"}` : "";
   return `<article class="tema">
     <div class="rank">${i+1}</div>
     <h3>${esc(t.titulo)}</h3>
     <div class="meta">
-      <span class="tag t-${t.categoria}">${NOMES[t.categoria]}</span>
-      ${forca(t.n_fontes)} <span>${t.n_fontes} ${t.n_fontes==1?"fonte":"fontes"} · ${t.n_artigos} ${t.n_artigos==1?"notícia":"notícias"}${periodo?` · ${t.n_dias} ${t.n_dias==1?"dia":"dias"}`:""}</span>
+      ${tag(t.categoria)} ${t.em_alta ? `<span class="alta">▲ em alta</span>` : ""}
+      ${forca(t.n_fontes)} <span>${t.n_fontes} ${t.n_fontes==1?"fonte":"fontes"} · ${t.n_artigos} ${t.n_artigos==1?"notícia":"notícias"}${extra}</span>
       ${(t.palavras||[]).slice(0,3).map(k=>`<span class="kw">${esc(k)}</span>`).join("")}
     </div>
     ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p><button class="mais" hidden>▾ Ler resumo completo</button>` : ""}
-    ${crono}
-    <details><summary>Ver notícias (${t.fontes.join(", ")})</summary><ul>${artigos}</ul></details>
+    ${periodo ? cobertura(t.serie, dias, t.categoria) : ""}
+    <details><summary>Ver notícias (${esc(t.fontes.join(", "))})</summary><ul>${listaArtigos(t)}</ul></details>
   </article>`;
 }
 
-function blocoTemas(temas, periodo, dias){
-  const cats = st.cat === "todas" ? ["politica","economia","sociedade"] : [st.cat];
-  const limite = st.cat === "todas" ? 5 : 15;
-  let html = "";
-  for (const c of cats){
-    const lista = (temas[c]||[]).slice(0, limite);
-    html += `<h2 class="sec"><i style="background:${CORES[c]}"></i>${NOMES[c]}</h2>`;
-    html += lista.length ? `<div class="lista">${lista.map((t,i)=>cartao(t,i,periodo,dias)).join("")}</div>` : `<div class="vazio">Sem temas nesta categoria.</div>`;
-  }
+function cartaoOpiniao(t){
+  const a = t.artigos[0] || {};
+  return `<article class="tema sem-rank">
+    <h3><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(t.titulo)}</a></h3>
+    <div class="meta">${tag("opiniao")} <span>${t.autor ? esc(t.autor)+" · " : ""}${esc(a.fonte)} · ${fmtHora(t.data || a.data)}</span></div>
+    ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p><button class="mais" hidden>▾ Ler resumo completo</button>` : ""}
+  </article>`;
+}
+
+function seccao(c, lista, limite, periodo, dias, antes=""){
+  const n = (lista||[]).length;
+  let html = `<h2 class="sec"><i style="background:var(--${c})"></i>${NOMES[c]}${c==="opiniao"?" <small>· mais recentes</small>":""}</h2>` + antes;
+  const itens = (lista||[]).slice(0, limite);
+  html += itens.length ? `<div class="lista ${c!=="opiniao"?"destaque":""}">${itens.map((t,i)=>cartao(t,i,periodo,dias)).join("")}</div>`
+                       : `<div class="vazio">Sem ${c==="opiniao"?"artigos de opinião":"temas"} ${periodo?"neste período":"neste dia"}.</div>`;
   return html;
+}
+
+function blocoTemas(temas, periodo, dias, extras={}){
+  const cats = st.cat === "todas" ? CATS : [st.cat];
+  const limite = st.cat === "todas" ? (c => c==="opiniao" ? 6 : 5) : (() => 15);
+  return cats.map(c => seccao(c, temas[c], limite(c), periodo, dias, extras[c]||"")).join("");
 }
 
 function blocoCapas(capas){
@@ -165,33 +249,138 @@ function blocoCapas(capas){
     <span>${esc(c.nome)}${c.data && c.data!==st.dia ? `<br><em>${fmtDia(c.data)}</em>`:""}</span></button>`).join("")}</div>`;
 }
 
+function blocoEmAlta(lista, dias, limite=5){
+  if (!lista?.length) return "";
+  let filtrada = st.cat==="todas" ? lista : lista.filter(h => h.categoria===st.cat);
+  if (!filtrada.length) return "";
+  filtrada = filtrada.slice(0, limite);
+  return `<h2 class="sec"><span class="alta">▲</span> Em alta <small>· cobertura a crescer face aos dias anteriores</small></h2><div class="alta-lista">${filtrada.map(h => {
+    const a = h.artigos[0] || {};
+    const txt = h.novo ? "tema novo hoje" : `${h.hoje} pts hoje · média ${num(h.media_anterior,1)} antes`;
+    return `<div class="alta-item">${tag(h.categoria)}<b><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(h.titulo)}</a></b>
+      ${cobertura(h.serie, dias, h.categoria)}
+      <div class="rodape"><span>${h.n_fontes} fontes</span><span>${txt}</span></div></div>`; }).join("")}</div>`;
+}
+
+function blocoQuem(pessoas, dias){
+  if (!pessoas?.length) return "";
+  const max = pessoas[0].n;
+  return `<h2 class="sec">Quem está nas notícias <small>· nº de notícias em que aparece</small></h2><div class="quem">${pessoas.slice(0,12).map(p => {
+    const porDia = p.serie.map((v,i)=>v? `${fmtDiaCurto(dias[dias.length - p.serie.length + i])}: ${v}` : "").filter(Boolean).join("<br>");
+    return `<div class="nome" title="${esc(p.nome)}">${esc(p.nome)}</div>
+      <div class="linha" data-tip="<b>${esc(p.nome)}</b><br>${p.n} notícias${porDia?"<br>"+porDia:""}"><span style="width:${p.n/max*85}%"></span><em>${p.n}</em></div>`; }).join("")}</div>`;
+}
+
+/* ---------- indicadores ---------- */
+function classeVar(ind){
+  if (ind.variacao == null || ind.variacao === 0) return "neutro";
+  if (ind.bom === "alto") return ind.variacao > 0 ? "bom" : "mau";
+  if (ind.bom === "baixo") return ind.variacao < 0 ? "bom" : "mau";
+  return "neutro";
+}
+function fmtPeriodo(p){
+  if (/^\d{4}-Q\d$/.test(p)) return p.replace(/(\d{4})-Q(\d)/, "$2.º trim. $1");
+  if (/^\d{4}-\d{2}$/.test(p)) return new Date(p+"-15").toLocaleDateString("pt-PT",{month:"short",year:"numeric"});
+  return p;
+}
+function sparkline(serie, id){
+  const W = 300, H = 64, pad = 4;
+  const vs = serie.map(s=>s.v), min = Math.min(...vs), max = Math.max(...vs), amp = (max-min)||1;
+  const x = i => pad + i*(W-2*pad)/Math.max(1, serie.length-1);
+  const y = v => H - pad - (v-min)/amp*(H-2*pad);
+  const d = serie.map((s,i)=>`${i?"L":"M"}${x(i).toFixed(1)},${y(s.v).toFixed(1)}`).join("");
+  const u = serie.length-1;
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" data-spark="${id}" role="img" aria-label="Evolução">
+    <line x1="${pad}" x2="${W-pad}" y1="${H-pad}" y2="${H-pad}" stroke="var(--grid)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="${d}" fill="none" stroke="var(--serie)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+    <line class="cruz" x1="0" x2="0" y1="0" y2="${H}" stroke="var(--muted)" stroke-width="1" vector-effect="non-scaling-stroke" visibility="hidden"/>
+    <circle cx="${x(u)}" cy="${y(serie[u].v)}" r="4" fill="var(--serie)" stroke="var(--card)" stroke-width="2" vector-effect="non-scaling-stroke"/>
+  </svg>`;
+}
+function tileIndicador(ind, pequeno){
+  const seta = ind.variacao==null ? "" : ind.variacao>0 ? "▲" : ind.variacao<0 ? "▼" : "■";
+  const varTxt = ind.variacao==null ? "" : `${seta} ${ind.variacao>0?"+":""}${num(ind.variacao,2)} p.p. face ao período anterior`;
+  if (pequeno) return `<div class="ind pequeno" data-ir="indicadores"><div class="rot">${esc(ind.nome)}</div><div class="val">${num(ind.valor,1)}<small>${esc(ind.unidade)}</small></div><div class="var ${classeVar(ind)}">${seta} ${ind.variacao==null?"":(ind.variacao>0?"+":"")+num(ind.variacao,2)}</div></div>`;
+  return `<div class="ind">
+    <div class="rot">${esc(ind.nome)}</div>
+    <div class="val">${num(ind.valor, ind.id==="euribor"||ind.id==="juros"?2:1)}<small>${esc(ind.unidade)}</small></div>
+    <div class="var ${classeVar(ind)}">${varTxt}</div>
+    <div class="sub">${esc(ind.descricao)} · ${fmtPeriodo(ind.periodo)}${ind.geo!=="PT"?" · Zona euro":" · Portugal"}</div>
+    ${ind.zona_euro!=null ? `<div class="sub">Zona euro no mesmo período: ${num(ind.zona_euro,1)}${esc(ind.unidade)}</div>` : ""}
+    ${sparkline(ind.serie, ind.id)}
+    <div class="sub" style="display:flex;justify-content:space-between"><span>${fmtPeriodo(ind.serie[0].p)}</span><span>${fmtPeriodo(ind.serie[ind.serie.length-1].p)}</span></div>
+    <a class="fonte" href="${esc(ind.link)}" target="_blank" rel="noopener">Fonte: Eurostat ↗</a>
+  </div>`;
+}
+function ativarSparklines(raiz, lista){
+  raiz.querySelectorAll("svg[data-spark]").forEach(svg => {
+    const ind = lista.find(i => i.id === svg.dataset.spark); if (!ind) return;
+    const cruz = svg.querySelector(".cruz"), n = ind.serie.length;
+    const mover = e => {
+      const r = svg.getBoundingClientRect(), px = (e.touches?e.touches[0].clientX:e.clientX) - r.left;
+      const i = Math.max(0, Math.min(n-1, Math.round((px/r.width) * (n-1))));
+      const xs = 4 + i*(300-8)/Math.max(1,n-1);
+      cruz.setAttribute("x1", xs); cruz.setAttribute("x2", xs); cruz.setAttribute("visibility","visible");
+      mostrarTip(`<b>${fmtPeriodo(ind.serie[i].p)}</b>: ${num(ind.serie[i].v,2)}${esc(ind.unidade)}`, r.left + xs/300*r.width, r.top);
+    };
+    svg.addEventListener("mousemove", mover); svg.addEventListener("touchstart", mover, {passive:true});
+    svg.addEventListener("mouseleave", () => { cruz.setAttribute("visibility","hidden"); esconderTip(); });
+  });
+}
+
+/* ---------- render ---------- */
 function intervalo(de, ate){ const out=[]; let d=new Date(de+"T12:00:00"); const f=new Date(ate+"T12:00:00"); while(d<=f){ out.push(d.toISOString().slice(0,10)); d.setDate(d.getDate()+1);} return out; }
 
 async function render(){
   document.querySelectorAll("#tabs button").forEach(b=>b.classList.toggle("on", b.dataset.v===st.vista));
   document.querySelectorAll("#chips .chip").forEach(b=>b.classList.toggle("on", b.dataset.c===st.cat));
+  $("#chips").style.display = st.vista==="indicadores" ? "none" : "flex";
   $("#datenav").style.display = st.vista==="hoje" ? "flex" : "none";
-  $("#periodo").style.display = st.vista==="hoje" ? "none" : "block";
+  $("#periodo").style.display = st.vista==="semana"||st.vista==="mes" ? "block" : "none";
   const alvo = $("#conteudo");
+  esconderTip();
   try{
+    const ind = await talvez("data/indicadores.json");
     if (st.vista === "hoje"){
       const dias = st.indice.dias, i = dias.indexOf(st.dia);
       $("#prev").disabled = i <= 0; $("#next").disabled = i >= dias.length-1;
       $("#diaTxt").textContent = st.dia === st.indice.hoje ? "Hoje" : fmtDia(st.dia);
       const d = await carregar(`data/dias/${st.dia}.json`);
-      alvo.innerHTML = blocoCapas(d.capas) + blocoTemas(d.temas, false);
+      const sem = st.dia === st.indice.hoje ? await talvez("data/semana.json") : null;
+      const mini = ind?.indicadores?.length && (st.cat==="todas"||st.cat==="economia")
+        ? `<div class="ind-grelha mini">${ind.indicadores.map(x=>tileIndicador(x,true)).join("")}</div>` : "";
+      alvo.innerHTML = (st.cat==="todas" ? blocoCapas(d.capas) : "") +
+        (sem ? blocoEmAlta(sem.em_alta, sem.dias || intervalo(sem.de, sem.ate), 3) : "") +
+        blocoTemas(d.temas, false, null, {economia: mini});
       alvo.querySelectorAll(".capa").forEach(b => b.onclick = () => abrirCapa(d.capas[+b.dataset.i]));
+    } else if (st.vista === "indicadores"){
+      alvo.innerHTML = ind?.indicadores?.length
+        ? `<h2 class="sec">Indicadores económicos de Portugal <small>· dados oficiais do Eurostat, atualizados ${fmtDia(ind.obtido)}</small></h2>
+           <div class="ind-grelha">${ind.indicadores.map(x=>tileIndicador(x,false)).join("")}</div>
+           <p class="nota">Setas a verde/vermelho indicam se a variação é boa ou má para a economia (ex.: desemprego a descer é bom). Inflação fica a cinzento: o ideal é estável perto dos 2%.</p>`
+        : `<div class="vazio">Os indicadores ainda não foram recolhidos. Aparecem depois da próxima atualização.</div>`;
+      if (ind?.indicadores) ativarSparklines(alvo, ind.indicadores);
     } else {
       const d = await carregar(`data/${st.vista}.json`);
+      const dias = d.dias || intervalo(d.de, d.ate);
       const n = st.vista==="semana" ? 7 : 30;
-      $("#periodo").textContent = `${fmtDia(d.de)} – ${fmtDia(d.ate)} · ${d.n_dias} ${d.n_dias==1?"dia":"dias"} com dados` + (d.n_dias < n ? " (o histórico vai crescendo)" : "");
-      alvo.innerHTML = blocoTemas(d.temas, true, intervalo(d.de, d.ate));
+      $("#periodo").textContent = `${fmtDia(dias[0])} – ${fmtDia(dias[dias.length-1])} · ${d.n_dias} ${d.n_dias==1?"dia":"dias"} com dados` + (d.n_dias < n ? " (o histórico vai crescendo)" : "");
+      alvo.innerHTML = (st.cat==="todas" ? blocoQuem(d.pessoas, dias) : "") +
+        (st.vista==="semana" ? blocoEmAlta(d.em_alta, dias) : "") +
+        blocoTemas(d.temas, true, dias);
     }
     ativarResumos(alvo);
+    alvo.querySelectorAll("[data-ir]").forEach(el => el.onclick = () => { st.vista = el.dataset.ir; render(); window.scrollTo(0,0); });
   } catch(e){
+    console.error(e);
     alvo.innerHTML = `<div class="vazio">Ainda não há dados para mostrar. Corre a atualização no GitHub (separador Actions).</div>`;
   }
 }
+
+/* tooltips das barras (cobertura, quem está nas notícias) */
+document.addEventListener("mouseover", e => { const el = e.target.closest("[data-tip]"); if (!el) return; const r = el.getBoundingClientRect(); mostrarTip(el.dataset.tip, r.left + r.width/2, r.top); });
+document.addEventListener("mouseout", e => { if (e.target.closest("[data-tip]")) esconderTip(); });
+document.addEventListener("touchstart", e => { const el = e.target.closest("[data-tip]"); if (!el) { esconderTip(); return; } const r = el.getBoundingClientRect(); mostrarTip(el.dataset.tip, r.left + r.width/2, r.top); }, {passive:true});
 
 function ativarResumos(raiz){
   raiz.querySelectorAll(".resumo").forEach(p => {
@@ -201,12 +390,12 @@ function ativarResumos(raiz){
     b.onclick = () => { const on = p.classList.toggle("aberto"); b.textContent = on ? "▴ Mostrar menos" : "▾ Ler resumo completo"; };
   });
 }
-function abrirCapa(c){ const lb=$("#lb"); lb.querySelector("img").src=c.imagem; lb.querySelector("img").referrerPolicy="no-referrer"; lb.querySelector("a").href=c.pagina; lb.classList.add("on"); }
+function abrirCapa(c){ const lb=$("#lb"); lb.querySelector("img").referrerPolicy="no-referrer"; lb.querySelector("img").src=c.imagem; lb.querySelector("a").href=c.pagina; lb.classList.add("on"); }
 $("#lb").onclick = e => { if (e.target.tagName !== "A") $("#lb").classList.remove("on"); };
 document.addEventListener("keydown", e => { if (e.key==="Escape") $("#lb").classList.remove("on"); });
 
 $("#tabs").onclick = e => { const v = e.target.dataset.v; if (v){ st.vista = v; render(); } };
-$("#chips").onclick = e => { const c = e.target.dataset.c; if (c){ st.cat = c; try{localStorage.setItem("np-pref", JSON.stringify({cat:c}))}catch(_){} render(); } };
+$("#chips").onclick = e => { const b = e.target.closest(".chip"); if (b){ st.cat = b.dataset.c; try{localStorage.setItem("np-pref", JSON.stringify({cat:st.cat}))}catch(_){} render(); } };
 $("#prev").onclick = () => { const d=st.indice.dias, i=d.indexOf(st.dia); if (i>0){ st.dia=d[i-1]; render(); } };
 $("#next").onclick = () => { const d=st.indice.dias, i=d.indexOf(st.dia); if (i<d.length-1){ st.dia=d[i+1]; render(); } };
 
@@ -214,14 +403,14 @@ $("#next").onclick = () => { const d=st.indice.dias, i=d.indexOf(st.dia); if (i<
   try{
     st.indice = await (await fetch("data/indice.json?t="+Date.now())).json();
   } catch(e){
-    $("#conteudo").innerHTML = `<div class="vazio">Ainda não há dados. Corre a primeira atualização no GitHub (separador <b>Actions</b> → <b>Atualizar notícias</b> → <b>Run workflow</b>).</div>`;
+    $("#conteudo").innerHTML = `<div class="vazio">Ainda não há dados. Corre a primeira atualização no GitHub (separador <b>Actions</b> → <b>Atualizar noticias</b> → <b>Run workflow</b>).</div>`;
     $("#datenav").style.display="none"; return;
   }
   st.dia = st.indice.dias.includes(st.indice.hoje) ? st.indice.hoje : st.indice.dias.at(-1);
   const a = new Date(st.indice.atualizado);
   $("#upd").textContent = "Atualizado " + a.toLocaleString("pt-PT",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
   const erros = Object.entries(st.indice.fontes||{}).filter(([,v]) => typeof v === "string");
-  $("#rodape").innerHTML = `Capas via VerCapas · Notícias via RSS dos jornais. ${st.indice.n_capas} capas hoje.` +
+  $("#rodape").innerHTML = `Capas via VerCapas · Notícias via RSS dos jornais · Indicadores via Eurostat. ${st.indice.n_capas} capas hoje.` +
     (erros.length ? ` <details><summary>${erros.length} fonte(s) com erro na última atualização</summary><ul>${erros.map(([u,v])=>`<li>${esc(u)} <small>${esc(v)}</small></li>`).join("")}</ul></details>` : "");
   render();
 })();
