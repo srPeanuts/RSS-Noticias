@@ -39,8 +39,8 @@ nav.tabs button.on{color:var(--ink);border-color:var(--accent)}
 h2.sec{font:700 13px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:26px 0 10px;display:flex;align-items:center;gap:8px}
 h2.sec i{width:10px;height:10px;border-radius:2px;display:inline-block}
 .capas{display:flex;gap:12px;overflow-x:auto;padding:4px 2px 12px;scroll-snap-type:x mandatory}
-.capa{flex:0 0 auto;width:132px;scroll-snap-align:start;cursor:zoom-in;text-align:center;background:none;border:0;padding:0;color:inherit}
-.capa img{width:132px;height:176px;object-fit:cover;object-position:top;border-radius:4px;border:1px solid var(--line);background:var(--chip);display:block}
+.capa{flex:0 0 auto;width:264px;scroll-snap-align:start;cursor:zoom-in;text-align:center;background:none;border:0;padding:0;color:inherit}
+.capa img{width:264px;height:352px;object-fit:cover;object-position:top;border-radius:4px;border:1px solid var(--line);background:var(--chip);display:block}
 .capa span{display:block;font-size:12px;margin-top:5px;color:var(--muted);line-height:1.25}
 .capa em{font-style:normal;color:var(--accent)}
 .lista .tema{align-content:start}.lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px}.lista .resumo{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.lista .resumo.aberto{display:block;-webkit-line-clamp:unset;overflow:visible}.mais{grid-column:2;justify-self:start;background:none;border:0;padding:2px 0;margin-top:2px;color:var(--muted);font:600 12px Inter,sans-serif;cursor:pointer}.mais:hover{color:var(--ink)}@media (min-width:700px){.lista>.tema:first-child{grid-column:span 2}.lista>.tema:first-child h3{font-size:22px}}
@@ -161,7 +161,7 @@ function blocoTemas(temas, periodo, dias){
 function blocoCapas(capas){
   if (!capas?.length) return "";
   return `<h2 class="sec">Capas do dia</h2><div class="capas">${capas.map((c,i)=>`
-    <button class="capa" data-i="${i}"><img loading="lazy" referrerpolicy="no-referrer" src="${esc(c.miniatura||c.imagem)}" alt="Capa ${esc(c.nome)}" onerror="this.onerror=null;this.src='${esc(c.imagem)}'">
+    <button class="capa" data-i="${i}"><img loading="lazy" referrerpolicy="no-referrer" src="${esc(c.imagem||c.miniatura)}" alt="Capa ${esc(c.nome)}" onerror="this.onerror=null;this.src='${esc(c.miniatura||"")}'">
     <span>${esc(c.nome)}${c.data && c.data!==st.dia ? `<br><em>${fmtDia(c.data)}</em>`:""}</span></button>`).join("")}</div>`;
 }
 
