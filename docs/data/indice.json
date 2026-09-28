@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-28T16:36+01:00",
+ "atualizado": "2026-09-28T16:46+01:00",
  "hoje": "2026-09-28",
  "dias": [
   "2026-09-26",
@@ -20,7 +20,12 @@
   "https://www.cmjornal.pt/rss": 0,
   "http://feeds.dn.pt/DN-Ultimas": 20,
   "https://www.noticiasaominuto.com/rss/politica": 490,
-  "https://www.noticiasaominuto.com/rss/economia": 490
+  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://cnnportugal.iol.pt/rss.xml": 50,
+  "https://24noticias.sapo.pt/feed": 25,
+  "https://sicnoticias.pt/rss": "erro HTTP 403",
+  "http://feeds.jn.pt/JN-Ultimas": 20,
+  "http://feeds.tsf.pt/TSF-Ultimas": 20
  },
  "n_capas": 11
 }
