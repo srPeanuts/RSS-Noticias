@@ -1,0 +1,37 @@
+{
+  "_nota": "Lista de fontes. Podes acrescentar ou remover linhas. 'categoria' força a categoria de todas as notícias desse feed (deixa vazio para classificação automática).",
+  "feeds": [
+    {"fonte": "Observador",          "url": "https://observador.pt/feed/",                         "categoria": ""},
+    {"fonte": "Público",             "url": "https://feeds.feedburner.com/PublicoRSS",             "categoria": ""},
+    {"fonte": "Expresso",            "url": "https://feeds.feedburner.com/expresso-geral",         "categoria": ""},
+    {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/politica",            "categoria": "politica"},
+    {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/economia",            "categoria": "economia"},
+    {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/pais",                "categoria": "sociedade"},
+    {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/cultura",             "categoria": "sociedade"},
+    {"fonte": "ECO",                 "url": "https://eco.sapo.pt/feed/",                           "categoria": "economia"},
+    {"fonte": "Jornal de Negócios",  "url": "https://www.jornaldenegocios.pt/rss",                 "categoria": "economia"},
+    {"fonte": "Jornal Económico",    "url": "https://jornaleconomico.sapo.pt/feed",                "categoria": "economia"},
+    {"fonte": "Correio da Manhã",    "url": "https://www.cmjornal.pt/rss",                         "categoria": ""},
+    {"fonte": "Diário de Notícias",  "url": "http://feeds.dn.pt/DN-Ultimas",                       "categoria": ""},
+    {"fonte": "Renascença",          "url": "https://rr.pt/rssfeed-ultimas",                       "categoria": ""},
+    {"fonte": "Notícias ao Minuto",  "url": "https://www.noticiasaominuto.com/rss/politica",       "categoria": "politica"},
+    {"fonte": "Notícias ao Minuto",  "url": "https://www.noticiasaominuto.com/rss/economia",       "categoria": "economia"},
+    {"fonte": "Google Notícias PT",  "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=pt-PT&gl=PT&ceid=PT:pt-150", "categoria": ""}
+  ],
+  "capas": [
+    {"nome": "Público",             "slug": "publico"},
+    {"nome": "Expresso",            "slug": "expresso"},
+    {"nome": "Diário de Notícias",  "slug": "diario-de-noticias"},
+    {"nome": "Jornal de Notícias",  "slug": "jornal-de-noticias"},
+    {"nome": "Correio da Manhã",    "slug": "correio-da-manha"},
+    {"nome": "Jornal i",            "slug": "i"},
+    {"nome": "Nascer do SOL",       "slug": "sol"},
+    {"nome": "NOVO Semanário",      "slug": "novo-semanario"},
+    {"nome": "Jornal de Negócios",  "slug": "jornal-de-negocios"},
+    {"nome": "Jornal Económico",    "slug": "jornal-economico"},
+    {"nome": "Expresso Economia",   "slug": "expresso-economia"},
+    {"nome": "Visão",               "slug": "visao"},
+    {"nome": "Sábado",              "slug": "sabado"},
+    {"nome": "Jornal de Letras",    "slug": "jornal-de-letras"}
+  ]
+}
