@@ -368,11 +368,15 @@
   "categoria": "sociedade"
  },
  {
-  "titulo": "Tascas ou restaurantes? saiba onde comer em Ponta Delgada, Capital Portuguesa da Cultura 2026",
-  "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/restaurantes/2026-09-26-tascas-ou-restaurantes--saiba-onde-comer-em-ponta-delgada-capital-portuguesa-da-cultura-2026-7b253233",
+  "titulo": "Tascas ou restaurantes? Saiba onde comer em Ponta Delgada, Capital Portuguesa da Cultura 2026",
+  "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/restaurantes/2026-09-28-tascas-ou-restaurantes--saiba-onde-comer-em-ponta-delgada-capital-portuguesa-da-cultura-2026-7b253233",
   "resumo": "Gastronomia é cultura. E, neste contexto, a ilha açoriana de São Miguel guarda muitos tesouros, entre produtos, do mar e da terra, e receituário tradicional. Juntam-se à tradição, as apostas mais contemporâneas e que ajudam a promover, à mesa, Ponta Delgada como Capital Portuguesa da Cultura 2026",
   "fonte": "Expresso",
   "data": "2026-09-28T12:13:21+01:00",
+  "cats_feed": [
+   "Restaurantes"
+  ],
+  "categoria_forcada": "",
   "categoria": "sociedade"
  },
  {
@@ -424,14 +428,6 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Homem que atirou cocktail molotov a manifestantes \"gerou medo e agiu por convicção anarquista\": tribunal mantém prisão preventiva",
-  "link": "https://expresso.pt/seguranca/2026-09-28-homem-que-atirou-cocktail-molotov-a-manifestantes-gerou-medo-e-agiu-por-conviccao-anarquista-tribunal-mantem-prisao-preventiva-41e2047f",
-  "resumo": "Tribunal da Relação diz que o designer agiu com o propósito de provocar um incêndio no local onde estavam os manifestantes da Marcha Pela Vida e para o meio dos quais atirou o cocktail molotov. Que apesar de não ter deflagrado deixou um rasto de gasolina que atingiu uma criança de 2 anos e um bebé de 4 meses",
-  "fonte": "Expresso",
-  "data": "2026-09-28T08:00:00+01:00",
-  "categoria": "sociedade"
- },
- {
   "titulo": "Os derrames sistemáticos das gigantes petrolíferas estão a envenenar a costa de Angola e as suas comunidades",
   "link": "https://expresso.pt/angola/2026-09-28-os-derrames-sistematicos-das-gigantes-petroliferas-estao-a-envenenar-a-costa-de-angola-e-as-suas-comunidades-e8e2ee2e",
   "resumo": "Enquanto as gigantes petrolíferas europeias prometem uma “mentalidade de zero derrames” nos seus países de origem, as suas operações offshore ao longo da costa angolana parecem contar uma história diferente. Os derrames crónicos de petróleo no oceano deixam as comunidades sem peixe nem alimentos frescos, as praias ficam cobertas de crude e a exposição a substâncias tóxicas aumenta as doenças entre",
@@ -448,28 +444,17 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Nunca houve tantos estrangeiros, mas ritmo de entradas no país está abrandar: o retrato da imigração em Portugal",
-  "link": "https://multimedia.expresso.pt/imigracaoportugal2026/",
-  "resumo": "O relatório anual da AIMA - Agência para a Integração, Migrações e Asilo - mostra que os 1,59 milhões de residentes estrangeiros são sobretudo homens em idade ativa e que a maioria dos títulos de residência foi concedida para trabalhar. Ao mesmo tempo, as ordens para abandonar o país passaram de 446 para mais de 23 mil num só ano",
+  "titulo": "O grande valor de Lisboa é continuar a ser Lisboa",
+  "link": "https://expresso.pt/opiniao/2026-09-28-o-grande-valor-de-lisboa-e-continuar-a-ser-lisboa-4584a9e0",
+  "resumo": "Valorizar o comércio é defender a economia local e a identidade que atrai quem nos visita. A força de Lisboa é continuar a ser Lisboa: nenhuma campanha fabrica a diversidade criada por quem aqui produz, cria, repara ou serve",
   "fonte": "Expresso",
+  "autor": "António Valle",
   "data": "2026-09-28T07:00:00+01:00",
-  "categoria": "sociedade"
- },
- {
-  "titulo": "Palacete histórico na Lapa, em Lisboa, vai ser transformado em 12 habitações de luxo",
-  "link": "https://expresso.pt/economia/economia_imobiliario/2026-09-28-palacete-historico-na-lapa-em-lisboa-vai-ser-transformado-em-12-habitacoes-de-luxo-aa9d73ff",
-  "resumo": "A conclusão de oito apartamentos e quatro moradias, com áreas até 335 metros quadrados, está prevista para setembro de 2028",
-  "fonte": "Expresso",
-  "data": "2026-09-28T07:00:00+01:00",
-  "categoria": "economia"
- },
- {
-  "titulo": "Uma rapariga que nasça hoje na Europa vai ter de esperar 70 anos para viver num mundo com igualdade de género",
-  "link": "https://expresso.pt/sociedade/2026-09-28-uma-rapariga-que-nasca-hoje-na-europa-vai-ter-de-esperar-70-anos-para-viver-num-mundo-com-igualdade-de-genero-2e1d02a3",
-  "resumo": "A geração que está agora a nascer na Europa vai estar a entrar na reforma antes de viver num continente onde homens e mulheres tenham as mesmas oportunidades. É a conclusão do novo relatório do Forum Económico Mundial, que estima que a Europa ainda precise de 70 anos para alcançar a igualdade de género. Portugal ocupa a 32ª posição do mundo, e o maior problema está no acesso a cargos de poder",
-  "fonte": "Expresso",
-  "data": "2026-09-28T07:00:00+01:00",
-  "categoria": "sociedade"
+  "cats_feed": [
+   "Opinião"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
  },
  {
   "titulo": "Depósitos, Certificados, PPR, ETF ou ações? O mapa que precisa antes de investir um euro, segundo Pedro Andersson",
@@ -496,11 +481,16 @@
   "categoria": "politica"
  },
  {
-  "titulo": "Habitação. Governo quer despejos em dois dias e mercado de arrendamento mais flexível",
-  "link": "https://www.rtp.pt/noticias/economia/habitacao-governo-quer-despejos-em-dois-dias-e-mercado-de-arrendamento-mais-flexivel_n1768136",
-  "resumo": "Na quarta-feira o Governo português leva ao Parlamento a reforma do regime de arrendamento urbano que ao contrário do que Espanha tenta fazer propõe mais flexibilização no mercado das rendas.",
+  "titulo": "Habitação. Governo quer despejos em dois meses e mercado de arrendamento mais flexível",
+  "link": "https://www.rtp.pt/noticias/economia/habitacao-governo-quer-despejos-em-dois-meses-e-mercado-de-arrendamento-mais-flexivel_n1768136",
+  "resumo": "Na quarta-feira o Governo português leva ao Parlamento a reforma do regime de arrendamento urbano que, ao contrário do que Espanha, tenta fazer propõe mais flexibilização no mercado das rendas.",
   "fonte": "RTP",
+  "autor": "",
   "data": "2026-09-28T08:54:44+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
   "categoria": "economia"
  },
  {
@@ -848,14 +838,6 @@
   "categoria": "economia"
  },
  {
-  "titulo": "“Gigaliners” anunciados em janeiro só chegam às estradas daqui a seis meses",
-  "link": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/gigaliners-anunciados-em-janeiro-so-chegam-as-estradas-daqui-a-seis-meses",
-  "resumo": "Decreto-Lei que define as regras de circulação destes supercamiões só agora foi publicada, sendo que só produz efeitos dentro de 180 dias. Os “gigaliners” de 32 metros só começarão a ser vistos nas estradas a partir de março do próximo ano.",
-  "fonte": "Jornal de Negócios",
-  "data": "2026-09-28T08:00:00+01:00",
-  "categoria": "economia"
- },
- {
   "titulo": "Cartoon SA 28-09-2026",
   "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-28-09-2026",
   "resumo": "Cartoon de Luís Afonso",
@@ -960,11 +942,15 @@
   "categoria": "politica"
  },
  {
-  "titulo": "CMVM aplicou 10 coimas no valor total de 148 mil euros em 2025",
-  "link": "https://www.noticiasaominuto.com/economia/3058330/cmvm-aplicou-10-coimas-no-valor-total-de-148-mil-euros-em-2025#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "titulo": "CMVM aplicou 10 coimas no valor total de 280 mil euros em 2025",
+  "link": "https://www.noticiasaominuto.com/economia/3058330/cmvm-aplicou-10-coimas-no-valor-total-de-280-mil-euros-em-2025#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
   "resumo": "",
   "fonte": "Notícias ao Minuto",
   "data": "2026-09-28T12:36:11+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
   "categoria": "economia"
  },
  {
@@ -1208,12 +1194,12 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Médico português recebe bolsa para estudar cancros do sangue em Londres",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQXNSM082cndnc0toakdueGhZMGdNRlFWWjVaMGZVTzNBeXFhWWJ4X0NqTW9KVVkzMGdzWlJ5US12bGUyYVlQOUY4V1daQk1LeVZfcFhBMDYxTTRKZWpvRGl0SjVQZnJmUEZ6SHhPSzJNZThpTkJMRTktUnYzU2U1QnppS2VLeDNXSG5la0pMa0xQY3lYT2tDaTJ3QjlWcTZsRGY3aHpnMUd0Uy00NFNkX2lua2RaazlWU3c?oc=5",
+  "titulo": "Do IVA a 6% ao ISP: quatro anos depois, Montenegro não faz o que exigia a Costa",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3lJUl9MY29pRFRQUGNtUTUtQ1U0ZWVTNlQ2N0JhbjFSb0VtMWVhb1lFbkkyTnZHQ2JVZWUwY3JSa3Bmc0Zlbi1BZmJseWZZakxzZWJScGR2UmpoWExZeV9fWUcxamxXY2xWOWVwYWdocWVuUi04OWZaLVFXNWVzN1ZrQklkT3I0Tk5WUi1ObXBBOWNBSG5US3UzWVEwa1ZJcEZTbWw2QW5QYWVrZmJZbW13?oc=5",
   "resumo": "",
   "fonte": "Público",
   "data": "2026-09-28T06:08:00+00:00",
-  "categoria": "economia"
+  "categoria": "politica"
  },
  {
   "titulo": "Três menores estiveram 44 dias detidos em centro no aeroporto de Faro",
@@ -1222,14 +1208,6 @@
   "fonte": "Público",
   "data": "2026-09-28T06:00:00+00:00",
   "categoria": "sociedade"
- },
- {
-  "titulo": "Do IVA a 6% ao ISP: quatro anos depois, Montenegro não faz o que exigia a Costa",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3lJUl9MY29pRFRQUGNtUTUtQ1U0ZWVTNlQ2N0JhbjFSb0VtMWVhb1lFbkkyTnZHQ2JVZWUwY3JSa3Bmc0Zlbi1BZmJseWZZakxzZWJScGR2UmpoWExZeV9fWUcxamxXY2xWOWVwYWdocWVuUi04OWZaLVFXNWVzN1ZrQklkT3I0Tk5WUi1ObXBBOWNBSG5US3UzWVEwa1ZJcEZTbWw2QW5QYWVrZmJZbW13?oc=5",
-  "resumo": "",
-  "fonte": "Público",
-  "data": "2026-09-28T06:08:00+00:00",
-  "categoria": "politica"
  },
  {
   "titulo": "Armado com pistola à guarda da PSP tenta atropelar GNR",
@@ -1248,11 +1226,15 @@
   "categoria": "sociedade"
  },
  {
-  "titulo": "CMVM aplicou 10 coimas no valor total de 148 mil euros em 2025",
-  "link": "https://www.rtp.pt/noticias/economia/cmvm-aplicou-10-coimas-no-valor-total-de-148-mil-euros-em-2025_n1768196",
-  "resumo": "A Comissão do Mercado de Valores Mobiliários (CMVM) fechou nove processos de contraordenação em 2025, onde foram aplicadas 10 coimas e uma admoestação, no valor total de 148.750 euros.",
+  "titulo": "CMVM aplicou 10 coimas no valor total de 280 mil euros em 2025",
+  "link": "https://www.rtp.pt/noticias/economia/cmvm-aplicou-10-coimas-no-valor-total-de-280-mil-euros-em-2025_n1768196",
+  "resumo": "A Comissão do Mercado de Valores Mobiliários (CMVM) fechou nove processos de contraordenação em 2025, onde foram aplicadas 10 coimas e uma admoestação, no valor total de 280 mil euros.",
   "fonte": "RTP",
   "data": "2026-09-28T13:48:39+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
   "categoria": "economia"
  },
  {
@@ -1554,18 +1536,6 @@
   "categoria": "sociedade"
  },
  {
-  "titulo": "Tascas ou restaurantes? Saiba onde comer em Ponta Delgada, Capital Portuguesa da Cultura 2026",
-  "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/restaurantes/2026-09-28-tascas-ou-restaurantes--saiba-onde-comer-em-ponta-delgada-capital-portuguesa-da-cultura-2026-7b253233",
-  "resumo": "Gastronomia é cultura. E, neste contexto, a ilha açoriana de São Miguel guarda muitos tesouros, entre produtos, do mar e da terra, e receituário tradicional. Juntam-se à tradição, as apostas mais contemporâneas e que ajudam a promover, à mesa, Ponta Delgada como Capital Portuguesa da Cultura 2026",
-  "fonte": "Expresso",
-  "data": "2026-09-28T12:13:21+01:00",
-  "cats_feed": [
-   "Restaurantes"
-  ],
-  "categoria_forcada": "",
-  "categoria": "sociedade"
- },
- {
   "titulo": "JSD quer continuidade da Garantia Pública aos jovens e alargá-la à construção da primeira casa",
   "link": "https://www.rtp.pt/noticias/politica/jsd-quer-continuidade-da-garantia-publica-aos-jovens-e-alarga-la-a-construcao-da-primeira-casa_n1768217",
   "resumo": "Com a crise na Habitação a marcar a agenda pública e política dos últimos dias, à boleia de manifestações em Madrid, a Juventude Social Democrata defende agora o prolongamento da Garantia Pública aos jovens, bem como que esta seja alargada à construção da primeira casa.",
@@ -1638,9 +1608,9 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Governo mostra abertura para alargar descontos do gasóleo ao setor da terraplanagem",
-  "link": "https://www.rtp.pt/noticias/economia/governo-mostra-abertura-para-alargar-descontos-do-gasoleo-ao-setor-da-terraplanagem_v1768207",
-  "resumo": "Na reunião desta manhã com o ministro das Infraestruturas, os empresários saíram aparentemente satisfeitos.",
+  "titulo": "Governo mostra abertura para alargar descontos do gasóleo à terraplanagem",
+  "link": "https://www.rtp.pt/noticias/economia/governo-mostra-abertura-para-alargar-descontos-do-gasoleo-a-terraplanagem_v1768207",
+  "resumo": "Na reunião desta segunda-feira de manhã com o ministro das Infraestruturas, os empresários saíram aparentemente satisfeitos.",
   "fonte": "RTP",
   "data": "2026-09-28T14:18:47+01:00",
   "cats_feed": [
@@ -2752,30 +2722,6 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Governo mostra abertura para alargar descontos do gasóleo à terraplanagem",
-  "link": "https://www.rtp.pt/noticias/economia/governo-mostra-abertura-para-alargar-descontos-do-gasoleo-a-terraplanagem_v1768207",
-  "resumo": "Na reunião desta segunda-feira de manhã com o ministro das Infraestruturas, os empresários saíram aparentemente satisfeitos.",
-  "fonte": "RTP",
-  "data": "2026-09-28T14:18:47+01:00",
-  "cats_feed": [
-   "Economia"
-  ],
-  "categoria_forcada": "economia",
-  "categoria": "economia"
- },
- {
-  "titulo": "CMVM aplicou 10 coimas no valor total de 280 mil euros em 2025",
-  "link": "https://www.rtp.pt/noticias/economia/cmvm-aplicou-10-coimas-no-valor-total-de-280-mil-euros-em-2025_n1768196",
-  "resumo": "A Comissão do Mercado de Valores Mobiliários (CMVM) fechou nove processos de contraordenação em 2025, onde foram aplicadas 10 coimas e uma admoestação, no valor total de 280 mil euros.",
-  "fonte": "RTP",
-  "data": "2026-09-28T13:48:39+01:00",
-  "cats_feed": [
-   "Economia"
-  ],
-  "categoria_forcada": "economia",
-  "categoria": "economia"
- },
- {
   "titulo": "Venda da Indaqua adiada. Candidatos pedem mais informação antes de propostas finais",
   "link": "https://eco.sapo.pt/2026/09/28/venda-da-indaqua-adiada-candidatos-pedem-mais-informacao-antes-de-propostas-finais/",
   "resumo": "A venda da empresa portuguesa Indaqua sofreu um adiamento, porque os potenciais compradores pediram informações adicionais antes de apresentarem as suas propostas vinculativas, avança esta segunda-feira a Bloomberg. Os donos da gestora de sistemas hídricos deveriam ter recebido as propostas de aquisição (oficiais) até ao final de julho, mas o prazo foi prolongado depois de […]",
@@ -3134,18 +3080,6 @@
   "categoria": "economia"
  },
  {
-  "titulo": "CMVM aplicou 10 coimas no valor total de 280 mil euros em 2025",
-  "link": "https://www.noticiasaominuto.com/economia/3058330/cmvm-aplicou-10-coimas-no-valor-total-de-280-mil-euros-em-2025#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-  "resumo": "",
-  "fonte": "Notícias ao Minuto",
-  "data": "2026-09-28T12:36:11+00:00",
-  "cats_feed": [
-   "Economia"
-  ],
-  "categoria_forcada": "economia",
-  "categoria": "economia"
- },
- {
   "titulo": "Frente da depressão que se pode chamar Adam. Chuva forte ...",
   "link": "https://observador.pt/programas/quente-e-frio/frente-da-depressao-que-se-pode-chamar-adam-chuva-forte-chega-terca-e-quarta-vai-embora-e-volta-na-proxima-semana/",
   "resumo": "Depois das trovadas, a frente ligada ao ciclone-bomba ao largo da Irlanda (o Adam?) atinge-nos com força esta terça e quarta. Quinta e sexta são dias de transição. E a seguir a chuva deve voltar.",
@@ -3263,45 +3197,6 @@
    "Gasóleo"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
- },
- {
-  "titulo": "A próxima fronteira da soberania digital é a decisão",
-  "link": "https://expresso.pt/opiniao/2026-09-28-a-proxima-fronteira-da-soberania-digital-e-a-decisao-5a50b7ab",
-  "resumo": "Durante anos perguntámos onde estavam os dados? Com a inteligência artificial a decidir sobre crédito, risco ou fraude, há uma pergunta mais urgente: quem controla a decisão?",
-  "fonte": "Expresso",
-  "autor": "Rui Gonçalves",
-  "data": "2026-09-28T07:00:00+01:00",
-  "cats_feed": [
-   "Opinião"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
-  "titulo": "O grande valor de Lisboa é continuar a ser Lisboa",
-  "link": "https://expresso.pt/opiniao/2026-09-28-o-grande-valor-de-lisboa-e-continuar-a-ser-lisboa-4584a9e0",
-  "resumo": "Valorizar o comércio é defender a economia local e a identidade que atrai quem nos visita. A força de Lisboa é continuar a ser Lisboa: nenhuma campanha fabrica a diversidade criada por quem aqui produz, cria, repara ou serve",
-  "fonte": "Expresso",
-  "autor": "António Valle",
-  "data": "2026-09-28T07:00:00+01:00",
-  "cats_feed": [
-   "Opinião"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
-  "titulo": "Habitação. Governo quer despejos em dois meses e mercado de arrendamento mais flexível",
-  "link": "https://www.rtp.pt/noticias/economia/habitacao-governo-quer-despejos-em-dois-meses-e-mercado-de-arrendamento-mais-flexivel_n1768136",
-  "resumo": "Na quarta-feira o Governo português leva ao Parlamento a reforma do regime de arrendamento urbano que, ao contrário do que Espanha, tenta fazer propõe mais flexibilização no mercado das rendas.",
-  "fonte": "RTP",
-  "autor": "",
-  "data": "2026-09-28T08:54:44+01:00",
-  "cats_feed": [
-   "Economia"
-  ],
-  "categoria_forcada": "economia",
   "categoria": "economia"
  },
  {
@@ -4411,5 +4306,1470 @@
   ],
   "categoria_forcada": "",
   "categoria": "economia"
+ },
+ {
+  "titulo": "Líder sindical diz que MAI \"não fez nada\" pela PSP",
+  "link": "https://observador.pt/2026/09/28/lider-sindical-diz-que-luis-neves-nao-fez-nada-pela-psp-era-importante-que-tivesse-condicoes-politicas-para-aplicar-ideias/",
+  "resumo": "O presidente da ASPP entende que Luís Neves \"não tem tido\" condições políticas para exercer o cargo, mas continuidade do ministro \"é uma apreciação\" de Luís Montenegro.",
+  "fonte": "Observador",
+  "autor": "Miguel Pinheiro Correia",
+  "data": "2026-09-28T19:40:46+01:00",
+  "cats_feed": [
+   "PSP",
+   "Polícia",
+   "Segurança",
+   "Sociedade",
+   "Porto",
+   "País",
+   "Sindicatos",
+   "Trabalho",
+   "Economia",
+   "Ministério Administração Interna",
+   "Política"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "O caso das Gémeas é a grande vitória política do Chega?",
+  "link": "https://observador.pt/programas/e-o-vencedor-e/o-caso-das-gemeas-e-a-grande-vitoria-politica-do-chega/",
+  "resumo": "A acusação do Ministério Público dá trunfos a André Ventura. E ainda, José Luís Carneiro tenta aprovar o Orçamento em segredo e ataca o novo regime de arrendamento que antes elogiou.",
+  "fonte": "Observador",
+  "autor": "Judite França",
+  "data": "2026-09-28T19:38:57+01:00",
+  "cats_feed": [
+   "Governo",
+   "Política",
+   "Ministério Público",
+   "Justiça",
+   "André Ventura",
+   "Partido Chega",
+   "Caso das gémeas",
+   "Sociedade",
+   "País",
+   "Orçamento do Estado",
+   "Economia",
+   "Habitação e Urbanismo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Algarve. Santos Pereira critica \"comboios de terceiro mundo\"",
+  "link": "https://observador.pt/2026/09/28/governador-do-banco-de-portugal-critica-linha-de-comboios-de-terceiro-mundo-no-algarve-nao-ha-qualidade/",
+  "resumo": "Governador do Banco de Portugal considera que \"não há condições de qualidade suficiente\" nos comboios que circulam no Algarve. \"A infraestrutura é terceiro-mundista. Não há outra palavra.\"",
+  "fonte": "Observador",
+  "autor": "José Carlos Duarte",
+  "data": "2026-09-28T19:36:32+01:00",
+  "cats_feed": [
+   "CP",
+   "Empresas",
+   "Economia",
+   "Algarve",
+   "País",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Acusados por branqueamento em esquema CEO Fraud",
+  "link": "https://observador.pt/2026/09/28/mp-acusa-pessoa-e-empresa-por-branqueamento-e-falsificacao-ligados-a-esquema-ceo-fraud-com-origem-no-estrangeiro/",
+  "resumo": "Conta bancária em Portugal usada para receber e dissimular fundos ilícitos para a China. DIAP de Évora liderou a investigação com apoio da Polícia Judiciária.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T19:26:46+01:00",
+  "cats_feed": [
+   "Ministério Público",
+   "Justiça",
+   "Branqueamento de Capitais"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Portugal é 11.º destino mais competitivo do mundo",
+  "link": "https://observador.pt/2026/09/28/portugal-sobe-ao-11-o-lugar-no-ranking-de-competitividade-turistica-do-forum-economico-mundial/",
+  "resumo": "O país ganhou uma posição face ao registo anterior. O Turismo de Portugal distinguiu 19 personalidades e organizações com Medalhas de Mérito Turístico.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T19:22:50+01:00",
+  "cats_feed": [
+   "Forum Económico Mundial",
+   "Economia",
+   "Turismo",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Novo aeroporto: custo do projeto conhecido no final",
+  "link": "https://observador.pt/2026/09/28/no-final-saberemos-quanto-custa-e-como-se-paga-custo-do-novo-aeroporto-nao-sera-conhecido-antes-da-conclusao-do-projeto-diz-pinto-luz/",
+  "resumo": "Pinto Luz garante \"total transparência\" mas sem números por agora. ANA quer extensão da concessão além de 2062 e Governo pede antecipação da abertura para 2034.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T19:21:38+01:00",
+  "cats_feed": [
+   "Aeroporto de Lisboa",
+   "Aeroportos",
+   "Aviação",
+   "Sociedade",
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Seguro faz avisos ao Governo sobre venda da TAP",
+  "link": "https://observador.pt/2026/09/28/seguro-avisa-governo-que-tap-e-relevante-e-que-venda-nao-deve-ser-tratada-apenas-em-funcao-de-encaixes-financeiros/",
+  "resumo": "Presidente concorda com a necessidade de novo aeroporto, mas avisa que \"evolução da TAP\" também é \"relevante\". E diz que venda deve ir além de \"necessidades imediatas\" e \"encaixes financeiros\".",
+  "fonte": "Observador",
+  "autor": "Rui Pedro Antunes",
+  "data": "2026-09-28T19:17:38+01:00",
+  "cats_feed": [
+   "Presidente da República",
+   "Política",
+   "TAP",
+   "Empresas",
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Portugal não merece o dr. Centeno",
+  "link": "https://observador.pt/programas/ideias-feitas/portugal-nao-merece-o-dr-centeno/",
+  "resumo": "Alberto Gonçalves comenta as declarações de Mário Centeno aquando do lançamento do seu mais recente livro, em que recusou quaisquer comparações com Pedro Passos Coelho.",
+  "fonte": "Observador",
+  "autor": "Alberto Gonçalves",
+  "data": "2026-09-28T19:02:13+01:00",
+  "cats_feed": [
+   "Rádio Observador",
+   "Observador"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Lacerda Sales recebe acusação com surpresa e rejeita crimes",
+  "link": "https://observador.pt/2026/09/28/caso-das-gemeas-lacerda-sales-diz-ter-recebido-acusacao-com-enorme-surpresa-e-rejeita-crimes-imputados/",
+  "resumo": "Advogados de defesa de antigo secretário de Estado dizem que António Lacerda Sales \"não se revê, e rejeita, os crimes de que vem acusado\" pelo Ministério Público no caso das gémeas.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:58:47+01:00",
+  "cats_feed": [
+   "Caso das gémeas",
+   "Sociedade",
+   "Ministério Público",
+   "Justiça",
+   "Ministério da Saúde",
+   "Governo",
+   "Política"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Comissão Neves só deve arrancar em pleno no fim do ano",
+  "link": "https://observador.pt/2026/09/28/comissao-neves-so-deve-arrancar-em-pleno-no-fim-do-ano-calendario-para-audicoes-e-apertado/",
+  "resumo": "Aguiar-Branco acelera, mas é muito difícil ouvir algum dos protagonistas no Parlamento antes da pausa para trabalhos orçamentais. Comissão deve ter 24 deputados e presidência do Chega.",
+  "fonte": "Observador",
+  "autor": "Mariana Lima Cunha",
+  "data": "2026-09-28T18:50:11+01:00",
+  "cats_feed": [
+   "Parlamento",
+   "Política"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE2027 sem previsão de apoios à população dizem PS e Chega",
+  "link": "https://observador.pt/2026/09/28/governo-preve-excedente-entre-01-e-02-em-2027-e-margem-minima-para-medidas-diz-chega/",
+  "resumo": "O Governo iniciou as reuniões com os partidos para o Orçamento de 2027, prevendo um excedente entre 0,1% e 0,2% do PIB. PS critica falta de apoios à inflação e Chega fala em \"orçamento zero\".",
+  "fonte": "Observador",
+  "autor": "Rita Tavares",
+  "data": "2026-09-28T18:41:11+01:00",
+  "cats_feed": [
+   "Orçamento do Estado",
+   "Economia",
+   "Partido Chega",
+   "Política"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Confagri pede audiências urgentes a Seguro e Montenegro",
+  "link": "https://observador.pt/2026/09/28/confagri-pede-audiencias-urgentes-a-seguro-e-montenegro-sobre-subida-dos-precos-na-agricultura/",
+  "resumo": "Associação agrícola alerta para risco de \"segurança alimentar\" e exige resposta do Estado. Governo já anunciou pacote de 40 milhões de euros para o setor.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:41:06+01:00",
+  "cats_feed": [
+   "Combustível",
+   "Energia",
+   "Economia",
+   "Preços",
+   "Consumo",
+   "Agricultura",
+   "Sociedade",
+   "Ministério da Agricultura",
+   "Política"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Caso Gémeas. \"Nunca ficou provado intervenção da Casa Civil\"",
+  "link": "https://observador.pt/programas/explicador/caso-gemeas-nunca-ficou-provado-intervencao-da-casa-civil/",
+  "resumo": "António Rodrigues, deputado do PSD, defende postura rigorosa do PSD sobre este caso. Já Rui Paulo Sousa, deputado do Chega, afirma que CPI foi essencial para a acusação do Ministério Público.",
+  "fonte": "Observador",
+  "autor": "Ricardo Conceição",
+  "data": "2026-09-28T18:34:59+01:00",
+  "cats_feed": [
+   "Rádio Observador",
+   "Observador",
+   "PSD",
+   "Política",
+   "Caso das gémeas",
+   "Sociedade",
+   "Partido Chega",
+   "Ministério Público",
+   "Justiça",
+   "Comissão de Inquérito",
+   "Parlamento"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Rita Cabaço e a história de uma mentira que se repete",
+  "link": "https://observador.pt/2026/09/28/rita-cabaco-e-a-historia-de-uma-mentira-que-se-repete/",
+  "resumo": "No São Luiz, a atriz estreia-se na encenação com \"Caminho do Céu\", de Juan Mayorga. Uma história baseada na cidade de fechada que os nazis criaram no campo de concentração de Terezín.",
+  "fonte": "Observador",
+  "autor": "Ricardo Ramos Gonçalves",
+  "data": "2026-09-28T18:30:32+01:00",
+  "cats_feed": [
+   "Teatro",
+   "Cultura"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Artes com mais 10 milhões em 2027",
+  "link": "https://observador.pt/2026/09/28/apoio-as-artes-reforcado-em-10-milhoes-de-euros-em-2027-anuncia-ministra-da-cultura/",
+  "resumo": "\"Em 2027, só no apoio às artes, haverá um novo reforço de cerca de 10 milhões de euros\", afirmou a Ministra da Cultura, Juventude e Desporto na abertura da sessão \"Cultura: Investimento e Mecenato\".",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:17:07+01:00",
+  "cats_feed": [
+   "Orçamento do Estado",
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "PS quer WC desenhados por estudantes de arquitetura no Porto",
+  "link": "https://observador.pt/2026/09/28/ps-quer-casas-de-banho-publicas-desenhadas-por-alunos-de-arquitetura-no-porto-e-inspira-se-em-toquio/",
+  "resumo": "A vereação socialista vai propor na reunião de câmara concursos de conceção para estudantes das seis faculdades de arquitetura do Porto.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:15:49+01:00",
+  "cats_feed": [
+   "Porto",
+   "País",
+   "Sociedade",
+   "Arquitetura",
+   "Cultura",
+   "Obras Públicas",
+   "Investimento público"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Barcelos vai cobrar taxa municipal turística de dois euros",
+  "link": "https://observador.pt/2026/09/28/barcelos-vai-cobrar-taxa-municipal-turistica-de-dois-euros-por-dormida/",
+  "resumo": "O regulamento foi aprovado por maioria na câmara. A taxa aplica-se todo o ano, até sete noites consecutivas, a maiores de 13 anos em hotéis e alojamento local.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:14:50+01:00",
+  "cats_feed": [
+   "Taxa Turística",
+   "Impostos",
+   "Economia",
+   "Turismo",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "8 Marvila encerra lojas e restaurantes da área interna",
+  "link": "https://observador.pt/2026/09/28/8-marvila-encerra-lojas-e-restaurantes-contratos-previam-o-fecho-dos-espacos-internos-apos-tres-anos-de-abertura-dos-armazens/",
+  "resumo": "Os espaços culturais Galeria Zé dos Bois e Those Who Dance mantêm a sua programação. Continuam também a funcionar o Café des Épices, a Taqueria Paloma e a The Marvila Bakehouse.",
+  "fonte": "Observador",
+  "autor": "Larissa Faria",
+  "data": "2026-09-28T18:05:56+01:00",
+  "cats_feed": [
+   "Lazer",
+   "Lifestyle",
+   "Compras",
+   "Lisboa",
+   "País",
+   "Sociedade",
+   "Cultura",
+   "Noite Lisboeta"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Porto Covo: Encontrado corpo de um dos dois trabalhadores",
+  "link": "https://observador.pt/2026/09/28/sines-dois-trabalhadores-soterrados-em-obra-de-hotel-em-porto-covo/",
+  "resumo": "Dois trabalhadores ficaram soterrados a cinco a seis metros de profundidade numa obra em Porto Covo. Um corpo já foi encontrado; operação de resgate continua.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:03:13+01:00",
+  "cats_feed": [
+   "Sines",
+   "País",
+   "Sociedade",
+   "Acidente"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "\"Aldrabão\". As acusações entre Hugo Soares e Ventura",
+  "link": "https://observador.pt/programas/passos-pedidos/de-aldrabao-a-mentiroso-as-trocas-de-acusacoes-entre-hugo-soares-e-andre-ventura/",
+  "resumo": "André Ventura criticou o primeiro-ministro por faltar ao debate sobre o aumento do custo de vida e em resposta, Hugo Soares apelidou o líder do Chega de \"aldrabão político\".",
+  "fonte": "Observador",
+  "autor": "Rádio Observador",
+  "data": "2026-09-28T17:59:46+01:00",
+  "cats_feed": [
+   "Parlamento",
+   "Política",
+   "Deputados",
+   "Rádio Observador",
+   "Observador",
+   "Partido Chega",
+   "PSD"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "PJ detém cuidador informal por violação e abuso sexual",
+  "link": "https://observador.pt/2026/09/28/pj-detem-cuidador-informal-por-violacao-e-abuso-sexual-de-crianca-continuado/",
+  "resumo": "O suspeito, de 41 anos, terá iniciado os abusos quando a vítima tinha 11 anos. A investigação avança com a possibilidade de existirem mais crianças afetadas.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T17:47:02+01:00",
+  "cats_feed": [
+   "Crimes Sexuais",
+   "Crime",
+   "Sociedade",
+   "Violação",
+   "Comportamento",
+   "Polícia Judiciária",
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "IP3 com cortes noturnos até sexta-feira",
+  "link": "https://observador.pt/2026/09/28/transito-cortado-de-noite-no-ip3-ate-sexta-feira-em-tondela-e-santa-comba-dao/",
+  "resumo": "Requalificação e duplicação do IP3 entre Viseu e Coimbra obriga a cortes nocturnos em diferentes troços. Quarta e quinta, há condicionamentos em Mortágua e Penacova.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T17:45:33+01:00",
+  "cats_feed": [
+   "Estradas",
+   "Infraestruturas",
+   "Economia",
+   "Tondela",
+   "País",
+   "Sociedade",
+   "Viseu",
+   "Coimbra"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "PSP sem informação sobre previsão de fecho de esquadras",
+  "link": "https://observador.pt/2026/09/28/psp-do-porto-diz-nao-ter-informacao-sobre-encerramento-de-esquadras-que-presidente-de-gondomar-diz-estar-a-ser-equacionado/",
+  "resumo": "Comando Metropolitano do Porto contradiz autarca de Gondomar, que alertou para o encerramento de esquadras na periferia por falta de efetivos.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T17:44:53+01:00",
+  "cats_feed": [
+   "Segurança",
+   "Sociedade",
+   "Porto",
+   "País",
+   "PSP",
+   "Polícia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "As canções de embalar inquietantes que Faia nos segreda no Maré",
+  "link": "https://www.publico.pt/2026/09/28/culturaipsilon/noticia/cancoes-embalar-inquietantes-faia-segreda-mare-2189560",
+  "resumo": "A sétima edição do Festival Maré, em Santiago de Compostela, terminou no fim-de-semana, trazendo consigo a descoberta de Faia e de Josyara, e a certeza de Jupiter e Zambujo.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T17:52:38+00:00",
+  "cats_feed": [
+   "Música"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Custo do novo aeroporto não será conhecido antes da conclusão do projecto, diz Pinto Luz",
+  "link": "https://www.publico.pt/2026/09/28/economia/noticia/custo-novo-aeroporto-nao-sera-conhecido-conclusao-projecto-pinto-luz-2189598",
+  "resumo": "Governo pediu “um esforço colectivo” para antecipar a inauguração do novo aeroporto de Lisboa para 2034. ANA Aeroportos quer alargar prazo de concessão dos aeroportos nacionais para além de 2062.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T17:47:21+00:00",
+  "cats_feed": [
+   "Novo Aeroporto de Lisboa"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo prevê excedente de 0,2% em 2027, diz Chega",
+  "link": "https://www.publico.pt/2026/09/28/politica/noticia/governo-preve-excedente-02-2027-chega-2189589",
+  "resumo": "Executivo começou a apresentar à oposição as linhas gerais da proposta de Orçamento do Estado para 2027. Chega saiu desiludido e revelou que Governo aponta a um excednete de até 0,2% no próximo ano.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T17:37:33+00:00",
+  "cats_feed": [
+   "Orçamento do Estado 2027"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Festival AmadoraBD com 24 obras a concurso para prémios de banda desenhada",
+  "link": "https://www.publico.pt/2026/09/28/culturaipsilon/noticia/festival-amadorabd-24-obras-concurso-premios-banda-desenhada-2189599",
+  "resumo": "Prémio Revelação, para primeiras obras, terá valor pecuniário de 3000 euros e Melhor Obra de BD de Autor Português passa a 10 mil euros. O 37.º festival AmadoraBD está marcado de 15 a 25 de Outubro.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T17:15:17+00:00",
+  "cats_feed": [
+   "Banda desenhada"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Encontrado corpo de um dos trabalhadores soterrados em obra de hotel em Porto Covo",
+  "link": "https://www.publico.pt/2026/09/28/local/noticia/dois-trabalhadores-soterrados-obra-hotel-concelho-sines-2189596",
+  "resumo": "Alerta foi dado às autoridades às 16h29. Continuam em curso operações de resgate.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T17:12:15+00:00",
+  "cats_feed": [
+   "Acidentes"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Aumento de salários \"deve ser ambição\": Seguro pressiona Turismo a não fechar os olhos às consequências negativas do setor",
+  "link": "https://expresso.pt/presidencia-republica/2026-09-28-aumento-de-salarios-deve-ser-ambicao-seguro-pressiona-turismo-a-nao-fechar-os-olhos-as-consequencias-negativas-do-setor-baf7d927",
+  "resumo": "O Presidente da República instou os principais representantes do Turismo a colocar a \"melhoria das remunerações\" como \"ambição\" porque não há \"competitividade duradoura\" sem “profissionais valorizados”",
+  "fonte": "Expresso",
+  "autor": "Margarida Coutinho",
+  "data": "2026-09-28T19:22:44+01:00",
+  "cats_feed": [
+   "Presidência da República"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Ainda ninguém sabe quanto irá custar o novo aeroporto: Pinto Luz remete valores finais para 2028",
+  "link": "https://expresso.pt/economia/2026-09-28-ainda-ninguem-sabe-quanto-ira-custar-o-novo-aeroporto-pinto-luz-remete-valores-finais-para-2028-35fcd75a",
+  "resumo": "O novo aeroporto poderá custar até 8,9 mil milhões de euros, segundo as estimativas da ANA, mas o Governo insiste que o valor definitivo só será conhecido após a definição do projeto e rejeita financiamento público. Para suportar o investimento, José Luís Arnaut admite um aumento das taxas aeroportuárias ou uma extensão da concessão",
+  "fonte": "Expresso",
+  "autor": "Anabela Campos",
+  "data": "2026-09-28T19:20:41+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "🍩Sal fora do prato até ao primeiro ano, açúcar até aos dois e amamentação facilitada: DGS lança manual para creches",
+  "link": "https://expresso.pt/sociedade/2026-09-28-sal-fora-do-prato-ate-ao-primeiro-ano-acucar-ate-aos-dois-e-amamentacao-facilitada-dgs-lanca-manual-para-creches-8bdd472f",
+  "resumo": "Creches terão de criar condições físicas e logísticas para as mães continuarem a amamentar os bebés após os seis meses. Além disso, é preciso acabar com as bolachas, sumos, fiambre, e privilegiar a sopa, hortícolas, leguminosas, água e comida “normal”. A Direção-Geral da Saúde lança o primeiro manual com orientação para a alimentação de crianças até aos três anos",
+  "fonte": "Expresso",
+  "autor": "Joana Ascensão",
+  "data": "2026-09-28T18:26:24+01:00",
+  "cats_feed": [
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo recusa baixar IVA dos combustíveis e pede à UE \"atitude mais proativa\" para \"reduzir problemas de concorrência\"",
+  "link": "https://expresso.pt/economia/economia_energia/2026-09-28-governo-recusa-baixar-iva-dos-combustiveis-e-pede-a-ue-atitude-mais-proativa-para-reduzir-problemas-de-concorrencia-dcd07a67",
+  "resumo": "A UE pediu aos 27 para reduzirem o consumo de eletricidade e gás, mas Maria da Graça Carvalho garante que essas medidas \"não fazem sentido para Portugal“, já que o país está sobretudo com “problemas no preço da gasolina, do gasóleo, do jet fuel”. ”Esperamos que, a nível europeu, haja uma atitude mais proativa\", disse",
+  "fonte": "Expresso",
+  "autor": "Bárbara Silva",
+  "data": "2026-09-28T18:22:49+01:00",
+  "cats_feed": [
+   "Energia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Lisboa tem turismo a mais?",
+  "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-09-28-lisboa-tem-turismo-a-mais--409381e9",
+  "resumo": "O turismo gera emprego e receitas, mas também pode aumentar a pressão nos destinos mais visitados. Que lugar ocupa Portugal entre as economias com melhores condições para desenvolver o sector? Ouça o novo episódio do Economia dia a dia, podcast diário do Expresso conduzido por Juliana Simões",
+  "fonte": "Expresso",
+  "autor": "Juliana Simões",
+  "data": "2026-09-28T18:20:00+01:00",
+  "cats_feed": [
+   "Economia dia a dia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Encontrado corpo de um dos trabalhadores soterrados em obra de hotel em Porto Covo",
+  "link": "https://expresso.pt/sociedade/2026-09-28-encontrado-corpo-de-um-dos-trabalhadores-soterrados-em-obra-de-hotel-em-porto-covo-bff47ca7",
+  "resumo": "As operações de resgate continuam para encontrar o segundo trabalhador soterrado",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T18:14:11+01:00",
+  "cats_feed": [
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Pinto Luz quer acelerar aeroporto em Alcochete e diz \"não\" ao Montijo: \"não contam comigo para decisões mancas\"",
+  "link": "https://expresso.pt/economia/transportes/aviacao/2026-09-28-pinto-luz-quer-acelerar-aeroporto-em-alcochete-e-diz-nao-ao-montijo-nao-contam-comigo-para-decisoes-mancas-9b06dbe8",
+  "resumo": "Ministro das Infraestruturas fecha a porta a um regresso à localização Montijo para o novo aeroporto, que é pedido por alguns sectores da área do turismo. Pinto Luz deixa claro que quer antecipar a abertura do aeroporto Luís de Camões face à proposta feita pela ANA de concluir a obra em 2037",
+  "fonte": "Expresso",
+  "autor": "Anabela Campos",
+  "data": "2026-09-28T17:41:43+01:00",
+  "cats_feed": [
+   "Aviação"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "“Muitos investidores perdem a paciência”: Passos Coelho critica lentidão do Estado",
+  "link": "https://expresso.pt/politica/2026-09-28-muitos-investidores-perdem-a-paciencia-passos-coelho-critica-lentidao-do-estado-d03d99b4",
+  "resumo": "O antigo primeiro ministro defende a simplificação dos processos da administração pública para captar investimentos e aponta a burocracia como um fator que pode potenciar a corrupção e",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T17:33:29+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "\"Em 2026 vamos atingir receitas de €30 mil milhões, Portugal ainda tem capacidade de crescer\", garante secretário de Estado do Turismo",
+  "link": "https://expresso.pt/economia/economia_turismo/2026-09-28-em-2026-vamos-atingir-receitas-de-30-mil-milhoes-portugal-ainda-tem-capacidade-de-crescer-garante-secretario-de-estado-do-turismo-e208721e",
+  "resumo": "Secretário de Estado do Turismo projetou na conferência da CTP um crescimento de 2,5% do sector até ao final do ano, com o país a ultrapassar a fasquia de 32 milhões de turistas e 125 milhões de dormidas",
+  "fonte": "Expresso",
+  "autor": "Conceição Antunes",
+  "data": "2026-09-28T17:33:20+01:00",
+  "cats_feed": [
+   "Turismo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Habitação pública ganha almofada de €1,6 mil milhões do Portugal 2030",
+  "link": "https://expresso.pt/fundos-europeus/2026-09-28-habitacao-publica-ganha-almofada-de-16-mil-milhoes-do-portugal-2030-a7376b34",
+  "resumo": "Portugal 2030 passa a poder substituir parte das verbas nacionais previstas para projetos de construção e reabilitação de habitação pública. Novo mecanismo abrange também operações que se atrasaram face ao calendário do PRR",
+  "fonte": "Expresso",
+  "autor": "Mariana Coelho Dias",
+  "data": "2026-09-28T17:17:17+01:00",
+  "cats_feed": [
+   "Fundos europeus"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ventura considera que acusações no 'caso das gémeas' demonstram \"conluio\" e \"interferência política\"",
+  "link": "https://expresso.pt/partidos-politicos/2026-09-28-ventura-considera-que-acusacoes-no-caso-das-gemeas-demonstram-conluio-e-interferencia-politica-305fec61",
+  "resumo": "Sentindo-se justificado nas críticas que fez às conclusões da CPI que considerou o inquérito parlamentar como uma “cruzada” do Chega, Ventura saudou a acusação do MP contra quatro pessoas implicadas na polémica",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T16:39:00+01:00",
+  "cats_feed": [
+   "Partidos Políticos"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "“Ninguém está acima da lei”: Marcelo reage ao caso das gémeas e fala em “situação dolorosa”",
+  "link": "https://expresso.pt/justica/2026-09-28-video-marcelo-diz-que-caso-das-gemeas-continua-a-ser-uma-situacao-dolorosa-fd347ea9",
+  "resumo": "Confrontado com o facto do filho estar entre os acusados no caso das gémeas luso-brasileiras, Marcelo Rebelo de Sousa reafirma a independência da Justiça e a igualdade de todos perante a lei e recorda que em causa está uma “situação dolorosa”",
+  "fonte": "Expresso",
+  "autor": "Sic Notícias",
+  "data": "2026-09-28T16:30:21+01:00",
+  "cats_feed": [
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Brilhante Dias: \"O Governo, de forma insensível, não estará preparado para apoiar os portugueses\"",
+  "link": "https://www.rtp.pt/noticias/politica/brilhante-dias-o-governo-de-forma-insensivel-nao-estara-preparado-para-apoiar-os-portugueses_n1768284",
+  "resumo": "Eurico Brilhante Dias nega que o Governo tenha 100 milhões de euros de folga orçamental para medidas da oposição, afirmando que o Chega fez \"confusão\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T20:28:23+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Chega afirma que Governo não quer baixar impostos e diz que OE é \"insensível\"",
+  "link": "https://www.rtp.pt/noticias/politica/chega-afirma-que-governo-nao-quer-baixar-impostos-e-diz-que-oe-e-insensivel_n1768260",
+  "resumo": "A bancada do Chega esteve reunida com o ministro das Finanças no Parlamento. O líder parlamentar, Pedro Pinto, afirma que \"não baixar impostos\" é uma \"opção política\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T19:12:17+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "CAP exige pacote de 140 milhões em medidas para recuperar competitividade do setor",
+  "link": "https://www.rtp.pt/noticias/economia/cap-exige-pacote-de-140-milhoes-em-medidas-para-recuperar-competitividade-do-setor_n1768290",
+  "resumo": "A CAP exigiu hoje ao Governo que avance com um pacote de 140 milhões de euros de medidas de apoio aos agricultores, alertando que se não houver medidas para recuperar a competitividade do setor a convocação de protestos \"será inevitável\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T21:17:17+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "PR pede estratégia a prazo para \"nova etapa\" no turismo com coesão territorial e melhores salários",
+  "link": "https://www.rtp.pt/noticias/economia/pr-pede-estrategia-a-prazo-para-nova-etapa-no-turismo-com-coesao-territorial-e-melhores-salarios_n1768281",
+  "resumo": "O Presidente da República apelou hoje a que se prepare uma estratégia de médio e longo prazo para uma \"nova etapa\" no turismo em Portugal, com crescimento equilibrado e sustentável, coesão territorial e melhores salários.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T20:24:26+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "União Europeia devia criar ações conjuntas para combustíveis e fertilizantes, defende ministro da Agricultura em Bruxelas",
+  "link": "https://www.rtp.pt/noticias/economia/uniao-europeia-devia-criar-acoes-conjuntas-para-combustiveis-e-fertilizantes-defende-ministro-da-agricultura-em-bruxelas_n1768275",
+  "resumo": "Em tempo de crise o ministro da Agricultura veio a Bruxelas para apresentar e solidificar algumas das propostas de Portugal para o sector da agricultura.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T20:13:39+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Portugal quer que Bruxelas tenha em atenção as particularidades de cada país nas medidas que vier a decidir sobre a energia",
+  "link": "https://www.rtp.pt/noticias/economia/portugal-quer-que-bruxelas-tenha-em-atencao-as-particularidades-de-cada-pais-nas-medidas-que-vier-a-decidir-sobre-a-energia_n1768261",
+  "resumo": "Maria da Graça Carvalho esteve em Bruxelas para chamar a atenção da situação de Portugal no que se refere à energia.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T19:27:17+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Custo do novo aeroporto não será conhecido antes da conclusão do projeto",
+  "link": "https://www.rtp.pt/noticias/economia/custo-do-novo-aeroporto-nao-sera-conhecido-antes-da-conclusao-do-projeto_n1768254",
+  "resumo": "O ministro das Infraestruturas e Habitação, Miguel Pinto Luz, admitiu hoje que o custo do Novo Aeroporto de Lisboa (NAL) não será conhecido \"enquanto o projeto não estiver definido\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T18:59:57+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo e sindicatos acordam novo Regime do Ensino de Português no Estrangeiro",
+  "link": "https://www.rtp.pt/noticias/pais/governo-e-sindicatos-acordam-novo-regime-do-ensino-de-portugues-no-estrangeiro_n1768278",
+  "resumo": "O Governo e os sindicatos representativos dos professores e leitores de português no estrangeiro chegaram a acordo sobre o novo Regime do Ensino de Português no Estrangeiro (RJEPE), anunciou hoje o Ministério dos Negócios Estrangeiros, que tutela a pasta.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T20:22:41+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Porto Covo. Encontrado corpo de um dos trabalhadores soterrados em obra de hotel",
+  "link": "https://www.rtp.pt/noticias/pais/porto-covo-encontrado-corpo-de-um-dos-trabalhadores-soterrados-em-obra-de-hotel_n1768258",
+  "resumo": "Foi acionado um helicóptero do INEM para a operação de resgate desencadeada em Porto Covo, no concelho de Sines.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T18:46:52+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Apoio em Parceria Arte e Coesão Territorial com verba extra de 500 mil euros",
+  "link": "https://www.rtp.pt/noticias/cultura/apoio-em-parceria-arte-e-coesao-territorial-com-verba-extra-de-500-mil-euros_n1768280",
+  "resumo": "A segunda edição do concurso Arte Coesão Territorial, do Programa de Apoio em Parceria da Direção-Geral das Artes (DGArtes), prevê uma verba extra de 500 mil euros, destinada apenas às entidades apoiadas na primeira edição, foi hoje anunciado.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T20:23:02+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Apoio às artes vai ter reforço de dez milhões de euros",
+  "link": "https://www.rtp.pt/noticias/cultura/apoio-as-artes-vai-ter-reforco-de-dez-milhoes-de-euros_n1768257",
+  "resumo": "O apoio às artes vai contar com um reforço de cerca de 10 milhões de euros em 2027, anunciou hoje a ministra da Cultura, Margarida Balseiro Lopes, numa sessão em Lisboa, sobre investimento e mecenato na cultura.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T18:59:25+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo e sindicatos acordam aumentos para professores de português no estrangeiro",
+  "link": "https://eco.sapo.pt/2026/09/28/governo-e-sindicatos-acordam-aumentos-para-professores-de-portugues-no-estrangeiro/",
+  "resumo": "O Governo e os sindicatos representativos dos professores e leitores de português no estrangeiro chegaram a acordo sobre o novo Regime do Ensino de Português no Estrangeiro (RJEPE), anunciou esta segunda-feira o Ministério dos Negócios Estrangeiros, que tutela a pasta. Segundo o comunicado de imprensa enviado à Lusa, o novo acordo prevê “aumentos remuneratórios acumulados, […]",
+  "fonte": "ECO",
+  "autor": "Lusa",
+  "data": "2026-09-28T19:10:52+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Educação"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Cofidis lança campanha para assinalar renovação da identidade",
+  "link": "https://eco.sapo.pt/2026/09/28/cofidis-lanca-campanha-para-assinalar-renovacao-da-identidade/",
+  "resumo": "A Cofidis renovou a sua identidade de marca, no âmbito de uma evolução global que chega agora a Portugal e inclui uma imagem mais adaptada aos formatos e canais digitais. Inicialmente apresentada em França em março, a mudança coincide com o ano em que a marca celebra três décadas em Portugal. A nova identidade, idealizada […]",
+  "fonte": "ECO",
+  "autor": "+ M",
+  "data": "2026-09-28T18:58:29+00:00",
+  "cats_feed": [
+   "+M",
+   "Ideias +M",
+   "Marketing",
+   "Publicidade"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "“O Banco de CÁ” dá mote aos 115 anos do Crédito Agrícola",
+  "link": "https://eco.sapo.pt/2026/09/28/o-banco-de-ca-da-mote-aos-115-anos-do-credito-agricola/",
+  "resumo": "O Crédito Agrícola assinala os seus 115 anos com o lançamento da nova campanha institucional “O Banco de CÁ”, que percorre Portugal continental e as ilhas para retratar histórias de vários dos seus clientes. O conceito criativo assenta no duplo significado da expressão “CÁ”, enquanto lugar de pertença e proximidade e, simultaneamente, enquanto assinatura do […]",
+  "fonte": "ECO",
+  "autor": "+ M",
+  "data": "2026-09-28T18:49:19+00:00",
+  "cats_feed": [
+   "+M",
+   "Banca",
+   "Ideias +M",
+   "Marketing",
+   "Publicidade"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Media em crise? O capital diz que ainda há oportunidades",
+  "link": "https://eco.sapo.pt/2026/09/28/media-em-crise-o-capital-diz-que-ainda-ha-oportunidades/",
+  "resumo": "“Quando uma comunidade deixa de ser bem informada, uma lenta e gradual catástrofe social e política se segue. Já estamos nesse caminho — mas ainda não é tarde demais para pará-lo.” A frase é de Alberto Ibargüen, antigo editor do The Miami Herald e do El Nuevo Herald, e ex-presidente da Fundação John S. e […]",
+  "fonte": "ECO",
+  "autor": "Carla Borges Ferreira",
+  "data": "2026-09-28T18:46:54+00:00",
+  "cats_feed": [
+   "Jornalismo",
+   "Media",
+   "Negócios +M"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo prevê inflação em linha com “a média de 2026” no OE, avança PS",
+  "link": "https://eco.sapo.pt/2026/09/28/governo-preve-inflacao-em-linha-com-a-media-de-2026-no-oe-avanca-ps/",
+  "resumo": "O Governo prevê uma inflação em 2027 praticamente em linha com a inflação média estimada para este ano, que deverá rondar os 3%, avançou esta segunda-feira o líder parlamentar do PS, Eurico Brilhante Dias, após uma reunião com o ministro das Finanças, Joaquim Miranda Sarmento, e o ministro dos Assuntos Parlamentares, Carlos Abreu Amorim, para […]",
+  "fonte": "ECO",
+  "autor": "Salomé Pinto",
+  "data": "2026-09-28T18:40:51+00:00",
+  "cats_feed": [
+   "A caminho do Orçamento",
+   "Economia",
+   "Finanças",
+   "Orçamento do Estado 2027"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Seguro pede que coesão territorial faça parte da estratégia do turismo português",
+  "link": "https://eco.sapo.pt/2026/09/28/seguro-pede-que-coesao-territorial-faca-parte-da-estrategia-do-turismo-portugues/",
+  "resumo": "O Presidente da República defendeu esta segunda-feira que a coesão territorial “tem de fazer parte da estratégia do turismo português”, realçando que questões como a pressão sobre a habitação, a mobilidade, o ambiente, os serviços públicos e a qualidade da própria experiência turística exigem “respostas concretas”. No encerramento da VIII Cimeira do Turismo Português, organizada […]",
+  "fonte": "ECO",
+  "autor": "Joana Abrantes Gomes",
+  "data": "2026-09-28T18:05:29+00:00",
+  "cats_feed": [
+   "Economia",
+   "Turismo"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Iberifier conclui que IA obriga à reconfiguração de toda a cadeia dos media",
+  "link": "https://eco.sapo.pt/2026/09/28/iberifier-conclui-que-ia-obriga-a-reconfiguracao-de-toda-a-cadeia-dos-media/",
+  "resumo": "A IA deixa de ser uma ferramenta operacional e obriga à reconfiguração de toda a cadeia dos media, segundo o relatório do observatório Iberifier Tendências de inovação nos meios de comunicação digitais ibéricos: Cenários da comunicação para 2030. Esta é uma das conclusões do documento do Observatório Ibérico dos Media Digitais (Iberifier), que refere que […]",
+  "fonte": "ECO",
+  "autor": "Lusa",
+  "data": "2026-09-28T18:04:44+00:00",
+  "cats_feed": [
+   "+M",
+   "Ideias +M",
+   "Inteligência Artificial",
+   "Jornalismo"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Seis em cada dez jovens portugueses dizem já não querer saber das notícias",
+  "link": "https://eco.sapo.pt/2026/09/28/seis-em-cada-dez-jovens-portugueses-dizem-ja-nao-querer-saber-das-noticias/",
+  "resumo": "Uma investigadora do Instituto Superior Miguel Torga (ISMT), em Coimbra, concluiu que o jornalismo português está a perder leitores, sobretudo entre os mais novos, nomeadamente por falta de interação com o público. Segundo Aldina Margato, autora do estudo “A Reinvenção do Jornalismo a Partir das Comunidades Online” e professora naquela instituição de ensino de Coimbra, […]",
+  "fonte": "ECO",
+  "autor": "Lusa",
+  "data": "2026-09-28T18:01:31+00:00",
+  "cats_feed": [
+   "+M",
+   "Jornalismo",
+   "Pessoas +M"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Primeira coleção de John Galliano para a Zara já tem data de saída: 1 de outubro",
+  "link": "https://eco.sapo.pt/2026/09/28/primeira-colecao-de-john-galliano-para-a-zara-ja-tem-data-de-saida-1-de-outubro/",
+  "resumo": "A primeira coleção do designer britânico John Galliano para a Zara será apresentada a 1 de outubro, às 10h00, dando início a uma parceria prevista para durar dois anos. O projeto Re{form} authored by John Galliano, como foi batizado, parte dos arquivos da marca espanhola. Esta é a primeira colaboração de John Galliano depois de […]",
+  "fonte": "ECO",
+  "autor": "Lina Santos",
+  "data": "2026-09-28T17:49:32+00:00",
+  "cats_feed": [
+   "ECO Avenida",
+   "Pessoas ECO Avenida"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Mediadores de seguros ativos voltam a diminuir em 2025. Já são 10.024",
+  "link": "https://eco.sapo.pt/2026/09/28/mediadores-de-seguros-ativos-voltam-a-diminuir-em-2025-ja-sao-10-024/",
+  "resumo": "O Primeiro relatório especializado na mediação de seguros divulgado esta segunda feira pela ASF, entidade de supervisão do setor, revela um número de 10.024 mediadores ativos no final de 2025. Estes obtiveram comissões de 1.475 milhões de euros, mais 10% que uma no antes e têm uma idade média de 54 anos. A venda direta […]",
+  "fonte": "ECO",
+  "autor": "ECO Seguros",
+  "data": "2026-09-28T17:37:06+00:00",
+  "cats_feed": [
+   "ECOseguros",
+   "Mediação"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Novo aeroporto em 2034? ANA diz que prazos mais curtos dependem do Governo",
+  "link": "https://eco.sapo.pt/2026/09/28/novo-aeroporto-em-2034-ana-diz-que-prazos-mais-curtos-dependem-do-governo/",
+  "resumo": "Depois de o ministro das Infraestruturas e Habitação ter lançado a ideia de que o novo aeroporto de Lisboa, em Alcochete, possa ficar pronto em 2034, coube ao “chairman” da ANA responder a esse pedido. “A ANA tem de apresentar os prazos”, respondeu inicialmente José Luís Arnaut, num painel com Carlos Oliveira, chairman da TAP, […]",
+  "fonte": "ECO",
+  "autor": "Diogo Mendo Fernandes",
+  "data": "2026-09-28T17:29:04+00:00",
+  "cats_feed": [
+   "Economia",
+   "Expansão do aeroporto",
+   "Infraestruturas",
+   "Turismo"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Confagri pede intervenção do Estado face a aumento de custos do setor agroalimentar",
+  "link": "https://eco.sapo.pt/2026/09/28/confagri-pede-intervencao-do-estado-face-a-aumento-de-custos-do-setor-agroalimentar/",
+  "resumo": "A Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal (Confagri) vai pedir audiências com carácter de urgência ao Presidente da República e ao Primeiro-Ministro, fruto da atual pressão sobre os combustíveis e os fertilizantes no setor agroalimentar. A decisão foi tomada esta segunda-feira pelo Conselho de Administração da confederação. O objetivo passa […]",
+  "fonte": "ECO",
+  "autor": "Rafael Correia",
+  "data": "2026-09-28T17:25:43+00:00",
+  "cats_feed": [
+   "Agricultura"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Três em cada dez empresas estão a demorar mais a preencher vagas de trabalho",
+  "link": "https://eco.sapo.pt/2026/09/28/tres-em-cada-dez-empresas-estao-a-demorar-mais-a-preencher-vagas-de-trabalho/",
+  "resumo": "Três em cada dez das empresas que operam em Portugal estão a demorar mais tempo do que há um ano a preencher as vagas de emprego que têm em aberto. De acordo com um novo estudo da consultora de recursos humanos ManpowerGroup, a dificuldade em encontrar candidatos com as competências necessárias para as funções é […]",
+  "fonte": "ECO",
+  "autor": "Isabel Patrício",
+  "data": "2026-09-28T17:22:12+00:00",
+  "cats_feed": [
+   "Emprego",
+   "Empresas",
+   "Recrutamento",
+   "Trabalho"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo estima excedente de até 0,2% no Orçamento do Estado para 2027, diz Chega",
+  "link": "https://eco.sapo.pt/2026/09/28/governo-estima-excedente-de-ate-02-no-orcamento-do-estado-para-2027-diz-chega/",
+  "resumo": "O Governo estima um excedente de até 0,2% do PIB e um crescimento da economia em torno dos 2% do PIB no Orçamento do Estado para 2027, revelou esta segunda-feira o líder parlamentar do Chega, Pedro Pinto, à saída de uma reunião na Assembleia da República com o ministro das Finanças, Joaquim Miranda Sarmento, e […]",
+  "fonte": "ECO",
+  "autor": "Salomé Pinto",
+  "data": "2026-09-28T17:17:16+00:00",
+  "cats_feed": [
+   "A caminho do Orçamento",
+   "Economia",
+   "Finanças",
+   "Impostos",
+   "Orçamento do Estado 2027"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "SAFE: Portugal assina amanhã acordo com Bélgica para fábrica de munições de pequeno calibre",
+  "link": "https://eco.sapo.pt/2026/09/28/safe-portugal-assina-amanha-acordo-com-belgica-para-fabrica-de-municoes-de-pequeno-calibre/",
+  "resumo": "Portugal vai assinar amanhã um “executive agreement” com a Bélgica para a criação de uma fábrica de munições de pequeno calibre no âmbito do SAFE, revelou esta segunda-feira o ministro da Defesa, à margem de uma reunião dos ministros da Defesa da União Europeia (UE), em Bruxelas, que deixou para já várias questões por fechar […]",
+  "fonte": "ECO",
+  "autor": "Tiago Martins d'Oliveira",
+  "data": "2026-09-28T17:05:34+00:00",
+  "cats_feed": [
+   "Defesa",
+   "eRadar"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Locomotiva parada?",
+  "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/antonio-nogueira-leite/detalhe/locomotiva-parada",
+  "resumo": "A recuperação dependerá de produzir melhor, investir mais e adaptar a especialização industrial a uma economia mundial que mudou.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T20:12:00+01:00",
+  "cats_feed": [
+   "António Nogueira Leite"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Álvaro Santos Pereira pede ao turismo para apostar noutras regiões e produtos",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/alvaro-santos-pereira-pede-a-turismo-para-apostar-noutras-regioes-e-produtos",
+  "resumo": "Na Cimeira do Turismo Português, o governador do Banco de Portugal aconselhou o setor a apostar \"na qualidade, na diversidade e na exigência\", mas recordou que para alcançar esses objetivos é preciso \"aumentar a produtividade\" e gerar \"maior valor acrescentado\".",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T19:42:00+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "PS critica ausência de \"mecanismo\" de apoio às famílias no OE para 2027",
+  "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/ps-acusa-governo-de-nao-prever-mecanismo-de-apoio-as-familias-no-oe-de-2027",
+  "resumo": "Socialistas afirmam que Orçamento para o próximo ano não contempla qualquer \"instrumento\", mesmo \"cautelar\", de apoio às famílias para fazer face ao aumento dos preços. PS confirma que OE vai ter dotação para garantir projetos inacabados do PRR.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T19:37:00+01:00",
+  "cats_feed": [
+   "Orçamento do Estado"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Mais combustível para a fogueira dos juros",
+  "link": "https://www.jornaldenegocios.pt/opiniao/detalhe/mais-combustivel-para-a-fogueira-dos-juros",
+  "resumo": "Se a bateria de dados económicos que vão ser publicados nos próximos dias validar a narrativa de que a inflação está numa perigosa marcha ascendente e a economia global a crescer um ritmo robusto, BCE e Fed ganham argumentos para subir juros em outubro e a escalada das yields pode ganhar intensidade.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T19:00:00+01:00",
+  "cats_feed": [
+   "Opinião"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Nvidia lança ferramenta de segurança para impedir \"fuga\" de agentes de IA",
+  "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/nvidia-lanca-ferramenta-de-seguranca-para-impedir-fuga-de-agentes-de-ia",
+  "resumo": "Objetivo deste sistema, que já é usado por mais de 100 organizações, é \"reforçar a segurança da IA em todas as fases\". \"Temos de acelerar a descoberta dos limites da segurança da IA”, diz o CEO da Nvidia, Jensen Huang.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T18:45:00+01:00",
+  "cats_feed": [
+   "Tecnologias"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "\"Custo com jet fuel é preocupação da TAP e de toda a indústria\", garante \"chairman\"",
+  "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/custo-com-jet-fuel-e-preocupacao-da-tap-e-de-toda-a-industria-garante-chairman",
+  "resumo": "O presidente do conselho de administração da companhia portuguesa garante que a equipa liderada por Luís Rodrigues está a fazer uma monitorização diária do preço do jet fuel. A TAP tem um \"hedging\" de 50%.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T18:23:00+01:00",
+  "cats_feed": [
+   "Aviação"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo prevê excedente de até 0,2% do PIB para 2027, diz Chega",
+  "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/governo-preve-excedente-de-ate-0-2-do-pib-para-2027-diz-chega",
+  "resumo": "Valor foi avançado na reunião do Executivo com os partidos da oposição no âmbito do Orçamento do Estado para o próximo ano. Finanças estarão a trabalhar com uma folga de 100 milhões para propostas adicionais. Documento deverá ser entregue no próximo dia 9 de outubro",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T18:19:00+01:00",
+  "cats_feed": [
+   "Orçamento do Estado"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "OE2027: Apoio às artes vai ter reforço de 10 milhões de euros, anuncia ministra",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/oe2027-apoio-as-artes-vai-ter-reforco-de-10-milhoes-de-euros-anuncia-ministra",
+  "resumo": "Anúncio foi feito na na abertura da sessão \"Cultura: Investimento e Mecenato\", no Centro Cultural de Belém, em Lisboa, iniciativa da tutela realizada na sequência da entrada em vigor do novo regime do mecenato cultural.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T18:01:04+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo insiste em abrir Alcochete em 2034. ANA não se compromete já com orçamento",
+  "link": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/governo-insiste-em-abrir-alcochete-em-2034-ana-nao-se-compromete-ja-com-orcamento",
+  "resumo": "O Governo defende que o aeroporto Luís de Camões é para abrir em 2034, mesmo que a ANA tenha apontado para o ano seguinte e 55 milhões de passageiros no ano zero. Num orçamento estimado em até 8,9 mil milhões de euros, o \"chairman\" da ANA sustenta que há demasiada incerteza.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T17:36:00+01:00",
+  "cats_feed": [
+   "Turismo & Lazer"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "BCP lança Cash-on-Time para antecipação digital de pagamentos a fornecedores",
+  "link": "https://jornaleconomico.sapo.pt/noticias/bcp-lanca-cash-on-time-para-antecipacao-digital-de-pagamentos-a-fornecedores/",
+  "resumo": "O Millennium BCP anunciou esta segunda-feira o lançamento do Cash-on-Time, uma solução digital que permite a fornecedores anteciparem o valor de faturas já emitidas e aprovadas através do site de Empresas do banco.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T19:26:16+00:00",
+  "cats_feed": [
+   "Banca",
+   "Empresas",
+   "Sapo Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Bison Bank lança ferramenta de IA para análise de investimentos",
+  "link": "https://jornaleconomico.sapo.pt/noticias/bison-bank-lanca-ferramenta-de-ia-para-analise-de-investimentos/",
+  "resumo": "“O Bison Insight traduz a forma como queremos evoluir a experiência de Private Banking, combinando tecnologia e acompanhamento personalizado”, afirmou António Henriques, CEO do Bison Bank, em comunicado.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T19:24:04+00:00",
+  "cats_feed": [
+   "Banca",
+   "Empresas",
+   "Sapo Economia",
+   "Bison Insight"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "ALF promove primeira edição do ALF Padel Cup em Lisboa",
+  "link": "https://jornaleconomico.sapo.pt/noticias/alf-promove-primeira-edicao-do-alf-padel-cup-em-lisboa/",
+  "resumo": "A Associação Portuguesa de Leasing, Factoring e Renting (ALF) vai promover, em 10 de outubro, a primeira edição do ALF Padel Cup, no Club 7, em Lisboa, numa iniciativa que pretende juntar associados, patrocinadores e convidados num momento de desporto, convívio e ‘networking’.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T19:17:11+00:00",
+  "cats_feed": [
+   "Desporto",
+   "Empresas",
+   "Sapo Economia",
+   "ALF Leasing"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Jornalismo perde leitores por falta de interação com o público",
+  "link": "https://jornaleconomico.sapo.pt/noticias/jornalismo-perde-leitores-por-falta-de-interacao-com-o-publico/",
+  "resumo": "Segundo Aldina Margato, autora do estudo \"A Reinvenção do Jornalismo a Partir das Comunidades Online\" e professora naquela instituição de ensino de Coimbra, não é a tecnologia que está a afastar o público do jornalismo, mas a sensação de que, dentro das redações, ninguém liga ao que pensam os leitores.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T19:16:54+00:00",
+  "cats_feed": [
+   "Comunicação Social",
+   "Economia",
+   "Pub & Media",
+   "Sapo Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Novo regulamento do mecenato cultural prevê plataforma operacional até ao Natal",
+  "link": "https://jornaleconomico.sapo.pt/noticias/novo-regulamento-do-mecenato-cultural-preve-plataforma-operacional-ate-ao-natal/",
+  "resumo": "O diploma estabelece os procedimentos para o registo e reconhecimento de entidades e iniciativas culturais, através dos dois títulos, assim como os elementos necessários aos pedidos, a sua apreciação e decisão e o acompanhamento do cumprimento das obrigações das entidades beneficiárias, sublinhando que tem como objetivo tornar o regime “mais abrangente, transparente, acessível e eficaz”.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T19:09:49+00:00",
+  "cats_feed": [
+   "Cultura & Lifestyle",
+   "Economia",
+   "Et Cetera",
+   "Sapo Economia",
+   "mecenato cultural"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Álvaro Santos Pereira apela à qualidade, infraestruturas e inteligência artificial para o futuro do turismo em Portugal",
+  "link": "https://jornaleconomico.sapo.pt/noticias/alvaro-santos-pereira-apela-a-qualidade-infraestruturas-e-inteligencia-artificial-para-o-futuro-do-turismo-em-portugal/",
+  "resumo": "\"Não é a quantidade que vai interessar no futuro, é aumentarmos o valor acrescentado. É exatamente apostarmos na qualidade, na diversidade e no reconhecimento internacional\", rematou, desafiando o setor a investir na formação contínua, na qualificação da oferta e na inovação tecnológica.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T19:02:25+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "Governador do Banco de Portugal",
+   "VIII Cimeira do Turismo Português"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "CAP exige mais 140 milhões de euros para apoiar agricultores e recuperar competitividade com Espanha",
+  "link": "https://jornaleconomico.sapo.pt/noticias/cap-exige-mais-140-milhoes-de-euros-para-apoiar-agricultores-e-recuperar-competitividade-com-espanha/",
+  "resumo": "A Confederação dos Agricultores de Portugal (CAP) exige ao Governo mais 140 milhões de euros em apoios extraordinários para compensar o aumento dos custos de produção e recuperar parte da competitividade perdida pelos agricultores portugueses. A organização considera insuficientes os 60 milhões de euros já anunciados e aponta para os 1.100 milhões de euros de medidas de apoio atribuídas em Espanha. Caso não obtenha resposta, admite avançar para medidas concertadas de protesto. a 12 de outubro.",
+  "fonte": "Jornal Económico",
+  "autor": "Teresa Cotrim",
+  "data": "2026-09-28T18:50:05+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "CAP"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministro da Economia diz que segurança é um “ativo económico” do turismo português",
+  "link": "https://jornaleconomico.sapo.pt/noticias/ministro-da-economia-diz-que-seguranca-e-um-ativo-economico-do-turismo-portugues/",
+  "resumo": "“É por isso que a segurança é também um ativo económico, não aparece na fatura de um hotel, não consta de um menu ou restaurante, mas está presente quando uma família escolhe um destino”, disse o governante na oitava Cimeira do Turismo, promovida pela Confederação do Turismo de Portugal (CTP), que decorre em Lisboa.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T18:48:46+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "Manuel Castro e Almeida"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Flexdeal lança primeiras “PME bonds” com garantia pública em Portugal e entra na moda e no fitness",
+  "link": "https://jornaleconomico.sapo.pt/noticias/flexdeal-lanca-primeiras-pme-bonds-com-garantia-publica-em-portugal-e-entra-na-moda-e-no-fitness/",
+  "resumo": "Carteira da SIMFE já integra 19 empresas e representa um investimento global de cerca de 21 milhões de euros, segundo o relatório intercalar do primeiro semestre de 2026.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T18:35:52+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Flexdeal"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "OE2027: “Governo prevê para próximo ano uma inflação média equivalente à de 2026”, diz PS",
+  "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-governo-preve-para-proximo-ano-uma-inflacao-media-equivalente-a-de-2026-diz-ps/",
+  "resumo": "O líder parlamentar do PS, Eurico Brilhante Dias, sublinhou que \"no que diz respeito à inflação estimada pelo Executivo. a inflação tem, nos últimos meses, andado em torno dos 3%, 3,4% em termos homólogos e o Governo prevê para o próximo ano uma inflação média equivalente à de 2026\".",
+  "fonte": "Jornal Económico",
+  "autor": "Bianca Marques",
+  "data": "2026-09-28T18:30:14+00:00",
+  "cats_feed": [
+   "OE 2027",
+   "Política",
+   "Sapo Atualidade",
+   "OE2027"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE2027: Governo prevê inflação média \"praticamente idêntica\" à de 2026",
+  "link": "https://www.noticiasaominuto.com/pais/3058596/oe2027-governo-preve-inflacao-em-linha-com-2026-e-considera-dotacao-para-cobrir-fim-do-prr-ps#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T19:31:27+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE. Chega diz que Governo prevê excedente de 0,2% no próximo ano",
+  "link": "https://www.noticiasaominuto.com/pais/3058571/oe2027-chega-diz-que-governo-preve-excedente-de-0-2-no-proximo-ano#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T19:05:56+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE2027: Livre vai propor licença simultânea para pais de crianças com cancro",
+  "link": "https://www.noticiasaominuto.com/pais/3058436/oe2027-livre-vai-propor-licenca-simultanea-para-pais-de-criancas-com-cancro#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T17:58:47+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "CAP exige pacote de 140 milhões em medidas para recuperar competitividade",
+  "link": "https://www.noticiasaominuto.com/economia/3058616/cap-exige-pacote-de-140-milhoes-em-medidas-para-recuperar-competitividade#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T20:20:46+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Confagri pede audiências a Seguro e Montenegro sobre subida dos preços",
+  "link": "https://www.noticiasaominuto.com/pais/3058554/confagri-pede-audiencias-urgentes-a-seguro-e-montenegro-sobre-subida-dos-precos-na-agricultura#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T19:28:52+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Passageiros desembarcados em portos nos Açores baixam 5,4% em agosto",
+  "link": "https://www.noticiasaominuto.com/pais/3058587/passageiros-desembarcados-em-portos-nos-acores-baixam-5-4-em-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T19:25:17+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Turismo deve apostar noutras regiões e produtos, diz governador do BdP",
+  "link": "https://www.noticiasaominuto.com/economia/3058586/turismo-deve-apostar-noutras-regioes-e-noutros-produtos-governador-do-bdp#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T19:24:34+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Coesão e melhores salários: Seguro quer \"nova etapa\" no turismo",
+  "link": "https://www.noticiasaominuto.com/pais/3058592/pr-pede-estrategia-a-prazo-para-nova-etapa-no-turismo-com-coesao-territorial-e-melhores-salarios#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T19:20:15+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Mais de dois terços das maiores empresas consideram o sistema fiscal ineficaz",
+  "link": "https://www.noticiasaominuto.com/economia/3058555/mais-de-dois-tercos-das-maiores-empresas-consideram-o-sistema-fiscal-ineficaz-inquerito#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T18:45:24+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Porto da Figueira lança concurso superior a nove milhões para dragagens",
+  "link": "https://www.noticiasaominuto.com/pais/3058511/porto-da-figueira-da-foz-lanca-concurso-superior-a-nove-milhoes-de-euros-para-dragagens#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T17:54:13+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Portugal sobe para 11.º lugar no ranking de competitividade turística",
+  "link": "https://www.noticiasaominuto.com/pais/3058539/portugal-sobe-para-11-lugar-no-ranking-de-competitividade-turistica-do-forum-economico-mundial#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T17:45:57+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Caso das gémeas. \"Esta acusação vem limpar todo este caso daquelas questões que poderiam ser acessórias\"",
+  "link": "https://cnnportugal.iol.pt/videos/caso-das-gemeas-esta-acusacao-vem-limpar-todo-este-caso-daquelas-questoes-que-poderiam-ser-acessorias/6aba97a90cf22b9f8904ce97",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T19:35:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "CNN Portugal Summit | Lei Eleitoral e Sistema de Governo",
+  "link": "https://cnnportugal.iol.pt/videos/cnn-portugal-summit-lei-eleitoral-e-sistema-de-governo/6abaa8500cf299bc2953d8b7",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T19:34:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "PR pede estratégia a prazo para \"nova etapa\" no turismo com coesão territorial e melhores salários",
+  "link": "https://cnnportugal.iol.pt/coesao-territorial/melhores-salarios/pr-pede-estrategia-a-prazo-para-nova-etapa-no-turismo-com-coesao-territorial-e-melhores-salarios/20260928/6abab2d8d34e9a786e759fdf",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T19:32:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Caso das gémeas: Lacerda Sales recusa acusação e rejeita crimes imputados",
+  "link": "https://cnnportugal.iol.pt/caso-gemeas/lacerda-sales/caso-gemeas-lacerda-sales-recusa-acusacao-e-rejeita-crimes-imputados/20260928/6abaa979d34e9a786e759fc7",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T18:52:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
  }
 ]

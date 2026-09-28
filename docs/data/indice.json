@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-28T17:46+01:00",
+ "atualizado": "2026-09-28T20:36+01:00",
  "hoje": "2026-09-28",
  "dias": [
   "2026-09-26",
@@ -21,7 +21,7 @@
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50,
-  "https://24noticias.sapo.pt/feed": 25,
+  "https://24noticias.sapo.pt/feed": "erro HTTP 403",
   "http://feeds.jn.pt/JN-Ultimas": 20,
   "http://feeds.tsf.pt/TSF-Ultimas": 20
  },
