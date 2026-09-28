@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-28T16:45+01:00",
+ "atualizado": "2026-09-28T17:46+01:00",
  "hoje": "2026-09-28",
  "dias": [
   "2026-09-26",
@@ -17,10 +17,44 @@
   "https://eco.sapo.pt/feed/": 22,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.cmjornal.pt/rss": 0,
   "http://feeds.dn.pt/DN-Ultimas": 20,
   "https://www.noticiasaominuto.com/rss/politica": 490,
-  "https://www.noticiasaominuto.com/rss/economia": 490
+  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://cnnportugal.iol.pt/rss.xml": 50,
+  "https://24noticias.sapo.pt/feed": 25,
+  "http://feeds.jn.pt/JN-Ultimas": 20,
+  "http://feeds.tsf.pt/TSF-Ultimas": 20
  },
- "n_capas": 11
+ "n_capas": 11,
+ "nomes_fontes": [
+  "CNN Portugal",
+  "Diário de Notícias",
+  "ECO",
+  "Expresso",
+  "Jornal Económico",
+  "Jornal de Negócios",
+  "Jornal de Notícias",
+  "Notícias ao Minuto",
+  "Observador",
+  "Público",
+  "RTP",
+  "SAPO 24",
+  "TSF"
+ ],
+ "nomes_capas": [
+  "Público",
+  "Expresso",
+  "Diário de Notícias",
+  "Jornal de Notícias",
+  "Correio da Manhã",
+  "Jornal i",
+  "Nascer do SOL",
+  "NOVO Semanário",
+  "Jornal de Negócios",
+  "Jornal Económico",
+  "Expresso Economia",
+  "Visão",
+  "Sábado",
+  "Jornal de Letras"
+ ]
 }

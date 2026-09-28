@@ -4,20 +4,27 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "aeroporto",
    "emergencia",
    "aviao",
-   "sa carneiro"
+   "aeroporto",
+   "aterra"
   ],
   "fontes": [
    "Expresso",
    "Observador",
-   "RTP"
+   "RTP",
+   "SAPO 24"
   ],
-  "n_fontes": 3,
-  "n_artigos": 3,
-  "pontuacao": 12,
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
   "artigos": [
+   {
+    "titulo": "Avião com fumo a bordo aterra de emergência no Porto. Quatro pessoas hospitalizadas",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/aviao-com-fumo-a-bordo-aterra-de-emergencia-no-porto-quatro-pessoas-hospitalizadas",
+    "fonte": "SAPO 24",
+    "data": "2026-09-27T22:35:34+00:00"
+   },
    {
     "titulo": "Avião regressa de emergência ao aeroporto Sá Carneiro no Porto",
     "link": "https://www.rtp.pt/noticias/pais/aviao-regressa-de-emergencia-ao-aeroporto-sa-carneiro-no-porto_n1768071",
@@ -43,10 +50,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "20",
+   "comunidades intermunicipais",
+   "20 euros",
    "pcp",
-   "intermunicipais",
-   "comunidades"
+   "lisboa porto"
   ],
   "fontes": [
    "Diário de Notícias",
@@ -78,14 +85,14 @@
   ]
  },
  {
-  "titulo": "Espere por amanhã para abastecer o carro: Preço dos combustíveis vai cair",
-  "resumo": "",
+  "titulo": "Preço dos combustíveis vai descer esta segunda-feira",
+  "resumo": "O gasóleo deverá baixar cinco cêntimos por litro e a gasolina dois cêntimos. Os dados são da Anarec e já têm em conta os descontos do Governo sobre o Imposto sobre os Produtos Petrolíferos e Energéticos.",
   "categoria": "economia",
   "palavras": [
-   "preco",
-   "combustiveis",
+   "preco combustiveis",
    "cair",
-   "espere"
+   "carro",
+   "espere abastecer"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -110,14 +117,14 @@
   ]
  },
  {
-  "titulo": "Discoteca em Lisboa encerrada e sete pessoas detidas em operação da PSP",
-  "resumo": "",
+  "titulo": "Sete detidos em Sintra por apedrejarem polícias no final de evento musical",
+  "resumo": "Sete pessoas foram detidas na última noite em Mem Martins, no concelho de Sintra, em Lisboa, por terem arremessado pedras contra polícias, atingindo dois agentes, no final de um evento de música, anunciou hoje a PSP.",
   "categoria": "sociedade",
   "palavras": [
    "sete",
-   "pessoas detidas",
+   "detidas",
    "lisboa",
-   "encerrada"
+   "pessoas"
   ],
   "fontes": [
    "RTP",
@@ -144,11 +151,11 @@
  {
   "titulo": "Carneiro acusa Governo de querer \"liberalizar desalojamento\" à margem da AR",
   "resumo": "",
-  "categoria": "politica",
+  "categoria": "governo",
   "palavras": [
+   "governo querer",
    "acusa governo",
    "carneiro acusa",
-   "governo querer",
    "desalojamento margem"
   ],
   "fontes": [
@@ -174,14 +181,14 @@
   ]
  },
  {
-  "titulo": "\"Quando o primeiro-ministro nos mete medo, o que é que ele sabe que nós não sabemos?\", questiona Mário Centeno",
-  "resumo": "\"Governar sob o medo é péssimo\", diz o antigo ministro das Finanças.",
-  "categoria": "economia",
+  "titulo": "\"Governar sob o medo é péssimo\". Centeno desafia Montenegro a apresentar explicações",
+  "resumo": "O antigo ministro das Finanças desafia o primeiro-ministro a explicar-se: \"O que é que ele sabe que nós não sabemos?\", questiona.",
+  "categoria": "governo",
   "palavras": [
    "medo",
    "centeno",
    "nao sabemos",
-   "sabemos questiona"
+   "sabe nao"
   ],
   "fontes": [
    "RTP"
@@ -209,10 +216,10 @@
   "resumo": "Foram registados mais de 2.600 casos de maus tratos e abandono de animais desde janeiro de 2024.",
   "categoria": "sociedade",
   "palavras": [
-   "2024",
    "animais",
    "casos",
-   "600"
+   "600",
+   "2024"
   ],
   "fontes": [
    "RTP"
@@ -240,10 +247,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "policia",
-   "passeavam",
-   "maritima",
-   "tranquilamente cruzarem"
+   "passeavam tranquilamente",
+   "caminho policia",
+   "cruzarem",
+   "maritima"
   ],
   "fontes": [
    "Notícias de Coimbra"
@@ -265,10 +272,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "ganhas ad",
    "absoluta",
-   "maioria",
-   "2029 serao"
+   "duvida",
+   "tenho",
+   "ad"
   ],
   "fontes": [
    "Observador"
@@ -290,10 +297,9 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "primeiro responder",
-   "responder incendios",
-   "helicoptero primeiro",
-   "incendios helicoptero"
+   "incendios",
+   "responder",
+   "helicoptero primeiro"
   ],
   "fontes": [
    "dnoticias.pt"
@@ -315,10 +321,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "discurso extremista",
-   "absorver",
-   "extremista assusta",
-   "reconquista discurso"
+   "absorver afastar",
+   "chega",
+   "discurso",
+   "desvalorize"
   ],
   "fontes": [
    "Observador"
@@ -340,10 +346,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "canhas",
+   "combate",
    "reacendeu",
-   "helicoptero combate",
-   "combate incendio"
+   "canhas",
+   "incendio"
   ],
   "fontes": [
    "dnoticias.pt"
@@ -363,12 +369,12 @@
  {
   "titulo": "Montenegro? \"Se é eleito para fazer diferente de Costa, espero que faça\"",
   "resumo": "",
-  "categoria": "politica",
+  "categoria": "governo",
   "palavras": [
-   "costa",
-   "fazer diferente",
-   "espero faca",
-   "montenegro eleito"
+   "faca",
+   "fazer",
+   "montenegro eleito",
+   "diferente"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -390,9 +396,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "funcionarios",
-   "macau reformar-se",
-   "quase 15"
+   "reformar-se 2029",
+   "15",
+   "publicos",
+   "quase"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -412,12 +419,12 @@
  {
   "titulo": "Luís Montenegro \"a caminho do Porto\" com Passe Verde: \"Medida simples\"",
   "resumo": "",
-  "categoria": "economia",
+  "categoria": "governo",
   "palavras": [
+   "medida",
    "verde",
-   "simples",
-   "montenegro caminho",
-   "caminho porto"
+   "luis montenegro",
+   "porto passe"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -440,9 +447,9 @@
   "categoria": "politica",
   "palavras": [
    "centeno revelam",
-   "coelho",
    "entrevista mario",
-   "revelam passos"
+   "entrelinhas entrevista",
+   "coelho"
   ],
   "fontes": [
    "expresso.pt"
@@ -465,9 +472,9 @@
   "categoria": "sociedade",
   "palavras": [
    "picareto construido",
-   "ultimo",
-   "museu",
-   "marinha"
+   "museu marinha",
+   "ortiga",
+   "integrar"
   ],
   "fontes": [
    "RTP"
@@ -490,8 +497,7 @@
   "categoria": "economia",
   "palavras": [
    "rendimento",
-   "normal",
-   "tornar-se",
+   "tornar-se normal",
    "fonte"
   ],
   "fontes": [
@@ -514,10 +520,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "pagar iuc",
    "semana afinal",
-   "explicador",
-   "afinal pagar"
+   "explicador semana",
+   "afinal pagar",
+   "iuc"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -539,10 +545,10 @@
   "resumo": "Termina hoje na Alfândega do Porto uma Feira de Arte, que junta galerias e antiquários. É a primeira edição da ARTePorto.",
   "categoria": "sociedade",
   "palavras": [
-   "arte",
-   "evento reuniu",
-   "moderna",
-   "contemporanea"
+   "arteporto",
+   "antiguidades",
+   "reuniu arte",
+   "contemporanea moderna"
   ],
   "fontes": [
    "RTP"
@@ -564,10 +570,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
+   "bifurcacao mealhada",
+   "comboio",
    "beira baixa",
-   "realizado",
-   "bifurcacao",
-   "ignora"
+   "aveiro"
   ],
   "fontes": [
    "Público"
@@ -589,10 +595,10 @@
   "resumo": "“Tender Loving Care”, de Mike Leigh, foi o grande vencedor do Festival de San Sebastián. Cinema ético sem compromissos que volta a consagrar o veterano de 83 anos. Uma edição marcada pelo humor neurótico de Jesse Eisenberg, em “A Grande Estreia”, ignorado no palmarés",
   "categoria": "sociedade",
   "palavras": [
-   "san",
-   "leigh",
+   "mike leigh",
    "sebastian",
-   "mike"
+   "san",
+   "vencem"
   ],
   "fontes": [
    "Expresso"
@@ -614,10 +620,10 @@
   "resumo": "São Francisco, Estados Unidos, 27 set 2026 (Lusa) -- O secretário do Tesouro dos Estados Unidos (EUA) afirmou ter enviado emissários por todo o mundo a exigir medidas para isolar economicamente Teerão e celebrou as restrições contra os bancos e a aviação do Irão.",
   "categoria": "economia",
   "palavras": [
-   "tesouro",
+   "eua",
    "teerao",
-   "isolar",
-   "eua"
+   "tesouro",
+   "isolar"
   ],
   "fontes": [
    "RTP"
@@ -639,10 +645,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "saude humana",
-   "identificados parasitas",
-   "parasitas aves",
-   "alqueva afectar"
+   "aves",
+   "afectar",
+   "saude",
+   "parasitas"
   ],
   "fontes": [
    "Público"
@@ -665,9 +671,9 @@
   "categoria": "economia",
   "palavras": [
    "crise combustiveis",
-   "custo",
-   "combustiveis aumenta",
-   "insatisfacao"
+   "custo vida",
+   "aumenta",
+   "semanario"
   ],
   "fontes": [
    "RTP"
@@ -689,10 +695,10 @@
   "resumo": "Morrem todos os anos mais de 80 mil pessoas sem acesso a Cuidados Paliativos em Portugal.",
   "categoria": "sociedade",
   "palavras": [
-   "paliativos",
-   "cuidados",
-   "braga equipa",
-   "doentes"
+   "cuidados paliativos",
+   "casa desde",
+   "equipa apoia",
+   "paliativos braga"
   ],
   "fontes": [
    "RTP"
@@ -714,10 +720,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "incendio consome",
-   "comida",
-   "gare",
-   "consome rulote"
+   "rulote comida",
+   "oriente",
+   "consome rulote",
+   "gare"
   ],
   "fontes": [
    "SIC Notícias"
@@ -737,12 +743,12 @@
  {
   "titulo": "Antigo ministro do Trabalho Eusébio Marques de Carvalho morre aos 91 anos",
   "resumo": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
-  "categoria": "politica",
+  "categoria": "governo",
   "palavras": [
+   "eusebio",
+   "ministro trabalho",
    "marques carvalho",
-   "91",
-   "trabalho eusebio",
-   "eusebio marques"
+   "91"
   ],
   "fontes": [
    "RTP"
@@ -767,7 +773,7 @@
    "casas",
    "residentes",
    "compradas",
-   "compraram menos"
+   "adquiridas"
   ],
   "fontes": [
    "RTP"
@@ -789,10 +795,10 @@
   "resumo": "O Parlamento vai discutir e votar na generalidade esta semana as alterações à lei do arrendamento propostas pelo Governo. Há novas regras para as rendas antigas e maior flexibilidade nos contratos.",
   "categoria": "economia",
   "palavras": [
-   "votar",
+   "arrendamento",
    "alteracoes",
-   "parlamento",
-   "arrendamento"
+   "votar",
+   "parlamento"
   ],
   "fontes": [
    "RTP"
@@ -815,9 +821,9 @@
   "categoria": "economia",
   "palavras": [
    "profissoes",
-   "republica",
    "mundial",
-   "presidente"
+   "presidente republica",
+   "felicita"
   ],
   "fontes": [
    "RTP"
@@ -839,9 +845,10 @@
   "resumo": "A Herdade da Granja, em Idanha-a-Nova, abriu as portas. A entrada foi gratuita.",
   "categoria": "sociedade",
   "palavras": [
-   "boom",
-   "aberto comunidade",
-   "promoveu"
+   "aberto",
+   "comunidade",
+   "festival boom",
+   "boom promoveu"
   ],
   "fontes": [
    "RTP"
@@ -864,9 +871,9 @@
   "categoria": "politica",
   "palavras": [
    "inaceitavel",
-   "informalidade",
-   "continua haver",
-   "buscas"
+   "pj",
+   "haver",
+   "informalidade"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -890,8 +897,8 @@
   "palavras": [
    "gasolina",
    "preco",
-   "querem",
-   "deixem"
+   "parva querem",
+   "querem baixar"
   ],
   "fontes": [
    "Expresso"
