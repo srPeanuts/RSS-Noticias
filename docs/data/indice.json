@@ -1,0 +1,28 @@
+{
+ "atualizado": "2026-09-28T12:51+01:00",
+ "hoje": "2026-09-28",
+ "dias": [
+  "2026-09-26",
+  "2026-09-27",
+  "2026-09-28"
+ ],
+ "fontes": {
+  "https://observador.pt/feed/": 51,
+  "https://feeds.feedburner.com/PublicoRSS": 10,
+  "https://feeds.feedburner.com/expresso-geral": 50,
+  "https://www.rtp.pt/noticias/rss/politica": 50,
+  "https://www.rtp.pt/noticias/rss/economia": 50,
+  "https://www.rtp.pt/noticias/rss/pais": 50,
+  "https://www.rtp.pt/noticias/rss/cultura": 50,
+  "https://eco.sapo.pt/feed/": 22,
+  "https://www.jornaldenegocios.pt/rss": 20,
+  "https://jornaleconomico.sapo.pt/feed": 10,
+  "https://www.cmjornal.pt/rss": 0,
+  "http://feeds.dn.pt/DN-Ultimas": 20,
+  "https://rr.pt/rssfeed-ultimas": "erro: HTTPError",
+  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://news.google.com/rss/headlines/section/topic/NATION?hl=pt-PT&gl=PT&ceid=PT:pt-150": 70
+ },
+ "n_capas": 14
+}
