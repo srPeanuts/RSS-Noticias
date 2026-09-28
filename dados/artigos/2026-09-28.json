@@ -3939,5 +3939,477 @@
   ],
   "categoria_forcada": "",
   "categoria": "sociedade"
+ },
+ {
+  "titulo": "Gasóleo \"fora da lei\". ISP furou mínimo fixado no Orçamento",
+  "link": "https://observador.pt/2026/09/28/gasoleo-fora-da-lei-imposto-furou-minimo-fixado-no-orcamento-devido-a-vazio-legal-que-governo-quer-resolver-com-urgencia/",
+  "resumo": "O imposto petrolífero sobre o gasóleo está abaixo do limiar mínimo ficado no Orçamento do Estado para este ano. Governo apresenta proposta de lei urgente para prolongar regime excecional de taxas.",
+  "fonte": "Observador",
+  "autor": "Ana Suspiro",
+  "data": "2026-09-28T17:32:31+01:00",
+  "cats_feed": [
+   "Imposto Sobre Produtos Petrolíferos",
+   "Impostos",
+   "Economia",
+   "Combustível",
+   "Energia",
+   "Orçamento do Estado"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Lagarde vê IA como travão à inflação",
+  "link": "https://observador.pt/2026/09/28/lagarde-ia-pode-reduzir-pressoes-inflacionistas-a-longo-prazo-mas-bce-sobe-juros-para-travar-choque-energetico/",
+  "resumo": "Lagarde defendeu que maior produtividade via IA pode reduzir custos e pressões de preços, enquanto o BCE tenta conter uma inflação que voltou aos 3,2% em agosto.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T17:28:27+01:00",
+  "cats_feed": [
+   "Tecnologia",
+   "Inteligência Artificial",
+   "BCE",
+   "Banca",
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "BE questiona Governo sobre ciberataque à UA",
+  "link": "https://observador.pt/2026/09/28/bloco-de-esquerda-questiona-governo-sobre-ciberataque-a-universidade-de-aveiro-nao-se-sabe-que-base-de-dados-foi-exfiltrada/",
+  "resumo": "Dois meses após o ataque de ransomware à UA, o BE exige respostas ao Ministério da Educação: que dados foram roubados, quantos afetados e se houve negociação com os atacantes.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T17:20:32+01:00",
+  "cats_feed": [
+   "Universidade de Aveiro",
+   "Universidades",
+   "Educação",
+   "Crime Informático",
+   "Crime",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Madeira regulariza taxas moderadoras nas urgências",
+  "link": "https://observador.pt/2026/09/28/madeira-regulariza-pagamento-de-taxas-moderadoras-em-situacoes-nao-urgentes/",
+  "resumo": "O Sesaram está a notificar utentes sobre cobranças em atendimentos de prioridade verde e azul. Há várias isenções previstas na lei, incluindo crianças, grávidas e desempregados.",
+  "fonte": "Observador",
+  "autor": "Agência Lusa",
+  "data": "2026-09-28T17:15:04+01:00",
+  "cats_feed": [
+   "Taxas Moderadoras",
+   "Serviço Nacional de Saúde",
+   "País",
+   "Sociedade",
+   "Madeira"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Direito de resposta da Artecer",
+  "link": "https://observador.pt/2026/09/28/direito-de-resposta-da-artecer-artigos-termais-e-ceramicos-lda/",
+  "resumo": "O Observador publica aqui o Direito de Resposta da Artecer ao artigo \"PSD exige esclarecimentos sobre fecho do Hospital Termal das Caldas da Rainha\".",
+  "fonte": "Observador",
+  "autor": "Observador",
+  "data": "2026-09-28T17:04:18+01:00",
+  "cats_feed": [
+   "Direito de resposta",
+   "Observador"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Porque é que o primeiro filho é sempre mais filho da mãe?",
+  "link": "https://observador.pt/programas/porque-sim-nao-e-resposta/porque-e-que-o-primeiro-filho-e-sempre-mais-filho-da-mae/",
+  "resumo": "O primeiro filho chega e, de repente, parece que o pai fica a ver o jogo da bancada. Instinto, hormonas, amamentação ou uma porta que as mães fecham sem dar por isso?",
+  "fonte": "Observador",
+  "autor": "Eduardo Sá",
+  "data": "2026-09-28T17:01:49+01:00",
+  "cats_feed": [
+   "Educação",
+   "Pais e Filhos",
+   "Família",
+   "Lifestyle",
+   "Maternidade",
+   "Sexo",
+   "Amor e Sexo",
+   "Amor",
+   "Psicologia",
+   "Ciências Sociais",
+   "Ciência",
+   "Adolescentes",
+   "Sociedade",
+   "Paternidade",
+   "Natalidade",
+   "Adolescência",
+   "Psiquiatria",
+   "Saúde",
+   "Rádio Observador",
+   "Observador"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Preços dos combustíveis. Como estão os países europeus a responder à crise?",
+  "link": "https://www.rtp.pt/noticias/economia/precos-dos-combustiveis-como-estao-os-paises-europeus-a-responder-a-crise_v1768255",
+  "resumo": "Os portugueses nunca pagaram tanto por combustível. Perante esta galopante subida dos preços dos combustíveis, os governos europeus têm avançado com medidas.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T18:25:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Tribunal de Évora começa a julgar homem acusado de matar outro com um sabre",
+  "link": "https://www.rtp.pt/noticias/pais/tribunal-de-evora-comeca-a-julgar-homem-acusado-de-matar-outro-com-um-sabre_n1768252",
+  "resumo": "O Tribunal de Évora começa a julgar na terça-feira, à porta fechada, um homem acusado de ter matado outro com um sabre, no concelho de Montemor-o-Novo, neste distrito alentejano, há cerca de três anos.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T18:13:11+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Rita Cabaço estreia-se na encenação a olhar para o presente a partir do Holocausto",
+  "link": "https://www.rtp.pt/noticias/cultura/rita-cabaco-estreia-se-na-encenacao-a-olhar-para-o-presente-a-partir-do-holocausto_n1768242",
+  "resumo": "A atriz Rita Cabaço estreia-se na encenação com \"Caminho do Céu\", peça que parte do Holocausto para olhar o presente e refletir sobre a normalização do absurdo e a repetição de mecanismos de violência e desumanização.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-28T18:10:37+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Pinto Luz confirma decisão sobre venda da TAP em “meados de outubro”",
+  "link": "https://eco.sapo.pt/2026/09/28/pinto-luz-confirma-decisao-sobre-venda-da-tap-em-meados-de-outubro/",
+  "resumo": "O ministro Miguel Pinto Luz revelou esta segunda-feira que o Governo vai tomar a decisão sobre a privatização da TAP em “meados de outubro”, 15 dias após a Air France-KLM e a Lufthansa entregarem as propostas finais, confirmando a informação avançada pelo ECO. “Até dia 30 [de setembro, esta quarta-feira] serão apresentadas as propostas finais […]",
+  "fonte": "ECO",
+  "autor": "Joana Abrantes Gomes",
+  "data": "2026-09-28T16:41:22+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Privatização da TAP",
+   "Transportes"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ativo do dia. Ouro tomba para mínimos de sete semanas com espectro de subida de juros",
+  "link": "https://eco.sapo.pt/2026/09/28/ativo-do-dia-ouro-tomba-para-minimos-de-sete-semanas-com-espectro-de-subida-de-juros/",
+  "resumo": "O ativo Onça de ouro. O ouro tende a reagir à guerra devido ao seu papel como um ativo de refúgio, mas a trajetória do preço depende muito de como o conflito afeta a inflação, as taxas de juro, a estabilidade cambial e a aversão ao risco. A geopolítica, por si só, raramente impulsiona os […]",
+  "fonte": "ECO",
+  "autor": "Shrikesh Laxmidas",
+  "data": "2026-09-28T16:40:54+00:00",
+  "cats_feed": [
+   "Economia",
+   "Energia",
+   "Investimento",
+   "Mercados"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "O AI Act e o futuro do Setor Segurador em Portugal",
+  "link": "https://eco.sapo.pt/opiniao/o-ai-act-e-o-futuro-do-setor-segurador-em-portugal/",
+  "resumo": "A inteligência artificial está a transformar rapidamente o setor segurador português. Desde a subscrição automática de riscos até à deteção de fraude, passando pela gestão de sinistros e apoio ao cliente, as seguradoras operam hoje num ambiente cada vez mais digital e orientado por dados. Neste contexto, o Regulamento Europeu da Inteligência Artificial, conhecido como […]",
+  "fonte": "ECO",
+  "autor": "João Veiga",
+  "data": "2026-09-28T16:29:14+00:00",
+  "cats_feed": [
+   "ECOseguros",
+   "Opinião"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Glovo e Nova SBE fazem parceria para formar talento",
+  "link": "https://eco.sapo.pt/2026/09/28/glovo-e-nova-sbe-fazem-parceria-para-formar-talento/",
+  "resumo": "A Glovo e a Nova SBE Executive Education estabeleceram uma parceria para aproximar o setor empresarial do meio académico, e reforçar o investimento da plataforma de entregas no desenvolvimento e formação dos seus colaboradores. O acordo prevê que os colaboradores da Glovo tenham acesso a programas de formação executiva da Nova SBE, enquanto que os […]",
+  "fonte": "ECO",
+  "autor": "Susana Pinheiro",
+  "data": "2026-09-28T16:24:38+00:00",
+  "cats_feed": [
+   "Academia Local",
+   "Empresas",
+   "Formação",
+   "Local Online",
+   "Negócios",
+   "Trabalho"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Turismo: crescimento, identidade e prestígio",
+  "link": "https://eco.sapo.pt/opiniao/turismo-crescimento-identidade-e-prestigio/",
+  "resumo": "Falamos frequentemente de turismo como um setor económico, mas é muito mais que isso, é emprego, investimento, cultura e tem de ser identidade. O turismo continua a afirmar-se como uma das atividades que mais contribuem para o crescimento da economia portuguesa, mas é-o num tempo volátil, tendo como pano de fundo incertezas internacionais e em […]",
+  "fonte": "ECO",
+  "autor": "Carlos Moedas",
+  "data": "2026-09-28T16:23:39+00:00",
+  "cats_feed": [
+   "Local Online",
+   "Opinião",
+   "Turismo"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "El Corte Inglés quer contratar mais de 500 trabalhadores para o Natal",
+  "link": "https://eco.sapo.pt/2026/09/28/el-corte-ingles-quer-contratar-mais-de-500-trabalhadores-com-natal-a-porta/",
+  "resumo": "Antecipando a quadra natalícia, o El Corte Inglés planeia contratar mais de 500 trabalhadores para reforçar as suas equipas. Há vagas para as lojas de Lisboa e Vila Nova de Gaia, mas também para os armazéns de Alcochete e do Olival. As oportunidades abrangem “diferentes áreas da loja e do backoffice“, sendo que as candidaturas […]",
+  "fonte": "ECO",
+  "autor": "Isabel Patrício",
+  "data": "2026-09-28T16:20:19+00:00",
+  "cats_feed": [
+   "Emprego",
+   "Empresas",
+   "Recrutamento",
+   "Trabalho"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Pinto Luz recusa fazer “futurologia” sobre custo do novo aeroporto",
+  "link": "https://eco.sapo.pt/2026/09/28/pinto-luz-recusa-fazer-futurologia-sobre-custo-do-novo-aeroporto/",
+  "resumo": "O ministro das Infraestruturas, Miguel Pinto Luz, rejeita fazer uma previsão do custo do novo aeroporto de Lisboa e acredita que é possível antecipar a sua inauguração para 2034. “Ainda não sabemos quanto vai custar o novo aeroporto. Ninguém sabe fazer um orçamento claro enquanto não tivermos os projetos todos definidos, enquanto não tivermos a […]",
+  "fonte": "ECO",
+  "autor": "Joana Abrantes Gomes",
+  "data": "2026-09-28T16:12:28+00:00",
+  "cats_feed": [
+   "Economia",
+   "Infraestruturas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Quando o corpo comunica o que a mente tende a ignorar",
+  "link": "https://eco.sapo.pt/opiniao/quando-o-corpo-comunica-o-que-a-mente-tende-a-ignorar/",
+  "resumo": "Ao longo do meu percurso como corredor nunca imaginei que uma rotura parcial do tendão pudesse ensinar-me uma lição de vida. Bastaram umas semanas sem correr para perceber que podemos encontrar na pausa as respostas que fomos impedidos de ver pela velocidade. A sociedade em que vivemos valoriza o movimento e ritmo constantes. No trabalho, […]",
+  "fonte": "ECO",
+  "autor": "Jorge Azevedo",
+  "data": "2026-09-28T16:03:56+00:00",
+  "cats_feed": [
+   "+M",
+   "Comunicação",
+   "Opinião +M"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Galp e retalho colocam PSI no verde em dia misto na Europa",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/galp-e-retalho-colocam-psi-no-verde-em-dia-misto-na-europa",
+  "resumo": "Numa sessão em que as bolsas foram pressionadas pela subida do petróleo e dos juros das obrigações, o índice nacional fechou com ganhos ligeiros, com a petrolífera na liderança.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T17:01:00+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Há mais de 10 mil mediadores de seguros, mas estão a ficar velhos",
+  "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/ha-mais-de-10-mil-mediadores-de-seguros-mas-estao-a-ficar-velhos",
+  "resumo": "Primeira “fotografia” à mediação de seguros revela o peso destes agentes na atividade do setor, mas alerta para a elevada idade média dos profissionais. A ASF antecipa uma transformação à boleia da IA.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T17:00:00+01:00",
+  "cats_feed": [
+   "Banca & Finanças"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "PSI fecha em ligeira alta com Galp a liderar. Europa resiste à escalada do petróleo",
+  "link": "https://jornaleconomico.sapo.pt/noticias/psi-fecha-em-ligeira-alta-com-galp-a-liderar-europa-resiste-a-escalada-do-petroleo/",
+  "resumo": "A sessão foi dominada pela tensão geopolítica no Estreito de Ormuz, que reacendeu os receios de uma nova vaga inflacionista. Os mercados monetários passaram a precificar cerca de 100 pontos base de subidas de juros pelo BCE até ao final de 2027.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T16:46:05+00:00",
+  "cats_feed": [
+   "Mercados",
+   "Sapo Economia",
+   "bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Indústria portuguesa das embalagens procura oportunidades num mercado norueguês de 1,4 mil milhões de euros",
+  "link": "https://jornaleconomico.sapo.pt/noticias/industria-portuguesa-das-embalagens-procura-oportunidades-num-mercado-noruegues-de-14-mil-milhoes-de-euros/",
+  "resumo": "A fileira portuguesa das embalagens está a procurar novas oportunidades de negócio na Noruega, um mercado que movimentou cerca de 1,4 mil milhões de euros em materiais de embalagem em 2024. Sustentabilidade, reciclagem e inovação tecnológica estão entre as áreas com maior potencial para as empresas nacionais.",
+  "fonte": "Jornal Económico",
+  "autor": "Teresa Cotrim",
+  "data": "2026-09-28T16:21:09+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "embalagens"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Passos Coelho defende mais agilidade nas decisões do Estado",
+  "link": "https://jornaleconomico.sapo.pt/noticias/passos-coelho-defende-mais-agilidade-nas-decisoes-do-estado/",
+  "resumo": "A reforma do Estado, “de um modo geral, parece apontar na direção correta”, afirmou Pedro Passos Coelho, defendendo a necessidade de “simplificar e agilizar” o funcionamento da administração pública porque “é importante que o Estado possa ser mais ágil a gastar o dinheiro e, portanto, de preferência, que gaste melhor”.",
+  "fonte": "Jornal Económico",
+  "autor": "Bianca Marques",
+  "data": "2026-09-28T16:16:09+00:00",
+  "cats_feed": [
+   "Política",
+   "Sapo Atualidade"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Portugal quer transformar estatuto de “porto seguro” em vantagem estrutural para o turismo. Governo diz que “Portugal não tem turismo a mais”",
+  "link": "https://jornaleconomico.sapo.pt/noticias/portugal-quer-transformar-estatuto-de-porto-seguro-em-vantagem-estrutural-para-o-turismo-governo-diz-que-portugal-nao-tem-turismo-a-mais/",
+  "resumo": "Pedro Machado destacou a subida de Portugal para o 11.º lugar num dos principais índices de competitividade turística internacional. “Saimos do banco e entrámos no 11 inicial. Estamos a disputar os 11 melhores destinos do mundo”, afirmou. Sobre a capacidade de crescimento, foi perentório: “Portugal não tem turismo a mais”. António Brochado Correia ressalvou que Portugal compara mal em sustentabilidade e Miguel Maya exaltou o papel do turismo nacional.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-28T16:12:51+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Turismo",
+   "VIII Cimeira do Turismo Português"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Venda da Indaqua adiada por potenciais proponentes",
+  "link": "https://jornaleconomico.sapo.pt/noticias/venda-da-empresa-portuguesa-de-gestao-de-agua-indaqua-adiada/",
+  "resumo": "As propostas deveriam ter sido entregues até ao final de julho, mas o prazo foi alargado depois de, pelo menos, um potencial comprador ter pedido mais informações relacionadas com concessões, referiram as mesmas fontes, que não quiseram ser identificadas por se tratar de um assunto confidencial.",
+  "fonte": "Jornal Económico",
+  "autor": "Bianca Marques",
+  "data": "2026-09-28T16:06:09+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Barcelos vai cobrar taxa municipal turística de dois euros por dormida",
+  "link": "https://www.noticiasaominuto.com/pais/3058509/barcelos-vai-cobrar-taxa-municipal-turistica-de-dois-euros-por-dormida#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T17:37:04+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "EUA destronam Reino Unido como 5.º mercado para o calçado português",
+  "link": "https://www.noticiasaominuto.com/economia/3058520/eua-destronam-reino-unido-como-5-mercado-para-o-calcado-portugues#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T17:23:16+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Custo do novo aeroporto não será conhecido antes da conclusão do projeto",
+  "link": "https://www.noticiasaominuto.com/economia/3058517/custo-do-novo-aeroporto-nao-sera-conhecido-antes-da-conclusao-do-projeto-ministro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-28T17:21:00+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "\"Não é surpreendente que Marcelo Rebelo de Sousa não seja acusado\"",
+  "link": "https://cnnportugal.iol.pt/videos/nao-e-surpreendente-que-marcelo-rebelo-de-sousa-nao-seja-acusado/6aba95370cf299bc2953d88f",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T17:38:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "\"No final, saberemos quanto custa e como se paga\": Pinto Luz sobre o novo aeroporto de Lisboa",
+  "link": "https://cnnportugal.iol.pt/novo-aeroporto-de-lisboa/miguel-pinto-luz/no-final-saberemos-quanto-custa-e-como-se-paga-pinto-luz-sobre-o-novo-aeroporto-de-lisboa/20260928/6aba95b6d34e9a786e759f83",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T17:28:38+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Dois trabalhadores soterrados em vala durante obras em Porto Covo. Helicóptero acionado",
+  "link": "https://cnnportugal.iol.pt/porto-covo/sines/dois-trabalhadores-soterrados-em-vala-durante-obras-em-porto-covo-helicoptero-acionado/20260928/6aba94b8d34e53c759c74216",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T17:23:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "“Um programa de retoques” vs. “Uma situação ainda mais precária”: as duas faces da reforma do arrendamento",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/um-programa-de-retoques-vs-uma-situacao-ainda-mais-precaria-as-duas-faces-da-reforma-do-arrendamento",
+  "resumo": "A proposta do Governo para reformar o regime do arrendamento urbano vai ser votada na generalidade esta quarta-feira, com mudanças nas regras dos despejos, dos contratos, das cauções e da atualização das rendas. Para os proprietários, é pouco mais do que um “programa de retoques”; para o movimento dos inquilinos, agrava a precariedade num mercado já marcado por rendas incomportáveis. O conteúdo “Um programa de retoques” vs. “Uma situação ainda mais precária”: as duas faces da reforma do arrendamento aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Meiline Silva",
+  "data": "2026-09-28T16:34:19+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Arrendamento",
+   "Associação Nacional de Proprietários",
+   "Governo",
+   "Habitação",
+   "Inquilinos",
+   "Nacional",
+   "Rendas",
+   "Senhorios",
+   "Sindicato de Moradores de Lisboa"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
  }
 ]
