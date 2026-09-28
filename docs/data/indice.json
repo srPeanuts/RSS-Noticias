@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-28T13:01+01:00",
+ "atualizado": "2026-09-28T14:59+01:00",
  "hoje": "2026-09-28",
  "dias": [
   "2026-09-26",
@@ -19,10 +19,8 @@
   "https://jornaleconomico.sapo.pt/feed": 10,
   "https://www.cmjornal.pt/rss": 0,
   "http://feeds.dn.pt/DN-Ultimas": 20,
-  "https://rr.pt/rssfeed-ultimas": "erro: HTTPError",
   "https://www.noticiasaominuto.com/rss/politica": 490,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
-  "https://news.google.com/rss/headlines/section/topic/NATION?hl=pt-PT&gl=PT&ceid=PT:pt-150": "erro: HTTPError"
+  "https://www.noticiasaominuto.com/rss/economia": 490
  },
- "n_capas": 14
+ "n_capas": 11
 }

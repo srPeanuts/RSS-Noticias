@@ -1,13 +1,13 @@
 [
  {
-  "titulo": "Seguro lembra firmeza na defesa do feminismo e da igualdade de oportunidades",
-  "resumo": "O Presidente da República lamentou hoje a morte da antiga deputada socialista e antiga provedora da Santa Casa de Lisboa Maria do Carmo Romão, enaltecendo a \"firmeza\" na defesa de causas como o feminismo e a igualdade de oportunidades.",
+  "titulo": "Morreu Maria do Carmo Romão, antiga deputada socialista e ex-provedora da SCML",
+  "resumo": "",
   "categoria": "politica",
   "palavras": [
    "antiga",
-   "carmo",
-   "socialista",
-   "maria"
+   "deputada socialista",
+   "maria carmo",
+   "carmo romao"
   ],
   "fontes": [
    "Diário de Notícias",
@@ -32,13 +32,13 @@
   ]
  },
  {
-  "titulo": "\"Falta de respeito institucional condicionar à partida debate orçamental\"",
-  "resumo": "",
+  "titulo": "Livre acusa Governo de \"falta de respeito institucional\" antes de se reunir com partidos",
+  "resumo": "A porta-voz do Livre acusou hoje o Governo de \"falta de respeito institucional\" ao avisar que a margem negocial no Orçamento do Estado para 2027 é \"muito limitada\" antes de se reunir com os partidos na próxima semana.",
   "categoria": "politica",
   "palavras": [
-   "respeito institucional",
    "falta respeito",
-   "partida",
+   "respeito institucional",
+   "condicionar partida",
    "orcamental"
   ],
   "fontes": [
@@ -64,78 +64,14 @@
   ]
  },
  {
-  "titulo": "\"Fascismo nunca mais\". Ventura recebido com protesto na Ericeira",
-  "resumo": "O presidente do Chega foi recebido com protestos no encontro dos Patriotas pela Europa. André Ventura diz que Donald Trump cometeu \"vários erros\" no último mês, e que não é justo que um país comece uma guerra, e que outros, como Portugal, tenham \"de a pagar\".",
-  "categoria": "politica",
-  "palavras": [
-   "ventura",
-   "mes",
-   "cometeu",
-   "erros"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "\"Fascismo nunca mais\". Ventura recebido com protesto na Ericeira",
-    "link": "https://www.rtp.pt/noticias/politica/fascismo-nunca-mais-ventura-recebido-com-protesto-na-ericeira_v1767957",
-    "fonte": "RTP",
-    "data": "2026-09-26T21:56:47+01:00"
-   },
-   {
-    "titulo": "\"Presidente Trump cometeu muitos erros no último mês\", admite Ventura",
-    "link": "https://www.noticiasaominuto.com/pais/3057859/ventura-critica-trump-na-guerra-contra-o-irao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-26T20:32:25+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PS/Açores admite abster-se no Orçamento de 2027 mediante condições",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "condicoes",
-   "admite abster-se",
-   "ps acores",
-   "acores admite"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "PS/Açores admite abster-se no Orçamento de 2027 mediante condições",
-    "link": "https://www.rtp.pt/noticias/politica/psacores-admite-abster-se-no-orcamento-de-2027-mediante-condicoes_n1767948",
-    "fonte": "RTP",
-    "data": "2026-09-26T21:11:23+01:00"
-   },
-   {
-    "titulo": "PS/Açores admite abster-se no Orçamento de 2027 mediante condições",
-    "link": "https://www.noticiasaominuto.com/pais/3057847/psacores-admite-abster-se-no-orcamento-de-2027-mediante-condicoes-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-26T19:07:55+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Estamos a brincar com o fogo\": Centeno critica Governo e avisa para risco nas contas públicas",
+  "titulo": "Centeno critica Governo e alerta que contas enfrentam \"défice profundo\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
    "contas",
    "centeno critica",
    "critica governo",
-   "defice"
+   "defice profundo"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -162,12 +98,12 @@
  {
   "titulo": "Passe Ferroviário Verde alargado aos comboios suburbanos de Lisboa e Porto a partir deste domingo",
   "resumo": "O Passe Ferroviário Verde pode começar a ser utilizado nos comboios suburbanos da CP em Lisboa e no Porto a partir deste domingo, anunciou hoje o Governo.",
-  "categoria": "politica",
+  "categoria": "sociedade",
   "palavras": [
-   "verde",
+   "comboios suburbanos",
    "passe",
-   "lisboa porto",
-   "porto partir"
+   "partir",
+   "domingo"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -196,10 +132,10 @@
   "resumo": "PSD e CDS-PP entregaram novamente um projeto para restringir o acesso ao Serviço Nacional de Saúde por cidadãos estrangeiros não residentes em Portugal, iniciativa aprovada com o Chega na passada legislatura, mas que caducou devido a eleições.",
   "categoria": "politica",
   "palavras": [
-   "residentes",
+   "nao residentes",
    "estrangeiros nao",
-   "sns",
-   "restricao"
+   "restricao",
+   "sns estrangeiros"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -224,14 +160,46 @@
   ]
  },
  {
+  "titulo": "PS/Açores admite abster-se no Orçamento de 2027 mediante condições",
+  "resumo": "O líder do PS/Açores admite abster-se na votação do Orçamento regional de 2027, mas estabelece como condições que a coligação PSD/CDS-PP/PPM contribua para a redução do custo de vida e a descida do preço dos combustíveis.",
+  "categoria": "politica",
+  "palavras": [
+   "abster-se",
+   "admite",
+   "ps acores",
+   "condicoes"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "PS/Açores admite abster-se no Orçamento de 2027 mediante condições",
+    "link": "https://www.rtp.pt/noticias/politica/psacores-admite-abster-se-no-orcamento-de-2027-mediante-condicoes_n1767948",
+    "fonte": "RTP",
+    "data": "2026-09-26T21:11:23+01:00"
+   },
+   {
+    "titulo": "PS/Açores admite abster-se no Orçamento de 2027 mediante condições",
+    "link": "https://www.noticiasaominuto.com/pais/3057847/psacores-admite-abster-se-no-orcamento-de-2027-mediante-condicoes-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-09-26T19:07:55+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Morreu o trabalhador que ficou soterrado numa obra em Lisboa nos antigos terrenos da Feira Popular",
-  "resumo": "",
+  "resumo": "O homem tinha 25 anos e estava a trabalhar no 4.º andar do prédio que estava em construção.",
   "categoria": "sociedade",
   "palavras": [
-   "popular",
-   "obra",
-   "lisboa antigos",
-   "morreu trabalhador"
+   "antigos",
+   "feira popular",
+   "obra lisboa",
+   "ficou"
   ],
   "fontes": [
    "RTP"
@@ -259,9 +227,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "tribunal",
    "escutas cabreiro",
-   "suspeitas"
+   "tribunal suspeitas",
+   "cabreiro tribunal",
+   "suspeitas escutas"
   ],
   "fontes": [
    "Observador"
@@ -279,14 +248,14 @@
   ]
  },
  {
-  "titulo": "Reservas de combustível em França? O que disseram partidos (e a ministra)",
+  "titulo": "OE? \"Não vale a pena estar a criar expetativas onde elas não existem\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "reservas combustivel",
-   "ministra",
-   "combustivel franca",
-   "franca disseram"
+   "expetativas",
+   "existem",
+   "onde elas",
+   "oe nao"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -296,60 +265,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Reservas de combustível em França? O que disseram partidos (e a ministra)",
-    "link": "https://www.noticiasaominuto.com/politica/3057784/reservas-de-combustivel-em-franca-o-que-disseram-partidos-e-a-ministra#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "OE? \"Não vale a pena estar a criar expetativas onde elas não existem\"",
+    "link": "https://www.noticiasaominuto.com/pais/3057844/oe2027-pcp-sem-expectativas-acerca-da-proposta-do-governo-apela-a-politica-de-ferro-e-fogo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-09-26T15:27:37+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Câmara de Odemira estabelece parcerias com os 5 Agrupamentos de Escolas",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "parcerias",
-   "agrupamentos",
-   "escolas",
-   "odemira"
-  ],
-  "fontes": [
-   "diariOnline Região Sul"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Câmara de Odemira estabelece parcerias com os 5 Agrupamentos de Escolas",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXVma3FxVHNKSXhRSzBXeXhGcm1YdU85LXVGNTBoYnZZdjk0aDgwRm5HOUd0SlpkZldmd3FlVmNWN2MxU0NYcmNkYTI4aVVpdEswTC1wclVUaWowNnJ0cE5ZQmpvTlk1V2pLQUR0TjVGMTlaQXFFazEtQk5oRFg4TUdWU2hXOEhlWDRWMmtLZHR4eVB3dzVsY0hSNE9tVmdnZmtIRW9GNXFXelJxX0FJ?oc=5",
-    "fonte": "diariOnline Região Sul",
-    "data": "2026-09-26T14:23:38+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Combustíveis. Portugueses já são mais de 90% dos clientes em Ayamonte",
-  "resumo": "São cada vez mais os portugueses que recorrem aos postos de combustível em Espanha para abastecer. Em Ayamonte, já representam 90 a 95% dos clientes.",
-  "categoria": "economia",
-  "palavras": [
-   "90",
-   "ayamonte",
-   "clientes",
-   "combustiveis"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Combustíveis. Portugueses já são mais de 90% dos clientes em Ayamonte",
-    "link": "https://www.rtp.pt/noticias/economia/combustiveis-portugueses-ja-sao-mais-de-90-dos-clientes-em-ayamonte_v1767908",
-    "fonte": "RTP",
-    "data": "2026-09-26T14:42:47+01:00"
+    "data": "2026-09-26T18:56:21+00:00"
    }
   ]
  },
@@ -358,9 +277,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "quer",
-   "mai",
-   "algum trabalho",
+   "fazer algum",
+   "comecar fazer",
+   "ventura quer",
    "antes oe"
   ],
   "fontes": [
@@ -379,101 +298,26 @@
   ]
  },
  {
-  "titulo": "Irlandês de 64 anos morre em zona não vigiada de praia em Alvor após sentir-se mal",
-  "resumo": "Um homem de nacionalidade irlandesa, de 64 anos, morreu hoje após alegadamente ter entrado em dificuldades na água, numa zona não vigiada na praia da Prainha, em Alvor, concelho de Portimão, anunciou a Autoridade Marítima Nacional (AMN).",
+  "titulo": "Câmara de Odemira estabelece parcerias com os 5 Agrupamentos de Escolas",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "alvor",
-   "nao vigiada",
-   "praia",
-   "zona nao"
+   "parcerias agrupamentos",
+   "escolas",
+   "camara odemira"
   ],
   "fontes": [
-   "RTP"
+   "diariOnline Região Sul"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Irlandês de 64 anos morre em zona não vigiada de praia em Alvor após sentir-se mal",
-    "link": "https://www.rtp.pt/noticias/pais/irlandes-de-64-anos-morre-em-zona-nao-vigiada-de-praia-em-alvor-apos-sentir-se-mal_n1767929",
-    "fonte": "RTP",
-    "data": "2026-09-26T18:02:24+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Ventura critica Trump na guerra contra o Irão: “Não é muito justo que um país inicie uma guerra e os outros tenham de arcar com os custos”",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "guerra",
-   "irao",
-   "justo inicie",
-   "custos"
-  ],
-  "fontes": [
-   "expresso.pt"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Ventura critica Trump na guerra contra o Irão: “Não é muito justo que um país inicie uma guerra e os outros tenham de arcar com os custos”",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNa1dqd3lmSHRhb3NZSW01SWdrX2ZkQUlTR1l0MFdWQXM2YS1nd0pjZHgzNHF5akp2dk0wVnRlaTR2YUNNY0RPNDNEbWJkVjVaZW9ZaU95RldVdmo2ZXJXbmRzUjRUcnRyX253UU5yc3dBMHhjRFA0R0pHemdleG1pOFBRZkhHUkV6b2MwVTA3dTFSQ0g3RGNqMG1XX0JnbjV2eFhHb0owMWFwN252Y1ZhMm5EVUVzQ1J3Wi1rcjlITFVCdjlrMHk5ZlRCV2pOZ1AzTnY3cVhxeURJbW9RZUxuMGZaZDFSUUpkSXR3SXp0ZnRSVUdmVFJoRGw2bDZtMUg5ZzRTaGlBaDh5OElDWVA2bld0c0VkeEltNmV3MkUwTQ?oc=5",
-    "fonte": "expresso.pt",
-    "data": "2026-09-26T19:28:03+00:00"
-   }
-  ]
- },
- {
-  "titulo": "OE? \"Não vale a pena estar a criar expetativas onde elas não existem\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "elas",
-   "nao existem",
-   "pena",
-   "vale"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "OE? \"Não vale a pena estar a criar expetativas onde elas não existem\"",
-    "link": "https://www.noticiasaominuto.com/pais/3057844/oe2027-pcp-sem-expectativas-acerca-da-proposta-do-governo-apela-a-politica-de-ferro-e-fogo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-26T18:56:21+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Funeral da bombeira que morreu no combate a um incêndio decorreu este sábado em Resende",
-  "resumo": "A jovem de 24 anos foi atingida por uma árvore de grande porte e ainda foi socorrida, mas não resistiu aos ferimentos e morreu na madrugada de sexta-feira no hospital de Lamego. Nas cerimónias funebres, centenas de pessoas e a corporação de Resende prestaram a última homenagem a ",
-  "categoria": "sociedade",
-  "palavras": [
-   "combate",
-   "funeral",
-   "sabado resende"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Funeral da bombeira que morreu no combate a um incêndio decorreu este sábado em Resende",
-    "link": "https://www.rtp.pt/noticias/pais/funeral-da-bombeira-que-morreu-no-combate-a-um-incendio-decorreu-este-sabado-em-resende_v1767961",
-    "fonte": "RTP",
-    "data": "2026-09-26T22:11:47+01:00"
+    "titulo": "Câmara de Odemira estabelece parcerias com os 5 Agrupamentos de Escolas",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXVma3FxVHNKSXhRSzBXeXhGcm1YdU85LXVGNTBoYnZZdjk0aDgwRm5HOUd0SlpkZldmd3FlVmNWN2MxU0NYcmNkYTI4aVVpdEswTC1wclVUaWowNnJ0cE5ZQmpvTlk1V2pLQUR0TjVGMTlaQXFFazEtQk5oRFg4TUdWU2hXOEhlWDRWMmtLZHR4eVB3dzVsY0hSNE9tVmdnZmtIRW9GNXFXelJxX0FJ?oc=5",
+    "fonte": "diariOnline Região Sul",
+    "data": "2026-09-26T14:23:38+00:00"
    }
   ]
  },
@@ -484,7 +328,8 @@
   "palavras": [
    "jones",
    "serie rtp",
-   "segunda-feira producao"
+   "sobrenaturais",
+   "policial cheio"
   ],
   "fontes": [
    "RTP"
@@ -502,14 +347,139 @@
   ]
  },
  {
+  "titulo": "Irlandês de 64 anos morre em zona não vigiada de praia em Alvor após sentir-se mal",
+  "resumo": "Um homem de nacionalidade irlandesa, de 64 anos, morreu hoje após alegadamente ter entrado em dificuldades na água, numa zona não vigiada na praia da Prainha, em Alvor, concelho de Portimão, anunciou a Autoridade Marítima Nacional (AMN).",
+  "categoria": "sociedade",
+  "palavras": [
+   "alvor",
+   "praia",
+   "zona nao",
+   "nao vigiada"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Irlandês de 64 anos morre em zona não vigiada de praia em Alvor após sentir-se mal",
+    "link": "https://www.rtp.pt/noticias/pais/irlandes-de-64-anos-morre-em-zona-nao-vigiada-de-praia-em-alvor-apos-sentir-se-mal_n1767929",
+    "fonte": "RTP",
+    "data": "2026-09-26T18:02:24+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Coração de D. Pedro IV volta a estar exposto ao público",
+  "resumo": "Quatro anos depois, o coração de D. Pedro IV volta a estar exposto ao público na Igreja da Lapa, no Porto.",
+  "categoria": "sociedade",
+  "palavras": [
+   "coracao",
+   "publico",
+   "iv volta",
+   "pedro iv"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Coração de D. Pedro IV volta a estar exposto ao público",
+    "link": "https://www.rtp.pt/noticias/pais/coracao-de-d-pedro-iv-volta-a-estar-exposto-ao-publico_v1767917",
+    "fonte": "RTP",
+    "data": "2026-09-26T15:36:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Costa e Silva acusa Montenegro de fazer pouco pelos portugueses mais pobres",
+  "resumo": "O antigo ministro da Economia do Governo de António Costa acusa o atual executivo de estar a fazer pouco pelas famílias mais carenciadas e defende ajudas directas, como diz ter feito em 2022.",
+  "categoria": "politica",
+  "palavras": [
+   "costa",
+   "fazer pouco",
+   "acusa",
+   "montenegro fazer"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Costa e Silva acusa Montenegro de fazer pouco pelos portugueses mais pobres",
+    "link": "https://www.rtp.pt/noticias/politica/costa-e-silva-acusa-montenegro-de-fazer-pouco-pelos-portugueses-mais-pobres_v1767955",
+    "fonte": "RTP",
+    "data": "2026-09-26T21:42:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Funeral da bombeira que morreu no combate a um incêndio decorreu este sábado em Resende",
+  "resumo": "A jovem de 24 anos foi atingida por uma árvore de grande porte e ainda foi socorrida, mas não resistiu aos ferimentos e morreu na madrugada de sexta-feira no hospital de Lamego. Nas cerimónias funebres, centenas de pessoas e a corporação de Resende prestaram a última homenagem a Maria João Carneiro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "sabado resende",
+   "bombeira",
+   "morreu combate",
+   "funeral"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Funeral da bombeira que morreu no combate a um incêndio decorreu este sábado em Resende",
+    "link": "https://www.rtp.pt/noticias/pais/funeral-da-bombeira-que-morreu-no-combate-a-um-incendio-decorreu-este-sabado-em-resende_v1767961",
+    "fonte": "RTP",
+    "data": "2026-09-26T22:11:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Combustíveis. Portugueses já são mais de 90% dos clientes em Ayamonte",
+  "resumo": "São cada vez mais os portugueses que recorrem aos postos de combustível em Espanha para abastecer. Em Ayamonte, já representam 90 a 95% dos clientes.",
+  "categoria": "economia",
+  "palavras": [
+   "clientes",
+   "90",
+   "ayamonte",
+   "combustiveis"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Combustíveis. Portugueses já são mais de 90% dos clientes em Ayamonte",
+    "link": "https://www.rtp.pt/noticias/economia/combustiveis-portugueses-ja-sao-mais-de-90-dos-clientes-em-ayamonte_v1767908",
+    "fonte": "RTP",
+    "data": "2026-09-26T14:42:47+01:00"
+   }
+  ]
+ },
+ {
   "titulo": "PCP critica \"afunilamento político\" do projeto da Capital Europeia da Cultura Évora_27",
   "resumo": "O PCP argumentou hoje hoje que a Capital Europeia da Cultura (CEC) Évora_27 \"corre sérios riscos de não atingir os seus objetivos\", por se verificarem no projeto \"linhas de afunilamento político e governamentalização\",",
   "categoria": "sociedade",
   "palavras": [
-   "afunilamento",
-   "europeia",
-   "politico",
-   "cultura"
+   "afunilamento politico",
+   "capital",
+   "cultura",
+   "europeia"
   ],
   "fontes": [
    "RTP"
@@ -532,7 +502,7 @@
   "categoria": "sociedade",
   "palavras": [
    "guineenses situacao",
-   "irregular identificados",
+   "identificados",
    "dois",
    "situacao irregular"
   ],
@@ -557,9 +527,9 @@
   "categoria": "sociedade",
   "palavras": [
    "mulher",
-   "diana azevedo",
-   "comandar porto",
-   "mar diana"
+   "azevedo primeira",
+   "nazare",
+   "mar"
   ],
   "fontes": [
    "Público"
@@ -577,39 +547,14 @@
   ]
  },
  {
-  "titulo": "Combustíveis em Itália. Eni fixa teto de preços a partir de segunda-feira",
-  "resumo": "A empresa italiana de energia Eni vai fixar limites nos preços dos combustíveis. O litro de gasóleo vai custar no máximo 2,19 euros e o litro de gasolina 1,99 euros.",
-  "categoria": "economia",
-  "palavras": [
-   "precos",
-   "eni",
-   "combustiveis",
-   "teto"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Combustíveis em Itália. Eni fixa teto de preços a partir de segunda-feira",
-    "link": "https://www.rtp.pt/noticias/economia/combustiveis-em-italia-eni-fixa-teto-de-precos-a-partir-de-segunda-feira_v1767904",
-    "fonte": "RTP",
-    "data": "2026-09-26T14:29:47+01:00"
-   }
-  ]
- },
- {
   "titulo": "PSD reuniu-se no Luxemburgo para debater preocupações dos emigrantes",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "debater preocupacoes",
-   "reuniu-se luxemburgo",
+   "preocupacoes",
    "psd reuniu-se",
-   "preocupacoes emigrantes"
+   "debater",
+   "reuniu-se luxemburgo"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -627,14 +572,14 @@
   ]
  },
  {
-  "titulo": "Costa e Silva acusa Montenegro de fazer pouco pelos portugueses mais pobres",
-  "resumo": "O antigo ministro da Economia do Governo de António Costa acusa o atual executivo de estar a fazer pouco pelas famílias mais carenciadas e defende ajudas directas, como diz ter feito em 2022.",
+  "titulo": "\"Fascismo nunca mais\". Ventura recebido com protesto na Ericeira",
+  "resumo": "O presidente do Chega foi recebido com protestos no encontro dos Patriotas pela Europa. André Ventura diz que Donald Trump cometeu \"vários erros\" no último mês, e que não é justo que um país comece uma guerra, e que outros, como Portugal, tenham \"de a pagar\".",
   "categoria": "politica",
   "palavras": [
-   "pouco",
-   "costa",
-   "acusa",
-   "fazer"
+   "recebido",
+   "ventura",
+   "fascismo",
+   "ericeira"
   ],
   "fontes": [
    "RTP"
@@ -644,22 +589,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Costa e Silva acusa Montenegro de fazer pouco pelos portugueses mais pobres",
-    "link": "https://www.rtp.pt/noticias/politica/costa-e-silva-acusa-montenegro-de-fazer-pouco-pelos-portugueses-mais-pobres_v1767955",
+    "titulo": "\"Fascismo nunca mais\". Ventura recebido com protesto na Ericeira",
+    "link": "https://www.rtp.pt/noticias/politica/fascismo-nunca-mais-ventura-recebido-com-protesto-na-ericeira_v1767957",
     "fonte": "RTP",
-    "data": "2026-09-26T21:42:47+01:00"
+    "data": "2026-09-26T21:56:47+01:00"
    }
   ]
  },
  {
   "titulo": "PCP sem expectativas acerca da proposta do Governo apela a \"política de ferro e fogo\"",
   "resumo": "O secretário-geral do PCP afirmou hoje ter \"expectativa zero\" acerca da proposta de Orçamento do Estado para 2027 do Governo e apelou a uma \"política de ferro e fogo\" contra o aumento do custo de vida.",
-  "categoria": "economia",
+  "categoria": "politica",
   "palavras": [
-   "ferro",
-   "politica",
+   "ferro fogo",
+   "acerca",
    "proposta",
-   "acerca"
+   "politica ferro"
   ],
   "fontes": [
    "RTP"
@@ -677,39 +622,14 @@
   ]
  },
  {
-  "titulo": "Transportes públicos são opção com combustíveis mais caros",
-  "resumo": "Há mais pessoas a utilizar os transportes públicos com a subida do preço dos combustíveis. Mas muitos queixam-se de demorarem muito mais tempo para chegarem ao trabalho.",
-  "categoria": "economia",
-  "palavras": [
-   "publicos",
-   "transportes",
-   "combustiveis",
-   "caros"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Transportes públicos são opção com combustíveis mais caros",
-    "link": "https://www.rtp.pt/noticias/economia/transportes-publicos-sao-opcao-com-combustiveis-mais-caros_v1767956",
-    "fonte": "RTP",
-    "data": "2026-09-26T21:55:47+01:00"
-   }
-  ]
- },
- {
   "titulo": "Reportagens sobre direitos e bem-estar dos animais valem prémios para a RTP",
   "resumo": "A RTP foi a grande vencedora dos prémios jornalísticos sobre os direitos e o bem-estar dos animais, uma iniciativa da ONG Frente Animal.",
   "categoria": "sociedade",
   "palavras": [
+   "bem-estar animais",
+   "direitos",
    "premios",
-   "animais",
-   "bem-estar",
-   "direitos"
+   "rtp"
   ],
   "fontes": [
    "RTP"
@@ -727,14 +647,39 @@
   ]
  },
  {
+  "titulo": "Transportes públicos são opção com combustíveis mais caros",
+  "resumo": "Há mais pessoas a utilizar os transportes públicos com a subida do preço dos combustíveis. Mas muitos queixam-se de demorarem muito mais tempo para chegarem ao trabalho.",
+  "categoria": "economia",
+  "palavras": [
+   "transportes publicos",
+   "combustiveis",
+   "caros",
+   "publicos opcao"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Transportes públicos são opção com combustíveis mais caros",
+    "link": "https://www.rtp.pt/noticias/economia/transportes-publicos-sao-opcao-com-combustiveis-mais-caros_v1767956",
+    "fonte": "RTP",
+    "data": "2026-09-26T21:55:47+01:00"
+   }
+  ]
+ },
+ {
   "titulo": "Esquerda critica políticas de habitação do Governo Montenegro",
   "resumo": "Representantes do Livre e do PCP estiveram esta tarde na Feira da Luz, em Lisboa. Criticaram o Governo e manifestaram preocupação com a falta de medidas para a habitação, antecipando a discussão parlamentar da Lei do Arrendamento.",
   "categoria": "politica",
   "palavras": [
    "habitacao",
-   "governo montenegro",
-   "esquerda critica",
-   "critica politicas"
+   "esquerda",
+   "politicas",
+   "governo montenegro"
   ],
   "fontes": [
    "RTP"
@@ -756,9 +701,9 @@
   "resumo": "Um homem morreu na sequência de um despiste de um trator que ocorreu durante a tarde de hoje no concelho de Castro Daire, anunciou fonte do Comando Sub-Regional de Viseu Dão Lafões.",
   "categoria": "sociedade",
   "palavras": [
-   "trator",
    "despiste",
    "daire",
+   "trator",
    "castro"
   ],
   "fontes": [
@@ -773,31 +718,6 @@
     "link": "https://www.rtp.pt/noticias/pais/homem-morre-em-despiste-de-trator-no-concelho-de-castro-daire_n1767943",
     "fonte": "RTP",
     "data": "2026-09-26T19:20:59+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Coração de D. Pedro IV volta a estar exposto ao público",
-  "resumo": "Quatro anos depois, o coração de D. Pedro IV volta a estar exposto ao público na Igreja da Lapa, no Porto.",
-  "categoria": "sociedade",
-  "palavras": [
-   "pedro",
-   "coracao",
-   "iv volta",
-   "volta exposto"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Coração de D. Pedro IV volta a estar exposto ao público",
-    "link": "https://www.rtp.pt/noticias/pais/coracao-de-d-pedro-iv-volta-a-estar-exposto-ao-publico_v1767917",
-    "fonte": "RTP",
-    "data": "2026-09-26T15:36:47+01:00"
    }
   ]
  }

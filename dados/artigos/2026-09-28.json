@@ -1270,5 +1270,834 @@
   "fonte": "Jornal Económico",
   "data": "2026-09-28T11:56:21+00:00",
   "categoria": "economia"
+ },
+ {
+  "titulo": "Alunos norte-americanos em Portugal aumentam 341%",
+  "link": "https://observador.pt/2026/09/28/alunos-norte-americanos-em-portugal-aumentam-341-numa-decada/",
+  "resumo": "No ano letivo de 2013/2014, o número de alunos norte-americanos que escolhia uma universidade portuguesa para estudar não chegava aos 500. Uma década depois, o total aproxima-se dos dois mil.",
+  "fonte": "Observador",
+  "data": "2026-09-28T14:57:18+01:00",
+  "cats_feed": [
+   "País",
+   "Sociedade",
+   "Estudantes",
+   "Educação"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "SpaceX coloca Starship em órbita pela primeira vez",
+  "link": "https://observador.pt/2026/09/28/spacex-coloca-starship-em-orbita-pela-primeira-vez/",
+  "resumo": "Marco inédito para o maior foguetão do mundo chegou a estar em causa devido a problema num dos motores. Foram também lançados dezenas de satélites Starlink de última geração.",
+  "fonte": "Observador",
+  "data": "2026-09-28T14:42:13+01:00",
+  "cats_feed": [
+   "Espaço",
+   "Ciência"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Novos deslizamentos de terras no Nepal fazem vários mortos",
+  "link": "https://observador.pt/2026/09/28/outra-vez-deslizamentos-de-terras-no-nepal-chuva-intensa-volta-a-fazer-mortos-nos-himalaias/",
+  "resumo": "Deslizamento no Himlung Himal, cheias no Kali Gandaki, edifícios arrastados para rios. O Nepal enfrenta dias de catástrofe — e a ciência explica porque vai continuar.",
+  "fonte": "Observador",
+  "data": "2026-09-28T14:32:43+01:00",
+  "cats_feed": [
+   "Nepal",
+   "Mundo",
+   "Catástrofes",
+   "Acidente",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "5 séries, 3 documentários e um reality show em estreia",
+  "link": "https://observador.pt/2026/09/28/a-leste-do-paraiso-ou-a-lenda-de-schumacher-cinco-series-tres-documentarios-e-um-reality-show-para-ver-esta-semana/",
+  "resumo": "Dramas familiares intensos, remakes de clássicos da literatura, true crime com o toque decadente de Las Vegas, subidas à montanha ou mestres do automobilismo: esta semana há de tudo um pouco — mesmo.",
+  "fonte": "Observador",
+  "data": "2026-09-28T14:21:50+01:00",
+  "cats_feed": [
+   "Séries",
+   "Cultura",
+   "Cinema",
+   "Streaming",
+   "Tecnologia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "14h. Caso das gémeas: defesa de Nuno Rebelo rejeita acusação",
+  "link": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2487/",
+  "resumo": "O filho do antigo Presidente afirma que a acusação no caso das gémeas não tem qualquer fundamento. Ainda neste jornal, a reação dos quatro acusados à acusação do Ministério Público.",
+  "fonte": "Observador",
+  "data": "2026-09-28T14:17:29+01:00",
+  "cats_feed": [
+   "Rádio Observador",
+   "Observador",
+   "Presidente Marcelo",
+   "Política",
+   "Caso das gémeas",
+   "Sociedade",
+   "Governo",
+   "Crime",
+   "Burla"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Pai e filho julgados em Aveiro por assaltos a idosos",
+  "link": "https://observador.pt/2026/09/28/pai-e-filho-comecaram-a-ser-julgados-em-aveiro-por-assaltos-violentos-a-idosos/",
+  "resumo": "Acusação refere que os dois arguidos assaltaram em abril de 2024, uma residência de emigrantes em Vagos, de onde foram subtraídas joias e relógios no valor de cerca de 18 mil euros.",
+  "fonte": "Observador",
+  "data": "2026-09-28T13:46:16+01:00",
+  "cats_feed": [
+   "Julgamentos",
+   "Justiça",
+   "Aveiro",
+   "País",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Prisão preventiva para suspeito de vários crimes no Alentejo",
+  "link": "https://observador.pt/2026/09/28/prisao-preventiva-para-suspeito-de-roubos-furtos-e-outros-crimes-no-alentejo/",
+  "resumo": "Com vários antecedentes criminais e atualmente a cumprir pena de prisão suspensa, homem foi detido por suspeitas de roubo, furto e violência doméstica.",
+  "fonte": "Observador",
+  "data": "2026-09-28T13:42:55+01:00",
+  "cats_feed": [
+   "Évora",
+   "País",
+   "Sociedade",
+   "Crime",
+   "Prisão",
+   "Roubo",
+   "Violência Doméstica",
+   "Violência",
+   "Alentejo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "MP aponta \"plano comum\" a filho do ex-PR e a Lacerda Sales",
+  "link": "https://observador.pt/especiais/caso-das-gemeas-o-plano-comum-que-se-serviu-do-nome-de-marcelo-rebelo-de-sousa-para-desbloquear-tratamento-milionario/",
+  "resumo": "MP entende que Nuno Rebelo de Sousa se aproveitou do nome do pai, então Presidente da República, para facilitar o acesso das crianças ao fármaco, em prejuízo de outras que estavam em lista de espera.",
+  "fonte": "Observador",
+  "data": "2026-09-28T13:23:33+01:00",
+  "cats_feed": [
+   "Caso das gémeas",
+   "Sociedade",
+   "Justiça",
+   "Saúde"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Drones. Líder de Taiwan pede aprovação de 1,6 mil milhões",
+  "link": "https://observador.pt/2026/09/28/lider-de-taiwan-pede-a-parlamento-aprovacao-de-16-mil-milhoes-de-euros-para-aquisicao-de-drones/",
+  "resumo": "Construído com um investimento superior a 1,1 mil milhões de dólares taiwaneses, o novo complexo do NCSIST ficará encarregado de atividades de investigação, testes e produção de drones militares.",
+  "fonte": "Observador",
+  "data": "2026-09-28T13:20:25+01:00",
+  "cats_feed": [
+   "Taiwan",
+   "Ásia",
+   "Mundo",
+   "Defesa",
+   "Sociedade",
+   "Armamento"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "13h. Barril de Brent volta a ultrapassar os 100 dólares",
+  "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2459/",
+  "resumo": "O barril de Brent voltou a ultrapassar os 100 dólares após recusa do plano de tréguas pelos Estados Unidos. Ainda neste jornal, a mãe das crianças do caso das gémeas reagiu à decisão do MP.",
+  "fonte": "Observador",
+  "data": "2026-09-28T13:18:33+01:00",
+  "cats_feed": [
+   "Rádio Observador",
+   "Observador",
+   "Combustível",
+   "Energia",
+   "Economia",
+   "Conflitos",
+   "Mundo",
+   "Caso das gémeas",
+   "Sociedade",
+   "Ministério Público",
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Jogo ilegal. Portugal implementa plataforma da Sharp Vision",
+  "link": "https://observador.pt/2026/09/28/portugal-implementa-plataforma-da-sharp-vision-no-combate-ao-jogo-ilegal/",
+  "resumo": "Tecnológica francesa informa que \"evolução não substitui a intervenção humana\", lembrando que o regulador mantém \"plena capacidade para verificar e validar os resultados obtidos\".",
+  "fonte": "Observador",
+  "data": "2026-09-28T13:16:30+01:00",
+  "cats_feed": [
+   "Jogo Online",
+   "Jogos",
+   "Cultura",
+   "País",
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Gémeas: Lacerda Sales “serviu-se do cargo para satisfazer interesses privados”",
+  "link": "https://www.publico.pt/2026/09/28/sociedade/noticia/gemeas-lacerda-sales-serviuse-cargo-satisfazer-interesses-privados-2189545",
+  "resumo": "MP considera que crianças luso-brasileiras acederam a tratamento que outras não conseguiram, graças ao tratamento preferencial desencadeado pelo filho de Marcelo junto do governante.",
+  "fonte": "Público",
+  "data": "2026-09-28T13:52:34+00:00",
+  "cats_feed": [
+   "Saúde"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo Regional da Madeira compra casa de Lourdes Castro por três milhões de euros",
+  "link": "https://www.publico.pt/2026/09/28/culturaipsilon/noticia/governo-regional-madeira-compra-casa-lourdes-castro-tres-milhoes-euros-2189540",
+  "resumo": "O herdeiro da artista e o Executivo do arquipélago chegaram a acordo. Propriedade estava à venda por 4,1 milhões. Arquivo de Lourdes Castro será agora doado à ilha onde nasceu.",
+  "fonte": "Público",
+  "data": "2026-09-28T13:51:22+00:00",
+  "cats_feed": [
+   "Artes"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "“Ninguém está acima da lei”: Marcelo reage à acusação ao filho no caso das gémeas",
+  "link": "https://www.publico.pt/2026/09/28/politica/noticia/ninguem-acima-lei-marcelo-reage-acusacao-filho-caso-gemeas-2189537",
+  "resumo": "Ex-Presidente da República acabou por ser envolvido na polémica já que o filho lhe enviou emails a pedir ajuda. Marcelo Rebelo de Sousa negou sempre ter tido interferência no tratamento das crianças.",
+  "fonte": "Público",
+  "data": "2026-09-28T13:50:09+00:00",
+  "cats_feed": [
+   "Marcelo Rebelo de Sousa"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Três razões por que as mulheres perdem cabelo",
+  "link": "https://www.publico.pt/2026/09/28/impar/noticia/tres-razoes-mulheres-perdem-cabelo-2189515",
+  "resumo": "Perguntámos a dermatologistas sobre três condições que podem levar à queda de cabelo, quais os sinais a ter em conta e quais os tratamentos disponíveis.",
+  "fonte": "Público",
+  "data": "2026-09-28T13:21:54+00:00",
+  "cats_feed": [
+   "Saúde"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Pelo terceiro ano consecutivo, Aloma conquista o Melhor Pastel de Nata de Lisboa",
+  "link": "https://www.publico.pt/2026/09/28/fugas/noticia/terceiro-ano-consecutivo-aloma-conquista-melhor-pastel-nata-lisboa-2189538",
+  "resumo": "Já não é surpresa, mas a prova é cega e por isso o resultado só pode ser visto como uma confirmação da qualidade. O segundo lugar foi para a Ericeira e o terceiro para Odivelas.",
+  "fonte": "Público",
+  "data": "2026-09-28T13:18:28+00:00",
+  "cats_feed": [
+   "Pastel de Nata"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Saboroso e crocante: revelado o melhor Pastel de Nata de 2026",
+  "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/aberturas-novidades/2026-09-28-saboroso-e-crocante-revelado-o-melhor-pastel-de-nata-de-2026-99aa2255",
+  "resumo": "A Pastelaria Alorna atingiu a terceira vitória consecutiva no concurso O Melhor Pastel de Nata de Lisboa de 2026. João Castanheira, proprietário da pastelaria, diz que são o “Cristiano Ronaldo dos Pastéis de Nata”",
+  "fonte": "Expresso",
+  "data": "2026-09-28T14:30:55+01:00",
+  "cats_feed": [
+   "Aberturas e Novidades"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "“Lisboa não tem excesso de turistas\", mas tem \"excesso de tuk-tuks e TVDE onde as pessoas nem falam português”",
+  "link": "https://expresso.pt/economia/economia_turismo/2026-09-28-lisboa-nao-tem-excesso-de-turistas-mas-tem-excesso-de-tuk-tuks-e-tvde-onde-as-pessoas-nem-falam-portugues-1e712685",
+  "resumo": "Na abertura da cimeira da Confederação do Turismo, o presidente da câmara avançou querer atrair à cidade turismo “com maior valor” e realçou que “entram todos os dias na cidade 50 mil turistas”, mas na cidade como um todo “não há excessos”",
+  "fonte": "Expresso",
+  "data": "2026-09-28T12:47:22+01:00",
+  "cats_feed": [
+   "Turismo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Health Parliament Portugal: 60 deputados começam a debater o futuro da saúde",
+  "link": "https://expresso.pt/health-parliament-portugal/2026-09-28-health-parliament-portugal-60-deputados-comecam-a-debater-o-futuro-da-saude-63a27258",
+  "resumo": "As declarações dos protagonistas do primeiro plenário do Health Parliament Portugal, no qual ocorreu a tomada de posse dos deputados das seis comissões que compõem o parlamento e a eleição de João Paulo Magalhães como o presidente da iniciativa. Este é um projeto da Johnson & Johnson Innovative Medicine, da Universidade Nova de Lisboa e da Microsoft, ao qual o Expresso se associa como media partner",
+  "fonte": "Expresso",
+  "data": "2026-09-28T12:40:00+01:00",
+  "cats_feed": [
+   "Health Parliament Portugal"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Tascas ou restaurantes? Saiba onde comer em Ponta Delgada, Capital Portuguesa da Cultura 2026",
+  "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/restaurantes/2026-09-28-tascas-ou-restaurantes--saiba-onde-comer-em-ponta-delgada-capital-portuguesa-da-cultura-2026-7b253233",
+  "resumo": "Gastronomia é cultura. E, neste contexto, a ilha açoriana de São Miguel guarda muitos tesouros, entre produtos, do mar e da terra, e receituário tradicional. Juntam-se à tradição, as apostas mais contemporâneas e que ajudam a promover, à mesa, Ponta Delgada como Capital Portuguesa da Cultura 2026",
+  "fonte": "Expresso",
+  "data": "2026-09-28T12:13:21+01:00",
+  "cats_feed": [
+   "Restaurantes"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "JSD quer continuidade da Garantia Pública aos jovens e alargá-la à construção da primeira casa",
+  "link": "https://www.rtp.pt/noticias/politica/jsd-quer-continuidade-da-garantia-publica-aos-jovens-e-alarga-la-a-construcao-da-primeira-casa_n1768217",
+  "resumo": "Com a crise na Habitação a marcar a agenda pública e política dos últimos dias, à boleia de manifestações em Madrid, a Juventude Social Democrata defende agora o prolongamento da Garantia Pública aos jovens, bem como que esta seja alargada à construção da primeira casa.",
+  "fonte": "RTP",
+  "data": "2026-09-28T14:45:43+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Estudante cria plataforma que calcula onde é mais barato abastecer",
+  "link": "https://www.rtp.pt/noticias/economia/estudante-cria-plataforma-que-calcula-onde-e-mais-barato-abastecer_v1768230",
+  "resumo": "Um estudante da Faculdade de Engenharia do Porto criou uma plataforma que calcula onde é mais barato abastecer, tendo em conta a distância, o consumo do carro e até os descontos em vigor.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:24:53+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Câmara de Comércio no Rio de Janeiro tem pela primeira vez uma mulher presidente",
+  "link": "https://www.rtp.pt/noticias/economia/camara-de-comercio-no-rio-de-janeiro-tem-pela-primeira-vez-uma-mulher-presidente_v1768229",
+  "resumo": "Pela primeira vez em 115 anos, a Câmara de Comércio e Indústria de Portugal, no Rio de Janeiro, tem uma mulher presidente. É a representação empresarial portuguesa mais antiga no mundo.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:24:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Protesto de trabalhadores do turismo junto à cimeira do setor",
+  "link": "https://www.rtp.pt/noticias/economia/protesto-de-trabalhadores-do-turismo-junto-a-cimeira-do-setor_v1768227",
+  "resumo": "Protesto de trabalhadores do turismo junto ao local onde decorre a Cimeira do setor. Os empresários apelam ao governo para que não hesite nos grandes projetos como a venda da TAP e o novo aeroporto.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:22:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Portugal vai receber uma fábrica de munições de pequeno calibre",
+  "link": "https://www.rtp.pt/noticias/economia/portugal-vai-receber-uma-fabrica-de-municoes-de-pequeno-calibre_v1768225",
+  "resumo": "O anúncio foi feito por Nuno Melo em Bruxelas onde a Agência Europeia de Defesa conclui que o investimento dos Estados-membros ainda não cobre a ameaça russa.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:16:48+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ligeira descida dos preços dos combustíveis em Portugal esta semana",
+  "link": "https://www.rtp.pt/noticias/economia/ligeira-descida-dos-precos-dos-combustiveis-em-portugal-esta-semana_v1768209",
+  "resumo": "A cotação internacional do petróleo está a subir o que pode trazer novos aumentos já na próxima semana.",
+  "fonte": "RTP",
+  "data": "2026-09-28T14:22:53+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo mostra abertura para alargar descontos do gasóleo ao setor da terraplanagem",
+  "link": "https://www.rtp.pt/noticias/economia/governo-mostra-abertura-para-alargar-descontos-do-gasoleo-ao-setor-da-terraplanagem_v1768207",
+  "resumo": "Na reunião desta manhã com o ministro das Infraestruturas, os empresários saíram aparentemente satisfeitos.",
+  "fonte": "RTP",
+  "data": "2026-09-28T14:18:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Marcelo Rebelo de Sousa considera que \"ninguém está acima da lei\"",
+  "link": "https://www.rtp.pt/noticias/pais/marcelo-rebelo-de-sousa-considera-que-ninguem-esta-acima-da-lei_n1768224",
+  "resumo": "O ex-Presidente da República Marcelo Rebelo de Sousa considerou hoje que \"ninguém está acima da própria Constituição e da Lei\", ao referir-se ao inquérito sobre o caso das gémeas no qual o seu filho Nuno é um dos acusados.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:23:34+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Oito meses depois da tempestade Kristin, ainda há 73 famílias desalojadas",
+  "link": "https://www.rtp.pt/noticias/pais/oito-meses-depois-da-tempestade-kristin-ainda-ha-73-familias-desalojadas_v1768223",
+  "resumo": "Recebem apoios municipais e da Segurança Social.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:15:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "\"Temos um drama muito grande, tem sido trágico\". Câmara de Mação desespera com invasão de javalis",
+  "link": "https://www.rtp.pt/noticias/pais/temos-um-drama-muito-grande-tem-sido-tragico-camara-de-macao-desespera-com-invasao-de-javalis_a1768214",
+  "resumo": "O município de Mação vai criar um Conselho Cinegético Municipal e admite apoios financeiros às associações de caçadores para controlar a população de javalis. Mas antes, aguarda pelas medidas prometidas pelo Governo para depois fechar um plano de ação.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:00:38+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Caso das Gémeas. Defesa de filho do ex-Presidente da República diz que acusação não tem fundamento",
+  "link": "https://www.rtp.pt/noticias/pais/caso-das-gemeas-defesa-de-filho-do-ex-presidente-da-republica-diz-que-acusacao-nao-tem-fundamento_n1768218",
+  "resumo": "A defesa do filho do ex-Presidente da República, acusado de prevaricação no caso das gémeas luso-brasileiras tratadas com o medicamento Zolgensma, considerou que a acusação hoje conhecida \"não tem qualquer fundamento, nem factual, nem jurídico, nem social\".",
+  "fonte": "RTP",
+  "data": "2026-09-28T14:55:38+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Há 30 mil mortes por ano em Portugal provocadas por doenças cardiovasculares",
+  "link": "https://www.rtp.pt/noticias/pais/ha-30-mil-mortes-por-ano-em-portugal-provocadas-por-doencas-cardiovasculares_v1768219",
+  "resumo": "A Sociedade Portuguesa de Cardiologia quer um rastreio obrigatório a partir dos 35 anos de idade e que as farmácias passem a despistar sinais de risco como a pressão arterial, colesterol e glicémia.",
+  "fonte": "RTP",
+  "data": "2026-09-28T14:46:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "DGS recomenda a promoção e proteção do aleitamento materno até aos 3 anos",
+  "link": "https://www.rtp.pt/noticias/pais/dgs-recomenda-a-promocao-e-protecao-do-aleitamento-materno-ate-aos-3-anos_n1768204",
+  "resumo": "Pela primeira vez, a Direção Geral da Saúde apresenta directrizes sobre a alimentação nas creches, para crianças até aos 3 anos. O manual aponta caminhos, ao nível da oferta alimentar, num período considerado muito importante da vida.",
+  "fonte": "RTP",
+  "data": "2026-09-28T14:06:03+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Arte, surf, música e gastronomia em festival na praia do Cabedelo",
+  "link": "https://www.rtp.pt/noticias/cultura/arte-surf-musica-e-gastronomia-em-festival-na-praia-do-cabedelo_v1768231",
+  "resumo": "A cultura e o culto do surf atraíram gente de todo o mundo à Praia do Cabedelo, na Figueira da Foz.",
+  "fonte": "RTP",
+  "data": "2026-09-28T15:33:47+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Festival AmadoraBD com 24 obras a concurso para prémios de banda desenhada",
+  "link": "https://www.rtp.pt/noticias/cultura/festival-amadorabd-com-24-obras-a-concurso-para-premios-de-banda-desenhada_n1768201",
+  "resumo": "Os Prémios de Banda Desenhada da Amadora 2026, atribuídos no âmbito do festival AmadoraBD, vão ter 24 obras portuguesas e estrangeiras a concurso e reforçaram o valor monetário em duas categorias, revelou a organização.",
+  "fonte": "RTP",
+  "data": "2026-09-28T14:02:25+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Concorrência dá “luz verde” à compra da Caravela pela Allianz",
+  "link": "https://eco.sapo.pt/2026/09/28/concorrencia-da-luz-verde-a-compra-da-caravela-pela-allianz/",
+  "resumo": "A Autoridade da Concorrência (AdC) deu “luz verde” à compra da Caravela, empresa que desenvolve atividade no ramo dos seguros Não Vida, pela Allianz Portugal, foi esta segunda-feira anunciado. Em comunicado, a AdC regista que o seu Conselho de Administração decidiu, numa reunião em 25 de setembro, adotar “uma decisão de não oposição à operação […]",
+  "fonte": "ECO",
+  "data": "2026-09-28T13:48:59+00:00",
+  "cats_feed": [
+   "ECOseguros",
+   "Seguradoras"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Caso gémeas: Marcelo considera que “ninguém está acima da lei”",
+  "link": "https://eco.sapo.pt/2026/09/28/caso-gemeas-marcelo-considera-que-ninguem-esta-acima-da-lei/",
+  "resumo": "O ex-Presidente da República Marcelo Rebelo de Sousa considerou esta segunda-feira que “ninguém está acima da própria Constituição e da Lei”, ao referir-se ao inquérito sobre o caso das gémeas no qual o seu filho Nuno é um dos acusados. “Nos termos da Constituição da República Portuguesa, ninguém está acima da própria Constituição e da […]",
+  "fonte": "ECO",
+  "data": "2026-09-28T13:34:07+00:00",
+  "cats_feed": [
+   "Advocatus",
+   "Advocatus Justiça",
+   "Política"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Ministra da Energia pede UE “mais interveniente” na crise dos combustíveis",
+  "link": "https://eco.sapo.pt/2026/09/28/governo-afasta-disrupcao-no-fornecimento-de-gas-apesar-de-reservas-minimas-na-ue/",
+  "resumo": "A ministra da Energia pediu esta segunda-feira, em Bruxelas, que a União Europeia (UE) seja “mais interveniente” na atual crise dos combustíveis, defendendo uma resposta comunitária coordenada que tenha em conta as diferentes realidades dos Estados-membros. “Esperamos que a Europa seja mais interveniente nesta crise, como foi na crise de 2022, quando foi a invasão […]",
+  "fonte": "ECO",
+  "data": "2026-09-28T13:06:28+00:00",
+  "cats_feed": [
+   "Ataque ao Irão",
+   "Energia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Contra o “desenrascanço”, Luís Neves volta a prometer mais polícias em Lisboa, Porto e Setúbal",
+  "link": "https://eco.sapo.pt/2026/09/28/contra-o-desenrascanco-luis-neves-volta-a-prometer-mais-policias-em-lisboa-porto-e-setubal/",
+  "resumo": "O ministro da Administração Interna, Luís Neves, apelou esta segunda-feira a maior colaboração entre o setor que tutela e as entidades do turismo, com vista a preparar melhor os períodos de maior afluência em Portugal, como o verão. A discursar na VIII Cimeira do Turismo Português, o governante admitiu que Portugal “ainda está muito assente […]",
+  "fonte": "ECO",
+  "data": "2026-09-28T12:59:03+00:00",
+  "cats_feed": [
+   "Segurança",
+   "Turismo"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Valongo testa resposta a ciberataque com impacto na água, energia e escolas",
+  "link": "https://eco.sapo.pt/2026/09/28/valongo-testa-resposta-a-ciberataque-com-impacto-na-agua-energia-e-escolas/",
+  "resumo": "A Câmara de Valongo vai testar, esta quinta-feira, a capacidade de resposta do concelho a um ciberataque. A simulação pressupõe um impacto direto em serviços essenciais, como água, energia, escolas e comunicações, envolvendo de forma integrada os agentes municipais e as forças de emergência do concelho. “É o primeiro exercício municipal de cibersegurança e resposta […]",
+  "fonte": "ECO",
+  "data": "2026-09-28T12:35:57+00:00",
+  "cats_feed": [
+   "Academia Local",
+   "Autarquias",
+   "Cibersegurança",
+   "Local Online",
+   "Regiões"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Sete em cada dez empresas consideram sistema fiscal português ineficaz",
+  "link": "https://eco.sapo.pt/2026/09/28/sete-em-cada-dez-empresas-consideram-sistema-fiscal-portugues-ineficaz/",
+  "resumo": "As grandes empresas estão mais pessimistas em relação ao sistema fiscal português. De acordo com o Observatório da Competitividade Fiscal 2026, divulgado pela Deloitte e a que o EContas teve acesso, quase sete em cada dez empresas consideram o sistema fiscal ineficaz, defendendo ser necessário avançar com medidas de simplificação fiscal e administrativa. “A perceção […]",
+  "fonte": "ECO",
+  "data": "2026-09-28T12:00:09+00:00",
+  "cats_feed": [
+   "Econtas",
+   "Fiscalidade",
+   "Impostos"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Nvidia reforça em 150 mil milhões de dólares programa de recompra de ações",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/nvidia-reforca-em-150-mil-milhoes-de-dolares-programa-de-recompra-de-acoes",
+  "resumo": "O conselho de administração da gigante de semicondutores autorizou um aumento de 150 mil milhões de dólares no programa de recompra de ações, elevando para 235 mil milhões de dólares o montante que ainda está disponível.",
+  "fonte": "Jornal de Negócios",
+  "data": "2026-09-28T14:46:37+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministra pede UE \"mais interveniente\" na crise dos combustíveis e defende \"vouchers\" para boleias",
+  "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/ministra-pede-ue-mais-interveniente-na-crise-dos-combustiveis-e-defende-vouchers-para-boleias",
+  "resumo": "Em declarações aos jornalistas portugueses em Bruxelas após reuniões com responsáveis da Comissão Europeia, a governante acrescentou esperar que \"a Comissão tenha a mesma atitude\" da anterior crise, nomeadamente na coordenação das medidas adotadas pelos países da UE e dos apoios aos setores afetados.",
+  "fonte": "Jornal de Negócios",
+  "data": "2026-09-28T14:39:40+01:00",
+  "cats_feed": [
+   "Energia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Portugal vai ter fábrica de drones indianos",
+  "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/portugal-vai-ter-uma-fabrica-de-drones-indianos",
+  "resumo": "A bracarense Keydef e a Flying Wedge Defence and Aerospace (FWDA) assinaram um acordo para o fabrico no nosso país de toda a gama de sistemas não tripulados da empresa indiana.",
+  "fonte": "Jornal de Negócios",
+  "data": "2026-09-28T14:27:00+01:00",
+  "cats_feed": [
+   "Tecnologias"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Regiões Autónomas voam em contraciclo. Madeira dispara e Açores perdem 100 mil turistas com saída da Ryanair",
+  "link": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/regioes-autonomas-voam-em-contraciclo-madeira-dispara-e-acores-perdem-100-mil-turistas-com-saida-da-ryanair",
+  "resumo": "A Ryanair suspendeu os voos para os Açores em abril, elevando os preços para chegar à região insular e retirando turistas das ilhas. A Madeira, que tem rotas da EasyJet e da Ryanair, viu a oportunidade e viu chegarem-lhe mais 59 mil passageiros face a 2025.",
+  "fonte": "Jornal de Negócios",
+  "data": "2026-09-28T14:21:42+01:00",
+  "cats_feed": [
+   "Turismo & Lazer"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "EUA destronam Reino Unido do top 5 das exportações portuguesas de calçado",
+  "link": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/eua-destronam-reino-unido-do-top-5-das-exportacoes-portuguesas-de-calcado",
+  "resumo": "As vendas de calçado “made in” Portugal para os Estados Unidos registaram um crescimento homólogo de 12,5% até julho deste ano, para 57 milhões de euros, totalizando 1,5 milhões de pares, com um preço médio de 38,47 euros, que compara com os 24,72 euros a nível global.",
+  "fonte": "Jornal de Negócios",
+  "data": "2026-09-28T14:15:15+01:00",
+  "cats_feed": [
+   "Indústria"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "É tempo de rever a meta para a inflação",
+  "link": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/e-tempo-de-rever-a-meta-para-a-inflacao",
+  "resumo": "É chegado o momento de os bancos centrais procederem a uma reavaliação abrangente das suas estratégias de política monetária.",
+  "fonte": "Jornal de Negócios",
+  "data": "2026-09-28T14:00:00+01:00",
+  "cats_feed": [
+   "Economistas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Arábia Saudita já exporta petróleo transportado no oleoduto que é alternativa ao estreito de Ormuz",
+  "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/arabia-saudita-ja-exporta-petroleo-transportado-no-oleoduto-que-e-alternativa-ao-estreito-de-ormuz",
+  "resumo": "Já há navios a circular com o petróleo transportado por esta importante infraestrutura saudita.",
+  "fonte": "Jornal de Negócios",
+  "data": "2026-09-28T12:56:42+01:00",
+  "cats_feed": [
+   "Ásia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo critica medidas de Bruxelas e pede apoios concretos na energia",
+  "link": "https://jornaleconomico.sapo.pt/noticias/governo-critica-medidas-de-bruxelas-e-pede-apoios-concretos-na-energia/",
+  "resumo": "O Governo criticou hoje as recomendações feitas pela Comissão Europeia e exige medidas concretas para ajudar a combater a crise energética. “Esperamos que a Europa seja mais interveniente nesta crise, como foi na invasão da Ucrânia em 2022, em várias dimensões, uma delas nas ajudas e a outra na coordenação das medidas que são feitas […]",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:55:24+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Empresas",
+   "Sapo Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "IA obriga à reconfiguração de toda a cadeia dos media",
+  "link": "https://jornaleconomico.sapo.pt/noticias/ia-obriga-a-reconfiguracao-de-toda-a-cadeia-dos-media/",
+  "resumo": "Esta é uma das conclusões do documento do Observatório Ibérico dos Media Digitais (Iberifier), que refere que a inteligência artificial (IA) obriga \"à reconfiguração de toda a cadeia: produção, distribuição, relação com as audiências e modelos de negócio\".",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:49:12+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Tecnologia",
+   "Tecnologia",
+   "democracia",
+   "economia",
+   "média",
+   "Negócios e Finanças",
+   "tecnologia",
+   "Tecnologias de Informação"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Wall Street abre no ‘vermelho’, penalizado pelo aumento do petróleo",
+  "link": "https://jornaleconomico.sapo.pt/noticias/wall-street-abre-no-vermelho-penalizado-pelo-aumento-do-petroleo/",
+  "resumo": "\"Os investidores estão a avaliar os riscos geopolíticos e as crescentes pressões sobre a inflação e taxas de juro, num momento em que a rentabilidade das empresas ainda é robusta e as principais economias demonstram resiliência\", refere o analista do Millennium Investment Banking.",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:44:31+00:00",
+  "cats_feed": [
+   "Mercados",
+   "Sapo Economia",
+   "bolsa",
+   "mercados",
+   "wall street"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "ASF realizou 349 ações supervisão da mediação de seguros em 2025, com “cliente mistério” e 28 processos por ilícitos",
+  "link": "https://jornaleconomico.sapo.pt/noticias/asf-realizou-349-acoes-supervisao-da-mediacao-de-seguros-em-2025-com-cliente-misterio-e-28-processos-por-ilicitos/",
+  "resumo": "No total, o regulador realizou 349 ações de supervisão, das quais a esmagadora maioria (298) foi efetuada à distância (off-site). As 51 ações presenciais (on-site) incluíram 29 operações realizadas através de \"cliente mistério\" e 22 ações inspetivas — um leque que combina análise documental com verificação direta da experiência do consumidor.",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:38:46+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Seguros",
+   "ASF - Autoridade de Supervisão de Seguros e Fundos de Pensões"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Preço das casas para venda desacelera para 4,3% no verão",
+  "link": "https://jornaleconomico.sapo.pt/noticias/preco-das-casas-para-venda-desacelera-para-43-no-verao/",
+  "resumo": "Entre os meses de junho e agosto foram vendidas 37.600 casas em Portugal Continental, uma descida de 3,8%, quando comparado com o período entre março e maio.",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:24:59+00:00",
+  "cats_feed": [
+   "Habitação",
+   "Imobiliário",
+   "Sapo Economia",
+   "Confidencial Imobiliário",
+   "preços das casas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Agricultura recebe mais de mil milhões de euros até setembro, o valor mais elevado de sempre",
+  "link": "https://jornaleconomico.sapo.pt/noticias/agricultura-recebe-mais-de-mil-milhoes-de-euros-ate-setembro-o-valor-mais-elevado-de-sempre/",
+  "resumo": "Os pagamentos ao setor agroflorestal e das pescas deverão atingir 1.067,6 milhões de euros entre janeiro e setembro, o valor mais elevado de sempre para este período. O Governo reforçou ainda os apoios extraordinários em mais de 450 milhões de euros e disponibilizou linhas de crédito de cerca de 450 milhões de euros.",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:15:54+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "agricultura"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Corum adquire em seis ativos imobiliários em cinco países europeus",
+  "link": "https://jornaleconomico.sapo.pt/noticias/corum-adquire-em-seis-ativos-imobiliarios-em-cinco-paises-europeus/",
+  "resumo": "As operações foram realizadas sem custos de aquisição e abrangem diferentes segmentos, incluindo escritórios, retalho e educação, numa estratégia de diversificação geográfica e setorial.",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:09:27+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Imobiliário",
+   "Sapo Economia",
+   "Corum"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Banco Credibom entra no capital da Razão Automóvel com 35%",
+  "link": "https://jornaleconomico.sapo.pt/noticias/banco-credibom-entra-no-capital-da-razao-automovel-com-35/",
+  "resumo": "Operação reforça parceria de cinco anos entre o banco e a publicação automóvel líder em Portugal. Fundadores mantêm 65% e liderança executiva.",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T13:09:14+00:00",
+  "cats_feed": [
+   "Banca",
+   "Empresas",
+   "Sapo Economia",
+   "Credibom"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Caso das gémeas: Ex-secretário da Saúde e filho de Marcelo Rebelo de Sousa entre os arguidos",
+  "link": "https://jornaleconomico.sapo.pt/noticias/caso-das-gemeas-ex-secretario-da-saude-e-filho-de-marcelo-rebelo-de-sousa-entre-os-arguidos/",
+  "resumo": "Segundo a acusação a que a Lusa teve hoje acesso, de 100 páginas, António Lacerda Sales, Nuno Rebelo de Sousa e Luís Pinheiro praticaram um crime de prevaricação em concurso aparente com o crime de abuso de poderes e Daniela Martins foi acusada do crime de burla qualificada.",
+  "fonte": "Jornal Económico",
+  "data": "2026-09-28T12:22:09+00:00",
+  "cats_feed": [
+   "Justiça",
+   "Política",
+   "Sapo Atualidade",
+   "caso das gémeas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Ministra pede UE \"mais interveniente\" na crise dos combustíveis",
+  "link": "https://www.noticiasaominuto.com/economia/3058395/irao-ministra-pede-ue-mais-interveniente-na-crise-dos-combustiveis-c-audio#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "data": "2026-09-28T14:14:54+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Agricultores alertam para \"tragédia\" e protestam contra combustíveis",
+  "link": "https://www.noticiasaominuto.com/economia/3058389/agricultores-alertam-para-tragedia-e-protestam-contra-combustiveis#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "data": "2026-09-28T14:13:08+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Reservas mínimas na UE? Governo afasta disrupção no fornecimento de gás",
+  "link": "https://www.noticiasaominuto.com/economia/3058384/irao-governo-afasta-disrupcao-no-fornecimento-de-gas-apesar-de-reservas-minimas-na-ue-c-audio#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "data": "2026-09-28T14:00:17+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Meia centena de trabalhadores protestam em frente à Cimeira do Turismo",
+  "link": "https://www.noticiasaominuto.com/economia/3058371/meia-centena-de-trabalhadores-protestam-em-frente-a-cimeira-do-turismo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "data": "2026-09-28T13:38:49+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
  }
 ]

@@ -40,28 +40,12 @@
   "data": "2026-09-28"
  },
  {
-  "nome": "Jornal i",
-  "slug": "i",
-  "imagem": "https://imgs.vercapas.com/covers/i/2025/i-2025-07-29-20c8ca65.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/25/covers/i/2025/i-2025-07-29-20c8ca65.jpg",
-  "pagina": "https://www.vercapas.com/capa/i.html",
-  "data": "2025-07-29"
- },
- {
   "nome": "Nascer do SOL",
   "slug": "sol",
   "imagem": "https://imgs.vercapas.com/covers/sol/2026/sol-2026-09-25-9ef59654.jpg",
   "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/sol/2026/sol-2026-09-25-9ef59654.jpg",
   "pagina": "https://www.vercapas.com/capa/sol.html",
   "data": "2026-09-25"
- },
- {
-  "nome": "NOVO Semanário",
-  "slug": "novo-semanario",
-  "imagem": "https://imgs.vercapas.com/covers/novo-semanario/novo-semanario-2024-03-30-1a5659.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/24/covers/novo-semanario/novo-semanario-2024-03-30-1a5659.jpg",
-  "pagina": "https://www.vercapas.com/capa/novo-semanario.html",
-  "data": "2024-03-30"
  },
  {
   "nome": "Jornal de Negócios",
@@ -102,13 +86,5 @@
   "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/sabado/2026/sabado-2026-09-23-14334c7b.jpg",
   "pagina": "https://www.vercapas.com/capa/sabado.html",
   "data": "2026-09-23"
- },
- {
-  "nome": "Jornal de Letras",
-  "slug": "jornal-de-letras",
-  "imagem": "https://imgs.vercapas.com/covers/jornal-de-letras/2025/jornal-de-letras-2025-07-16-dda106a2-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/25/covers/jornal-de-letras/2025/jornal-de-letras-2025-07-16-dda106a2-x.jpg",
-  "pagina": "https://www.vercapas.com/capa/jornal-de-letras.html",
-  "data": "2025-07-16"
  }
 ]
