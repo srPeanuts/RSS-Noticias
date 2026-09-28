@@ -19,7 +19,7 @@ Seis vezes por dia (por volta das 7h, 10h, 13h, 16h, 19h e 22h), a app:
 5. **Ordena os temas por importância,** medida pelo número de jornais diferentes que falam de cada um.
 6. **Atualiza a página web** e guarda o histórico, que alimenta as vistas Semana e Mês.
 
-Uma vez por dia recolhe também os **indicadores económicos** do Eurostat e, às 8h20, envia o **resumo por email**.
+Uma vez por dia recolhe também os **indicadores económicos** do Eurostat e, às 9h30, envia o **resumo por email**.
 
 ---
 
@@ -90,7 +90,7 @@ Os dados são do Eurostat e são mensais ou trimestrais, por isso mudam poucas v
 
 ## Resumo diário por email
 
-Todos os dias por volta das **8h20** chega um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos.
+Todos os dias por volta das **9h30** chega um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos.
 
 ### Configurar
 

@@ -146,7 +146,16 @@ def construir(n_por_categoria: int = 3) -> tuple[str, str, str]:
     return assunto, html, "\n".join(texto)
 
 
+HORA_ENVIO = 9   # hora de Lisboa; o agendamento corre às 8:30 e 9:30 UTC e só uma delas cai nesta hora
+
+
 def main():
+    # No envio agendado, só envia se em Lisboa forem 9h (resolve a mudança de hora verão/inverno).
+    # Envios manuais (Run workflow) enviam sempre.
+    agora = datetime.now(LISBOA)
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and agora.hour != HORA_ENVIO:
+        print(f"São {agora:%H:%M} em Lisboa: este agendamento não é o das {HORA_ENVIO}h. Nada a enviar.")
+        return 0
     assunto, html, texto = construir()
     (RAIZ / "resumo_email.html").write_text(html, encoding="utf-8")
     utilizador = os.environ.get("EMAIL_UTILIZADOR", "").strip()
