@@ -1,5 +1,7 @@
 # Notícias de Portugal
 
+**Custos:** zero. O GitHub Actions e o GitHub Pages são gratuitos para repositórios públicos, e todas as fontes de dados são públicas e gratuitas.
+
 App pessoal para acompanhar a atualidade portuguesa (política, governo, economia, sociedade e cultura) num só sítio: as capas dos jornais do dia, os temas mais falados, as histórias da semana e do mês, indicadores económicos oficiais e um resumo diário por email.
 
 Corre sozinha no GitHub e **não tem custos**: não usa inteligência artificial paga, só Python e dados públicos (RSS dos jornais, VerCapas e Eurostat).
@@ -144,5 +146,3 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 - **O email não chega:** confirma os secrets (os nomes têm de estar exatamente como na tabela acima) e procura na pasta de spam.
 
 ---
-
-**Custos:** zero. O GitHub Actions e o GitHub Pages são gratuitos para repositórios públicos, e todas as fontes de dados são públicas e gratuitas.
