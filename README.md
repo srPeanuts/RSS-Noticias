@@ -119,25 +119,6 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 
 ---
 
-## Atualizar a app
-
-As alterações ao código fazem-se na pasta local do repositório e enviam-se com o Git Bash:
-
-```
-git pull
-(fazer as alterações)
-git add -A
-git commit -m "Descrição da alteração"
-git pull --rebase
-git push
-```
-
-O `git pull --rebase` antes do `git push` é importante: a app faz commits automáticos com as notícias várias vezes por dia, e sem este passo o push é recusado.
-
-Para testar alterações grandes sem mexer na versão oficial, cria um branch de teste (`git checkout -b nome-do-teste`) e aponta temporariamente o **Settings → Pages** para esse branch. Nesse branch, a atualização de notícias corre manualmente em **Actions → Atualizar noticias → Run workflow**, escolhendo o branch no menu.
-
----
-
 ## Estrutura do projeto
 
 | Ficheiro / pasta | Para que serve |
