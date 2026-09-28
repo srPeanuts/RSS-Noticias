@@ -7,6 +7,7 @@
 <title>Notícias de Portugal</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script>try{var t=localStorage.getItem("np-tema");if(t==="claro"||t==="escuro")document.documentElement.dataset.tema=t;}catch(e){}</script>
 <style>
 :root{
   --bg:#f7f5f0; --card:#ffffff; --ink:#1b1a17; --muted:#6b675e; --line:#e4e0d6; --grid:#ecebe6;
@@ -16,12 +17,18 @@
   --serie:#2a78d6; --serie-fraca:#b7d3f6;
   --bom:#1f7a4d; --mau:#b3261e;
 }
+/* Tema: automático (segue o dispositivo), ou forçado com data-tema="claro" / "escuro" */
+:root{color-scheme:light}
 @media (prefers-color-scheme: dark){
-  :root{ --bg:#141412; --card:#1d1c1a; --ink:#ecebe6; --muted:#a19d93; --line:#2f2e2a; --grid:#2a2926;
+  :root:not([data-tema="claro"]){ color-scheme:dark; --bg:#141412; --card:#1d1c1a; --ink:#ecebe6; --muted:#a19d93; --line:#2f2e2a; --grid:#2a2926;
          --accent:#ef6b61; --chip:#2a2926;
          --politica:#3987e5; --governo:#d95926; --economia:#199e70; --sociedade:#c98500; --opiniao:#d55181;
          --serie:#3987e5; --serie-fraca:#184f95; --bom:#6cc79a; --mau:#ef6b61; }
 }
+:root[data-tema="escuro"]{ color-scheme:dark; --bg:#141412; --card:#1d1c1a; --ink:#ecebe6; --muted:#a19d93; --line:#2f2e2a; --grid:#2a2926;
+         --accent:#ef6b61; --chip:#2a2926;
+         --politica:#3987e5; --governo:#d95926; --economia:#199e70; --sociedade:#c98500; --opiniao:#d55181;
+         --serie:#3987e5; --serie-fraca:#184f95; --bom:#6cc79a; --mau:#ef6b61; }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
 a{color:inherit}
@@ -31,6 +38,9 @@ header{border-bottom:1px solid var(--line);background:var(--card);position:stick
 h1{font:700 26px/1.1 "Source Serif 4",Georgia,serif;margin:0;letter-spacing:-.01em}
 h1 span{color:var(--accent)}
 .upd{color:var(--muted);font-size:12px;white-space:nowrap}
+.top-dir{display:flex;align-items:center;gap:10px}
+@media (max-width:520px){.top-dir{flex-direction:column;align-items:flex-end;gap:4px}}
+.btn-tema{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:999px;padding:3px 10px;font:500 12px Inter,sans-serif;cursor:pointer;white-space:nowrap}
 nav.tabs{display:flex;gap:2px;overflow-x:auto}
 nav.tabs button{background:none;border:0;border-bottom:3px solid transparent;padding:8px 12px;font:600 14px Inter,sans-serif;color:var(--muted);cursor:pointer;white-space:nowrap}
 nav.tabs button.on{color:var(--ink);border-color:var(--accent)}
@@ -151,7 +161,7 @@ footer details{margin:0}
 <body>
 <header>
   <div class="wrap">
-    <div class="top"><h1>Notícias <span>de Portugal</span></h1><div class="upd" id="upd"></div></div>
+    <div class="top"><h1>Notícias <span>de Portugal</span></h1><div class="top-dir"><div class="upd" id="upd"></div><button class="btn-tema" id="btnTema" title="Mudar tema (Automático → Claro → Escuro)">Tema: Auto</button></div></div>
     <nav class="tabs" id="tabs">
       <button data-v="hoje" class="on">Hoje</button>
       <button data-v="semana">Semana</button>
@@ -200,6 +210,18 @@ async function carregar(url){
   return st.cache[url] = await r.json();
 }
 async function talvez(url){ try { return await carregar(url); } catch(e){ return null; } }
+
+/* ---------- tema claro / escuro (Automático → Claro → Escuro) ---------- */
+const TEMAS = [["auto","Tema: Auto"],["claro","Tema: Claro"],["escuro","Tema: Escuro"]];
+function temaAtual(){ return document.documentElement.dataset.tema || "auto"; }
+function mostrarTema(){ $("#btnTema").textContent = TEMAS.find(t => t[0] === temaAtual())[1]; }
+$("#btnTema").onclick = () => {
+  const i = TEMAS.findIndex(t => t[0] === temaAtual()), novo = TEMAS[(i + 1) % TEMAS.length][0];
+  if (novo === "auto") delete document.documentElement.dataset.tema; else document.documentElement.dataset.tema = novo;
+  try { novo === "auto" ? localStorage.removeItem("np-tema") : localStorage.setItem("np-tema", novo); } catch(e){}
+  mostrarTema();
+};
+mostrarTema();
 
 /* ---------- filtro de fontes (guardado neste browser) ---------- */
 let ocultas = new Set();
