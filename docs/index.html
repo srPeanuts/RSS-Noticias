@@ -43,7 +43,7 @@ h2.sec i{width:10px;height:10px;border-radius:2px;display:inline-block}
 .capa img{width:132px;height:176px;object-fit:cover;object-position:top;border-radius:4px;border:1px solid var(--line);background:var(--chip);display:block}
 .capa span{display:block;font-size:12px;margin-top:5px;color:var(--muted);line-height:1.25}
 .capa em{font-style:normal;color:var(--accent)}
-.lista .tema{align-content:start}.lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px}.lista .resumo{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}@media (min-width:700px){.lista>.tema:first-child{grid-column:span 2}.lista>.tema:first-child h3{font-size:22px}}
+.lista .tema{align-content:start}.lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px}.lista .resumo{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.lista .resumo.aberto{display:block;-webkit-line-clamp:unset;overflow:visible}.mais{grid-column:2;justify-self:start;background:none;border:0;padding:2px 0;margin-top:2px;color:var(--muted);font:600 12px Inter,sans-serif;cursor:pointer}.mais:hover{color:var(--ink)}@media (min-width:700px){.lista>.tema:first-child{grid-column:span 2}.lista>.tema:first-child h3{font-size:22px}}
 .tema{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;grid-template-columns:34px 1fr;gap:4px 10px}
 .rank{font:700 22px/1 "Source Serif 4",Georgia,serif;color:var(--muted);padding-top:2px}
 .tema h3{margin:0;font:600 18px/1.3 "Source Serif 4",Georgia,serif}
@@ -140,7 +140,7 @@ function cartao(t, i, periodo, dias){
       ${forca(t.n_fontes)} <span>${t.n_fontes} ${t.n_fontes==1?"fonte":"fontes"} · ${t.n_artigos} ${t.n_artigos==1?"notícia":"notícias"}${periodo?` · ${t.n_dias} ${t.n_dias==1?"dia":"dias"}`:""}</span>
       ${(t.palavras||[]).slice(0,3).map(k=>`<span class="kw">${esc(k)}</span>`).join("")}
     </div>
-    ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p>` : ""}
+    ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p><button class="mais" hidden>▾ Ler resumo completo</button>` : ""}
     ${crono}
     <details><summary>Ver notícias (${t.fontes.join(", ")})</summary><ul>${artigos}</ul></details>
   </article>`;
@@ -187,11 +187,20 @@ async function render(){
       $("#periodo").textContent = `${fmtDia(d.de)} – ${fmtDia(d.ate)} · ${d.n_dias} ${d.n_dias==1?"dia":"dias"} com dados` + (d.n_dias < n ? " (o histórico vai crescendo)" : "");
       alvo.innerHTML = blocoTemas(d.temas, true, intervalo(d.de, d.ate));
     }
+    ativarResumos(alvo);
   } catch(e){
     alvo.innerHTML = `<div class="vazio">Ainda não há dados para mostrar. Corre a atualização no GitHub (separador Actions).</div>`;
   }
 }
 
+function ativarResumos(raiz){
+  raiz.querySelectorAll(".resumo").forEach(p => {
+    const b = p.nextElementSibling;
+    if (!b || !b.classList.contains("mais")) return;
+    if (p.scrollHeight > p.clientHeight + 2) b.hidden = false;
+    b.onclick = () => { const on = p.classList.toggle("aberto"); b.textContent = on ? "▴ Mostrar menos" : "▾ Ler resumo completo"; };
+  });
+}
 function abrirCapa(c){ const lb=$("#lb"); lb.querySelector("img").src=c.imagem; lb.querySelector("img").referrerPolicy="no-referrer"; lb.querySelector("a").href=c.pagina; lb.classList.add("on"); }
 $("#lb").onclick = e => { if (e.target.tagName !== "A") $("#lb").classList.remove("on"); };
 document.addEventListener("keydown", e => { if (e.key==="Escape") $("#lb").classList.remove("on"); });
