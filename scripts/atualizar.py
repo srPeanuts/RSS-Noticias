@@ -95,12 +95,44 @@ PALAVRAS = {
     "sociedade": [
         "sociedade", "pais", "cultura", "saude", "sns", "hospital", "hospitais", "medicos", "enfermeiros",
         "educacao", "escola", "escolas", "professores", "universidade", "ensino", "justica", "tribunal",
-        "ministerio publico", "policia", "psp", "gnr", "crime", "incendio", "incendios", "ambiente", "clima",
+        "ministerio publico", "acusacao", "arguidos", "arguido", "acusados", "detido", "detidos", "policia", "psp", "gnr", "crime", "incendio", "incendios", "ambiente", "clima",
         "ciencia", "artes", "cinema", "musica", "livros", "literatura", "teatro", "museu", "exposicao",
         "festival", "patrimonio", "religiao", "igreja", "imigracao", "imigrantes", "aima", "seguranca social",
         "transportes", "comboios", "cp", "metro", "aeroporto", "local", "lisboa", "porto",
     ],
 }
+
+# Notícias sobre outros países: descartadas, a não ser que mencionem Portugal
+ESTRANGEIRO = [
+    "eua", "estados unidos", "trump", "casa branca", "washington", "biden", "china", "chines", "chinesa", "chineses", "chinesas", "americano", "americana", "norte-americano", "norte-americana", "pequim",
+    "russia", "russo", "russa", "putin", "moscovo", "kremlin", "ucrania", "ucraniano", "kiev", "zelensky",
+    "israel", "israelita", "gaza", "hamas", "netanyahu", "irao", "iraniano", "libano", "siria", "medio oriente",
+    "brasil", "brasileiro", "brasileira", "brasileiros", "brasileiras", "lula", "bolsonaro", "venezuela", "colombia", "argentina", "mexico",
+    "angola", "angolano", "mocambique", "mocambicano", "sao tome", "cabo verde", "guine-bissau", "timor",
+    "espanha", "espanhol", "madrid", "sanchez", "franca", "frances", "francesa", "paris", "macron",
+    "alemanha", "alemao", "berlim", "italia", "italiano", "reino unido", "londres", "britanico", "india", "japao",
+    "coreia", "africa do sul", "turquia", "nato", "onu", "papa", "vaticano",
+]
+PORTUGAL = [
+    "portugal", "portugues", "portuguesa", "portugueses", "portuguesas", "lisboa", "porto", "coimbra", "braga",
+    "faro", "algarve", "acores", "madeira", "funchal", "governo portugues", "montenegro", "marcelo", "seguro",
+    "assembleia da republica", "sns", "psp", "gnr", "luso", "lusa", "nacional", "tap", "cgd", "bcp",
+]
+# Títulos a ignorar (entretenimento, meteorologia, desporto que escapa às categorias)
+EXCLUIR_TITULO = [
+    "mtv", "video music awards", "taylor swift", "formula 1", "cartoon", "horoscopo", "aviso amarelo",
+    "aviso laranja", "condicoes meteorologicas", "chuva e trovoada", "bola de ouro", "futebol", "benfica",
+    "sporting", "fc porto", "selecao nacional", "liga dos campeoes",
+]
+
+
+def e_estrangeira(titulo: str, resumo: str) -> bool:
+    t = normalizar(titulo)
+    if not any(_contem(t, e) for e in ESTRANGEIRO):
+        return False
+    contexto = normalizar(f"{titulo} {resumo[:300]}")
+    return not any(_contem(contexto, p) for p in PORTUGAL)
+
 
 SIGLAS_POLITICA = {"PS", "PSD", "CDS", "IL", "BE", "PCP", "PAN", "JPP", "Livre", "Chega", "AD", "OE"}
 
@@ -117,11 +149,16 @@ def classificar(titulo: str, resumo: str, cats_feed: list, categoria_forcada: st
         tem_nacional = any(_contem(cats_norm, t) for t in ["politica", "economia", "sociedade", "pais", "cultura"])
         if not tem_nacional:
             return None
-    if categoria_forcada:
-        return categoria_forcada
+    titulo_norm = normalizar(titulo)
+    if any(_contem(titulo_norm, e) for e in EXCLUIR_TITULO):
+        return None
+    if e_estrangeira(titulo, resumo):
+        return None
 
     texto_norm = normalizar(f"{titulo} {resumo}")
     pontos = Counter()
+    if categoria_forcada:
+        pontos[categoria_forcada] += 2   # a secção do feed ajuda, mas o conteúdo pode vencer
     for cat, termos in PALAVRAS.items():
         for t in termos:
             if cats_feed and _contem(cats_norm, t):
@@ -176,7 +213,7 @@ def ler_feed(feed: dict) -> list:
         if not link:
             l = it.find(f"{atom}link")
             link = l.get("href", "") if l is not None else ""
-        resumo = limpar_html(_texto(it, "description", f"{atom}summary", f"{atom}content"))[:400]
+        resumo = limpar_html(_texto(it, "description", f"{atom}summary", f"{atom}content"))[:3000]
         data = _data(_texto(it, "pubDate", f"{atom}published", f"{atom}updated",
                             "{http://purl.org/dc/elements/1.1/}date"))
         cats = [limpar_html(c.text or "") for c in it.findall("category")]
@@ -281,7 +318,13 @@ def _categoria_maioritaria(membros: list, peso: str | None = None) -> str:
 def temas_do_dia(artigos: list) -> list:
     """Agrupa os artigos de um dia em temas e ordena por importância."""
     temas = []
-    grupo = [a for a in artigos if a.get("categoria") in CATEGORIAS]
+    grupo = []
+    for a in artigos:
+        # reclassifica sempre, para que afinações às regras se apliquem também ao histórico
+        cat = classificar(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
+                          a.get("categoria_forcada") if "categoria_forcada" in a else a.get("categoria", ""))
+        if cat:
+            grupo.append(dict(a, categoria=cat))
     if grupo:
         textos = [f"{a['titulo']} {a['titulo']} {a['resumo'][:200]}" for a in grupo]
         vec, X = _vetorizar(textos)
@@ -296,7 +339,7 @@ def temas_do_dia(artigos: list) -> list:
             principal = membros[ordem[0]]
             temas.append({
                 "titulo": principal["titulo"],
-                "resumo": principal["resumo"][:280],
+                "resumo": principal["resumo"],
                 "categoria": _categoria_maioritaria(membros),
                 "palavras": _palavras_chave(vec, X, idx),
                 "fontes": fontes,
@@ -403,8 +446,7 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         cat = classificar(a["titulo"], a["resumo"], a["cats_feed"], a["categoria_forcada"])
         if not cat:
             continue
-        a = {k: v for k, v in a.items() if k not in ("cats_feed", "categoria_forcada")}
-        a["categoria"] = cat
+        a = dict(a, categoria=cat)
         por_dia.setdefault(d.date().isoformat(), []).append(a)
 
     dias_tocados = set(por_dia) | {hoje}
@@ -424,6 +466,11 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
     if capas:
         escrever_json(f_capas, capas)
     capas_hoje = ler_json(f_capas, [])
+    recente = (agora.date() - timedelta(days=8)).isoformat()
+    capas_validas = [c for c in capas_hoje if not c.get("data") or c["data"] >= recente]
+    if len(capas_validas) != len(capas_hoje):
+        escrever_json(f_capas, capas_validas)
+        capas_hoje = capas_validas
 
     # 4. Ficheiros para o site
     todos_dias = sorted(p.stem for p in (DADOS / "temas").glob("*.json"))
