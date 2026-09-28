@@ -485,6 +485,22 @@ def resumo_publico(temas: list, por_categoria: int) -> dict:
     return {cat: [t for t in temas if t["categoria"] == cat][:por_categoria] for cat in CATEGORIAS}
 
 
+DIAS_A_GUARDAR = 30
+
+
+def apagar_antigos(hoje) -> None:
+    """Apaga notícias, temas e capas com mais de DIAS_A_GUARDAR dias."""
+    limite = (hoje - timedelta(days=DIAS_A_GUARDAR)).isoformat()
+    apagados = 0
+    for pasta in (DADOS / "artigos", DADOS / "temas", DADOS / "capas", SITE / "dias"):
+        for f in pasta.glob("*.json"):
+            if re.fullmatch(r"\d{4}-\d{2}-\d{2}", f.stem) and f.stem < limite:
+                f.unlink()
+                apagados += 1
+    if apagados:
+        print(f"Limpeza: {apagados} ficheiros com mais de {DIAS_A_GUARDAR} dias apagados")
+
+
 def main(artigos_teste: list | None = None, capas_teste: list | None = None):
     config = ler_json(RAIZ / "fontes.json", None)
     agora = datetime.now(LISBOA)
@@ -537,7 +553,10 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         escrever_json(f_capas, capas_validas)
         capas_hoje = capas_validas
 
-    # 4. Ficheiros para o site
+    # 4. Limpeza: só se guardam os últimos DIAS_A_GUARDAR dias (chega para a vista Mês)
+    apagar_antigos(agora.date())
+
+    # 5. Ficheiros para o site
     todos_dias = sorted(p.stem for p in (DADOS / "temas").glob("*.json"))
     for dia in dias_tocados:
         temas = ler_json(DADOS / "temas" / f"{dia}.json", [])
@@ -574,7 +593,7 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         print(f"{nome}: {len(com_dados)} dias → {len(historias)} histórias, {len(alta)} em alta, "
               f"{len(pessoas)} entidades")
 
-    # 5. Indicadores económicos (uma vez por dia chega: os dados são mensais/trimestrais)
+    # 6. Indicadores económicos (uma vez por dia chega: os dados são mensais/trimestrais)
     f_ind = SITE / "indicadores.json"
     atual = ler_json(f_ind, {})
     if atual.get("obtido") != hoje and artigos_teste is None:

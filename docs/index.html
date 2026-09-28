@@ -70,6 +70,12 @@ h2.sec small{font-weight:500;text-transform:none;letter-spacing:0}
 .lista .tema h3{font-size:17px}
 .lista .resumo{-webkit-line-clamp:2!important}
 .lista.destaque>.tema:first-child{padding:16px 18px}
+/* Opinião em grelha: cartões da mesma linha com a mesma altura */
+.grelha-opiniao{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+.grelha-opiniao>.tema{padding:12px 14px;align-content:start}
+.grelha-opiniao .tema h3{font-size:16px}
+.grelha-opiniao .resumo{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.grelha-opiniao .resumo.aberto{display:block;-webkit-line-clamp:unset;overflow:visible}
 .outras{grid-column:2;list-style:none;margin:8px 0 0;padding:8px 0 0;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:5px}
 .outras li{font-size:14px;line-height:1.35}
 .outras li a{text-decoration:none}.outras li a:hover{text-decoration:underline}
@@ -341,11 +347,17 @@ function outrasNoticias(t){
   return `<ul class="outras">${lista.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.titulo)}</a><small>${esc(a.fonte)}</small></li>`).join("")}</ul>`;
 }
 
+/* Alguns jornais põem um email ou o próprio nome do jornal no campo do autor */
+function autorLimpo(autor, fonte){
+  const a = String(autor || "").replace(/\S+@\S+/g, "").replace(/[()]/g, "").trim();
+  return a && a !== fonte ? a : "";
+}
+
 function cartaoOpiniao(t){
   const a = t.artigos[0] || {};
   return `<article class="tema sem-rank">
     <h3><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(t.titulo)}</a></h3>
-    <div class="meta">${tag("opiniao")} <span>${t.autor ? esc(t.autor)+" · " : ""}${esc(a.fonte)} · ${fmtHora(t.data || a.data)}</span></div>
+    <div class="meta">${tag("opiniao")} <span>${autorLimpo(t.autor, a.fonte) ? esc(autorLimpo(t.autor, a.fonte))+" · " : ""}${esc(a.fonte)} · ${fmtHora(t.data || a.data)}</span></div>
     ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p><button class="mais" hidden>▾ Ler resumo completo</button>` : ""}
   </article>`;
 }
@@ -354,7 +366,7 @@ function seccao(c, lista, limite, periodo, dias, antes=""){
   const n = (lista||[]).length;
   let html = `<h2 class="sec"><i style="background:var(--${c})"></i>${NOMES[c]}${c==="opiniao"?" <small>· mais recentes</small>":""}</h2>` + antes;
   const itens = (lista||[]).slice(0, limite);
-  html += itens.length ? `<div class="lista ${c!=="opiniao"?"destaque":""}">${itens.map((t,i)=>cartao(t,i,periodo,dias)).join("")}</div>`
+  html += itens.length ? `<div class="${c==="opiniao"?"grelha-opiniao":"lista destaque"}">${itens.map((t,i)=>cartao(t,i,periodo,dias)).join("")}</div>`
                        : `<div class="vazio">Sem ${c==="opiniao"?"artigos de opinião":"temas"} ${periodo?"neste período":"neste dia"}.</div>`;
   return html;
 }
