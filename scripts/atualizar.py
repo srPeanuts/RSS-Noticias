@@ -359,11 +359,20 @@ def _categoria_maioritaria(membros: list, peso: str | None = None) -> str:
     return max(NOTICIAS, key=lambda k: (c[k], -NOTICIAS.index(k)))
 
 
+def sem_duplicados(artigos: list) -> list:
+    """Quando um jornal corrige o título, o link muda mas a hora de publicação não:
+    fica só a versão mais recente (a última guardada) de cada (jornal, hora)."""
+    unicos = {}
+    for a in artigos:
+        unicos[(a.get("fonte"), a.get("data"))] = a
+    return list(unicos.values())
+
+
 def temas_do_dia(artigos: list) -> list:
     """Agrupa os artigos de um dia em temas e ordena por importância."""
     temas = []
     grupo, opinioes = [], []
-    for a in artigos:
+    for a in sem_duplicados(artigos):
         # reclassifica sempre, para que afinações às regras se apliquem também ao histórico
         cat = classificar(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
                           a.get("categoria_forcada") if "categoria_forcada" in a else a.get("categoria", ""),
@@ -511,7 +520,7 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         existentes = {a["link"]: a for a in ler_json(f, [])}
         for a in por_dia.get(dia, []):
             existentes.setdefault(a["link"], a)
-        artigos_dia = list(existentes.values())
+        artigos_dia = sem_duplicados(list(existentes.values()))
         escrever_json(f, artigos_dia)
         temas = temas_do_dia(artigos_dia)
         escrever_json(DADOS / "temas" / f"{dia}.json", temas)

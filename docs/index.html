@@ -289,8 +289,8 @@ function cobertura(serie, dias, cat){
   return `<div class="cob" style="--c:var(--${cat})"><div class="barras">${barras}</div><div class="eixo"><span>${fmtDiaCurto(dias[0])}</span><span>${fmtDiaCurto(dias[dias.length-1])}</span></div></div>`;
 }
 
-function listaArtigos(t){
-  return t.artigos.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.titulo)}</a><small>${esc(a.fonte)} · ${fmtHora(a.data)}</small></li>`).join("");
+function listaArtigos(t, excluir = new Set()){
+  return t.artigos.filter(a => !excluir.has(a.link)).map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.titulo)}</a><small>${esc(a.fonte)} · ${fmtHora(a.data)}</small></li>`).join("");
 }
 
 function cartao(t, i, periodo, dias){
@@ -307,17 +307,36 @@ function cartao(t, i, periodo, dias){
     ${t.resumo ? `<p class="resumo">${esc(t.resumo)}</p><button class="mais" hidden>▾ Ler resumo completo</button>` : ""}
     ${i === 0 ? outrasNoticias(t) : ""}
     ${periodo ? cobertura(t.serie, dias, t.categoria) : ""}
-    <details><summary>Ver ${t.n_artigos==1?"a notícia":"as "+t.artigos.length+" notícias"}</summary><ul>${listaArtigos(t)}</ul></details>
+    ${detalhesNoticias(t, i === 0 ? new Set(escolherOutras(t).map(a => a.link)) : new Set())}
   </article>`;
 }
 
 /* No tema n.º 1: títulos de outras notícias sobre o mesmo assunto, já visíveis */
-function outrasNoticias(t){
+/* Remove repetições do mesmo artigo (mesmo jornal e mesma hora = título corrigido) */
+function artigosUnicos(t){
+  // fica a última versão guardada (a do título corrigido), mantendo a ordem original
+  const ultima = new Map();
+  (t.artigos || []).forEach(a => ultima.set(a.fonte + "|" + a.data, a));
+  const escolhidos = new Set(ultima.values());
+  return (t.artigos || []).filter(a => escolhidos.has(a));
+}
+function escolherOutras(t){
   // primeiro uma notícia por jornal; depois completa até 4 com outras notícias diferentes
   const vistas = new Set([t.titulo]), fontes = new Set(), lista = [];
-  for (const a of t.artigos || []) if (!vistas.has(a.titulo) && !fontes.has(a.fonte)) { vistas.add(a.titulo); fontes.add(a.fonte); lista.push(a); }
-  for (const a of t.artigos || []) if (lista.length < 4 && !vistas.has(a.titulo)) { vistas.add(a.titulo); lista.push(a); }
-  lista.splice(4);
+  const arts = artigosUnicos(t);
+  for (const a of arts) if (!vistas.has(a.titulo) && !fontes.has(a.fonte)) { vistas.add(a.titulo); fontes.add(a.fonte); lista.push(a); }
+  for (const a of arts) if (lista.length < 4 && !vistas.has(a.titulo)) { vistas.add(a.titulo); lista.push(a); }
+  return lista.slice(0, 4);
+}
+function detalhesNoticias(t, jaMostradas){
+  const titulos = new Set(artigosUnicos(t).filter(a => jaMostradas.has(a.link)).map(a => a.titulo));
+  const resto = artigosUnicos(t).filter(a => !jaMostradas.has(a.link) && !titulos.has(a.titulo));
+  if (!resto.length) return "";
+  const txt = jaMostradas.size ? `Ver mais ${resto.length} ${resto.length==1?"notícia":"notícias"}` : (resto.length==1 ? "Ver a notícia" : `Ver as ${resto.length} notícias`);
+  return `<details><summary>${txt}</summary><ul>${listaArtigos({artigos: resto})}</ul></details>`;
+}
+function outrasNoticias(t){
+  const lista = escolherOutras(t);
   if (!lista.length) return "";
   return `<ul class="outras">${lista.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.titulo)}</a><small>${esc(a.fonte)}</small></li>`).join("")}</ul>`;
 }
