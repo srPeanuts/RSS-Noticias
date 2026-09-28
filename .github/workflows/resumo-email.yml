@@ -1,6 +1,6 @@
 {
 "name": "Resumo diario por email",
-"on": { "schedule": [ { "cron": "20 7 * * *" } ], "workflow_dispatch": {}, "push": { "branches": [ "teste-novidades" ] } },
+"on": { "schedule": [ { "cron": "30 8 * * *" }, { "cron": "30 9 * * *" } ], "workflow_dispatch": {} },
 "permissions": { "contents": "read" },
 "jobs": { "enviar": {
 "runs-on": "ubuntu-latest",
