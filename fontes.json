@@ -13,10 +13,8 @@
     {"fonte": "Jornal Económico",    "url": "https://jornaleconomico.sapo.pt/feed",                "categoria": "economia"},
     {"fonte": "Correio da Manhã",    "url": "https://www.cmjornal.pt/rss",                         "categoria": ""},
     {"fonte": "Diário de Notícias",  "url": "http://feeds.dn.pt/DN-Ultimas",                       "categoria": ""},
-    {"fonte": "Renascença",          "url": "https://rr.pt/rssfeed-ultimas",                       "categoria": ""},
     {"fonte": "Notícias ao Minuto",  "url": "https://www.noticiasaominuto.com/rss/politica",       "categoria": "politica"},
-    {"fonte": "Notícias ao Minuto",  "url": "https://www.noticiasaominuto.com/rss/economia",       "categoria": "economia"},
-    {"fonte": "Google Notícias PT",  "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=pt-PT&gl=PT&ceid=PT:pt-150", "categoria": ""}
+    {"fonte": "Notícias ao Minuto",  "url": "https://www.noticiasaominuto.com/rss/economia",       "categoria": "economia"}
   ],
   "capas": [
     {"nome": "Público",             "slug": "publico"},

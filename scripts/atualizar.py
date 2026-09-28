@@ -244,7 +244,8 @@ def recolher_artigos(config: dict) -> tuple[list, dict]:
             estado[feed["url"]] = len(a)
             print(f"  ✓ {feed['fonte']:<22} {len(a):>3} artigos  {feed['url']}")
         except Exception as e:
-            estado[feed["url"]] = f"erro: {e.__class__.__name__}"
+            codigo = getattr(getattr(e, "response", None), "status_code", None)
+            estado[feed["url"]] = f"erro HTTP {codigo}" if codigo else f"erro: {e.__class__.__name__}"
             print(f"  ✗ {feed['fonte']:<22} ERRO {e.__class__.__name__}: {str(e)[:80]}")
     return todos, estado
 
