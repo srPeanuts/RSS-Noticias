@@ -580,6 +580,8 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         "dias": sorted(p.stem for p in (SITE / "dias").glob("*.json")),
         "fontes": estado,
         "n_capas": len(capas_hoje),
+        "nomes_fontes": sorted({f["fonte"] for f in config["feeds"]}),
+        "nomes_capas": [c["nome"] for c in config["capas"]],
     })
     print("Concluído.")
 

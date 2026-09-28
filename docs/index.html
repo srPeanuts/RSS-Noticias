@@ -40,6 +40,17 @@ nav.tabs button.on{color:var(--ink);border-color:var(--accent)}
 .chip i{width:8px;height:8px;border-radius:2px}
 .chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .datenav{display:flex;align-items:center;gap:6px;font-weight:600}
+.fontes-menu{position:relative}
+.fontes-menu>button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:5px 12px;font:500 13px Inter,sans-serif;cursor:pointer;white-space:nowrap}
+.fontes-menu>button.ativo{border-color:var(--accent);color:var(--accent)}
+.painel{position:absolute;right:0;top:calc(100% + 6px);z-index:15;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.15);padding:12px 14px;width:min(320px,calc(100vw - 32px));max-height:70vh;overflow:auto}
+.painel h4{margin:10px 0 6px;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.painel h4:first-child{margin-top:0}
+.painel label{display:flex;align-items:center;gap:8px;font-size:14px;padding:3px 0;cursor:pointer}
+.painel input{width:16px;height:16px;accent-color:var(--ink)}
+.painel .acoes{display:flex;gap:8px;margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}
+.painel .acoes button{flex:1;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:8px;padding:6px;font:500 13px Inter,sans-serif;cursor:pointer}
+.aviso-filtro{font-size:13px;color:var(--muted);margin:0 0 6px}
 .datenav button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;width:32px;height:32px;cursor:pointer;font-size:16px}
 .datenav button:disabled{opacity:.35;cursor:default}
 .periodo{color:var(--muted);font-size:13px}
@@ -144,6 +155,7 @@ footer details{margin:0}
 <main class="wrap">
   <div class="bar">
     <div class="chips" id="chips"></div>
+    <div class="fontes-menu" id="fontesMenu"><button id="btnFontes" aria-haspopup="true">Fontes ▾</button><div class="painel" id="painelFontes" hidden></div></div>
     <div class="datenav" id="datenav">
       <button id="prev" aria-label="Dia anterior">‹</button><span id="diaTxt"></span><button id="next" aria-label="Dia seguinte">›</button>
     </div>
@@ -180,6 +192,76 @@ async function carregar(url){
   return st.cache[url] = await r.json();
 }
 async function talvez(url){ try { return await carregar(url); } catch(e){ return null; } }
+
+/* ---------- filtro de fontes (guardado neste browser) ---------- */
+let ocultas = new Set();
+try { ocultas = new Set(JSON.parse(localStorage.getItem("np-fontes-ocultas") || "[]")); } catch(e){}
+function guardarOcultas(){ try { localStorage.setItem("np-fontes-ocultas", JSON.stringify([...ocultas])); } catch(e){} }
+const fonteVisivel = f => !ocultas.has("n:" + f);
+const capaVisivel = c => !ocultas.has("c:" + c.nome);
+
+function filtrarTema(t){
+  if (!ocultas.size) return t;
+  const arts = (t.artigos || []).filter(a => fonteVisivel(a.fonte));
+  if (!arts.length) return null;
+  if (arts.length === t.artigos.length) return t;
+  const fontes = [...new Set(arts.map(a => a.fonte))];
+  const principal = arts.some(a => a.titulo === t.titulo);
+  return {...t, artigos: arts, fontes, n_fontes: fontes.length, n_artigos: arts.length,
+          pontuacao: fontes.length*3 + arts.length + (t.n_dias ? 5*(t.n_dias-1) : 0),
+          titulo: principal ? t.titulo : arts[0].titulo, resumo: principal ? t.resumo : ""};
+}
+function filtrarTemas(temas){
+  const out = {};
+  for (const c of Object.keys(temas || {})){
+    const lista = (temas[c] || []).map(filtrarTema).filter(Boolean);
+    if (ocultas.size && c !== "opiniao") lista.sort((a,b) => b.pontuacao - a.pontuacao);
+    out[c] = lista;
+  }
+  return out;
+}
+function nomesFontes(){
+  if (st.indice?.nomes_fontes?.length) return [...st.indice.nomes_fontes].sort((a,b) => a.localeCompare(b, "pt"));
+  const s = new Set();
+  const juntar = temas => Object.values(temas || {}).flat().forEach(t => (t.artigos||[]).forEach(a => s.add(a.fonte)));
+  Object.values(st.cache).forEach(d => juntar(d?.temas));
+  return [...s].sort((a,b) => a.localeCompare(b, "pt"));
+}
+function nomesCapas(){
+  if (st.indice?.nomes_capas?.length) return st.indice.nomes_capas;
+  const s = new Set();
+  Object.values(st.cache).forEach(d => (d?.capas || []).forEach(c => s.add(c.nome)));
+  return [...s];
+}
+function atualizarBotaoFontes(){
+  const n = [...ocultas].length;
+  $("#btnFontes").textContent = n ? `Fontes · ${n} oculta${n>1?"s":""} ▾` : "Fontes ▾";
+  $("#btnFontes").classList.toggle("ativo", n > 0);
+}
+function abrirPainelFontes(){
+  const p = $("#painelFontes");
+  const caixa = (chave, nome) => `<label><input type="checkbox" data-k="${esc(chave)}" ${ocultas.has(chave)?"":"checked"}> ${esc(nome)}</label>`;
+  p.innerHTML = `<h4>Notícias</h4>${nomesFontes().map(f => caixa("n:"+f, f)).join("")}
+    <h4>Capas</h4>${nomesCapas().map(c => caixa("c:"+c, c)).join("")}
+    <div class="acoes"><button data-acao="todas">Mostrar todas</button><button data-acao="fechar">Fechar</button></div>`;
+  p.hidden = false;
+  p.style.left = ""; p.style.right = "";
+  const r = p.getBoundingClientRect();
+  if (r.left < 8){ p.style.left = "0"; p.style.right = "auto"; }
+}
+$("#btnFontes").onclick = e => { e.stopPropagation(); const p = $("#painelFontes"); if (p.hidden) abrirPainelFontes(); else p.hidden = true; };
+$("#painelFontes").addEventListener("click", e => e.stopPropagation());
+$("#painelFontes").addEventListener("change", e => {
+  const k = e.target.dataset.k; if (!k) return;
+  if (e.target.checked) ocultas.delete(k); else ocultas.add(k);
+  guardarOcultas(); atualizarBotaoFontes(); render();
+});
+$("#painelFontes").addEventListener("click", e => {
+  const a = e.target.dataset.acao;
+  if (a === "todas"){ ocultas.clear(); guardarOcultas(); atualizarBotaoFontes(); abrirPainelFontes(); render(); }
+  if (a === "fechar") $("#painelFontes").hidden = true;
+});
+document.addEventListener("click", () => { $("#painelFontes").hidden = true; });
 
 /* ---------- tooltip partilhado ---------- */
 const tip = $("#tip");
@@ -245,8 +327,14 @@ function blocoTemas(temas, periodo, dias, extras={}){
   return cats.map(c => seccao(c, temas[c], limite(c), periodo, dias, extras[c]||"")).join("");
 }
 
+function avisoFiltro(){
+  const n = [...ocultas].filter(k => k.startsWith("n:")).length;
+  return n ? `<p class="aviso-filtro">A mostrar notícias sem ${n} fonte${n>1?"s":""} escolhida${n>1?"s":""} no menu Fontes.</p>` : "";
+}
 function blocoCapas(capas){
   if (!capas?.length) return "";
+  capas = capas.filter(capaVisivel);
+  if (!capas.length) return "";
   return `<h2 class="sec">Capas do dia</h2><div class="capas">${capas.map((c,i)=>`
     <button class="capa" data-i="${i}"><img loading="lazy" referrerpolicy="no-referrer" src="${esc(c.imagem||c.miniatura)}" alt="Capa ${esc(c.nome)}" onerror="this.onerror=null;this.src='${esc(c.miniatura||"")}'">
     <span>${esc(c.nome)}${c.data && c.data!==st.dia ? `<br><em>${fmtDia(c.data)}</em>`:""}</span></button>`).join("")}</div>`;
@@ -254,6 +342,7 @@ function blocoCapas(capas){
 
 function blocoEmAlta(lista, dias, limite=5){
   if (!lista?.length) return "";
+  lista = lista.map(filtrarTema).filter(Boolean);
   let filtrada = st.cat==="todas" ? lista : lista.filter(h => h.categoria===st.cat);
   if (!filtrada.length) return "";
   filtrada = filtrada.slice(0, limite);
@@ -338,6 +427,7 @@ async function render(){
   document.querySelectorAll("#tabs button").forEach(b=>b.classList.toggle("on", b.dataset.v===st.vista));
   document.querySelectorAll("#chips .chip").forEach(b=>b.classList.toggle("on", b.dataset.c===st.cat));
   $("#chips").style.display = st.vista==="indicadores" ? "none" : "flex";
+  $("#fontesMenu").style.display = st.vista==="indicadores" ? "none" : "block";
   $("#datenav").style.display = st.vista==="hoje" ? "flex" : "none";
   $("#periodo").style.display = st.vista==="semana"||st.vista==="mes" ? "block" : "none";
   const alvo = $("#conteudo");
@@ -352,10 +442,11 @@ async function render(){
       const sem = st.dia === st.indice.hoje ? await talvez("data/semana.json") : null;
       const mini = ind?.indicadores?.length && (st.cat==="todas"||st.cat==="economia")
         ? `<div class="ind-grelha mini">${ind.indicadores.map(x=>tileIndicador(x,true)).join("")}</div>` : "";
-      alvo.innerHTML = (st.cat==="todas" ? blocoCapas(d.capas) : "") +
+      const capasVis = (d.capas || []).filter(capaVisivel);
+      alvo.innerHTML = avisoFiltro() + (st.cat==="todas" ? blocoCapas(d.capas) : "") +
         (sem ? blocoEmAlta(sem.em_alta, sem.dias || intervalo(sem.de, sem.ate), 3) : "") +
-        blocoTemas(d.temas, false, null, {economia: mini});
-      alvo.querySelectorAll(".capa").forEach(b => b.onclick = () => abrirCapa(d.capas[+b.dataset.i]));
+        blocoTemas(filtrarTemas(d.temas), false, null, {economia: mini});
+      alvo.querySelectorAll(".capa").forEach(b => b.onclick = () => abrirCapa(capasVis[+b.dataset.i]));
     } else if (st.vista === "indicadores"){
       alvo.innerHTML = ind?.indicadores?.length
         ? `<h2 class="sec">Indicadores económicos de Portugal <small>· dados oficiais do Eurostat, atualizados ${fmtDia(ind.obtido)}</small></h2>
@@ -368,9 +459,9 @@ async function render(){
       const dias = d.dias || intervalo(d.de, d.ate);
       const n = st.vista==="semana" ? 7 : 30;
       $("#periodo").textContent = `${fmtDia(dias[0])} – ${fmtDia(dias[dias.length-1])} · ${d.n_dias} ${d.n_dias==1?"dia":"dias"} com dados` + (d.n_dias < n ? " (o histórico vai crescendo)" : "");
-      alvo.innerHTML = (st.cat==="todas" ? blocoQuem(d.pessoas, dias) : "") +
+      alvo.innerHTML = avisoFiltro() + (st.cat==="todas" ? blocoQuem(d.pessoas, dias) : "") +
         (st.vista==="semana" ? blocoEmAlta(d.em_alta, dias) : "") +
-        blocoTemas(d.temas, true, dias);
+        blocoTemas(filtrarTemas(d.temas), true, dias);
     }
     montarColunas(alvo);
     ativarResumos(alvo);
@@ -432,6 +523,7 @@ $("#next").onclick = () => { const d=st.indice.dias, i=d.indexOf(st.dia); if (i<
     $("#conteudo").innerHTML = `<div class="vazio">Ainda não há dados. Corre a primeira atualização no GitHub (separador <b>Actions</b> → <b>Atualizar noticias</b> → <b>Run workflow</b>).</div>`;
     $("#datenav").style.display="none"; return;
   }
+  atualizarBotaoFontes();
   st.dia = st.indice.dias.includes(st.indice.hoje) ? st.indice.hoje : st.indice.dias.at(-1);
   const a = new Date(st.indice.atualizado);
   $("#upd").textContent = "Atualizado " + a.toLocaleString("pt-PT",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
