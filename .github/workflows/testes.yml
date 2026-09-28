@@ -15,7 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
-        with: { python-version: "3.12", cache: pip }
+        with:
+          python-version: "3.12"
+          cache: pip
       - name: Instalar dependencias
         run: pip install -r requirements.txt pytest
       - name: Correr testes
