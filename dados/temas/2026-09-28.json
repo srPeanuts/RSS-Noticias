@@ -316,8 +316,8 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "interveniente",
    "crise combustiveis",
+   "interveniente",
    "ministra",
    "pede ue"
   ],
@@ -482,7 +482,7 @@
   "categoria": "economia",
   "palavras": [
    "cap",
-   "140",
+   "140 milhoes",
    "exige",
    "recuperar"
   ],
@@ -1330,8 +1330,8 @@
   "categoria": "economia",
   "palavras": [
    "banca",
-   "fragmentacao",
    "opcoes politicas",
+   "fragmentacao",
    "europeia"
   ],
   "fontes": [
@@ -1370,8 +1370,8 @@
   "palavras": [
    "arrendamento",
    "despejos",
-   "governo quer",
-   "flexivel"
+   "flexivel",
+   "governo quer"
   ],
   "fontes": [
    "RTP",
@@ -1571,8 +1571,8 @@
   "palavras": [
    "semana alta",
    "comeca semana",
-   "petroleo comeca",
-   "107"
+   "107 dolares",
+   "alta brent"
   ],
   "fontes": [
    "Jornal de Negócios",
@@ -1604,7 +1604,7 @@
    "11",
    "competitividade turistica",
    "lugar",
-   "ranking competitividade"
+   "ranking"
   ],
   "fontes": [
    "Jornal Económico",
@@ -2400,8 +2400,8 @@
   "categoria": "economia",
   "palavras": [
    "calcado",
-   "unido",
    "destronam reino",
+   "unido",
    "eua"
   ],
   "fontes": [
@@ -2817,8 +2817,8 @@
   "palavras": [
    "vagas",
    "universidades",
-   "abrem mil",
-   "profissionalizacao"
+   "profissionalizacao",
+   "abrem mil"
   ],
   "fontes": [
    "Observador",
@@ -2848,9 +2848,9 @@
   "categoria": "sociedade",
   "palavras": [
    "amadorabd",
-   "banda",
-   "desenhada",
-   "24 obras"
+   "banda desenhada",
+   "24 obras",
+   "premios banda"
   ],
   "fontes": [
    "Público",
@@ -2944,9 +2944,9 @@
   "categoria": "economia",
   "palavras": [
    "taxa",
-   "municipal turistica",
-   "turistica dois",
-   "barcelos cobrar"
+   "cobrar",
+   "barcelos",
+   "turistica dois"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -3355,7 +3355,7 @@
   "palavras": [
    "fatura juros",
    "2030",
-   "cfp",
+   "divida subir",
    "quase 50"
   ],
   "fontes": [
@@ -3378,8 +3378,8 @@
   "resumo": "A 26 de Setembro fez-se história no Wanderlust, festival de bem-estar que decorreu no Jardim da Torre de Belém. Há nova dose a 10 de Outubro, na Madeira.",
   "categoria": "sociedade",
   "palavras": [
-   "maior aula",
    "mundo aconteceu",
+   "maior aula",
    "guinness",
    "meditacao mundo"
   ],
@@ -3453,10 +3453,10 @@
   "resumo": "A primeira coleção do designer britânico John Galliano para a Zara será apresentada a 1 de outubro, às 10h00, dando início a uma parceria prevista para durar dois anos. O projeto Re{form} authored by John Galliano, como foi batizado, parte dos arquivos da marca espanhola. Esta é a primeira colaboração de John Galliano depois de […]",
   "categoria": "economia",
   "palavras": [
+   "primeira colecao",
+   "john galliano",
    "zara",
-   "colecao",
-   "galliano",
-   "john"
+   "colecao john"
   ],
   "fontes": [
    "ECO"
@@ -3480,8 +3480,8 @@
   "palavras": [
    "brilhante",
    "estara preparado",
-   "governo forma",
-   "forma insensivel"
+   "forma insensivel",
+   "preparado apoiar"
   ],
   "fontes": [
    "RTP"
@@ -3603,10 +3603,10 @@
   "resumo": "As principais praças norte-americanas chegaram ao fim da sessão de segunda-feira com recuos. Os preços do petróleo oscilaram durante o dia, depois de o Irão ter afastado novas negociações com os Estados Unidos, embora os contactos indiretos continuem entre as partes em conflito.",
   "categoria": "economia",
   "palavras": [
-   "meta recua",
-   "alta meta",
+   "desce petroleo",
    "divida alta",
-   "desce petroleo"
+   "street desce",
+   "recua"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -3703,9 +3703,9 @@
   "resumo": "O país ganhou uma posição face ao registo anterior. O Turismo de Portugal distinguiu 19 personalidades e organizações com Medalhas de Mérito Turístico.",
   "categoria": "economia",
   "palavras": [
-   "competitivo",
+   "competitivo mundo",
    "11 destino",
-   "mundo",
+   "destino competitivo",
    "ganhou"
   ],
   "fontes": [
@@ -3980,8 +3980,8 @@
   "palavras": [
    "padres",
    "roma",
-   "nomes",
-   "genocidio levam"
+   "mortas",
+   "300 criancas"
   ],
   "fontes": [
    "SAPO 24"
@@ -4003,10 +4003,10 @@
   "resumo": "País deita fora 1,82 milhões de toneladas de alimentos por ano, com as famílias responsáveis por quase dois terços do total. Todos os dias, são mais de 10 milhões de euros deitados ao lixo.",
   "categoria": "economia",
   "palavras": [
-   "ultimos cinco",
+   "desperdicio alimentar",
    "alimentar aumentou",
-   "12 ultimos",
-   "desperdicio alimentar"
+   "aumentou 12",
+   "ultimos cinco"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -4429,9 +4429,9 @@
   "categoria": "economia",
   "palavras": [
    "seguranca",
-   "agentes ia",
-   "fuga agentes",
-   "impedir"
+   "nvidia lanca",
+   "impedir fuga",
+   "fuga agentes"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -4578,8 +4578,8 @@
   "categoria": "economia",
   "palavras": [
    "estado turismo",
-   "secretario",
-   "vamos",
+   "secretario estado",
+   "crescer garante",
    "milhoes capacidade"
   ],
   "fontes": [
@@ -4876,9 +4876,9 @@
   "resumo": "No seu novo disco, “Ela Por Elas”, Viviane presta homenagem a várias mulheres da música portuguesa, entre elas Lena d'Água, a cuja canção ‘Como Se Eu Fosse Tua’, nos Salada de Frutas, dá voz. “A letra aborda [a história] de uma pessoa que anula a outra”, conta. Para ouvir no Posto Emissor",
   "categoria": "sociedade",
   "palavras": [
-   "lena",
    "letra",
    "viviane",
+   "lena agua",
    "ela"
   ],
   "fontes": [
@@ -5176,8 +5176,7 @@
   "resumo": "O número de alvos de escutas telefónicas em Portugal caiu para cerca de metade numa década. Uso de plataformas encriptadas como WhatsApp e Signal dificulta trabalho da polícia.",
   "categoria": "sociedade",
   "palavras": [
-   "escutas",
-   "telefonicas",
+   "escutas telefonicas",
    "metade decada",
    "cairam metade"
   ],
@@ -5276,10 +5275,10 @@
   "resumo": "Arguido sofre de doença do foro psíquico. Após ser presente a primeiro interrogatório judicial, ficou sujeito à medida de coação de internamento preventivo.",
   "categoria": "sociedade",
   "palavras": [
-   "suspeitas agredir",
    "homem suspeitas",
-   "durante 10",
-   "detido homem"
+   "suspeitas agredir",
+   "mae durante",
+   "agredir mae"
   ],
   "fontes": [
    "Observador"
@@ -5525,9 +5524,9 @@
   "categoria": "economia",
   "palavras": [
    "reais",
-   "subiu abaixo",
-   "salario minimo",
-   "abaixo media"
+   "abaixo media",
+   "media ue",
+   "dez salario"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -5599,10 +5598,10 @@
   "resumo": "A bracarense Keydef e a Flying Wedge Defence and Aerospace (FWDA) assinaram um acordo para o fabrico no nosso país de toda a gama de sistemas não tripulados da empresa indiana.",
   "categoria": "economia",
   "palavras": [
-   "drones indianos",
    "fabrica drones",
-   "assinaram acordo",
-   "fabrico"
+   "drones indianos",
+   "sistemas nao",
+   "assinaram acordo"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -5650,8 +5649,8 @@
   "categoria": "economia",
   "palavras": [
    "banco ca",
-   "115",
    "credito agricola",
+   "115",
    "mote"
   ],
   "fontes": [
@@ -5674,10 +5673,10 @@
   "resumo": "Os Placebo atuam esta segunda-feira no Porto e na terça em Lisboa, celebrando os dois primeiros álbuns. Em 2010, o vocalista Brian Molko transformava uma entrevista de 15 minutos com a BLITZ numa conversa de mais de uma hora. “Portugal é mesmo progressivo”, afirmou então. Recorde aqui uma conversa longa e em roda livre, em que o vocalista fez um ‘autorretrato’",
   "categoria": "sociedade",
   "palavras": [
-   "brian",
+   "brian molko",
    "placebo",
-   "molko",
-   "alma"
+   "sincero brian",
+   "egocentrico"
   ],
   "fontes": [
    "Expresso"
@@ -5776,8 +5775,8 @@
   "palavras": [
    "poderao",
    "documento",
-   "votar eleicoes",
-   "brasileiros"
+   "brasileiros",
+   "votar"
   ],
   "fontes": [
    "Público"
@@ -5851,8 +5850,8 @@
   "palavras": [
    "carros",
    "portagem",
-   "gasoleo 15",
-   "pagam"
+   "pagam",
+   "gasoleo 15"
   ],
   "fontes": [
    "Observador"
@@ -5974,9 +5973,10 @@
   "resumo": "O LLM português tem limites e ainda é pequeno para os sonhos que lhe tentaram impor. Para já, serve para fazer tarefas específicas, com a Priberam a apostar na tradução e em novas vozes. Por outro lado, há quem lhe aponte alucinações, defendendo maior inovação.",
   "categoria": "economia",
   "palavras": [
+   "nao encanta",
    "amalia canta",
-   "encanta",
-   "codigo"
+   "canta codigo",
+   "codigo nao"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -6174,9 +6174,9 @@
   "categoria": "sociedade",
   "palavras": [
    "vacina",
+   "zona associacoes",
    "associacoes pedem",
-   "gratuita sns",
-   "zona associacoes"
+   "gratuita sns"
   ],
   "fontes": [
    "Observador"
@@ -6224,9 +6224,9 @@
   "categoria": "sociedade",
   "palavras": [
    "metade reclamacoes",
+   "escolares gera",
    "gera quase",
-   "vagas escolares",
-   "quase metade"
+   "reclamacoes ministerio"
   ],
   "fontes": [
    "Jornal Económico"
@@ -6348,10 +6348,10 @@
   "resumo": "Relatório deste ano eleva a posição de Portugal na lista dos países mais competitivos para desenvolvimento do turismo de forma “resiliente e sustentável”. Em 2024, o país tinha sido classificado em 12º lugar",
   "categoria": "economia",
   "palavras": [
-   "degrau",
-   "mundo desenvolver",
-   "forum",
-   "11a"
+   "economico mundial",
+   "forum economico",
+   "11a melhor",
+   "melhor economia"
   ],
   "fontes": [
    "Expresso"
@@ -6374,9 +6374,9 @@
   "categoria": "sociedade",
   "palavras": [
    "combustivel",
-   "gnr detem",
+   "apreende",
    "detem pessoas",
-   "apreende"
+   "litros"
   ],
   "fontes": [
    "Observador"
@@ -6498,10 +6498,10 @@
   "resumo": "A rejeição pelo Presidente Donald Trump de uma proposta iraniana para reabrir o Estreito de Ormuz e avançar para um cessar-fogo alimentou a procura por ativos de risco e elevou os prémios de risco geopolítico.",
   "categoria": "economia",
   "palavras": [
-   "estreito",
-   "ormuz",
+   "estreito ormuz",
+   "yields",
    "fecha baixa",
-   "tensoes"
+   "street fecha"
   ],
   "fontes": [
    "Jornal Económico"
@@ -6599,9 +6599,9 @@
   "categoria": "economia",
   "palavras": [
    "confederacao turismo",
-   "patroes liderar",
    "revisao lei",
-   "radicalismo"
+   "liderar revisao",
+   "quer patroes"
   ],
   "fontes": [
    "ECO"
@@ -6998,10 +6998,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "podera libertar",
-   "transformar ministro",
    "eliminar bloqueios",
-   "ministro reforma"
+   "burocracia podera",
+   "transformar ministro",
+   "podera libertar"
   ],
   "fontes": [
    "CNN Portugal"
@@ -7023,10 +7023,10 @@
   "resumo": "A Hugo Boss anunciou esta segunda-feira que Ivica Maric vai assumir as funções de diretor financeiro e diretor de operações do grupo a partir de 1 de outubro, sucedendo a Yves Müller, que deixa a administração por razões pessoais e a seu pedido, de acordo com um comunicado da empresa. Yves Müller deixa o grupo […]",
   "categoria": "economia",
   "palavras": [
-   "muller",
-   "hugo boss",
+   "muller deixa",
+   "boss",
    "yves",
-   "deixa"
+   "hugo"
   ],
   "fontes": [
    "ECO"
@@ -7097,10 +7097,10 @@
   "resumo": "Segundo a mesma fonte, era ainda pedida indemnização por danos não patrimoniais sofridos na sequência do despedimento \"em montante não inferior a 10.000 euros\", tendo a Caixa sido absolvida desse pedido.",
   "categoria": "economia",
   "palavras": [
+   "cgd",
+   "tribunal obriga",
    "despedida justa",
-   "justa causa",
-   "obriga cgd",
-   "tribunal obriga"
+   "justa causa"
   ],
   "fontes": [
    "Jornal Económico"
@@ -7147,10 +7147,10 @@
   "resumo": "A sessão foi dominada pela tensão geopolítica no Estreito de Ormuz, que reacendeu os receios de uma nova vaga inflacionista. Os mercados monetários passaram a precificar cerca de 100 pontos base de subidas de juros pelo BCE até ao final de 2027.",
   "categoria": "economia",
   "palavras": [
-   "resiste escalada",
-   "escalada petroleo",
-   "europa resiste",
-   "liderar europa"
+   "liderar europa",
+   "psi fecha",
+   "fecha ligeira",
+   "resiste"
   ],
   "fontes": [
    "Jornal Económico"
@@ -7374,7 +7374,7 @@
    "elevado sempre",
    "valor elevado",
    "setembro valor",
-   "euros setembro"
+   "recebe mil"
   ],
   "fontes": [
    "Jornal Económico"
@@ -7572,9 +7572,9 @@
   "categoria": "sociedade",
   "palavras": [
    "design",
-   "comprar",
-   "modalisboa",
-   "pop"
+   "pop up",
+   "up comprar",
+   "modalisboa lojas"
   ],
   "fontes": [
    "Observador"
@@ -7596,9 +7596,9 @@
   "resumo": "Francisco Calheiros defende que se tal cenário vier a acontecer não terá sido por falhas da geografia, mas sim pela ausência de decisão. \"Os constrangimentos do maior aeroporto do país são o principal obstáculo ao crescimento do turismo em Portugal\", afirmou na abertura da VIII Cimeira do Turismo.",
   "categoria": "economia",
   "palavras": [
-   "daqui",
+   "daqui 10",
+   "portela daqui",
    "seja preciso",
-   "falta capacidade",
    "preciso explicar"
   ],
   "fontes": [
@@ -7871,10 +7871,10 @@
   "resumo": "As taxas de rendibilidade das obrigações soberanas da Zona Euro registam uma ligeira subida na segunda-feira, num contexto em que os preços do petróleo voltaram a aumentar devido às dúvidas de que o conflito entre os EUA e o Irão venha a ser resolvido e de que o Estreito de Ormuz venha a ser reaberto […]",
   "categoria": "economia",
   "palavras": [
-   "yield 10",
+   "10 superar",
    "patamar",
-   "superar novamente",
-   "10 superar"
+   "petroleo leva",
+   "superar novamente"
   ],
   "fontes": [
    "ECO"
@@ -7948,8 +7948,8 @@
   "palavras": [
    "abrir",
    "2034 ana",
-   "alcochete 2034",
-   "orcamento governo"
+   "ana nao",
+   "alcochete 2034"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -7996,7 +7996,7 @@
   "resumo": "\"Os investidores estão a avaliar os riscos geopolíticos e as crescentes pressões sobre a inflação e taxas de juro, num momento em que a rentabilidade das empresas ainda é robusta e as principais economias demonstram resiliência\", refere o analista do Millennium Investment Banking.",
   "categoria": "economia",
   "palavras": [
-   "street abre",
+   "abre",
    "vermelho",
    "penalizado",
    "aumento petroleo"
@@ -8046,8 +8046,8 @@
   "resumo": "A vereação socialista vai propor na reunião de câmara concursos de conceção para estudantes das seis faculdades de arquitetura do Porto.",
   "categoria": "sociedade",
   "palavras": [
-   "estudantes",
    "arquitetura porto",
+   "estudantes",
    "wc desenhados",
    "ps quer"
   ],
@@ -8071,9 +8071,9 @@
   "resumo": "Votado favoravelmente pelos Estados-membros, o novo pacote reforma a legislação farmacêutica da UE e quer garantir um acesso equitativo a medicamentos seguros, eficazes e a preços acessíveis.",
   "categoria": "sociedade",
   "palavras": [
-   "precos acessiveis",
-   "medicamentos",
    "ue quer",
+   "acessiveis",
+   "medicamentos",
    "quer garantir"
   ],
   "fontes": [
