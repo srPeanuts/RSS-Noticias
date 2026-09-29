@@ -1,13 +1,13 @@
 [
  {
-  "titulo": "Portugal está mais qualificado, mas continua a investir menos no ensino superior",
-  "link": "https://www.publico.pt/2026/09/29/sociedade/noticia/portugal-qualificado-continua-investir-menos-ensino-superior-2189528",
-  "resumo": "Relatório mostra especificidades portuguesas: peso elevado dos fundos europeus no financiamento do ensino superior, redução para metade dos jovens sem o secundário e grandes diferenças de género.",
+  "titulo": "Portugal é dos poucos países onde o salário de entrada dos professores na carreira caiu na última década",
+  "link": "https://www.publico.pt/2026/09/29/sociedade/noticia/portugal-paises-onde-salario-entrada-professores-carreira-caiu-ultima-decada-2189557",
+  "resumo": "Burocracia e indisciplina estão entre as principais fontes de stress dos professores portugueses, que também se sentem pouco reconhecidos: só 9% dizem que a profissão é valorizada pela sociedade.",
   "fonte": "Público",
   "autor": "publico@publico.pt",
   "data": "2026-09-29T09:01:00+00:00",
   "cats_feed": [
-   "OCDE"
+   "Educação"
   ],
   "categoria_forcada": "",
   "categoria": "sociedade"
@@ -247,17 +247,17 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Três sondagens e uma crise inflacionista: Montenegro ainda pode dar a volta?",
-  "link": "https://expresso.pt/podcasts/comissao-politica/2026-09-29-tres-sondagens-e-uma-crise-inflacionista-montenegro-ainda-pode-dar-a-volta--cb42ef27",
-  "resumo": "Seguro diz que o Governo está a estudar medidas, mas Montenegro mantém cinto apertado. Em baixa nas sondagens, estará a AD refém da crise do petróleo caro?",
+  "titulo": "O SNS forma médicos para os perder?",
+  "link": "https://expresso.pt/opiniao/2026-09-29-o-sns-forma-medicos-para-os-perder--5e40cb42",
+  "resumo": "Os cidadãos exigem médicos disponíveis no SNS e uma formação que lhes permita prestar cuidados seguros",
   "fonte": "Expresso",
-  "autor": "David Dinis",
+  "autor": "Joana Bordalo e Sá",
   "data": "2026-09-29T07:00:00+01:00",
   "cats_feed": [
-   "Comissão Política"
+   "Opinião"
   ],
   "categoria_forcada": "",
-  "categoria": "governo"
+  "categoria": "opiniao"
  },
  {
   "titulo": "Homens com medo",
@@ -1114,15 +1114,15 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Caso das gémeas: \"Parece-me difícil defender que Lacerda Sales não cometeu nenhum crime\"",
-  "link": "https://cnnportugal.iol.pt/videos/caso-das-gemeas-parece-me-dificil-defender-que-lacerda-sales-nao-cometeu-nenhum-crime/6abb79820cf299bc2953db48",
+  "titulo": "\"É Marcelo que dá início a tudo\" no caso das gémeas",
+  "link": "https://cnnportugal.iol.pt/videos/e-marcelo-que-da-inicio-a-tudo-no-caso-das-gemeas/6abb7c8e0cf23b0ed4fd9c7d",
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
   "data": "2026-09-29T10:25:00+01:00",
   "cats_feed": [],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "politica"
  },
  {
   "titulo": "Autoridade da Mobilidade e dos Transportes pondera criar taxas de congestionamento nos acessos às áreas metropolitanas",
@@ -1244,5 +1244,197 @@
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "governo"
+ },
+ {
+  "titulo": "Medicamentos oncológicos demoram mais de dois anos e meio a chegar ao doente",
+  "link": "https://www.rtp.pt/noticias/pais/medicamentos-oncologicos-demoram-mais-de-dois-anos-e-meio-a-chegar-ao-doente_n1768403",
+  "resumo": "Os medicamentos oncológicos demoram, em média, mais de dois anos e meio a chegar aos doentes em Portugal desde a aprovação europeia, segundo dados de uma análise de dezenas de estudos hoje divulgada.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-29T12:09:21+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Série da RTP \"Jones\" apresenta um inspector de polícia com métodos pouco convencionais",
+  "link": "https://www.rtp.pt/noticias/cultura/serie-da-rtp-jones-apresenta-um-inspector-de-policia-com-metodos-pouco-convencionais_n1768409",
+  "resumo": "\"Jones\" é a nova série da RTP 1, a autoria e realização é de Bruno Gascon. São seis episódios para descobrir o assassino da filha mais nova da família Salvaterra. Oliver Jones é o inspetor responsável pela investigação, vai usar métodos fora do habitual, tem a particularidade de falar com os mortos.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-29T12:15:26+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Portugal assina carta a pedir a Bruxelas mais renováveis para reduzir dependência fóssil",
+  "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/portugal-assina-carta-a-pedir-a-bruxelas-mais-renovaveis-para-reduzir-dependencia-fossil",
+  "resumo": "Governo junta-se a Espanha e Luxemburgo num apelo a Bruxelas para acelerar as energias renováveis. Os três países querem uma meta europeia para 2040 e defendem mais investimento em redes e armazenamento.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-29T10:59:41+01:00",
+  "cats_feed": [
+   "Energia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "FlixBus inicia operação em Sete Rios com 23 horários diários",
+  "link": "https://jornaleconomico.sapo.pt/noticias/flixbus-inicia-operacao-em-sete-rios-com-23-horarios-diarios/",
+  "resumo": "A entrada da FlixBus em Sete Rios acontece mais de seis meses depois da decisão do Tribunal Administrativo de Lisboa, de 8 de março, que determinou o acesso imediato da empresa ao terminal. Apesar do início da operação, a FlixBus considera que este é apenas um primeiro passo e que a questão do acesso a Sete Rios está ainda longe de estar resolvida.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-29T10:17:40+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Transportes",
+   "FlixBus"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Produção na construção desceu 0,3% na União Europeia em julho",
+  "link": "https://jornaleconomico.sapo.pt/noticias/producao-na-construcao-desceu-03-na-uniao-europeia-em-julho/",
+  "resumo": "Em relação ao período homólogo verificou-se uma queda de 2% na zona euro e de 1,8% na União Europeia.",
+  "fonte": "Jornal Económico",
+  "autor": "Rodolfo Alexandre Reis",
+  "data": "2026-09-29T10:10:42+00:00",
+  "cats_feed": [
+   "Construção",
+   "Empresas",
+   "Sapo Economia",
+   "Eurostat"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Morais Leitão aposta na IA para transformar o acesso ao conhecimento jurídico",
+  "link": "https://jornaleconomico.sapo.pt/noticias/morais-leitao-aposta-na-ia-para-transformar-o-acesso-ao-conhecimento-juridico/",
+  "resumo": "A sociedade criou o ML One AI, uma plataforma de inteligência artificial generativa desenvolvida em parceria com a Xpand IT.",
+  "fonte": "Jornal Económico",
+  "autor": "António Sarmento",
+  "data": "2026-09-29T10:04:26+00:00",
+  "cats_feed": [
+   "Advisory",
+   "Empresas",
+   "Sapo Economia",
+   "inteligência artificial",
+   "Morais Leitão"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "OE2027: \"Tempo não é de aventuras. É de estabilidade e previsibilidade\"",
+  "link": "https://www.noticiasaominuto.com/politica/3058863/oe-2027-tempo-nao-e-de-aventuras-e-de-estabilidade-e-previsibilidade#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-29T11:05:28+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Incêndios durante a madrugada em Oeiras: as imagens de caixotes e contentores destruídos",
+  "link": "https://cnnportugal.iol.pt/videos/incendios-durante-a-madrugada-em-oeiras-as-imagens-de-caixotes-e-contentores-destruidos/6abb8d340cf299bc2953dbd4",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-29T11:15:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Confiança dos consumidores e clima económico diminuem em setembro",
+  "link": "https://cnnportugal.iol.pt/consumidores/confianca/confianca-dos-consumidores-e-clima-economico-diminuem-em-setembro/20260929/6abb8ef1d34e53c759c74367",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-29T11:11:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "GNR detém duas pessoas em Campo Maior por burla MBWay",
+  "link": "https://cnnportugal.iol.pt/burla-mbway/mbway/gnr-detem-duas-pessoas-em-campo-maior-por-burla-mbway/20260929/6abb8d71d34e9a786e75a0d4",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-29T11:05:37+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "\"Combustíveis fósseis colocam os nossos cidadãos numa posição vulnerável\": Portugal junta-se a outros dois países para pedir aceleração das renováveis",
+  "link": "https://cnnportugal.iol.pt/combustiveis-fosseis/energias-renovaveis/combustiveis-fosseis-colocam-os-nossos-cidadaos-numa-posicao-vulneravel-portugal-junta-se-a-outros-dois-paises-para-pedir-aceleracao-das-renovaveis/20260929/6abb88c6d34e53c759c7434c",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-29T10:52:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Qualidade da água da torneira em Portugal mantém-se perto dos 100%",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/qualidade-da-agua-da-torneira-em-portugal-mantem-se-perto-dos-100",
+  "resumo": "A qualidade da água da torneira em Portugal continental mantém-se próxima dos 100%, com 98,86% da água considerada segura para consumo humano em 2024. O valor confirma o elevado nível de qualidade registado no país e mantém-se próximo da meta de 99% definida para 2030. Os dados constam do Relatório do Estado do Ambiente e […] O conteúdo Qualidade da água da torneira em Portugal mantém-se perto dos 100% aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-29T10:09:31+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Água",
+   "água da torneira",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Salários na Zona Euro abrandam e IA ameaça emprego no futuro",
+  "link": "https://24noticias.sapo.pt/economia/artigos/salarios-na-zona-euro-abrandam-e-ia-ameaca-emprego-no-futuro",
+  "resumo": "Christine Lagarde diz que os salários ainda não refletem o choque energético, mas admite incerteza sobre o impacto da inteligência artificial no mercado de trabalho. O conteúdo Salários na Zona Euro abrandam e IA ameaça emprego no futuro aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-29T06:51:02+00:00",
+  "cats_feed": [
+   "Economia",
+   "BCE",
+   "Dinheiro",
+   "Salários"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Prestação da casa sobe mais de 100 euros desde a guerra no Irão",
+  "link": "https://24noticias.sapo.pt/economia/artigos/prestacao-da-casa-sobe-mais-de-100-euros-desde-a-guerra-no-irao",
+  "resumo": "A subida das Euribor e o agravamento dos juros pelo BCE estão a encarecer os créditos à habitação de taxa variável em Portugal. O conteúdo Prestação da casa sobe mais de 100 euros desde a guerra no Irão aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-29T06:33:30+00:00",
+  "cats_feed": [
+   "Economia",
+   "Habitação",
+   "Nacional",
+   "Prestação da casa"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
  }
 ]
