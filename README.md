@@ -12,7 +12,7 @@ Corre sozinha no GitHub e **não tem custos**: não usa inteligência artificial
 
 Seis vezes por dia (por volta das 7h, 10h, 13h, 16h, 19h e 22h), a app:
 
-1. **Lê as notícias** dos feeds RSS de 15 órgãos de comunicação portugueses.
+1. **Lê as notícias** dos feeds RSS de 11 órgãos de comunicação portugueses (15 feeds).
 2. **Vai buscar as capas** dos jornais e revistas ao VerCapas.
 3. **Classifica cada notícia** numa categoria: Política, Governo, Economia, Sociedade e Cultura ou Opinião. Desporto, meteorologia, entretenimento e notícias sobre outros países sem ligação a Portugal ficam de fora.
 4. **Agrupa as notícias sobre o mesmo assunto.** Quando vários jornais falam do mesmo tema, as notícias juntam-se num só cartão.
@@ -134,9 +134,9 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 | `docs/index.html` | A página web da app |
 | `docs/data/` | Dados que a página mostra (gerados automaticamente) |
 | `dados/` | Histórico de notícias, temas e capas de cada dia (gerado automaticamente) |
-| `tests/` | Testes da classificação, dos retries e do horário do email |
+| `tests/` | Testes da classificação, dos retries, do horário do email e da confirmação da recolha |
 | `.github/workflows/atualizar.yml` | Agenda a atualização 6 vezes por dia |
-| `.github/workflows/resumo-email.yml` | Envia o email após a atualização da manhã (com fallback às 9h30) |
+| `.github/workflows/resumo-email.yml` | Às 9h30: recolhe notícias, confirma que a recolha correu bem e envia o email |
 
 ---
 
