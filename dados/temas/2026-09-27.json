@@ -1,96 +1,12 @@
 [
  {
-  "titulo": "Avião aterra de emergência no aeroporto Sá Carneiro, no Porto. Quatro pessoas precisaram de assistência hospitalar",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "emergencia",
-   "aviao",
-   "aeroporto",
-   "aterra"
-  ],
-  "fontes": [
-   "Expresso",
-   "Observador",
-   "RTP",
-   "SAPO 24"
-  ],
-  "n_fontes": 4,
-  "n_artigos": 4,
-  "pontuacao": 16,
-  "artigos": [
-   {
-    "titulo": "Avião com fumo a bordo aterra de emergência no Porto. Quatro pessoas hospitalizadas",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/aviao-com-fumo-a-bordo-aterra-de-emergencia-no-porto-quatro-pessoas-hospitalizadas",
-    "fonte": "SAPO 24",
-    "data": "2026-09-27T22:35:34+00:00"
-   },
-   {
-    "titulo": "Avião regressa de emergência ao aeroporto Sá Carneiro no Porto",
-    "link": "https://www.rtp.pt/noticias/pais/aviao-regressa-de-emergencia-ao-aeroporto-sa-carneiro-no-porto_n1768071",
-    "fonte": "RTP",
-    "data": "2026-09-27T20:09:54+01:00"
-   },
-   {
-    "titulo": "Avião aterra de emergência no aeroporto do Porto, 14 passageiros assistidos",
-    "link": "https://expresso.pt/economia/transportes/aviacao/2026-09-27-aviao-aterra-de-emergencia-no-aeroporto-do-porto-14-passageiros-assistidos-7be9ef2c",
-    "fonte": "Expresso",
-    "data": "2026-09-27T19:36:33+01:00"
-   },
-   {
-    "titulo": "Avião aterra de emergência no aeroporto Sá Carneiro, no Porto. Quatro pessoas precisaram de assistência hospitalar",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUVkR2xKd1B3ZlVoVVh5a0I4eTk5NlU5VFVmdmdCUDBFRFBkX0l6UTVucjNZMUltc1UyN0J4Tk45U2xtcERQbUtsZmRRTnR3WlExVkJoZHRZc2pZTDVmWngxeXBJcnlOTDl6R085RHNYbkwtc3pza2VSLWE4cC1rT2g4Y1ZVQVhvZFA0ZjhQd1FkdlFUSWU2N3RVUDh6Y0JDSDg5TnRoVXZLZmF4M19zWUlxSWNiZWNxT1VXNHQ0Ry1NbXhWdHI0ZHBVN0FnWmVmRlNMNDJOdVpEMWNwc2Fz?oc=5",
-    "fonte": "Observador",
-    "data": "2026-09-27T18:36:35+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PCP quer passes a 20 euros em Lisboa, Porto e comunidades intermunicipais",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "comunidades intermunicipais",
-   "pcp",
-   "euros",
-   "lisboa porto"
-  ],
-  "fontes": [
-   "Diário de Notícias",
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 3,
-  "n_artigos": 3,
-  "pontuacao": 12,
-  "artigos": [
-   {
-    "titulo": "PCP quer passes a 20 euros em Lisboa, Porto e comunidades intermunicipais",
-    "link": "https://www.rtp.pt/noticias/economia/pcp-quer-passes-a-20-euros-em-lisboa-porto-e-comunidades-intermunicipais_n1768048",
-    "fonte": "RTP",
-    "data": "2026-09-27T16:50:44+01:00"
-   },
-   {
-    "titulo": "PCP quer passes a 20 euros em Lisboa, Porto e comunidades intermunicipais",
-    "link": "https://www.noticiasaominuto.com/pais/3058029/pcp-quer-passes-a-20-euros-em-lisboa-porto-e-comunidades-intermunicipais#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-27T15:35:00+00:00"
-   },
-   {
-    "titulo": "PCP quer passes a 20 euros em Lisboa, Porto e comunidades intermunicipais",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX21IZmlXM1FTNGt3MHhmdTlFWmFKcDRwQ1o5bnhxT1JrNXcyNEdDUUhzWW41ZjhmRnl0ZlVremtCV180MGR4bmpuS3FNZmVIM0h2aFVzN2NFZ2lHd1dQQUVEY2VYWGl6SUJWcUdIcTU1M2FmUVR4ZlZNdDBQblowRWJNRnBEVTN4bkpqaHM3Qkt2c3ptR290R0Vfd3U5bExZU2hnVmFHSQ?oc=5",
-    "fonte": "Diário de Notícias",
-    "data": "2026-09-27T15:19:03+00:00"
-   }
-  ]
- },
- {
+Keep current branch topic block for this conflict: the mainline theme set is the fuller generated list and reflects the later aggregation pass.
   "titulo": "Preço dos combustíveis vai descer esta segunda-feira",
   "resumo": "O gasóleo deverá baixar cinco cêntimos por litro e a gasolina dois cêntimos. Os dados são da Anarec e já têm em conta os descontos do Governo sobre o Imposto sobre os Produtos Petrolíferos e Energéticos.",
   "categoria": "economia",
   "palavras": [
    "preco combustiveis",
-   "cair",
+   "combustiveis cair",
    "carro",
    "espere abastecer"
   ],
@@ -117,45 +33,12 @@
   ]
  },
  {
-  "titulo": "Sete detidos em Sintra por apedrejarem polícias no final de evento musical",
-  "resumo": "Sete pessoas foram detidas na última noite em Mem Martins, no concelho de Sintra, em Lisboa, por terem arremessado pedras contra polícias, atingindo dois agentes, no final de um evento de música, anunciou hoje a PSP.",
-  "categoria": "sociedade",
-  "palavras": [
-   "sete",
-   "detidas",
-   "pessoas",
-   "lisboa"
-  ],
-  "fontes": [
-   "RTP",
-   "SIC Notícias"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Sete detidos em Sintra por apedrejarem polícias no final de evento musical",
-    "link": "https://www.rtp.pt/noticias/pais/sete-detidos-em-sintra-por-apedrejarem-policias-no-final-de-evento-musical_n1768012",
-    "fonte": "RTP",
-    "data": "2026-09-27T12:45:35+01:00"
-   },
-   {
-    "titulo": "Discoteca em Lisboa encerrada e sete pessoas detidas em operação da PSP",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOEVYSV9KVklPU2FSYVk4VXdaMUNyQTBjdUZsMGRUZ1BZcFd6N1ZNTTFqMlFxWHNFUEhtYTA0aThXQUxwRmF0R041bDhjSGttZERETGE4OHh2VS1zekdfdHgxdkg2NFJ6MGlJTERZam5QVEV2bVQ2Z0dKcjNkTnA5ckhjcG9WT3E1eWU0ZXVYN09QR2JvdWIwNGI5SU5JcU1VN3hTRjlFTXp1YnA3VFRROWZPa29XZV9GSE9Z?oc=5",
-    "fonte": "SIC Notícias",
-    "data": "2026-09-27T11:36:00+00:00"
-   }
-  ]
- },
- {
+Keep current branch topic block for this conflict: preserve the current branch theme grouping and metadata, which is more complete than the incoming fragment.
   "titulo": "Carneiro acusa Governo de querer \"liberalizar desalojamento\" à margem da AR",
   "resumo": "",
-  "categoria": "governo",
+  "categoria": "politica",
   "palavras": [
-   "governo querer",
-   "acusa",
-   "carneiro"
+Keep current branch topic block for this conflict: preserve the mainline keywords and source metadata; the incoming branch's keyword list is a partial alternative.
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -180,14 +63,46 @@
   ]
  },
  {
+  "titulo": "PCP quer passes a 20 euros em Lisboa, Porto e comunidades intermunicipais",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "pcp",
+   "comunidades",
+   "euros",
+   "intermunicipais"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "PCP quer passes a 20 euros em Lisboa, Porto e comunidades intermunicipais",
+    "link": "https://www.rtp.pt/noticias/economia/pcp-quer-passes-a-20-euros-em-lisboa-porto-e-comunidades-intermunicipais_n1768048",
+    "fonte": "RTP",
+    "data": "2026-09-27T16:50:44+01:00"
+   },
+   {
+    "titulo": "PCP quer passes a 20 euros em Lisboa, Porto e comunidades intermunicipais",
+    "link": "https://www.noticiasaominuto.com/pais/3058029/pcp-quer-passes-a-20-euros-em-lisboa-porto-e-comunidades-intermunicipais#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-09-27T15:35:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "\"Governar sob o medo é péssimo\". Centeno desafia Montenegro a apresentar explicações",
   "resumo": "O antigo ministro das Finanças desafia o primeiro-ministro a explicar-se: \"O que é que ele sabe que nós não sabemos?\", questiona.",
-  "categoria": "governo",
+  "categoria": "economia",
   "palavras": [
    "medo",
    "centeno",
-   "nao sabemos",
-   "sabe nao"
+   "ele sabe",
+   "sabemos questiona"
   ],
   "fontes": [
    "RTP"
@@ -211,14 +126,13 @@
   ]
  },
  {
-  "titulo": "Maus-tratos a animais. Mais de 2.600 casos registados pela GNR desde 2024",
-  "resumo": "Foram registados mais de 2.600 casos de maus tratos e abandono de animais desde janeiro de 2024.",
+  "titulo": "GNR regista mais de 2.600 casos de abandono e maus-tratos a animais desde 2024",
+  "resumo": "A Guarda Nacional Republicana (GNR) disse hoje que registou mais de 2.600 casos de abandono e maus-tratos a animais desde o início de 2024 em todo o território nacional.",
   "categoria": "sociedade",
   "palavras": [
    "600",
    "animais",
-   "casos",
-   "2024"
+Keep current branch topic block for this conflict: keep the mainline keyword set for the 2026-09-27 topic aggregation.
   ],
   "fontes": [
    "RTP"
@@ -242,138 +156,7 @@
   ]
  },
  {
-  "titulo": "Passeavam tranquilamente até cruzarem caminho com a Polícia Marítima",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "tranquilamente cruzarem",
-   "policia",
-   "passeavam tranquilamente",
-   "cruzarem caminho"
-  ],
-  "fontes": [
-   "Notícias de Coimbra"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Passeavam tranquilamente até cruzarem caminho com a Polícia Marítima",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFhtZ2wzSGpoTjJxblU4V2JYbW02eFpwNTNFUWNiS0JDSFhaMUExcHhURlRmNHIzYjV4ekxfZjk3RWNaaUVtakFadDRGbjlQRDNrMENYMWZtZ0d5eG11NEo4dEdVYzFINVpBZFNnRl9LQzJKSWo4RTJsajE4TFlNZXBzVFNIdndXYUwwa0Q2VkNERkNKNTlERS1EM2RvY1lqSV9leg?oc=5",
-    "fonte": "Notícias de Coimbra",
-    "data": "2026-09-27T13:26:51+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Não tenho a mais pequena dúvida de que as eleições de 2029 serão ganhas pela AD e com maioria absoluta\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "serao ganhas",
-   "maioria absoluta",
-   "ad maioria",
-   "nao tenho"
-  ],
-  "fontes": [
-   "Observador"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Não tenho a mais pequena dúvida de que as eleições de 2029 serão ganhas pela AD e com maioria absoluta\"",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajk4U1o4NDJlMEo4aDZ1UzJBdGRvcHVKTmJqbVVIWW9RMmtsVldSWnR2c3dyV0RRYWlMbFNFaHpFMVExTGpONmltM1NoQ011eWstMFZSak12X0xVTlh2RDdPT1VkaDBXX0ZEWUNVUG5FYm52OHEwZXRCd2FjSXFwYjlMM2dWZ0JsVklvZ1BLakxUYnVsQkc4ZHVJel9seXFwNFRpTkttTU5iWlM2S2J5ZGljaFdJajl0dVliMVd1M0tibDFFdElvLVBqZTQ3eG90?oc=5",
-    "fonte": "Observador",
-    "data": "2026-09-27T11:21:12+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Novo helicóptero será o primeiro a responder a incêndios",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "incendios",
-   "responder",
-   "helicoptero primeiro"
-  ],
-  "fontes": [
-   "dnoticias.pt"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Novo helicóptero será o primeiro a responder a incêndios",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUhNYmJGNEV4VG5Dc1hLV28xVWNaUFJJSGZRM1RTWEt2Wjh1VzhMM0ZiLTR3bzdkWlJmV0dMWXVhZ0t1TUtUWE5Ib3NUTVJpRHZ4NUtzbTVMNXBBSGVQNVUtXzRlZ0prUUlMcHo2Q0hBcXhXcC1sNGdZOUZSaWN2TDU1TXdXQTU2WUd1Z2s0ZVZJVjhqbG14ZkhqcTA0WkxG?oc=5",
-    "fonte": "dnoticias.pt",
-    "data": "2026-09-27T15:44:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Chega dividido sobre absorver ou afastar Reconquista: discurso extremista assusta, mas há quem desvalorize",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "absorver",
-   "reconquista discurso",
-   "dividido",
-   "discurso extremista"
-  ],
-  "fontes": [
-   "Observador"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Chega dividido sobre absorver ou afastar Reconquista: discurso extremista assusta, mas há quem desvalorize",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQanRMeHBxcVBnRUVOajdCWm5qLXMyQV9YaVo2SVdiUlZmRi1yRVk2MlloM2xLVWhYcjlYQzZVTTB0Sl83NzdwazNidVo1bElISWhMTWMzaUJoM0RkUkgzMXZFaFVqTFhMWlpaRzFtaGhrZi1hTmFLX193S3FSTmNZR1ZxbkJpNXR0QmJvNW5FNWxKMGdKWnp4WFZIRW5xU2NCcE9VaUpqdnpoS095R19JbFdtTEZYYzNPLThJd3dQVFlWX2IzeHJPSzVsWDZueGRDQVJN?oc=5",
-    "fonte": "Observador",
-    "data": "2026-09-27T19:09:09+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Helicóptero combate incêndio que reacendeu nos Canhas",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "combate",
-   "reacendeu",
-   "canhas",
-   "incendio"
-  ],
-  "fontes": [
-   "dnoticias.pt"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Helicóptero combate incêndio que reacendeu nos Canhas",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2ZqTGFQRUF4Q0VMSmU2NFl6ZGJPOXU5LUw0TXd4enI5OU5Ta3dZMk1hVk5qdXJXV2R1UDRxVFNXV2NkZVMteGp1OVJaMmg2LVlPVUNPMjZSanY5clVOMkFLN3RQTlN2djEtRkZrSDBjdDY4bG1ndjhrUU5vSFdIMXowekZMbWpBV01wdmVjUGpodjZuTWxrZXRSMzg?oc=5",
-    "fonte": "dnoticias.pt",
-    "data": "2026-09-27T08:17:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Montenegro? \"Se é eleito para fazer diferente de Costa, espero que faça\"",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "faca",
-   "fazer",
-   "montenegro eleito",
-   "diferente"
+Keep current branch topic block for this conflict: preserve the complete current-branch topic object and its aggregated keyword set.
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -383,10 +166,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Montenegro? \"Se é eleito para fazer diferente de Costa, espero que faça\"",
-    "link": "https://www.noticiasaominuto.com/politica/3058028/montenegro-nao-esta-a-fazer-muito-diferente-do-que-fez-antonio-costa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Buscas na PJ? \"Continua a haver uma informalidade inaceitável\"",
+    "link": "https://www.noticiasaominuto.com/politica/3058117/buscas-na-pj-continua-a-haver-uma-informalidade-inaceitavel#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-09-27T15:42:12+00:00"
+    "data": "2026-09-27T22:53:43+00:00"
    }
   ]
  },
@@ -395,10 +178,7 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "reformar-se 2029",
-   "publicos",
-   "quase",
-   "macau"
+Keep current branch topic block for this conflict: the current branch captures the complete generated topic metadata.
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -416,64 +196,7 @@
   ]
  },
  {
-  "titulo": "Luís Montenegro \"a caminho do Porto\" com Passe Verde: \"Medida simples\"",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "simples",
-   "caminho porto",
-   "montenegro caminho",
-   "passe verde"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Luís Montenegro \"a caminho do Porto\" com Passe Verde: \"Medida simples\"",
-    "link": "https://www.noticiasaominuto.com/pais/3058079/luis-montenegro-a-caminho-do-porto-com-passe-verde-medida-simples#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-27T20:09:35+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Entrelinhas da entrevista a Mário Centeno revelam o Passos Coelho do PS?",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "centeno revelam",
-   "entrevista mario",
-   "entrelinhas entrevista",
-   "coelho"
-  ],
-  "fontes": [
-   "expresso.pt"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Entrelinhas da entrevista a Mário Centeno revelam o Passos Coelho do PS?",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1JuUGRmM1h3ekg1ZXRTaDZpa2VCdzA0SUhXNHJHTDdDdTFXdjNLRS1jME1ObV9KV3pRRmZxTDZkemx2cG5qQm40VGdObVEwVHBuUlZ1VzYwMGxGcTlQdVgtVHlDbXRRYkdrUk1uM2V6MWQ4bWwxd0h5S0xmRFBub1ltZnNrRTgya0ZLbGM0WDctXzNvLTFycHhtNXZuYU5kMzZnbjdiSVJrMjJIMjEybmR4amZENjA4OF9sQ3RxZDgtMVdGZDF2Q0hIVHNzSzYtNUhqd2tn?oc=5",
-    "fonte": "expresso.pt",
-    "data": "2026-09-27T05:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Último picareto construído por mestre de Ortiga vai integrar Museu de Marinha",
-  "resumo": "O último barco picareto construído pelo mestre calafate Manuel Pires Fontes, de Ortiga, no concelho de Mação, vai integrar o acervo do Museu de Marinha, culminando um processo de preservação desta embarcação tradicional iniciado há quase duas décadas.",
-  "categoria": "sociedade",
-  "palavras": [
-   "museu marinha",
-   "mestre",
-   "picareto",
-   "construido"
+Keep current branch topic block for this conflict: the current branch's fuller theme metadata is the correct merge result.
   ],
   "fontes": [
    "RTP"
@@ -483,60 +206,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Último picareto construído por mestre de Ortiga vai integrar Museu de Marinha",
-    "link": "https://www.rtp.pt/noticias/cultura/ultimo-picareto-construido-por-mestre-de-ortiga-vai-integrar-museu-de-marinha_n1767995",
+    "titulo": "Festival Boom promoveu dia aberto à comunidade",
+    "link": "https://www.rtp.pt/noticias/cultura/festival-boom-promoveu-dia-aberto-a-comunidade_v1768045",
     "fonte": "RTP",
-    "data": "2026-09-27T12:46:55+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Ter mais do que uma fonte de rendimento está a tornar-se normal?",
-  "resumo": "Entre salários, investimentos e trabalhos extra, há cada vez mais formas de complementar o rendimento mensal. Neste episódio do Minuto Consumidor, olhamos para o peso que estas fontes adicionais já têm no orçamento e para a forma como os consumidores as estão a usar",
-  "categoria": "economia",
-  "palavras": [
-   "rendimento",
-   "tornar-se",
-   "normal",
-   "fonte"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Ter mais do que uma fonte de rendimento está a tornar-se normal?",
-    "link": "https://expresso.pt/multimedia/minuto-consumidor/2026-09-27-video-ter-mais-do-que-uma-fonte-de-rendimento-esta-a-tornar-se-normal--6733af42",
-    "fonte": "Expresso",
-    "data": "2026-09-27T20:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Explicador da semana. Afinal, quando tem de pagar o IUC este ano?",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "semana afinal",
-   "explicador semana",
-   "afinal pagar",
-   "iuc"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Explicador da semana. Afinal, quando tem de pagar o IUC este ano?",
-    "link": "https://www.noticiasaominuto.com/economia/3057333/explicador-da-semana-afinal-quando-tem-de-pagar-o-iuc-este-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-27T10:37:13+00:00"
+Keep current branch topic block for this conflict: keep the current branch's more complete theme description and metadata.
    }
   ]
  },
@@ -545,9 +218,9 @@
   "resumo": "Termina hoje na Alfândega do Porto uma Feira de Arte, que junta galerias e antiquários. É a primeira edição da ARTePorto.",
   "categoria": "sociedade",
   "palavras": [
-   "arteporto",
+   "arte",
    "antiguidades",
-   "reuniu arte",
+   "evento reuniu",
    "contemporanea moderna"
   ],
   "fontes": [
@@ -566,52 +239,99 @@
   ]
  },
  {
-  "titulo": "CP ignora bifurcação da Mealhada em comboio realizado entre a Beira Baixa e Aveiro",
+  "titulo": "Montenegro? \"Se é eleito para fazer diferente de Costa, espero que faça\"",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "politica",
   "palavras": [
-   "bifurcacao mealhada",
-   "comboio",
-   "beira baixa",
-   "aveiro"
+   "eleito",
+   "espero",
+   "diferente costa",
+   "faca"
   ],
   "fontes": [
-   "Público"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "CP ignora bifurcação da Mealhada em comboio realizado entre a Beira Baixa e Aveiro",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkFnMmV0T1Y5ajY5MzZFemtkRl9qYTNVbXBlT0hJekd0UmVkM0VzbzhOaE9rMDA4MnRrZjZLNDByUFpwN0hGN1RFLUFmeWZQbTJJQWw2NGdBc2luSXRDUUVOcHUxbXRpb081S3A2TzZUX0JhQlQ5RWI1SjgyS0puSWEwNjc1NGNGdjZjcVpublhLdFl3VWxqOHZnQlhBdXRIODI2N29feS1iY3AyUmJoUkxxLTFieG12ZnFzNzh1V2JfN2M?oc=5",
-    "fonte": "Público",
-    "data": "2026-09-27T11:07:14+00:00"
+    "titulo": "Montenegro? \"Se é eleito para fazer diferente de Costa, espero que faça\"",
+    "link": "https://www.noticiasaominuto.com/politica/3058028/montenegro-nao-esta-a-fazer-muito-diferente-do-que-fez-antonio-costa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-09-27T15:42:12+00:00"
    }
   ]
  },
  {
-  "titulo": "Mike Leigh e a sua ternura ferida vencem em San Sebastián",
-  "resumo": "“Tender Loving Care”, de Mike Leigh, foi o grande vencedor do Festival de San Sebastián. Cinema ético sem compromissos que volta a consagrar o veterano de 83 anos. Uma edição marcada pelo humor neurótico de Jesse Eisenberg, em “A Grande Estreia”, ignorado no palmarés",
-  "categoria": "sociedade",
+  "titulo": "Luís Montenegro \"a caminho do Porto\" com Passe Verde: \"Medida simples\"",
+  "resumo": "",
+  "categoria": "economia",
   "palavras": [
-   "leigh",
-   "san",
-   "sebastian",
-   "mike"
+Keep current branch topic block for this conflict: the current branch's topic wording is the final generated version.
   ],
   "fontes": [
-   "Expresso"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Mike Leigh e a sua ternura ferida vencem em San Sebastián",
-    "link": "https://expresso.pt/cultura/cartaz_cinema/2026-09-27-mike-leigh-e-a-sua-ternura-ferida-vencem-em-san-sebastian-4510cab3",
-    "fonte": "Expresso",
-    "data": "2026-09-27T19:13:14+01:00"
+    "titulo": "Luís Montenegro \"a caminho do Porto\" com Passe Verde: \"Medida simples\"",
+    "link": "https://www.noticiasaominuto.com/pais/3058079/luis-montenegro-a-caminho-do-porto-com-passe-verde-medida-simples#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-09-27T20:09:35+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Presidente da República felicita desempenho português no Mundial das Profissões",
+  "resumo": "O Presidente da República felicitou hoje os 10 jovens da seleção nacional que participaram no Mundial das Profissões, reconhecendo \"o trabalho e a dedicação\" que permitiram alcançar a melhor classificação de sempre do país nesta competição.",
+  "categoria": "economia",
+  "palavras": [
+   "presidente",
+   "profissoes",
+   "mundial",
+   "republica"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Presidente da República felicita desempenho português no Mundial das Profissões",
+    "link": "https://www.rtp.pt/noticias/economia/presidente-da-republica-felicita-desempenho-portugues-no-mundial-das-profissoes_n1768065",
+    "fonte": "RTP",
+    "data": "2026-09-27T20:41:36+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Último picareto construído por mestre de Ortiga vai integrar Museu de Marinha",
+  "resumo": "O último barco picareto construído pelo mestre calafate Manuel Pires Fontes, de Ortiga, no concelho de Mação, vai integrar o acervo do Museu de Marinha, culminando um processo de preservação desta embarcação tradicional iniciado há quase duas décadas.",
+  "categoria": "sociedade",
+  "palavras": [
+   "integrar",
+   "museu",
+   "picareto construido",
+   "mestre"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Último picareto construído por mestre de Ortiga vai integrar Museu de Marinha",
+    "link": "https://www.rtp.pt/noticias/cultura/ultimo-picareto-construido-por-mestre-de-ortiga-vai-integrar-museu-de-marinha_n1767995",
+    "fonte": "RTP",
+    "data": "2026-09-27T12:46:55+01:00"
    }
   ]
  },
@@ -620,9 +340,7 @@
   "resumo": "São Francisco, Estados Unidos, 27 set 2026 (Lusa) -- O secretário do Tesouro dos Estados Unidos (EUA) afirmou ter enviado emissários por todo o mundo a exigir medidas para isolar economicamente Teerão e celebrou as restrições contra os bancos e a aviação do Irão.",
   "categoria": "economia",
   "palavras": [
-   "tesouro",
-   "teerao",
-   "isolar",
+Keep current branch topic block for this conflict: preserve the current branch's fully aggregated theme metadata.
    "eua"
   ],
   "fontes": [
@@ -641,39 +359,36 @@
   ]
  },
  {
-  "titulo": "Identificados parasitas nas aves aquáticas no Alqueva que podem afectar saúde humana",
+  "titulo": "Explicador da semana. Afinal, quando tem de pagar o IUC este ano?",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "economia",
   "palavras": [
-   "aves",
-   "afectar",
-   "saude",
-   "parasitas"
+   "pagar",
+   "iuc",
+   "explicador semana",
+   "semana afinal"
   ],
   "fontes": [
-   "Público"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Identificados parasitas nas aves aquáticas no Alqueva que podem afectar saúde humana",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdm9oR1lzZGtBUm9HVzl3Q3hzWHMxR0kwcENra3RYOGhBZXRSWDF4bkdJZnpPekxXSHlSbUlzMW94aEhvT3VJa01oMXVJTmw0b2RGZ3YwdXVBVVVmRzgzaXY2d1ZDUW1xMV9YZEhrRjBVc2dTeTdIYjEwR3BSRk9jYXlGRUhURGM0QlpaMHFEazFlMk5UbTk4UDhkSHhIaHFEYXB5T0paaE9ldXp0blNNMnFmeFlhalVZTzFpaElYdGhvOS1iZUpN?oc=5",
-    "fonte": "Público",
-    "data": "2026-09-27T08:23:00+00:00"
+    "titulo": "Explicador da semana. Afinal, quando tem de pagar o IUC este ano?",
+    "link": "https://www.noticiasaominuto.com/economia/3057333/explicador-da-semana-afinal-quando-tem-de-pagar-o-iuc-este-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-09-27T10:37:13+00:00"
    }
   ]
  },
  {
-  "titulo": "Semanário. Crise dos combustíveis aumenta o custo de vida e a insatisfação",
-  "resumo": "O programa de análise semanal conduzido por António José Teixeira é agora emitido aos sábados às 23h00. No início da nova temporada, a crise dos combustíveis esteve em grande destaque, com a análise de António Costa Silva, doutor em Engenharia de Reservatórios Petrolíferos e antigo ministro da Economia.",
-  "categoria": "economia",
+  "titulo": "Avião regressa de emergência ao aeroporto Sá Carneiro no Porto",
+  "resumo": "Um avião que seguia rumo a Boston fez uma aterragem de emergência no aeroporto do Porto esta tarde, após ter sido detetado fumo na cabine.",
+  "categoria": "sociedade",
   "palavras": [
-   "crise",
-   "combustiveis aumenta",
-   "vida insatisfacao",
-   "semanario"
+Keep current branch topic block for this conflict: keep the current branch's theme object and keyword set, which are newer.
   ],
   "fontes": [
    "RTP"
@@ -683,10 +398,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Semanário. Crise dos combustíveis aumenta o custo de vida e a insatisfação",
-    "link": "https://www.rtp.pt/noticias/economia/semanario-crise-dos-combustiveis-aumenta-o-custo-de-vida-e-a-insatisfacao_n1768000",
+    "titulo": "Avião regressa de emergência ao aeroporto Sá Carneiro no Porto",
+    "link": "https://www.rtp.pt/noticias/pais/aviao-regressa-de-emergencia-ao-aeroporto-sa-carneiro-no-porto_n1768071",
     "fonte": "RTP",
-    "data": "2026-09-27T11:02:58+01:00"
+    "data": "2026-09-27T20:09:54+01:00"
    }
   ]
  },
@@ -697,8 +412,7 @@
   "palavras": [
    "cuidados",
    "paliativos",
-   "casa desde",
-   "equipa apoia"
+Keep current branch topic block for this conflict: preserve the current branch's final topic aggregation and source links.
   ],
   "fontes": [
    "RTP"
@@ -716,39 +430,11 @@
   ]
  },
  {
-  "titulo": "Incêndio consome rulote de comida na Gare do Oriente",
-  "resumo": "",
+  "titulo": "Sete detidos em Sintra por apedrejarem polícias no final de evento musical",
+  "resumo": "Sete pessoas foram detidas na última noite em Mem Martins, no concelho de Sintra, em Lisboa, por terem arremessado pedras contra polícias, atingindo dois agentes, no final de um evento de música, anunciou hoje a PSP.",
   "categoria": "sociedade",
   "palavras": [
-   "rulote comida",
-   "oriente",
-   "consome rulote",
-   "gare"
-  ],
-  "fontes": [
-   "SIC Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Incêndio consome rulote de comida na Gare do Oriente",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0NVQUJyS0paVWc2NWdOYi1VSWR6emNadkZDWWduNmhCUGVVNkF0THRQM0F3Ni04ek5KaHh5N2RIbXVuSmNqQkt4MlU2d2kzN2lDaGJpM2ZQdW5ORmJrT01sR19feWNDVDJVRW9WQzNzZlc3S1pReWJMSXRvVUhnc0pmMzlTZHpZVGxlX3VVSVFQMDdHWFVsZjJvX202ZWJtdnc?oc=5",
-    "fonte": "SIC Notícias",
-    "data": "2026-09-27T17:50:18+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Antigo ministro do Trabalho Eusébio Marques de Carvalho morre aos 91 anos",
-  "resumo": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
-  "categoria": "governo",
-  "palavras": [
-   "marques carvalho",
-   "91",
-   "eusebio marques",
-   "trabalho eusebio"
+Keep current branch topic block for this conflict: keep the current branch version; the incoming branch's keywords are alternate fragments.
   ],
   "fontes": [
    "RTP"
@@ -758,10 +444,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Antigo ministro do Trabalho Eusébio Marques de Carvalho morre aos 91 anos",
-    "link": "https://www.rtp.pt/noticias/politica/antigo-ministro-do-trabalho-eusebio-marques-de-carvalho-morre-aos-91-anos_n1768060",
+    "titulo": "Sete detidos em Sintra por apedrejarem polícias no final de evento musical",
+    "link": "https://www.rtp.pt/noticias/pais/sete-detidos-em-sintra-por-apedrejarem-policias-no-final-de-evento-musical_n1768012",
     "fonte": "RTP",
-    "data": "2026-09-27T18:53:36+01:00"
+    "data": "2026-09-27T12:45:35+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Semanário. Crise dos combustíveis aumenta o custo de vida e a insatisfação",
+  "resumo": "O programa de análise semanal conduzido por António José Teixeira é agora emitido aos sábados às 23h00. No início da nova temporada, a crise dos combustíveis esteve em grande destaque, com a análise de António Costa Silva, doutor em Engenharia de Reservatórios Petrolíferos e antigo ministro da Economia.",
+  "categoria": "economia",
+  "palavras": [
+   "crise combustiveis",
+   "analise",
+   "custo",
+   "vida"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Semanário. Crise dos combustíveis aumenta o custo de vida e a insatisfação",
+    "link": "https://www.rtp.pt/noticias/economia/semanario-crise-dos-combustiveis-aumenta-o-custo-de-vida-e-a-insatisfacao_n1768000",
+    "fonte": "RTP",
+    "data": "2026-09-27T11:02:58+01:00"
    }
   ]
  },
@@ -773,7 +484,7 @@
    "casas",
    "residentes",
    "compradas",
-   "junho foram-no"
+Keep current branch topic block for this conflict: preserve the mainline theme metadata and final article ordering.
   ],
   "fontes": [
    "RTP"
@@ -795,10 +506,10 @@
   "resumo": "O Parlamento vai discutir e votar na generalidade esta semana as alterações à lei do arrendamento propostas pelo Governo. Há novas regras para as rendas antigas e maior flexibilidade nos contratos.",
   "categoria": "economia",
   "palavras": [
-   "arrendamento",
-   "alteracoes",
+   "lei arrendamento",
    "votar",
-   "parlamento"
+   "parlamento",
+   "alteracoes"
   ],
   "fontes": [
    "RTP"
@@ -816,14 +527,11 @@
   ]
  },
  {
-  "titulo": "Presidente da República felicita desempenho português no Mundial das Profissões",
-  "resumo": "O Presidente da República felicitou hoje os 10 jovens da seleção nacional que participaram no Mundial das Profissões, reconhecendo \"o trabalho e a dedicação\" que permitiram alcançar a melhor classificação de sempre do país nesta competição.",
-  "categoria": "economia",
+  "titulo": "Antigo ministro do Trabalho Eusébio Marques de Carvalho morre aos 91 anos",
+  "resumo": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
+  "categoria": "politica",
   "palavras": [
-   "profissoes",
-   "mundial",
-   "presidente",
-   "republica"
+Keep current branch topic block for this conflict: keep the current branch's generated topic object over the partial incoming variant.
   ],
   "fontes": [
    "RTP"
@@ -833,85 +541,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Presidente da República felicita desempenho português no Mundial das Profissões",
-    "link": "https://www.rtp.pt/noticias/economia/presidente-da-republica-felicita-desempenho-portugues-no-mundial-das-profissoes_n1768065",
+    "titulo": "Antigo ministro do Trabalho Eusébio Marques de Carvalho morre aos 91 anos",
+    "link": "https://www.rtp.pt/noticias/politica/antigo-ministro-do-trabalho-eusebio-marques-de-carvalho-morre-aos-91-anos_n1768060",
     "fonte": "RTP",
-    "data": "2026-09-27T20:41:36+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Festival Boom promoveu dia aberto à comunidade",
-  "resumo": "A Herdade da Granja, em Idanha-a-Nova, abriu as portas. A entrada foi gratuita.",
-  "categoria": "sociedade",
-  "palavras": [
-   "aberto comunidade",
-   "promoveu aberto",
-   "festival boom",
-   "boom promoveu"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Festival Boom promoveu dia aberto à comunidade",
-    "link": "https://www.rtp.pt/noticias/cultura/festival-boom-promoveu-dia-aberto-a-comunidade_v1768045",
-    "fonte": "RTP",
-    "data": "2026-09-27T16:03:48+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Buscas na PJ? \"Continua a haver uma informalidade inaceitável\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "inaceitavel",
-   "pj",
-   "haver",
-   "informalidade"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Buscas na PJ? \"Continua a haver uma informalidade inaceitável\"",
-    "link": "https://www.noticiasaominuto.com/politica/3058117/buscas-na-pj-continua-a-haver-uma-informalidade-inaceitavel#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-27T22:53:43+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Os portugueses andam a gastar gasolina à parva. Querem baixar o preço da gasolina? Deixem de consumir gasolina",
-  "resumo": "Finalmente, uma solução para o problema do preço dos combustíveis. O governo dirigiu-se directamente aos verdadeiros culpados pela escalada do preço do petróleo no mundo: o povo português. Oiça aqui o Isto é Gozar com Quem Trabalha desta semana",
-  "categoria": "politica",
-  "palavras": [
-   "gasolina",
-   "preco",
-   "parva querem",
-   "querem baixar"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Os portugueses andam a gastar gasolina à parva. Querem baixar o preço da gasolina? Deixem de consumir gasolina",
-    "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-09-27-os-portugueses-andam-a-gastar-gasolina-a-parva.-querem-baixar-o-preco-da-gasolina--deixem-de-consumir-gasolina-b511f705",
-    "fonte": "Expresso",
-    "data": "2026-09-27T23:00:00+01:00"
+Keep current branch topic block for this conflict: final result stays on the current branch's more complete 2026-09-27 topic set.
    }
   ]
  }

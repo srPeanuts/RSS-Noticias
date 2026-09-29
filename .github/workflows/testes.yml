@@ -1,0 +1,24 @@
+name: Testes
+on:
+  pull_request:
+  push:
+    paths:
+      - scripts/**
+      - tests/**
+      - fontes.json
+      - requirements.txt
+      - .github/workflows/testes.yml
+  workflow_dispatch: {}
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt pytest
+      - name: Correr testes
+        run: python -m pytest tests/ -q

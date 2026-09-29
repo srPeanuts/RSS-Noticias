@@ -2,10 +2,7 @@
  {
   "nome": "Público",
   "slug": "publico",
-  "imagem": "https://imgs.vercapas.com/covers/publico/2026/publico-2026-09-29-15b499c0.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/publico/2026/publico-2026-09-29-15b499c0.jpg",
-  "pagina": "https://www.vercapas.com/capa/publico.html",
-  "data": "2026-09-29"
+Keep current branch: use the 2026-09-29 Público cover metadata and date, not the stale 2026-09-28 incoming image.
  },
  {
   "nome": "Expresso",
@@ -18,18 +15,12 @@
  {
   "nome": "Diário de Notícias",
   "slug": "diario-de-noticias",
-  "imagem": "https://imgs.vercapas.com/covers/diario-de-noticias/2026/diario-de-noticias-2026-09-29-e078af30-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/diario-de-noticias/2026/diario-de-noticias-2026-09-29-e078af30-x.jpg",
-  "pagina": "https://www.vercapas.com/capa/diario-de-noticias.html",
-  "data": "2026-09-29"
+Keep current branch: use the 2026-09-29 Diário de Notícias cover metadata and date, not the stale 2026-09-28 incoming image.
  },
  {
   "nome": "Jornal de Notícias",
   "slug": "jornal-de-noticias",
-  "imagem": "https://imgs.vercapas.com/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-09-29-3a1dfb05-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-09-29-3a1dfb05-x.jpg",
-  "pagina": "https://www.vercapas.com/capa/jornal-de-noticias.html",
-  "data": "2026-09-29"
+Keep current branch: use the 2026-09-29 Jornal de Notícias cover metadata and date, not the stale 2026-09-28 incoming image.
  },
  {
   "nome": "Correio da Manhã",
@@ -58,10 +49,7 @@
  {
   "nome": "Jornal Económico",
   "slug": "jornal-economico",
-  "imagem": "https://imgs.vercapas.com/covers/jornal-economico/2026/jornal-economico-2026-09-29-0e78fd79-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-economico/2026/jornal-economico-2026-09-29-0e78fd79-x.jpg",
-  "pagina": "https://www.vercapas.com/capa/jornal-economico.html",
-  "data": "2026-09-29"
+Keep current branch: use the 2026-09-29 Jornal Económico cover metadata and date, not the stale 2026-09-28 incoming image.
  },
  {
   "nome": "Expresso Economia",

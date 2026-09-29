@@ -17,6 +17,7 @@ import sys
 import unicodedata
 import xml.etree.ElementTree as ET
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
@@ -24,20 +25,20 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import numpy as np
-import requests
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import indicadores  # noqa: E402
+from rede import obter  # noqa: E402
 import tendencias   # noqa: E402
 
 RAIZ = Path(__file__).resolve().parent.parent
 DADOS = RAIZ / "dados"            # histórico bruto (artigos e temas por dia)
 SITE = RAIZ / "docs" / "data"     # o que a página web lê
 LISBOA = ZoneInfo("Europe/Lisbon")
-CABECALHOS = {"User-Agent": "Mozilla/5.0 (compatible; NoticiasPT/1.0; uso pessoal)"}
+MAX_PARALELO = 5
 
 CATEGORIAS = ["politica", "governo", "economia", "sociedade", "opiniao"]
 NOTICIAS = ["politica", "governo", "economia", "sociedade"]   # categorias agrupadas por cobertura
@@ -240,8 +241,7 @@ def _data(valor: str):
 
 
 def ler_feed(feed: dict) -> list:
-    r = requests.get(feed["url"], headers=CABECALHOS, timeout=25)
-    r.raise_for_status()
+    r = obter(feed["url"], timeout=25)
     raiz = ET.fromstring(r.content)
     atom = "{http://www.w3.org/2005/Atom}"
     rdf = "{http://purl.org/rss/1.0/}"          # alguns jornais (ex.: CM) usam RSS 1.0
@@ -278,17 +278,32 @@ def ler_feed(feed: dict) -> list:
     return artigos
 
 
+def _erro_feed(e: Exception) -> str:
+    codigo = getattr(getattr(e, "response", None), "status_code", None)
+    return f"erro HTTP {codigo}" if codigo else f"erro: {e.__class__.__name__}"
+
+
 def recolher_artigos(config: dict) -> tuple[list, dict]:
+    feeds = config["feeds"]
+    resultados = [None] * len(feeds)
+    with ThreadPoolExecutor(max_workers=MAX_PARALELO) as pool:
+        futuros = {pool.submit(ler_feed, feed): i for i, feed in enumerate(feeds)}
+        for fut in as_completed(futuros):
+            i = futuros[fut]
+            try:
+                resultados[i] = ("ok", fut.result())
+            except Exception as e:
+                resultados[i] = ("erro", e)
     todos, estado = [], {}
-    for feed in config["feeds"]:
-        try:
-            a = ler_feed(feed)
+    for feed, res in zip(feeds, resultados):
+        if res[0] == "ok":
+            a = res[1]
             todos += a
             estado[feed["url"]] = len(a)
             print(f"  ✓ {feed['fonte']:<22} {len(a):>3} artigos  {feed['url']}")
-        except Exception as e:
-            codigo = getattr(getattr(e, "response", None), "status_code", None)
-            estado[feed["url"]] = f"erro HTTP {codigo}" if codigo else f"erro: {e.__class__.__name__}"
+        else:
+            e = res[1]
+            estado[feed["url"]] = _erro_feed(e)
             print(f"  ✗ {feed['fonte']:<22} ERRO {e.__class__.__name__}: {str(e)[:80]}")
     return todos, estado
 
@@ -297,26 +312,40 @@ def recolher_artigos(config: dict) -> tuple[list, dict]:
 # --------------------------------------------------------------------------
 
 
+def ler_capa(c: dict) -> dict:
+    pagina = f"https://www.vercapas.com/capa/{c['slug']}.html"
+    html = obter(pagina, timeout=25).text
+    m = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)', html) or \
+        re.search(r'content=["\']([^"\']+)["\']\s+property=["\']og:image', html)
+    if not m:
+        m = re.search(r'(https://imgs\.vercapas\.com/covers/[^"\']+\.jpe?g)', html)
+    if not m:
+        raise ValueError("imagem não encontrada")
+    miniatura = m.group(1)
+    imagem = re.sub(r"/thumbc/\d+/", "/", miniatura)
+    d = re.search(r"(\d{4}-\d{2}-\d{2})", imagem)
+    return {"nome": c["nome"], "slug": c["slug"], "imagem": imagem, "miniatura": miniatura,
+            "pagina": pagina, "data": d.group(1) if d else None}
+
+
 def recolher_capas(config: dict) -> list:
+    lista = config["capas"]
+    resultados = [None] * len(lista)
+    with ThreadPoolExecutor(max_workers=MAX_PARALELO) as pool:
+        futuros = {pool.submit(ler_capa, c): i for i, c in enumerate(lista)}
+        for fut in as_completed(futuros):
+            i = futuros[fut]
+            try:
+                resultados[i] = ("ok", fut.result())
+            except Exception as e:
+                resultados[i] = ("erro", e)
     capas = []
-    for c in config["capas"]:
-        pagina = f"https://www.vercapas.com/capa/{c['slug']}.html"
-        try:
-            html = requests.get(pagina, headers=CABECALHOS, timeout=25).text
-            m = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)', html) or \
-                re.search(r'content=["\']([^"\']+)["\']\s+property=["\']og:image', html)
-            if not m:
-                m = re.search(r'(https://imgs\.vercapas\.com/covers/[^"\']+\.jpe?g)', html)
-            if not m:
-                raise ValueError("imagem não encontrada")
-            miniatura = m.group(1)
-            imagem = re.sub(r"/thumbc/\d+/", "/", miniatura)
-            d = re.search(r"(\d{4}-\d{2}-\d{2})", imagem)
-            capas.append({"nome": c["nome"], "slug": c["slug"], "imagem": imagem, "miniatura": miniatura,
-                          "pagina": pagina, "data": d.group(1) if d else None})
+    for c, res in zip(lista, resultados):
+        if res[0] == "ok":
+            capas.append(res[1])
             print(f"  ✓ capa {c['nome']}")
-        except Exception as e:
-            print(f"  ✗ capa {c['nome']}: {e}")
+        else:
+            print(f"  ✗ capa {c['nome']}: {res[1]}")
     return capas
 
 # --------------------------------------------------------------------------

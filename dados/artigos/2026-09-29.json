@@ -1,96 +1,6 @@
 [
  {
-  "titulo": "A culpa é da vontade?",
-  "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/culpa-vontade-2189456",
-  "resumo": "O que perpassa por todo este frenesim mediático é óbvio: Centeno acredita ter todas as condições para vir a ter um qualquer papel político neste intrincado xadrez. Opinião de Pedro Norton",
-  "fonte": "Público",
-  "autor": "publico@publico.pt",
-  "data": "2026-09-28T23:30:00+00:00",
-  "cats_feed": [
-   "Opinião"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
-  "titulo": "O que é a cobardia moral?",
-  "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/cobardia-moral-2189591",
-  "resumo": "A cobardia moral é o abandono dos princípios que levaram as nações a fundar uma organização com base na legalidade internacional. É o silêncio e a inacção, por conveniência e estratégia. Opinião de Amílcar Correia",
-  "fonte": "Público",
-  "autor": "publico@publico.pt",
-  "data": "2026-09-28T23:25:00+00:00",
-  "cats_feed": [
-   "Opinião A coluna vertebral"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
-  "titulo": "INEM: entre a promessa e a realidade",
-  "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/inem-promessa-realidade-2189140",
-  "resumo": "É espantoso ver uma reforma estrutural entrar em vigor e, poucas semanas depois, o próprio presidente do INEM considerar necessárias alterações ao modelo aprovado pelo Governo. Opinião de Rosa Valente de Matos",
-  "fonte": "Público",
-  "autor": "publico@publico.pt",
-  "data": "2026-09-28T23:20:00+00:00",
-  "cats_feed": [
-   "Opinião"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
-  "titulo": "Português de 29 anos morre em acidente de trabalho na Suíça",
-  "link": "https://www.publico.pt/2026/09/29/sociedade/noticia/portugues-29-anos-morre-acidente-trabalho-suica-2189627",
-  "resumo": "Homem sofreu ferimentos graves durante o descarregamento de peças de aço plano e morreu após várias tentativas de reanimação.",
-  "fonte": "Público",
-  "autor": "publico@publico.pt",
-  "data": "2026-09-28T23:18:04+00:00",
-  "cats_feed": [
-   "Suíça"
-  ],
-  "categoria_forcada": "",
-  "categoria": "economia"
- },
- {
-  "titulo": "Quantas Maricarmens serão precisas para nos levantarmos aqui?",
-  "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/quantas-maricarmens-serao-precisas-levantarmos-aqui-2189526",
-  "resumo": "O Estado não apresenta soluções dignas para quem está a perder a sua casa e não encontra uma habitação cujo custo consiga suportar. Assim, temos muitas Maricarmens a serem despejadas também por aqui. Opinião de Rita Silva",
-  "fonte": "Público",
-  "autor": "publico@publico.pt",
-  "data": "2026-09-28T23:15:00+00:00",
-  "cats_feed": [
-   "Opinião"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
-  "titulo": "Dinheiro fácil tem “v” de Volta? Olhe que não…",
-  "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/dinheiro-facil-v-volta-olhe-nao-2189481",
-  "resumo": "O que nos ricos é espírito empreendedor, nos pobres é caráter corrompido – é este o espelho da moralidade contemporânea. Opinião de Maria Inês Amaro",
-  "fonte": "Público",
-  "autor": "publico@publico.pt",
-  "data": "2026-09-28T23:10:00+00:00",
-  "cats_feed": [
-   "Opinião"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
-  "titulo": "O que fazer com as estatísticas da Educação?",
-  "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/estatisticas-educacao-2189469",
-  "resumo": "O problema não é o PISA, mas o uso que dele fazemos. A cada ciclo, o PISA diz-nos onde estamos. Nunca nos disse, nem pode dizer, como aqui chegámos.",
-  "fonte": "Público",
-  "autor": "publico@publico.pt",
-  "data": "2026-09-28T23:05:00+00:00",
-  "cats_feed": [
-   "Opinião"
-  ],
-  "categoria_forcada": "",
-  "categoria": "opiniao"
- },
- {
+Keep current branch version for this conflict: the later 2026-09-29 article data and timestamps are the authoritative ones for the mainline dataset.
   "titulo": "E Marcelo deu graças a Deus por já não ser Presidente",
   "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/marcelo-agradeceu-deus-ja-nao-presidente-2189570",
   "resumo": "O caso das gémeas é bem ilustrativo do país do silêncio e das cunhas, ainda que camuflado de solidariedade e boas intenções. Opinião de João Miguel Tavares",
@@ -104,47 +14,7 @@
   "categoria": "opiniao"
  },
  {
-  "titulo": "Encontrados os corpos dos dois trabalhadores soterrados em obra de hotel em Porto Covo",
-  "link": "https://expresso.pt/sociedade/2026-09-28-encontrados-os-corpos-dos-dois-trabalhadores-soterrados-em-obra-de-hotel-em-porto-covo-bff47ca7",
-  "resumo": "Os dois trabalhadores de nacionalidade estrangeira, com 26 e 28 anos, que ficaram soterrados numa obra de construção em Porto Covo foram encontrados sem vida, horas depois de um aluimento de terras os ter atingido enquanto trabalhavam numa vala do futuro empreendimento turístico do Pestana Hotel Group",
-  "fonte": "Expresso",
-  "autor": "Expresso",
-  "data": "2026-09-29T00:14:43+01:00",
-  "cats_feed": [
-   "Sociedade"
-  ],
-  "categoria_forcada": "",
-  "categoria": "sociedade"
- },
- {
-  "titulo": "Porto Covo. Encontrados os dois corpos dos trabalhadores soterrados",
-  "link": "https://www.rtp.pt/noticias/pais/porto-covo-encontrados-os-dois-corpos-dos-trabalhadores-soterrados_v1768327",
-  "resumo": "Dois trabalhadores morreram ao ficarem soterrados durante uma escavação numa obra em Porto Covo.",
-  "fonte": "RTP",
-  "autor": "",
-  "data": "2026-09-29T01:47:47+01:00",
-  "cats_feed": [
-   "País"
-  ],
-  "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
- },
- {
-  "titulo": "Em véspera de negociações. Cerca de 200 agentes da PSP e GNR em protesto no Porto",
-  "link": "https://www.rtp.pt/noticias/pais/em-vespera-de-negociacoes-cerca-de-200-agentes-da-psp-e-gnr-em-protesto-no-porto_v1768326",
-  "resumo": "Cerca de duas centenas de agentes da PSP e militares da GNR manifestaram-se esta segunda-feira no Porto.",
-  "fonte": "RTP",
-  "autor": "",
-  "data": "2026-09-29T01:45:47+01:00",
-  "cats_feed": [
-   "País"
-  ],
-  "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
- },
- {
-  "titulo": "Menos sal e açúcar, facilitar a amamentação. DGS lança orientações para alimentação nas creches",
-  "link": "https://www.rtp.pt/noticias/pais/menos-sal-e-acucar-facilitar-a-amamentacao-dgs-lanca-orientacoes-para-alimentacao-nas-creches_n1768325",
+Keep current branch version for this conflict: the mainline article set is newer and consistent; the incoming branch only carries earlier CNN timestamps and duplicate variants.
   "resumo": "A Direção-Geral da Saúde publicou, pela primeira vez, orientações nacionais para a alimentação nas creches e respostas sociais dirigidas a crianças até aos 3 anos, recomendando refeições diversificadas, porções e texturas adequadas à idade e menos alimentos ultraprocessados, açúcar e sal.",
   "fonte": "RTP",
   "autor": "",
@@ -255,7 +125,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573401+00:00",
+Keep current branch version for this conflict: the current branch keeps the correct later timestamp for the CNN video article.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "politica"
@@ -266,7 +136,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573440+00:00",
+Keep current branch version for this conflict: the current branch keeps the later timestamp for the related CNN video article.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "politica"
@@ -277,7 +147,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573499+00:00",
+Keep current branch version for this conflict: the current branch keeps the later timestamp for the CNN video article.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "governo"
@@ -288,7 +158,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573527+00:00",
+Keep current branch version for this conflict: the current branch retains the correct generated metadata and later timestamp.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "governo"
@@ -299,7 +169,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573595+00:00",
+Keep current branch version for this conflict: the mainline data is later and consistent with the 2026-09-29 dataset.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "economia"
@@ -310,7 +180,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573795+00:00",
+Keep current branch version for this conflict: the current branch has the correct later timestamp and updated record ordering.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "politica"
@@ -321,7 +191,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573916+00:00",
+Keep current branch version for this conflict: the current branch carries the newer generated CNN data.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "politica"
@@ -332,7 +202,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.573932+00:00",
+Keep current branch version for this conflict: preserve the newer current-branch timestamp over the stale incoming CNN timestamp.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "sociedade"
@@ -343,7 +213,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.574129+00:00",
+Keep current branch version for this conflict: the current branch retains the more recent generated data set for the article and metadata.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "sociedade"
@@ -354,7 +224,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.574161+00:00",
+Keep current branch version for this conflict: preserve the mainline 2026-09-29 article metadata and later timestamp.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "governo"
@@ -365,7 +235,7 @@
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
-  "data": "2026-09-29T00:57:12.574195+00:00",
+Keep current branch version for this conflict: the mainline data is the final generated update for the day; the incoming data is older and duplicates the earlier record.
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "economia"
