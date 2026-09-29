@@ -1,0 +1,406 @@
+[
+ {
+  "titulo": "Porto Covo. Encontrados os dois corpos dos trabalhadores soterrados",
+  "resumo": "Dois trabalhadores morreram ao ficarem soterrados durante uma escavação numa obra em Porto Covo.",
+  "categoria": "sociedade",
+  "palavras": [
+   "soterrados",
+   "covo",
+   "dois",
+   "trabalhadores"
+  ],
+  "fontes": [
+   "Expresso",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Porto Covo. Encontrados os dois corpos dos trabalhadores soterrados",
+    "link": "https://www.rtp.pt/noticias/pais/porto-covo-encontrados-os-dois-corpos-dos-trabalhadores-soterrados_v1768327",
+    "fonte": "RTP",
+    "data": "2026-09-29T01:47:47+01:00"
+   },
+   {
+    "titulo": "Encontrados os corpos dos dois trabalhadores soterrados em obra de hotel em Porto Covo",
+    "link": "https://expresso.pt/sociedade/2026-09-28-encontrados-os-corpos-dos-dois-trabalhadores-soterrados-em-obra-de-hotel-em-porto-covo-bff47ca7",
+    "fonte": "Expresso",
+    "data": "2026-09-29T00:14:43+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "OE27. Governo começou a reunir-se com partidos: As críticas de Chega e PS",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "oe27",
+   "reunir-se",
+   "partidos",
+   "criticas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "OE27. Governo começou a reunir-se com partidos: As críticas de Chega e PS",
+    "link": "https://www.noticiasaominuto.com/politica/3058667/oe27-governo-comecou-a-reunir-se-com-partidos-as-criticas-de-chega-e-ps#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-09-28T23:22:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "AMD compra startup de IA World Labs por 8,2 mil milhões de dólares",
+  "resumo": "Compra da empresa fundada pela pioneira do setor Fei-Fei Li, cujos modelos criam ambientes tridimensionais, deverá estar concluída até final do ano.",
+  "categoria": "economia",
+  "palavras": [
+   "compra",
+   "startup",
+   "mil",
+   "world labs"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "AMD compra startup de IA World Labs por 8,2 mil milhões de dólares",
+    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/amd-compra-startup-de-ia-world-labs-por-8-2-milhoes-de-dolares",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-09-29T00:12:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Série da RTP \"Jones\" apresenta um inspetor de polícia com métodos pouco convencionais",
+  "resumo": "\"Jones\" é a nova série da RTP 1, a autoria e realização é de Bruno Gascon. São seis episódios para descobrir o assassino da filha mais nova da família Salvaterra. Oliver Jones é o inspetor responsável pela investigação e vai usar métodos fora do habitual.",
+  "categoria": "sociedade",
+  "palavras": [
+   "jones",
+   "serie",
+   "inspetor",
+   "rtp"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Série da RTP \"Jones\" apresenta um inspetor de polícia com métodos pouco convencionais",
+    "link": "https://www.rtp.pt/noticias/cultura/serie-da-rtp-jones-apresenta-um-inspetor-de-policia-com-metodos-pouco-convencionais_n1768318",
+    "fonte": "RTP",
+    "data": "2026-09-29T00:15:25+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A primeira página do Jornal Económico de 29 de setembro",
+  "resumo": "Subscreva a newsletter Edição da Manhã para receber o seu Jornal Económico em formato digital, todos os dias às 7h00.",
+  "categoria": "economia",
+  "palavras": [
+   "jornal economico",
+   "setembro",
+   "pagina"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A primeira página do Jornal Económico de 29 de setembro",
+    "link": "https://jornaleconomico.sapo.pt/noticias/a-primeira-pagina-do-jornal-economico-de-29-de-setembro-2/",
+    "fonte": "Jornal Económico",
+    "data": "2026-09-28T23:01:19+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Menos sal e açúcar, facilitar a amamentação. DGS lança orientações para alimentação nas creches",
+  "resumo": "A Direção-Geral da Saúde publicou, pela primeira vez, orientações nacionais para a alimentação nas creches e respostas sociais dirigidas a crianças até aos 3 anos, recomendando refeições diversificadas, porções e texturas adequadas à idade e menos alimentos ultraprocessados, açúcar e sal.",
+  "categoria": "sociedade",
+  "palavras": [
+   "creches",
+   "orientacoes",
+   "alimentacao",
+   "menos"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Menos sal e açúcar, facilitar a amamentação. DGS lança orientações para alimentação nas creches",
+    "link": "https://www.rtp.pt/noticias/pais/menos-sal-e-acucar-facilitar-a-amamentacao-dgs-lanca-orientacoes-para-alimentacao-nas-creches_n1768325",
+    "fonte": "RTP",
+    "data": "2026-09-29T01:32:22+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Em véspera de negociações. Cerca de 200 agentes da PSP e GNR em protesto no Porto",
+  "resumo": "Cerca de duas centenas de agentes da PSP e militares da GNR manifestaram-se esta segunda-feira no Porto.",
+  "categoria": "sociedade",
+  "palavras": [
+   "gnr",
+   "cerca",
+   "agentes",
+   "psp"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Em véspera de negociações. Cerca de 200 agentes da PSP e GNR em protesto no Porto",
+    "link": "https://www.rtp.pt/noticias/pais/em-vespera-de-negociacoes-cerca-de-200-agentes-da-psp-e-gnr-em-protesto-no-porto_v1768326",
+    "fonte": "RTP",
+    "data": "2026-09-29T01:45:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Português de 29 anos morre em acidente de trabalho na Suíça",
+  "resumo": "Homem sofreu ferimentos graves durante o descarregamento de peças de aço plano e morreu após várias tentativas de reanimação.",
+  "categoria": "economia",
+  "palavras": [
+   "suica",
+   "trabalho",
+   "morre",
+   "acidente"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Português de 29 anos morre em acidente de trabalho na Suíça",
+    "link": "https://www.publico.pt/2026/09/29/sociedade/noticia/portugues-29-anos-morre-acidente-trabalho-suica-2189627",
+    "fonte": "Público",
+    "data": "2026-09-28T23:18:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A culpa é da vontade?",
+  "resumo": "O que perpassa por todo este frenesim mediático é óbvio: Centeno acredita ter todas as condições para vir a ter um qualquer papel político neste intrincado xadrez. Opinião de Pedro Norton",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T23:30:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "A culpa é da vontade?",
+    "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/culpa-vontade-2189456",
+    "fonte": "Público",
+    "data": "2026-09-28T23:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O que é a cobardia moral?",
+  "resumo": "A cobardia moral é o abandono dos princípios que levaram as nações a fundar uma organização com base na legalidade internacional. É o silêncio e a inacção, por conveniência e estratégia. Opinião de Amílcar Correia",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T23:25:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "O que é a cobardia moral?",
+    "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/cobardia-moral-2189591",
+    "fonte": "Público",
+    "data": "2026-09-28T23:25:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "INEM: entre a promessa e a realidade",
+  "resumo": "É espantoso ver uma reforma estrutural entrar em vigor e, poucas semanas depois, o próprio presidente do INEM considerar necessárias alterações ao modelo aprovado pelo Governo. Opinião de Rosa Valente de Matos",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T23:20:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "INEM: entre a promessa e a realidade",
+    "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/inem-promessa-realidade-2189140",
+    "fonte": "Público",
+    "data": "2026-09-28T23:20:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Quantas Maricarmens serão precisas para nos levantarmos aqui?",
+  "resumo": "O Estado não apresenta soluções dignas para quem está a perder a sua casa e não encontra uma habitação cujo custo consiga suportar. Assim, temos muitas Maricarmens a serem despejadas também por aqui. Opinião de Rita Silva",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T23:15:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Quantas Maricarmens serão precisas para nos levantarmos aqui?",
+    "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/quantas-maricarmens-serao-precisas-levantarmos-aqui-2189526",
+    "fonte": "Público",
+    "data": "2026-09-28T23:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dinheiro fácil tem “v” de Volta? Olhe que não…",
+  "resumo": "O que nos ricos é espírito empreendedor, nos pobres é caráter corrompido – é este o espelho da moralidade contemporânea. Opinião de Maria Inês Amaro",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T23:10:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Dinheiro fácil tem “v” de Volta? Olhe que não…",
+    "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/dinheiro-facil-v-volta-olhe-nao-2189481",
+    "fonte": "Público",
+    "data": "2026-09-28T23:10:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tróia, o laboratório que Portugal soube construir",
+  "resumo": "O Centro de Experimentação Operacional da Marinha gere hoje a Zona Livre Tecnológica Infante D. Henrique, e Portugal deixou de ser apenas comprador de tecnologia de defesa para passar a ser o sítio onde outros a validam.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-09-28T23:08:48+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Tróia, o laboratório que Portugal soube construir",
+    "link": "https://jornaleconomico.sapo.pt/noticias/troia-o-laboratorio-que-portugal-soube-construir/",
+    "fonte": "Jornal Económico",
+    "data": "2026-09-28T23:08:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O tapete vermelho e a nova ordem mundial",
+  "resumo": "A visita de Xi Jinping a Washington não eliminou as disputas sobre Taiwan ou tecnologia. Mostrou, sim, que até uma relação competitiva precisa de conversa. Nenhuma tarifa substitui a diplomacia entre as duas maiores potências do mundo.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-09-28T23:06:38+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "O tapete vermelho e a nova ordem mundial",
+    "link": "https://jornaleconomico.sapo.pt/noticias/o-tapete-vermelho-e-a-nova-ordem-mundial/",
+    "fonte": "Jornal Económico",
+    "data": "2026-09-28T23:06:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O que fazer com as estatísticas da Educação?",
+  "resumo": "O problema não é o PISA, mas o uso que dele fazemos. A cada ciclo, o PISA diz-nos onde estamos. Nunca nos disse, nem pode dizer, como aqui chegámos.",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T23:05:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "O que fazer com as estatísticas da Educação?",
+    "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/estatisticas-educacao-2189469",
+    "fonte": "Público",
+    "data": "2026-09-28T23:05:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "E Marcelo deu graças a Deus por já não ser Presidente",
+  "resumo": "O caso das gémeas é bem ilustrativo do país do silêncio e das cunhas, ainda que camuflado de solidariedade e boas intenções. Opinião de João Miguel Tavares",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T23:00:01+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "E Marcelo deu graças a Deus por já não ser Presidente",
+    "link": "https://www.publico.pt/2026/09/29/opiniao/opiniao/marcelo-agradeceu-deus-ja-nao-presidente-2189570",
+    "fonte": "Público",
+    "data": "2026-09-28T23:00:01+00:00"
+   }
+  ]
+ }
+]

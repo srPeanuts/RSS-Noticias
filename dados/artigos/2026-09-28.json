@@ -5916,11 +5916,11 @@
   "categoria": "economia"
  },
  {
-  "titulo": "O que se sabe do Orçamento? Chega salienta \"falta de medidas\", PS valoriza verbas para cobrir fim do PRR",
-  "link": "https://expresso.pt/partidos-politicos/2026-09-28-o-que-se-sabe-do-orcamento--chega-salienta-falta-de-medidas-ps-valoriza-verbas-para-cobrir-fim-do-prr-cbc12fe2",
-  "resumo": "Governo reuniu-se com os dois maiores partidos da oposição para apresentar dados genéricos do Orçamento do Estado para 2027. Previsão inclui excedente de 0,2%, crescimento de 2% e inflação ao nível do corrente ano",
+  "titulo": "O que se sabe do Orçamento? Excedente entre 0,1 e 0,2%, crescimento de 2% e inflação \"subavaliada\"",
+  "link": "https://expresso.pt/partidos-politicos/2026-09-28-o-que-se-sabe-do-orcamento--excedente-entre-01-e-02-crescimento-de-2-e-inflacao-subavaliada-cbc12fe2",
+  "resumo": "Governo reuniu-se com os dois maiores partidos da oposição para apresentar dados genéricos do Orçamento do Estado para 2027. Chega salienta \"falta de medidas\", PS valoriza verbas para cobrir fim do PRR",
   "fonte": "Expresso",
-  "autor": "Agência Lusa",
+  "autor": "João Pedro Henriques",
   "data": "2026-09-28T19:52:59+01:00",
   "cats_feed": [
    "Partidos Políticos"
@@ -6410,6 +6410,122 @@
    "Fora de Casa",
    "Monarquia",
    "Porto"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo e sindicatos acordam novo Regime do Ensino de Português no Estrangeiro",
+  "link": "https://www.publico.pt/2026/09/28/sociedade/noticia/governo-sindicatos-acordam-novo-regime-ensino-portugues-estrangeiro-2189626",
+  "resumo": "FNE diz que em matéria de salários “haverá uma valorização que rondará, em média, cerca de 20% até 2029”. E elogia “a transparência e a valorização dos procedimentos”, nomeadamente os de recrutamento.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-28T22:51:21+00:00",
+  "cats_feed": [
+   "Sindicatos"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "\"Cumpram!\": PSP e GNR manifestam-se no Porto antes de negociações com o Governo",
+  "link": "https://expresso.pt/seguranca/2026-09-28-cumpram-psp-e-gnr-manifestam-se-no-porto-antes-de-negociacoes-com-o-governo-b90efadc",
+  "resumo": "Sem palavras de ordem, mas com mensagens claras nos cartazes, cerca de 200 polícias e guardas concentraram-se esta segunda-feira na Avenida dos Aliados, no Porto, para pressionar o Governo a avançar com a reestruturação das carreiras e a revisão do sistema remuneratório",
+  "fonte": "Expresso",
+  "autor": "Expresso",
+  "data": "2026-09-28T22:29:38+01:00",
+  "cats_feed": [
+   "Segurança"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Fatura com juros da dívida pode subir quase 50% até 2030, avisa CFP",
+  "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/fatura-com-juros-da-divida-pode-subir-quase-50-ate-2030-avisa-cfp",
+  "resumo": "Embora Portugal tenha um dos \"spreads\" mais baixos da Zona Euro, a fatura com juros vai agravar-se até 2030, de 6,3 mil milhões para 9,4 mil milhões de euros por ano. Corrida global ao financiamento, condições mais agravadas e maiores défices explicam. Aviso é deixado pelo CFP.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T23:30:00+01:00",
+  "cats_feed": [
+   "Finanças Públicas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "O efeito Maricarmen",
+  "link": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/o-efeito-maricarmen",
+  "resumo": "As medidas para a habitação têm-se resumido quase a dogma e doutrina. Iniciativas práticas com incentivos à construção são quase inexistentes.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T23:00:00+01:00",
+  "cats_feed": [
+   "Diana Ramos"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Desperdício alimentar aumentou 12% nos últimos cinco anos em Portugal",
+  "link": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/desperdicio-alimentar-aumentou-12-nos-ultimos-cinco-anos-em-portugal",
+  "resumo": "País deita fora 1,82 milhões de toneladas de alimentos por ano, com as famílias responsáveis por quase dois terços do total. Todos os dias, são mais de 10 milhões de euros deitados ao lixo.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-28T22:51:05+01:00",
+  "cats_feed": [
+   "Ambiental"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "\"Em audiência de julgamento, Marcelo Rebelo de Sousa pode não prestar declarações. O filho dele é arguido\"",
+  "link": "https://cnnportugal.iol.pt/videos/em-audiencia-de-julgamento-marcelo-rebelo-de-sousa-pode-nao-prestar-declaracoes-o-filho-dele-e-arguido/6abad4790cf299bc2953da7e",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T23:39:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Caso das gémeas. \"Esta ação só aconteceu porque Marcelo Rebelo de Sousa deu azo a que ela se propiciasse\"",
+  "link": "https://cnnportugal.iol.pt/videos/caso-das-gemeas-esta-acao-so-aconteceu-porque-marcelo-rebelo-de-sousa-deu-azo-a-que-ela-se-propiciasse/6abade5a0cf22b9f8904d0ab",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T23:38:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Mário Centeno não quer ser primeiro-ministro, mas tem \"uma posição muito forte contra o 'nunca'\"",
+  "link": "https://cnnportugal.iol.pt/videos/mario-centeno-nao-quer-ser-primeiro-ministro-mas-tem-uma-posicao-muito-forte-contra-o-nunca/6abae21f0cf23b0ed4fd9bb0",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-28T23:30:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Em 2025, quatro em cada dez interrupções da gravidez foram por mulheres estrangeiras",
+  "link": "https://24noticias.sapo.pt/saude/artigos/em-2025-quatro-em-cada-dez-interrupcoes-da-gravidez-foram-por-mulheres-estrangeiras",
+  "resumo": "Mais de quatro em cada dez interrupções da gravidez em 2025 foram realizadas por mulheres estrangeiras, revelou, esta segunda-feira, a Direção-Geral da Saúde (DGS), que pede respostas adequadas à diversidade linguística, social e cultural nessa área. O conteúdo Em 2025, quatro em cada dez interrupções da gravidez foram por mulheres estrangeiras aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-28T22:25:15+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Saúde",
+   "Vida",
+   "gravidez",
+   "Interrupção da gravidez",
+   "SNS"
   ],
   "categoria_forcada": "",
   "categoria": "sociedade"
