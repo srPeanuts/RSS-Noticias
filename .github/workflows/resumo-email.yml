@@ -1,17 +1,20 @@
 name: Resumo diario por email
+# Às 9:30 de Lisboa: recolhe notícias frescas, confirma que a recolha correu bem e só então envia.
+# Corre às 8:30 e 9:30 UTC; só a execução que cai às 9h em Lisboa faz alguma coisa
+# (assim fica certo no horário de verão e de inverno).
 on:
-  workflow_run:
-    workflows: ["Atualizar noticias"]
-    types: [completed]
   schedule:
     - cron: "30 8 * * *"
     - cron: "30 9 * * *"
   workflow_dispatch: {}
 permissions:
-  contents: read
+  contents: write
+# o mesmo grupo da "Atualizar noticias": as duas nunca correm ao mesmo tempo
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
 jobs:
   enviar:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -20,18 +23,36 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: Dia em Lisboa
-        id: dia
-        run: echo "data=$(TZ=Europe/Lisbon date +%F)" >> "$GITHUB_OUTPUT"
-      - name: Ja enviamos o resumo hoje?
-        id: marcador
-        uses: actions/cache@v4
-        with:
-          path: .email-enviado
-          key: resumo-email-${{ steps.dia.outputs.data }}
+          cache: pip
+
+      - name: E a hora do envio?
+        id: hora
+        run: python scripts/enviar_email.py --hora
+
+      - name: Instalar dependencias
+        if: steps.hora.outputs.enviar == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Recolher noticias (tenta 2 vezes)
+        if: steps.hora.outputs.enviar == 'true'
+        run: python scripts/atualizar.py || (echo "A primeira tentativa falhou; nova tentativa daqui a 2 minutos..." && sleep 120 && python scripts/atualizar.py)
+
+      - name: Confirmar que a recolha correu bem
+        if: steps.hora.outputs.enviar == 'true'
+        run: python scripts/enviar_email.py --verificar
+
+      - name: Guardar resultados
+        if: steps.hora.outputs.enviar == 'true'
+        run: |
+          git config user.name atualizador
+          git config user.email atualizador@users.noreply.github.com
+          git add dados docs/data
+          git diff --cached --quiet || git commit -m "Atualizacao automatica (antes do email)"
+          git pull --rebase --autostash
+          git push
+
       - name: Enviar resumo
-        id: enviar
-        if: steps.marcador.outputs.cache-hit != 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.hora.outputs.enviar == 'true'
         run: python scripts/enviar_email.py
         env:
           EMAIL_UTILIZADOR: ${{ secrets.EMAIL_UTILIZADOR }}
@@ -40,6 +61,3 @@ jobs:
           EMAIL_SMTP: ${{ secrets.EMAIL_SMTP }}
           EMAIL_PORTA: ${{ secrets.EMAIL_PORTA }}
           SITE_URL: ${{ vars.SITE_URL }}
-      - name: Marcar envio do dia
-        if: steps.enviar.outputs.enviado == 'true'
-        run: echo enviado > .email-enviado
