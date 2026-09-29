@@ -1,6 +1,5 @@
 [
  {
-Keep current branch topic block for this conflict: the mainline theme set is the fuller generated list and reflects the later aggregation pass.
   "titulo": "Preço dos combustíveis vai descer esta segunda-feira",
   "resumo": "O gasóleo deverá baixar cinco cêntimos por litro e a gasolina dois cêntimos. Os dados são da Anarec e já têm em conta os descontos do Governo sobre o Imposto sobre os Produtos Petrolíferos e Energéticos.",
   "categoria": "economia",
@@ -33,12 +32,14 @@ Keep current branch topic block for this conflict: the mainline theme set is the
   ]
  },
  {
-Keep current branch topic block for this conflict: preserve the current branch theme grouping and metadata, which is more complete than the incoming fragment.
   "titulo": "Carneiro acusa Governo de querer \"liberalizar desalojamento\" à margem da AR",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-Keep current branch topic block for this conflict: preserve the mainline keywords and source metadata; the incoming branch's keyword list is a partial alternative.
+   "querer",
+   "carneiro acusa",
+   "acusa governo",
+   "desalojamento margem"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -67,9 +68,9 @@ Keep current branch topic block for this conflict: preserve the mainline keyword
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "pcp",
+   "20 euros",
    "comunidades",
-   "euros",
+   "pcp",
    "intermunicipais"
   ],
   "fontes": [
@@ -130,9 +131,10 @@ Keep current branch topic block for this conflict: preserve the mainline keyword
   "resumo": "A Guarda Nacional Republicana (GNR) disse hoje que registou mais de 2.600 casos de abandono e maus-tratos a animais desde o início de 2024 em todo o território nacional.",
   "categoria": "sociedade",
   "palavras": [
-   "600",
    "animais",
-Keep current branch topic block for this conflict: keep the mainline keyword set for the 2026-09-27 topic aggregation.
+   "600 casos",
+   "2024",
+   "desde"
   ],
   "fontes": [
    "RTP"
@@ -156,7 +158,14 @@ Keep current branch topic block for this conflict: keep the mainline keyword set
   ]
  },
  {
-Keep current branch topic block for this conflict: preserve the complete current-branch topic object and its aggregated keyword set.
+  "titulo": "Buscas na PJ? \"Continua a haver uma informalidade inaceitável\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "informalidade",
+   "buscas pj",
+   "haver",
+   "continua"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -178,7 +187,10 @@ Keep current branch topic block for this conflict: preserve the complete current
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-Keep current branch topic block for this conflict: the current branch captures the complete generated topic metadata.
+   "macau reformar-se",
+   "2029",
+   "publicos",
+   "funcionarios"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -196,7 +208,14 @@ Keep current branch topic block for this conflict: the current branch captures t
   ]
  },
  {
-Keep current branch topic block for this conflict: the current branch's fuller theme metadata is the correct merge result.
+  "titulo": "Festival Boom promoveu dia aberto à comunidade",
+  "resumo": "A Herdade da Granja, em Idanha-a-Nova, abriu as portas. A entrada foi gratuita.",
+  "categoria": "sociedade",
+  "palavras": [
+   "festival",
+   "comunidade",
+   "aberto",
+   "boom"
   ],
   "fontes": [
    "RTP"
@@ -209,7 +228,7 @@ Keep current branch topic block for this conflict: the current branch's fuller t
     "titulo": "Festival Boom promoveu dia aberto à comunidade",
     "link": "https://www.rtp.pt/noticias/cultura/festival-boom-promoveu-dia-aberto-a-comunidade_v1768045",
     "fonte": "RTP",
-Keep current branch topic block for this conflict: keep the current branch's more complete theme description and metadata.
+    "data": "2026-09-27T16:03:48+01:00"
    }
   ]
  },
@@ -220,8 +239,8 @@ Keep current branch topic block for this conflict: keep the current branch's mor
   "palavras": [
    "arte",
    "antiguidades",
-   "evento reuniu",
-   "contemporanea moderna"
+   "reuniu",
+   "moderna"
   ],
   "fontes": [
    "RTP"
@@ -268,7 +287,10 @@ Keep current branch topic block for this conflict: keep the current branch's mor
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-Keep current branch topic block for this conflict: the current branch's topic wording is the final generated version.
+   "porto passe",
+   "passe verde",
+   "montenegro caminho",
+   "verde medida"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -290,10 +312,10 @@ Keep current branch topic block for this conflict: the current branch's topic wo
   "resumo": "O Presidente da República felicitou hoje os 10 jovens da seleção nacional que participaram no Mundial das Profissões, reconhecendo \"o trabalho e a dedicação\" que permitiram alcançar a melhor classificação de sempre do país nesta competição.",
   "categoria": "economia",
   "palavras": [
-   "presidente",
-   "profissoes",
+   "republica",
    "mundial",
-   "republica"
+   "presidente",
+   "profissoes"
   ],
   "fontes": [
    "RTP"
@@ -340,8 +362,10 @@ Keep current branch topic block for this conflict: the current branch's topic wo
   "resumo": "São Francisco, Estados Unidos, 27 set 2026 (Lusa) -- O secretário do Tesouro dos Estados Unidos (EUA) afirmou ter enviado emissários por todo o mundo a exigir medidas para isolar economicamente Teerão e celebrou as restrições contra os bancos e a aviação do Irão.",
   "categoria": "economia",
   "palavras": [
-Keep current branch topic block for this conflict: preserve the current branch's fully aggregated theme metadata.
-   "eua"
+   "isolar",
+   "teerao",
+   "eua",
+   "tesouro"
   ],
   "fontes": [
    "RTP"
@@ -388,7 +412,10 @@ Keep current branch topic block for this conflict: preserve the current branch's
   "resumo": "Um avião que seguia rumo a Boston fez uma aterragem de emergência no aeroporto do Porto esta tarde, após ter sido detetado fumo na cabine.",
   "categoria": "sociedade",
   "palavras": [
-Keep current branch topic block for this conflict: keep the current branch's theme object and keyword set, which are newer.
+   "aviao",
+   "aeroporto",
+   "emergencia",
+   "sa"
   ],
   "fontes": [
    "RTP"
@@ -412,7 +439,8 @@ Keep current branch topic block for this conflict: keep the current branch's the
   "palavras": [
    "cuidados",
    "paliativos",
-Keep current branch topic block for this conflict: preserve the current branch's final topic aggregation and source links.
+   "equipa",
+   "doentes"
   ],
   "fontes": [
    "RTP"
@@ -434,7 +462,10 @@ Keep current branch topic block for this conflict: preserve the current branch's
   "resumo": "Sete pessoas foram detidas na última noite em Mem Martins, no concelho de Sintra, em Lisboa, por terem arremessado pedras contra polícias, atingindo dois agentes, no final de um evento de música, anunciou hoje a PSP.",
   "categoria": "sociedade",
   "palavras": [
-Keep current branch topic block for this conflict: keep the current branch version; the incoming branch's keywords are alternate fragments.
+   "policias",
+   "final",
+   "sete",
+   "sintra"
   ],
   "fontes": [
    "RTP"
@@ -458,7 +489,7 @@ Keep current branch topic block for this conflict: keep the current branch versi
   "palavras": [
    "crise combustiveis",
    "analise",
-   "custo",
+   "aumenta custo",
    "vida"
   ],
   "fontes": [
@@ -484,7 +515,7 @@ Keep current branch topic block for this conflict: keep the current branch versi
    "casas",
    "residentes",
    "compradas",
-Keep current branch topic block for this conflict: preserve the mainline theme metadata and final article ordering.
+   "adquiridas"
   ],
   "fontes": [
    "RTP"
@@ -506,10 +537,10 @@ Keep current branch topic block for this conflict: preserve the mainline theme m
   "resumo": "O Parlamento vai discutir e votar na generalidade esta semana as alterações à lei do arrendamento propostas pelo Governo. Há novas regras para as rendas antigas e maior flexibilidade nos contratos.",
   "categoria": "economia",
   "palavras": [
-   "lei arrendamento",
    "votar",
-   "parlamento",
-   "alteracoes"
+   "alteracoes",
+   "arrendamento",
+   "parlamento"
   ],
   "fontes": [
    "RTP"
@@ -531,7 +562,10 @@ Keep current branch topic block for this conflict: preserve the mainline theme m
   "resumo": "O advogado e antigo ministro do Trabalho Eusébio Marques de Carvalho morreu na madrugada de sábado, aos 91 anos, disse hoje à Lusa fonte familiar.",
   "categoria": "politica",
   "palavras": [
-Keep current branch topic block for this conflict: keep the current branch's generated topic object over the partial incoming variant.
+   "eusebio",
+   "ministro trabalho",
+   "carvalho",
+   "marques"
   ],
   "fontes": [
    "RTP"
@@ -544,7 +578,7 @@ Keep current branch topic block for this conflict: keep the current branch's gen
     "titulo": "Antigo ministro do Trabalho Eusébio Marques de Carvalho morre aos 91 anos",
     "link": "https://www.rtp.pt/noticias/politica/antigo-ministro-do-trabalho-eusebio-marques-de-carvalho-morre-aos-91-anos_n1768060",
     "fonte": "RTP",
-Keep current branch topic block for this conflict: final result stays on the current branch's more complete 2026-09-27 topic set.
+    "data": "2026-09-27T18:53:36+01:00"
    }
   ]
  }

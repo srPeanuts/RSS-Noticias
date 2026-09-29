@@ -2,7 +2,10 @@
  {
   "nome": "Público",
   "slug": "publico",
-Keep current branch: use the 2026-09-29 Público cover metadata and date, not the stale 2026-09-28 incoming image.
+  "imagem": "https://imgs.vercapas.com/covers/publico/2026/publico-2026-09-29-15b499c0.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/publico/2026/publico-2026-09-29-15b499c0.jpg",
+  "pagina": "https://www.vercapas.com/capa/publico.html",
+  "data": "2026-09-29"
  },
  {
   "nome": "Expresso",
@@ -15,20 +18,26 @@ Keep current branch: use the 2026-09-29 Público cover metadata and date, not th
  {
   "nome": "Diário de Notícias",
   "slug": "diario-de-noticias",
-Keep current branch: use the 2026-09-29 Diário de Notícias cover metadata and date, not the stale 2026-09-28 incoming image.
+  "imagem": "https://imgs.vercapas.com/covers/diario-de-noticias/2026/diario-de-noticias-2026-09-29-d4865852.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/diario-de-noticias/2026/diario-de-noticias-2026-09-29-d4865852.jpg",
+  "pagina": "https://www.vercapas.com/capa/diario-de-noticias.html",
+  "data": "2026-09-29"
  },
  {
   "nome": "Jornal de Notícias",
   "slug": "jornal-de-noticias",
-Keep current branch: use the 2026-09-29 Jornal de Notícias cover metadata and date, not the stale 2026-09-28 incoming image.
+  "imagem": "https://imgs.vercapas.com/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-09-29-cbc57cf8.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-09-29-cbc57cf8.jpg",
+  "pagina": "https://www.vercapas.com/capa/jornal-de-noticias.html",
+  "data": "2026-09-29"
  },
  {
   "nome": "Correio da Manhã",
   "slug": "correio-da-manha",
-  "imagem": "https://imgs.vercapas.com/covers/correio-da-manha/2026/correio-da-manha-2026-09-28-78264503.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/correio-da-manha/2026/correio-da-manha-2026-09-28-78264503.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/correio-da-manha/2026/correio-da-manha-2026-09-29-da8cda25.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/correio-da-manha/2026/correio-da-manha-2026-09-29-da8cda25.jpg",
   "pagina": "https://www.vercapas.com/capa/correio-da-manha.html",
-  "data": "2026-09-28"
+  "data": "2026-09-29"
  },
  {
   "nome": "Nascer do SOL",
@@ -49,7 +58,10 @@ Keep current branch: use the 2026-09-29 Jornal de Notícias cover metadata and d
  {
   "nome": "Jornal Económico",
   "slug": "jornal-economico",
-Keep current branch: use the 2026-09-29 Jornal Económico cover metadata and date, not the stale 2026-09-28 incoming image.
+  "imagem": "https://imgs.vercapas.com/covers/jornal-economico/2026/jornal-economico-2026-09-29-e153f349.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-economico/2026/jornal-economico-2026-09-29-e153f349.jpg",
+  "pagina": "https://www.vercapas.com/capa/jornal-economico.html",
+  "data": "2026-09-29"
  },
  {
   "nome": "Expresso Economia",

@@ -1,5 +1,5 @@
 {
-Keep current branch: set "atualizado": "2026-09-29T01:57+01:00"; it reflects the newest generated index build for the mainline branch.
+ "atualizado": "2026-09-29T10:43+01:00",
  "hoje": "2026-09-29",
  "dias": [
   "2026-09-27",
@@ -16,10 +16,10 @@ Keep current branch: set "atualizado": "2026-09-29T01:57+01:00"; it reflects the
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
   "http://feeds.dn.pt/DN-Ultimas": 20,
-  "https://www.noticiasaominuto.com/rss/politica": 80,
-  "https://www.noticiasaominuto.com/rss/economia": 80,
+  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50,
-  "https://24noticias.sapo.pt/feed": 25,
+  "https://24noticias.sapo.pt/feed": "erro HTTP 403",
   "http://feeds.jn.pt/JN-Ultimas": 20,
   "http://feeds.tsf.pt/TSF-Ultimas": 20
  },
