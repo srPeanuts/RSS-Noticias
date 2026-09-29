@@ -1,4 +1,4 @@
-from atualizar import classificar, e_estrangeira, e_opiniao, limitar_artigos
+from atualizar import classificar, e_estrangeira, e_opiniao
 
 
 def test_governo_pelo_titulo():
@@ -43,14 +43,3 @@ def test_opiniao_pela_url():
 
 def test_categoria_forcada_do_feed():
     assert classificar("Título genérico qualquer", "sem palavras especiais", [], "economia", "") == "economia"
-
-
-def test_limitar_artigos_fica_com_os_mais_recentes():
-    artigos = [{"data": f"2026-09-0{i}T10:00:00+00:00", "titulo": str(i)} for i in range(1, 6)]
-    out = limitar_artigos(artigos, n=2)
-    assert [a["titulo"] for a in out] == ["5", "4"]
-
-
-def test_limitar_artigos_nao_corta_feeds_pequenos():
-    artigos = [{"data": "2026-09-28T10:00:00+00:00", "titulo": "a"}]
-    assert limitar_artigos(artigos, n=80) == artigos

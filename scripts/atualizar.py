@@ -38,7 +38,6 @@ RAIZ = Path(__file__).resolve().parent.parent
 DADOS = RAIZ / "dados"            # histórico bruto (artigos e temas por dia)
 SITE = RAIZ / "docs" / "data"     # o que a página web lê
 LISBOA = ZoneInfo("Europe/Lisbon")
-MAX_ARTIGOS_POR_FEED = 80         # o Notícias ao Minuto chega a devolver centenas
 MAX_PARALELO = 5
 
 CATEGORIAS = ["politica", "governo", "economia", "sociedade", "opiniao"]
@@ -241,13 +240,6 @@ def _data(valor: str):
     return d
 
 
-def limitar_artigos(artigos: list, n: int = MAX_ARTIGOS_POR_FEED) -> list:
-    """Fica só com as N entradas mais recentes de um feed, para nenhum jornal dominar o agrupamento."""
-    if len(artigos) <= n:
-        return artigos
-    return sorted(artigos, key=lambda a: a.get("data", ""), reverse=True)[:n]
-
-
 def ler_feed(feed: dict) -> list:
     r = obter(feed["url"], timeout=25)
     raiz = ET.fromstring(r.content)
@@ -283,7 +275,7 @@ def ler_feed(feed: dict) -> list:
             "data": (data or datetime.now(timezone.utc)).isoformat(),
             "cats_feed": [c for c in cats if c], "categoria_forcada": feed.get("categoria", ""),
         })
-    return limitar_artigos(artigos)
+    return artigos
 
 
 def _erro_feed(e: Exception) -> str:

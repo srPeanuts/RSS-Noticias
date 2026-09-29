@@ -146,8 +146,9 @@ def construir(n_por_categoria: int = 3) -> tuple[str, str, str]:
     return assunto, html, "\n".join(texto)
 
 
-HORA_ENVIO = 9          # fallback do cron (8:30 e 9:30 UTC); só uma cai nesta hora em Lisboa
-HORA_MANHA_MAX = 7      # primeira atualização do dia (cron 6:05 UTC → 6h/7h Lisboa)
+HORA_ENVIO = 9          # hora de Lisboa; o agendamento corre às 8:30 e 9:30 UTC e só uma delas cai nesta hora
+RECOLHA_MAX_MINUTOS = 30   # a recolha que antecede o envio tem de ter sido feita há menos disto
+RECOLHA_MIN_FONTES = 0.5   # e pelo menos metade dos feeds tem de ter respondido com notícias
 
 
 def _saida_github(chave: str, valor: str) -> None:
@@ -157,34 +158,69 @@ def _saida_github(chave: str, valor: str) -> None:
             f.write(f"{chave}={valor}\n")
 
 
-def dados_sao_de_hoje(agora: datetime | None = None) -> bool:
-    agora = agora or datetime.now(LISBOA)
-    indice = ler(SITE / "indice.json", {}) or {}
-    return indice.get("hoje") == agora.date().isoformat()
-
-
 def deve_enviar(agora: datetime | None = None, evento: str | None = None) -> bool:
-    """Quando o workflow deve mesmo enviar (vs. só gerar pré-visualização local)."""
+    """No envio agendado, só na execução que cai às HORA_ENVIO em Lisboa (resolve a mudança de hora).
+    Envios manuais (Run workflow) enviam sempre."""
     agora = agora or datetime.now(LISBOA)
     evento = evento if evento is not None else os.environ.get("GITHUB_EVENT_NAME", "")
     if evento == "schedule":
         return agora.hour == HORA_ENVIO
-    if evento == "workflow_run":
-        return agora.hour <= HORA_MANHA_MAX
     return True
 
 
+def verificar_recolha(agora: datetime | None = None) -> tuple[bool, list]:
+    """Confirma que a recolha de notícias acabada de fazer correu bem. Devolve (ok, mensagens)."""
+    agora = agora or datetime.now(LISBOA)
+    indice = ler(SITE / "indice.json", {}) or {}
+    problemas, info = [], []
+
+    if indice.get("hoje") != agora.date().isoformat():
+        problemas.append(f"os dados publicados são de {indice.get('hoje')}, não de hoje")
+    try:
+        atualizado = datetime.fromisoformat(indice["atualizado"])
+        minutos = (agora - atualizado).total_seconds() / 60
+        info.append(f"recolha feita às {atualizado:%H:%M}")
+        if minutos > RECOLHA_MAX_MINUTOS:
+            problemas.append(f"a última recolha foi há {minutos:.0f} minutos")
+    except Exception:
+        problemas.append("não foi possível ler a hora da última recolha")
+
+    fontes = indice.get("fontes", {})
+    ok = sum(1 for v in fontes.values() if isinstance(v, int) and v > 0)
+    info.append(f"{ok} de {len(fontes)} feeds com notícias")
+    if not fontes or ok < RECOLHA_MIN_FONTES * len(fontes):
+        problemas.append(f"só {ok} de {len(fontes)} feeds responderam")
+
+    dia = ler(SITE / "dias" / f"{agora.date().isoformat()}.json", {}) or {}
+    n = dia.get("n_artigos", 0)
+    info.append(f"{n} notícias hoje")
+    if not n:
+        problemas.append("não há notícias de hoje")
+
+    return (not problemas), (problemas or info)
+
+
 def main():
+    argumentos = sys.argv[1:]
     agora = datetime.now(LISBOA)
     evento = os.environ.get("GITHUB_EVENT_NAME", "")
-    if not deve_enviar(agora, evento):
-        if evento == "schedule":
-            print(f"São {agora:%H:%M} em Lisboa: este agendamento não é o das {HORA_ENVIO}h. Nada a enviar.")
-        else:
-            print(f"São {agora:%H:%M} em Lisboa: não é a primeira atualização do dia. Nada a enviar.")
+
+    # --hora: diz ao workflow se esta execução é a das 9h (para não recolher notícias à toa)
+    if "--hora" in argumentos:
+        enviar = deve_enviar(agora, evento)
+        print(f"São {agora:%H:%M} em Lisboa: " + ("é a hora do envio." if enviar
+              else f"este agendamento não é o das {HORA_ENVIO}h. Nada a fazer."))
+        _saida_github("enviar", "true" if enviar else "false")
         return 0
-    if evento in ("schedule", "workflow_run") and not dados_sao_de_hoje(agora):
-        print("Os dados publicados não são de hoje: nada a enviar.")
+
+    # --verificar: confirma que a recolha que antecede o envio correu bem (falha o workflow se não)
+    if "--verificar" in argumentos:
+        ok, mensagens = verificar_recolha(agora)
+        print(("✓ Recolha confirmada: " if ok else "✗ A recolha falhou: ") + "; ".join(mensagens))
+        return 0 if ok else 1
+
+    if not deve_enviar(agora, evento):
+        print(f"São {agora:%H:%M} em Lisboa: este agendamento não é o das {HORA_ENVIO}h. Nada a enviar.")
         return 0
     assunto, html, texto = construir()
     (RAIZ / "resumo_email.html").write_text(html, encoding="utf-8")
@@ -215,7 +251,6 @@ def main():
             s.login(utilizador, password)
             s.send_message(msg)
     print(f"Email enviado para {para}: {assunto}")
-    _saida_github("enviado", "true")
     return 0
 
 
