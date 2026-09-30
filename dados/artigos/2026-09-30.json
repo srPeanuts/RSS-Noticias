@@ -494,8 +494,8 @@
   "categoria": "economia"
  },
  {
-  "titulo": "Foram identificadas várias falhas técnicas no processo de classificação dos exames nacionais",
-  "link": "https://www.rtp.pt/noticias/pais/foram-identificadas-varias-falhas-tecnicas-no-processo-de-classificacao-dos-exames-nacionais_v1768635",
+  "titulo": "Identificadas falhas técnicas na classificação dos exames nacionais",
+  "link": "https://www.rtp.pt/noticias/pais/identificadas-falhas-tecnicas-na-classificacao-dos-exames-nacionais_v1768635",
   "resumo": "As conclusões são de dois relatórios: um do Júri Nacional de Exames e outro da consultora Deloitte.",
   "fonte": "RTP",
   "autor": "",
@@ -520,8 +520,8 @@
   "categoria": "sociedade"
  },
  {
-  "titulo": "Seguro voltou a defender uma resposta europeia à crise dos combustíveis",
-  "link": "https://www.rtp.pt/noticias/pais/seguro-voltou-a-defender-uma-resposta-europeia-a-crise-dos-combustiveis_n1768611",
+  "titulo": "Seguro volta a defender resposta europeia à crise dos combustíveis",
+  "link": "https://www.rtp.pt/noticias/pais/seguro-volta-a-defender-resposta-europeia-a-crise-dos-combustiveis_n1768611",
   "resumo": "O Presidente da República está em Estrasburgo para assinalar os 50 anos da adesão de Portugal ao Conselho da Europa, aos eurodeputados, António José Seguro voltou a defender uma resposta europeia à crise dos combustíveis e deixou o alerta para a necessidade de diálogo internacional e defendeu valores de humanismo e de paz.",
   "fonte": "RTP",
   "autor": "",
@@ -1632,5 +1632,2064 @@
   "cats_feed": [],
   "categoria_forcada": "",
   "categoria": "sociedade"
+ },
+ {
+  "titulo": "Sindicatos desafiam Governo a aumentar salários da função pública entre 6,5% e 15%",
+  "link": "https://www.publico.pt/2026/09/30/economia/noticia/sindicatos-desafiam-governo-aumentar-salarios-funcao-publica-65-15-2189872",
+  "resumo": "Acordo plurianual prevê aumentos mínimos de 2,3% em 2027. Sindicatos reclamam mais, com a Frente Comum a defender aumentos de 15%. Negociações com o executivo começam a 6 de Outubro.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-30T18:28:38+00:00",
+  "cats_feed": [
+   "Função Pública"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Actor Nuno Homem de Sá condenado a segunda pena de prisão suspensa por violência doméstica",
+  "link": "https://www.publico.pt/2026/09/30/impar/noticia/actor-nuno-homem-sa-condenado-pena-prisao-suspensa-violencia-domestica-2189868",
+  "resumo": "Além da pena de dois anos e três meses, o actor foi condenado a pagar uma indemnização de 1750 euros. Em Junho, o Tribunal de Torres Vedras condenou-o a uma pena de três anos relativa a outro caso.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-30T18:11:06+00:00",
+  "cats_feed": [
+   "Violência doméstica"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Proposta para acelerar despejos traz “segurança” para inquilinos, diz Governo",
+  "link": "https://www.publico.pt/2026/09/30/economia/noticia/proposta-acelerar-despejos-traz-seguranca-inquilinos-governo-2189863",
+  "resumo": "Secretária de Estado da Habitação diz que a proposta para acelerar despejos e reduzir prazos mínimos dos contratos de arrendamento traz “confiança” para senhorios e “segurança” para inquilinos.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-09-30T17:34:28+00:00",
+  "cats_feed": [
+   "Habitação"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Teatro & Dança: Bater palmas e dar estaladas é a proposta política de \"Clap & Slap\"",
+  "link": "https://expresso.pt/teatro-danca/2026-09-30-teatro--danca-bater-palmas-e-dar-estaladas-e-a-proposta-politica-de-clap--slap-dbd30cd4",
+  "resumo": "“Clap & Slap”, da lituana Agnietė Lisičkinaitė e do bielorrusso Igor Shugaleev, traz a guerra e a cultura de protesto a Lisboa",
+  "fonte": "Expresso",
+  "autor": "Claudia Galhós",
+  "data": "2026-09-30T20:00:00+01:00",
+  "cats_feed": [
+   "Teatro & Dança"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Para que serve a escola: uma história pessoal",
+  "link": "https://expresso.pt/geracao-e/2026-09-30-para-que-serve-a-escola-uma-historia-pessoal-d27ac76b",
+  "resumo": "Na adolescência, éramos todos diferentes. Cada vez mais. Por essa altura, fui aguçando a vocação e percebendo as mudanças. Gostava cada vez mais de umas coisas e cada vez menos de outras. A linha ia-se traçando. Ainda assim, escolhi a opção errada, para o Ensino Secundário, e penei por isso. As erradas Ciências em vez das certas Humanidades",
+  "fonte": "Expresso",
+  "autor": "Rui Pedro Gomes",
+  "data": "2026-09-30T19:45:49+01:00",
+  "cats_feed": [
+   "Geração E"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Nuno Homem de Sá volta a ser condenado: pena suspensa por violência doméstica contra ex-namorada",
+  "link": "https://expresso.pt/justica/2026-09-30-nuno-homem-de-sa-volta-a-ser-condenado-pena-suspensa-por-violencia-domestica-contra-ex-namorada-e9bfb0da",
+  "resumo": "Nuno Homem de Sá foi condenado a dois anos e três meses de prisão, com pena suspensa, por violência doméstica contra a ex-namorada Nádia Lopes. O Tribunal de Viseu considerou provado que o ator lhe causou sofrimento psicológico através de comportamentos de controlo e humilhação. Trata-se da segunda condenação por violência doméstica de Homem de Sá, depois da decisão conhecida em junho no processo de Frederica Lima.",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-30T19:35:21+01:00",
+  "cats_feed": [
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Ministra da Saúde chama médicos tarefeiros antes de fechar nova tabela de pagamentos",
+  "link": "https://expresso.pt/sociedade/saude/2026-09-30-ministra-da-saude-chama-medicos-tarefeiros-antes-de-fechar-nova-tabela-de-pagamentos-a6c856f0",
+  "resumo": "Ana Paula Martins convocou a associação dos prestadores de serviços médicos para uma reunião na próxima sexta-feira. Em cima da mesa deverão estar os novos valores por hora de trabalho, que o Governo prometeu publicar no início de outubro",
+  "fonte": "Expresso",
+  "autor": "Vera Lúcia Arreigoso",
+  "data": "2026-09-30T18:23:55+01:00",
+  "cats_feed": [
+   "Saúde"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Quanto vai subir a fatura do gás a partir de outubro?",
+  "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-09-30-quanto-vai-subir-a-fatura-do-gas-a-partir-de-outubro--df9a8eb8",
+  "resumo": "O mês de outubro traz uma nova subida nos custos da energia para milhares de famílias. Desta vez, o aumento chega à fatura do gás natural. Quem vai ser afetado e quanto vai pagar a mais? Ouça o novo episódio do Economia dia a dia, podcast diário do Expresso conduzido por Juliana Simões",
+  "fonte": "Expresso",
+  "autor": "Juliana Simões",
+  "data": "2026-09-30T18:20:00+01:00",
+  "cats_feed": [
+   "Economia dia a dia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo saúda \"decisão muito positiva\" do PS, liberais insistem no \"alívio\" do bolso dos portugueses",
+  "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-09-30-governo-sauda-decisao-muito-positiva-do-ps-liberais-insistem-no-alivio-do-bolso-dos-portugueses-703ca182",
+  "resumo": "A IL garante uma posição “construtiva” no OE2027, mas reitera que o sentido de voto do partido estará dependente do \"alívio\" ou não do bolso dos portugueses e do limite ao aumento da despesa. Decisão não fará diferença, com o PS a assegurar desde já a aprovação do Orçamento",
+  "fonte": "Expresso",
+  "autor": "Liliana Coelho",
+  "data": "2026-09-30T18:04:03+01:00",
+  "cats_feed": [
+   "Orçamento do Estado 2027"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "ADSE exige autorização prévia em quase metade dos tratamentos ao cancro",
+  "link": "https://expresso.pt/sociedade/saude/2026-09-30-adse-exige-autorizacao-previa-em-quase-metade-dos-tratamentos-ao-cancro-99cb1f85",
+  "resumo": "A partir de quinta-feira, os medicamentos oncológicos sujeitos ao crivo do subsistema passam a ser 196. São 49% dos tratamentos comparticipados e menos dois do que na versão atual. A alteração surge a par com as reduções nas comparticipações pagas aos privados. A informação foi avançada pela ADSE depois de a associação de beneficiários ter enviado ao Expresso dados incorretos que mostravam que todos os tratamentos iam ficar sujeitos a autorização prévia",
+  "fonte": "Expresso",
+  "autor": "Vera Lúcia Arreigoso",
+  "data": "2026-09-30T18:00:37+01:00",
+  "cats_feed": [
+   "Saúde"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Livros: O assombro inclassificável da portuguesa Andreia C. Faria",
+  "link": "https://expresso.pt/revista/culturas/livros/2026-09-30-livros-o-assombro-inclassificavel-da-portuguesa-andreia-c.-faria-daf506a7",
+  "resumo": "Numa sucessão de textos inclassificáveis, entre lirismo contemplativo e pensamento cortante, Andreia C. Faria assina uma das mais belas e poderosas obras da literatura portuguesa dos últimos anos",
+  "fonte": "Expresso",
+  "autor": "José Mário Silva",
+  "data": "2026-09-30T18:00:00+01:00",
+  "cats_feed": [
+   "Livros"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Asteroide Apophis passa ao lado da Terra em 2028: sonda espacial que vai vigiá-lo ligada pela primeira vez",
+  "link": "https://expresso.pt/sociedade/2026-09-30-asteroide-apophis-passa-ao-lado-da-terra-em-2028-sonda-espacial-que-vai-vigia-lo-ligada-pela-primeira-vez-90341d65",
+  "resumo": "A Agência Espacial Europeia ligou pela primeira vez a RAMSES, a sonda que será enviada ao encontro do asteroide Apophis. Em abril de 2029, o corpo rochoso, com 375 metros de diâmetro, passará a apenas 32 mil quilómetros da Terra, numa aproximação rara que poderá ser observada a olho nu",
+  "fonte": "Expresso",
+  "autor": "Expresso",
+  "data": "2026-09-30T17:37:55+01:00",
+  "cats_feed": [
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Air France/KLM e Lufthansa entregaram propostas melhoradas à compra da TAP: bola fica do lado do Governo",
+  "link": "https://expresso.pt/empresas-negocios/2026-09-30-air-france-klm-e-lufthansa-entregaram-propostas-melhoradas-a-compra-da-tap-bola-fica-do-lado-do-governo-0d87b8ea",
+  "resumo": "Parpública confirma ter recebido propostas revistas e melhoradas dos dois candidatos à privatização da TAP. Vai agora avaliá-las “pelo seu mérito final absoluto” e entregar o relatório ao Governo, que deverá anunciar o novo acionista em meados de outubro. Candidatos já reagiram",
+  "fonte": "Expresso",
+  "autor": "Anabela Campos",
+  "data": "2026-09-30T17:34:31+01:00",
+  "cats_feed": [
+   "Empresas e Negócios"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Câmara de Loures cancela evento no Parque Papa Francisco devido a \"caos\" e “comportamentos não cívicos”",
+  "link": "https://expresso.pt/poder-local/2026-09-30-camara-de-loures-cancela-evento-no-parque-papa-francisco-devido-a-caos-e-comportamentos-nao-civicos-caee06a2",
+  "resumo": "Milhares de pessoas voltaram a ficar “encurraladas” à saída de um concerto em Loures, com dezenas a atravessar a linha do comboio a pé desobedecendo à PSP. Com as queixas a acumular-se, a autarquia e promotora decidiram cancelar último evento previsto num memorando entre a câmara e uma empresa que é contestado pela CDU",
+  "fonte": "Expresso",
+  "autor": "Cláudia Monarca Almeida",
+  "data": "2026-09-30T17:34:20+01:00",
+  "cats_feed": [
+   "Poder Local"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Orçamento para 2027 já está aprovado: PS diz que Montenegro deu “um passo no caminho para a estabilidade política”",
+  "link": "https://expresso.pt/parlamento/2026-09-30-orcamento-para-2027-ja-esta-aprovado-ps-diz-que-montenegro-deu-um-passo-no-caminho-para-a-estabilidade-politica-df52e753",
+  "resumo": "Socialistas consideram cumprida a exigência sobre a revisão constitucional que tinham feito a Montenegro. E salientam também como dado positivo suplementar a escolha de Paulo Mota Pinto para dirigir o processo no PSD",
+  "fonte": "Expresso",
+  "autor": "João Pedro Henriques",
+  "data": "2026-09-30T16:20:11+01:00",
+  "cats_feed": [
+   "Parlamento"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Onde comer em Amarante? Tascas, restaurantes e confeitarias de paragem obrigatória",
+  "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/sabores-portugal/2026-09-30-onde-comer-em-amarante--tascas-restaurantes-e-confeitarias-de-paragem-obrigatoria-b1936293",
+  "resumo": "Nas margens do rio Tâmega, Amarante convida a descobrir tradições, património e sabores. Entre tascas que convidam ao convívio popular e restaurantes premiados, há muito para descobrir e provar nas mesas deste concelho, também famoso pela tentadora doçaria conventual e tradicional",
+  "fonte": "Expresso",
+  "autor": "Boa Cama Boa Mesa",
+  "data": "2026-09-30T16:18:21+01:00",
+  "cats_feed": [
+   "Sabores de Portugal"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Ministra da Justiça vai ser ouvida no parlamento sobre buscas à PJ e investigação ao diretor nacional",
+  "link": "https://expresso.pt/justica/2026-09-30-ministra-da-justica-vai-ser-ouvida-no-parlamento-sobre-buscas-a-pj-e-investigacao-ao-diretor-nacional-a3d0ace0",
+  "resumo": "PSD e CDS votaram contra a audição da ministra da Justiça, mas o requerimento do Chega para uma audição urgente de Rita Alarcão Júdice foi aprovado. Em causa está o inquérito em que o diretor nacional da PJ , Carlos Cabreiro, é suspeito de falsas declarações e abuso de poder",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-30T16:15:43+01:00",
+  "cats_feed": [
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Amêndoa com mais produção, melhor qualidade e preços mais altos: \"2026 será um ano favorável para os produtores\"",
+  "link": "https://expresso.pt/economia/economia_agricultura/2026-09-30-amendoa-com-mais-producao-melhor-qualidade-e-precos-mais-altos-2026-sera-um-ano-favoravel-para-os-produtores-a3c359c6",
+  "resumo": "\"Estamos com um rendimento muito mais elevado e uma qualidade bastante boa\", diz Tiago Costa, presidente da Portugal Nuts. Com o \"aumento significativo do preço\", 2026 está a tornar-se “favorável para os produtores”",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-30T16:09:16+01:00",
+  "cats_feed": [
+   "Agricultura"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "A campanha eleitoral já começou?",
+  "link": "https://expresso.pt/opiniao/2026-09-30-a-campanha-eleitoral-ja-comecou--77910cda",
+  "resumo": "O país parece ter entrado numa nova vertigem pré-eleitoral. O presente já não interessa para nada. E o futuro é a aurora do passado, como escreveu Teixeira de Pascoais",
+  "fonte": "Expresso",
+  "autor": "Luís Marques",
+  "data": "2026-09-30T16:00:00+01:00",
+  "cats_feed": [
+   "Opinião"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Segurança Social tem cada vez mais imóveis devolutos ou ocupados indevidamente: já representam mais de 30% do seu património",
+  "link": "https://expresso.pt/administracao-publica/2026-09-30-seguranca-social-tem-cada-vez-mais-imoveis-devolutos-ou-ocupados-indevidamente-ja-representam-mais-de-30-do-seu-patrimonio-9cf417b5",
+  "resumo": "Numa altura em que o país se debate com uma crise de acesso á habitação, a maioria dos imóveis vazios da Segurança Social estão em obras de recuperação desde, pelo menos, 2023. Enquanto os imóveis de arrendamento social recuaram mais de 7% num ano",
+  "fonte": "Expresso",
+  "autor": "Eunice Parreira",
+  "data": "2026-09-30T15:55:37+01:00",
+  "cats_feed": [
+   "Administração Pública e Estado"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Excedente do Estado cai para €249,3 milhões até agosto",
+  "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-09-30-excedente-do-estado-cai-para-2493-milhoes-ate-agosto-bb48358b",
+  "resumo": "O saldo do Estado até agosto representa uma queda de €1,8 mil milhões face ao período homólogo, de acordo com a Entidade Orçamental",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-30T15:55:14+01:00",
+  "cats_feed": [
+   "Orçamento do Estado 2027"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministra do Ambiente dá duas semanas ao Volta para travar lixo nas ruas",
+  "link": "https://expresso.pt/sociedade/2026-09-30-ministra-do-ambiente-da-duas-semanas-ao-volta-para-travar-lixo-nas-ruas-5ed6fe5a",
+  "resumo": "O Governo exigiu esta quarta-feira à SDR Portugal, entidade gestora do sistema Volta, a apresentação de um plano de intervenção, em articulação com os municípios, para prevenir e mitigar os impactos do sistema na limpeza urbana",
+  "fonte": "Expresso",
+  "autor": "Carla Tomás",
+  "data": "2026-09-30T15:51:28+01:00",
+  "cats_feed": [
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Dados devem estar ao serviço dos doentes",
+  "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-09-30-dados-devem-estar-ao-servico-dos-doentes-4f6c2992",
+  "resumo": "Melhorar o acesso, garantir a qualidade da informação, transformar os dados em melhores cuidados e mais investigação foram algumas das prioridades destacadas na conferência “Dados em Saúde — Melhores cuidados, Mais competitividade”, promovida pela Apifarma, esta quarta-feira, e à qual o Expresso se associou como media partner",
+  "fonte": "Expresso",
+  "autor": "Rita Seabra Gomes",
+  "data": "2026-09-30T15:40:19+01:00",
+  "cats_feed": [
+   "Projetos Expresso"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Rede Europeia de Pagamentos avança, MBWay vai ser mais fácil de usar no estrangeiro",
+  "link": "https://expresso.pt/economia/2026-09-30-rede-europeia-de-pagamentos-avanca-mbway-vai-ser-mais-facil-de-usar-no-estrangeiro-1d7da828",
+  "resumo": "A SIBS, o Bancomat, a Bizum, EPI/Wero e Vipps MobilePat anunciaram esta quarta-feira a criação de uma entidade para “interligar“ as soluções de pagamentos das diversas empresas",
+  "fonte": "Expresso",
+  "autor": "Isabel Vicente",
+  "data": "2026-09-30T14:25:26+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Caso das gémeas: “Quando há uma suspeita sob um Presidente da República, há uma obrigação de celeridade que, neste caso, não existiu”",
+  "link": "https://expresso.pt/podcasts/entrelinhas/2026-09-30-ricardo-costa-quando-ha-uma-suspeita-sob-um-presidente-da-republica-ha-uma-obrigacao-de-celeridade-que-neste-caso-nao-existiu-c6f28dc6",
+  "resumo": "Ricardo Costa e Pedro Gomes Sanches analisam a acusação do Ministério Público no caso das gémeas, as negociações do Orçamento do Estado para 2027 que se aproximam e as eleições no Brasil",
+  "fonte": "Expresso",
+  "autor": "Sic Notícias",
+  "data": "2026-09-30T14:15:41+01:00",
+  "cats_feed": [
+   "Entrelinhas"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Agosto trouxe aos hotéis aumento de proveitos de 4,5% com quartos a preços médios de €163",
+  "link": "https://expresso.pt/economia/economia_turismo/2026-09-30-agosto-trouxe-aos-hoteis-aumento-de-proveitos-de-45-com-quartos-a-precos-medios-de-163-e3f018c4",
+  "resumo": "No principal mês do verão, as dormidas subiram 1,7% para 10,9 milhões. Os proveitos globais cresceram 4,5% para €1,1 mil milhões, segundo dados do Instituto Nacional de Estatística",
+  "fonte": "Expresso",
+  "autor": "Conceição Antunes",
+  "data": "2026-09-30T14:01:16+01:00",
+  "cats_feed": [
+   "Turismo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Cibercrime: não façam nada, que isto vai dar 'bug'",
+  "link": "https://expresso.pt/opiniao/2026-09-30-cibercrime-nao-facam-nada-que-isto-vai-dar-bug-db400c7f",
+  "resumo": "É necessário que os reguladores tenham intervenção forte e que determinem uma mudança do status quo , um novo paradigma",
+  "fonte": "Expresso",
+  "autor": "Nuno Domingos",
+  "data": "2026-09-30T13:45:47+01:00",
+  "cats_feed": [
+   "Opinião"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Seguro exige resposta à subida do custo de vida e dá receita para combate ao populismo",
+  "link": "https://expresso.pt/presidencia-republica/2026-09-30-seguro-exige-resposta-a-subida-do-custo-de-vida-e-da-receita-para-combate-ao-populismo-80bc21b5",
+  "resumo": "Presidente insiste numa resposta europeia à subida do custo de vida causada pelo aumento do preço dos combustíveis. Em Estrasburgo, no Conselho da Europa, Seguro defendeu a importância dos \"moderados\" na política e ofereceu o guião que o fez ganhar eleições contra o populismo: respeitar os adversários, dialogar com eles, ter ética à prova de bala e manter o foco na resolução dos problemas",
+  "fonte": "Expresso",
+  "autor": "Susana Frexes",
+  "data": "2026-09-30T13:31:58+01:00",
+  "cats_feed": [
+   "Presidência da República"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Compras de equipamento militar: dinheiro público exige escrutínio público",
+  "link": "https://expresso.pt/opiniao/2026-09-30-compras-de-equipamento-militar-dinheiro-publico-exige-escrutinio-publico-9b37cb1c",
+  "resumo": "O Parlamento tem de estar no centro deste processo. Até porque todos ainda nos lembramos das sombras que pairaram em Portugal sobre as decisões da compra dos dois submarinos",
+  "fonte": "Expresso",
+  "autor": "Luís Dias",
+  "data": "2026-09-30T13:25:56+01:00",
+  "cats_feed": [
+   "Opinião"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Paulo Núncio e Isabel Moreira apresentam queixas um contra o outro ao presidente do Parlamento",
+  "link": "https://expresso.pt/parlamento/2026-09-30-paulo-nuncio-e-isabel-moreira-apresentam-queixas-um-contra-o-outro-ao-presidente-do-parlamento-07cdbb5b",
+  "resumo": "Queixas surgiram na sequência do debate em sede de Comissão de Assuntos Constitucionais para a revisão da lei sobre autodeterminação da identidade e expressão de género. E envolvem também uma participação contra o deputado do PSD Bruno Vitorino",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-30T13:19:08+01:00",
+  "cats_feed": [
+   "Parlamento"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Porque é que o gálio, o silício e o tungsténio podem encarecer o preço do seu carro novo?",
+  "link": "https://expresso.pt/economia/industria/2026-09-30-porque-e-que-o-galio-o-silicio-e-o-tungstenio-podem-encarecer-o-preco-do-seu-carro-novo--3123229a",
+  "resumo": "Gigantes automóveis dizem que está em causa a força industrial europeia, face à dependência de fornecedores de determinadas zonas do globo e à concorrência de outros setores",
+  "fonte": "Expresso",
+  "autor": "Vítor Andrade",
+  "data": "2026-09-30T13:00:29+01:00",
+  "cats_feed": [
+   "Indústria"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Arrendamento: menos ruído, mais confiança",
+  "link": "https://expresso.pt/opiniao/2026-09-30-arrendamento-menos-ruido-mais-confianca-da11e91b",
+  "resumo": "Os contratos têm de ser cumpridos, os proprietários têm de confiar no sistema e as famílias vulneráveis têm de ser protegidas pelo Estado. É esse equilíbrio que queremos e estamos a construir",
+  "fonte": "Expresso",
+  "autor": "Patrícia Gonçalves Costa",
+  "data": "2026-09-30T12:58:34+01:00",
+  "cats_feed": [
+   "Opinião"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Com os juros a subir, Estado emite menos €4,7 mil milhões de dívida do que previa até final do ano",
+  "link": "https://expresso.pt/economia/mercados-financeiros/2026-09-30-com-os-juros-a-subir-estado-emite-menos-47-mil-milhoes-de-divida-do-que-previa-ate-final-do-ano-47db0764",
+  "resumo": "IGCP vai emitir menos obrigações e bilhetes do Tesouro do que tinha planeado. Os certificados de aforro e os fundos europeus vão compensar",
+  "fonte": "Expresso",
+  "autor": "Gonçalo Almeida",
+  "data": "2026-09-30T12:54:11+01:00",
+  "cats_feed": [
+   "Mercados Financeiros"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Inflação acelera para 3,6% em setembro impulsionada pelos combustíveis",
+  "link": "https://expresso.pt/economia/2026-09-30-inflacao-acelera-para-36-em-setembro-impulsionada-pelos-combustiveis-f016fabf",
+  "resumo": "Segundo o Instituto Nacional de Estatística, a aceleração da inflação \"é explicada em grande medida pelo aumento do preço dos combustíveis\". No mês em análise, a variação do índice relativo aos produtos energéticos aumentou para 15,4%, depois de 12,2% em agosto",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-30T11:25:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Parlamento aprova nova lei do arrendamento com abstenção do Chega",
+  "link": "https://www.rtp.pt/noticias/politica/parlamento-aprova-nova-lei-do-arrendamento-com-abstencao-do-chega_n1768738",
+  "resumo": "O presidente do Chega e o líder parlamentar do PSD, Hugo Soares, assinaram um acordo para introduzir, na discussão na especialidade, alterações ao diploma do Governo.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T21:56:21+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Parlamento debateu propostas do Governo para a habitação",
+  "link": "https://www.rtp.pt/noticias/politica/parlamento-debateu-propostas-do-governo-para-a-habitacao_v1768730",
+  "resumo": "O Chega não se comprometeu com o sentido de voto.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T21:34:47+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Montenegro sublinha \"sinal importante\" dado pelo PS",
+  "link": "https://www.rtp.pt/noticias/politica/montenegro-sublinha-sinal-importante-dado-pelo-ps_n1768724",
+  "resumo": "O primeiro-ministro, Luís Montenegro, sublinhou hoje o \"sinal importante\" dado pelo PS em relação à eventual viabilização do Orçamento do Estado para 2027 e elogiou o \"sentido de responsabilidade\" dos socialistas.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T21:02:51+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "\"Governo tinha a obrigação de ir mais longe\", reclama antigo ministro Vieira da Silva",
+  "link": "https://www.rtp.pt/noticias/politica/governo-tinha-a-obrigacao-de-ir-mais-longe-reclama-antigo-ministro-vieira-da-silva_a1768624",
+  "resumo": "\"Do ponto de vista das medidas de apoio às famílias, julgo que o Governo tinha a obrigação de ir mais longe\". Quem o diz é Vieira da Silva.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T18:23:47+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Ministra da Justiça vai ser ouvida em audição urgente sobre buscas na PJ",
+  "link": "https://www.rtp.pt/noticias/politica/ministra-da-justica-vai-ser-ouvida-em-audicao-urgente-sobre-buscas-na-pj_n1768679",
+  "resumo": "O parlamento aprovou hoje uma audição urgente da ministra da Justiça sobre as buscas do Ministério Público à Polícia Judiciária no âmbito do inquérito em que o diretor da instituição é suspeito de falsas declarações e abuso de poder.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T18:02:44+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Orçamento. Carneiro vai propor abstenção aos órgãos do PS",
+  "link": "https://www.rtp.pt/noticias/politica/orcamento-carneiro-vai-propor-abstencao-aos-orgaos-do-ps_n1768673",
+  "resumo": "O secretário-geral do PS, José Luís Carneiro, anunciou esta quarta-feira que vai propor aos órgãos do partido a abstenção na votação do Orçamento do Estado para 2027 (OE2027) depois das garantias que foram deixadas pelo primeiro-ministro, Luís Montenegro.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T16:57:24+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Montenegro reivindica esforço face ao custo de vida e só admite discutir arrendamento com equilíbrio",
+  "link": "https://www.rtp.pt/noticias/politica/montenegro-reivindica-esforco-face-ao-custo-de-vida-e-so-admite-discutir-arrendamento-com-equilibrio_n1768664",
+  "resumo": "Na ótica do primeiro-ministro, importa \"cuidar de hoje e de amanhã\". Luís Montenegro considera que essa é \"a melhor forma de lidar com o custo de vida hoje e prevenir a evolução no futuro\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T16:22:50+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Parlamento aprova nova lei do arrendamento com abstenção do Chega",
+  "link": "https://www.rtp.pt/noticias/economia/parlamento-aprova-nova-lei-do-arrendamento-com-abstencao-do-chega_e1768638",
+  "resumo": "O Parlamento aprovou esta quarta-feira a nova lei das rendas que prevê a revisão do regime de arrendamento urbano. O diploma, proposto pelo Governo, passou com a abstenção do Chega.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T21:57:29+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Taxa de inflação volta a acelerar à boleia dos combustíveis",
+  "link": "https://www.rtp.pt/noticias/economia/taxa-de-inflacao-volta-a-acelerar-a-boleia-dos-combustiveis_v1768732",
+  "resumo": "Em setembro, os preços subiram em média, 3,6 por cento em relação ao mesmo mês do ano passado, mais três décimas do que em agosto.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T21:36:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Air France-KLM e Lufthansa reforçam argumentos após entrega de propostas finais",
+  "link": "https://www.rtp.pt/noticias/economia/air-france-klm-e-lufthansa-reforcam-argumentos-apos-entrega-de-propostas-finais_n1768709",
+  "resumo": "A Air France-KLM e a Lufthansa reiteraram hoje o interesse na TAP após apresentarem propostas finais no processo de privatização, destacando, respetivamente, Lisboa como `hub` exclusivo no sul da Europa e o compromisso de longo prazo com a companhia.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T19:56:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Seguro elogia agência Lusa e defende que é essencial garantir a sua independência",
+  "link": "https://www.rtp.pt/noticias/economia/seguro-elogia-agencia-lusa-e-defende-que-e-essencial-garantir-a-sua-independencia_n1768707",
+  "resumo": "O Presidente da República elogiou hoje a agência Lusa e defendeu que é essencial garantir a sua independência face aos poderes político e económico, desejando que nunca seja fragilizada.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T19:31:30+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "TAP. Parpública confirma entrega de propostas melhoradas da Air France-KLM e Lufthansa",
+  "link": "https://www.rtp.pt/noticias/economia/tap-parpublica-confirma-entrega-de-propostas-melhoradas-da-air-france-klm-e-lufthansa_n1768700",
+  "resumo": "A Parpública anunciou esta quarta-feira que recebeu duas propostas vinculativas melhoradas da Air France-KLM e da Lufthansa no âmbito da fase de negociações para a venda de 44,9% do capital da TAP.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T18:35:45+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Excedente da Segurança Social sobe para 5.122,7 milhões de euros até agosto",
+  "link": "https://www.rtp.pt/noticias/economia/excedente-da-seguranca-social-sobe-para-51227-milhoes-de-euros-ate-agosto_n1768695",
+  "resumo": "A Segurança Social registou um excedente de 5.122,7 milhões de euros até agosto, um valor superior aos 4.408,4 milhões de euros registados no mesmo período de 2025, de acordo com a síntese de execução orçamental.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T18:28:05+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Racionamento de combustíveis? \"Estou um pouco pessimista e as reservas estão a esgotar-se\", afirma responsável pelas empresas de combustíveis",
+  "link": "https://www.rtp.pt/noticias/economia/racionamento-de-combustiveis-estou-um-pouco-pessimista-e-as-reservas-estao-a-esgotar-se-afirma-responsavel-pelas-empresas-de-combustiveis_a1768681",
+  "resumo": "\"Tínhamos reservas excecionalmente altas no início da guerra no Irão. Essas reservas estão neste momento a níveis excecionalmente baixos. Estivemos a consumir as poupanças. Temo que essas almofadas estão a esgotar-se\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T18:09:41+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministro garante que nunca fez parte do plano fusão entre RTP e Lusa",
+  "link": "https://www.rtp.pt/noticias/economia/ministro-garante-que-nunca-fez-parte-do-plano-fusao-entre-rtp-e-lusa_n1768677",
+  "resumo": "O ministro da Presidência garantiu hoje que nunca fez parte do plano do Governo, nem dos dirigentes da Lusa ou da RTP fazer uma fusão entre as duas empresas, mas antes uma parceria.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T18:02:13+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Receita fiscal do Estado sobe 5% para 41.592 ME até agosto",
+  "link": "https://www.rtp.pt/noticias/economia/receita-fiscal-do-estado-sobe-5-para-41592-me-ate-agosto_n1768686",
+  "resumo": "O Estado arrecadou 41.592,1 milhões de euros em impostos até agosto, um aumento de 4,7% em relação ao mesmo período do ano passado, segundo a síntese de execução orçamental, hoje divulgada.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T18:01:50+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministro da Presidência: papel da Lusa é insubstituível",
+  "link": "https://www.rtp.pt/noticias/economia/ministro-da-presidencia-papel-da-lusa-e-insubstituivel_n1768666",
+  "resumo": "O ministro da Presidência, António Leitão Amaro, considerou hoje que o papel da Lusa, num país como Portugal, é insubstituível, e defendeu que é preciso dotar a agência de notícias de capacidade tecnológica avançada.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T17:02:31+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Bolsa de Nova Iorque em alta após revisão dos dados da inflação e do PIB",
+  "link": "https://www.rtp.pt/noticias/economia/bolsa-de-nova-iorque-em-alta-apos-revisao-dos-dados-da-inflacao-e-do-pib_n1768668",
+  "resumo": "A bolsa em Wall Street negociava em alta no início da sessão de hoje, após a revisão em baixa do índice de preços de gastos com consumo pessoal (PCE) e em alta do crescimento dos Estados Unidos.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T17:02:05+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Presidente da Lusa. Agências noticiosas \"são cada vez mais as primeiras a verificar\"",
+  "link": "https://www.rtp.pt/noticias/economia/presidente-da-lusa-agencias-noticiosas-sao-cada-vez-mais-as-primeiras-a-verificar_n1768671",
+  "resumo": "O presidente do Conselho de Administração da Lusa, Joaquim Carreira, afirmou hoje que as agências noticiosas \"já não são sempre as primeiras a publicar, são cada vez mais as primeiras a verificar\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T16:59:32+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Excedente do Estado cai para 249,3 milhões até agosto",
+  "link": "https://www.rtp.pt/noticias/economia/excedente-do-estado-cai-para-2493-milhoes-ate-agosto_n1768669",
+  "resumo": "O Estado registou um excedente de 249,3 milhões de euros até agosto, uma diminuição de 1.799,4 milhões de euros face ao período homólogo, revelou a síntese de execução orçamental.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T16:25:54+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministro da Economia diz que a situação económica de Portugal só tem um problema: a inflação",
+  "link": "https://www.rtp.pt/noticias/economia/ministro-da-economia-diz-que-a-situacao-economica-de-portugal-so-tem-um-problema-a-inflacao_v1768658",
+  "resumo": "O ministro da Economia garante que o executivo tem medidas para a inflação.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T15:29:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Agência Internacional de Energia admite recorre a mais reservas de petróleo",
+  "link": "https://www.rtp.pt/noticias/economia/agencia-internacional-de-energia-admite-recorre-a-mais-reservas-de-petroleo_v1768643",
+  "resumo": "A Agência Internacional de Energia admite a possibilidade de recorrer a mais reservas estratégicas de petróleo para aliviar a escassez de oferta e avisa que a Europa vai enfrentar um inverno difícil.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T14:53:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Tráfico de droga. Dez detidos e duas \"narcolanchas\" apreendidas pela GNR no Algarve",
+  "link": "https://www.rtp.pt/noticias/pais/trafico-de-droga-dez-detidos-e-duas-narcolanchas-apreendidas-pela-gnr-no-algarve_n1768691",
+  "resumo": "A Guarda Nacional Republicana indica que oito dos dez detidos são de nacionalidade estrangeira. A operação, realizada durante a última madrugada, obrigou à mobilização de meios terrestres, marítimos e aéreos.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T17:59:25+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Livrarias e papelarias em risco de fechar porque Estado deve reembolso dos manuais",
+  "link": "https://www.rtp.pt/noticias/pais/livrarias-e-papelarias-em-risco-de-fechar-porque-estado-deve-reembolso-dos-manuais_v1768660",
+  "resumo": "Há livrarias e papelarias que correm o risco de fechar portas porque o Estado lhes deve dinheiro do reembolso dos livros escolares gratuitos. Está mesmo em causa a sobrevivência de muitos comerciantes.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T15:30:53+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Técnicos superiores de diagnóstico do Amadora-Sintra estão em greve",
+  "link": "https://www.rtp.pt/noticias/pais/tecnicos-superiores-de-diagnostico-do-amadora-sintra-estao-em-greve_v1768659",
+  "resumo": "O sindicato fala em forte adesão à greve.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T15:30:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Ordem dos Advogados pede envio ao TC da norma sobre manobras dilatórias",
+  "link": "https://www.rtp.pt/noticias/pais/ordem-dos-advogados-pede-envio-ao-tc-da-norma-sobre-manobras-dilatorias_n1768653",
+  "resumo": "O bastonário da Ordem dos Advogados pediu hoje, na Assembleia da República, que as normas que estabelecem multas em casos de manobras consideradas pelo tribunal como dilatórias sejam enviadas ao Tribunal Constitucional.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T15:30:10+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Viseu, Arganil e Fafe desiludidos. Rali de Portugal fora do calendário do Mundial de 2027",
+  "link": "https://www.rtp.pt/noticias/pais/viseu-arganil-e-fafe-desiludidos-rali-de-portugal-fora-do-calendario-do-mundial-de-2027_a1768645",
+  "resumo": "É uma decisão que está a provocar indignação em especial no Norte e no Centro do país. A saída do Rali de Portugal do calendário do Mundial de 2027 apanha de surpresa autarcas e empresários e ameaça uma prova que todos os anos leva milhares de pessoas aos territórios, com impacto na hotelaria, restauração, comércio e emprego.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T15:08:40+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "DGS tomou medidas no lar de Estremoz com surto de gripe A",
+  "link": "https://www.rtp.pt/noticias/pais/dgs-tomou-medidas-no-lar-de-estremoz-com-surto-de-gripe-a_v1768640",
+  "resumo": "Direção Geral da Saúde diz que já tomou medidas no lar de Estremoz que regista um surto de Gripe A. Rita Sá Machado fala em medidas básicas para evitar este tido de doenças que são transmitidas por via respiratória.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T14:50:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Espetáculo em Coimbra junta imigrantes em palco à procura de uma \"Voz Comum\"",
+  "link": "https://www.rtp.pt/noticias/cultura/espetaculo-em-coimbra-junta-imigrantes-em-palco-a-procura-de-uma-voz-comum_n1768662",
+  "resumo": "O Teatro Académico de Gil Vicente (TAGV), em Coimbra, recebe a estreia, a 05 de outubro, de uma peça que junta imigrantes de sete nacionalidades diferentes à procura de uma \"Voz Comum\", num espetáculo que não se coíbe de falar de amor.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T17:02:51+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Festival Músicas do Mundo regressa a Sines entre 16 a 24 de julho em 2027",
+  "link": "https://www.rtp.pt/noticias/cultura/festival-musicas-do-mundo-regressa-a-sines-entre-16-a-24-de-julho-em-2027_n1768674",
+  "resumo": "O Festival Músicas do Mundo (FMM) vai realizar-se entre 16 e 24 de julho de 2027, em Porto Covo e Sines, mais cedo do que habitualmente devido à realização da Tall Ships 2027, foi hoje anunciado.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T16:59:47+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Marrocos. Pela primeira vez uma mulher vai ser primeira-ministra",
+  "link": "https://www.rtp.pt/noticias/cultura/marrocos-pela-primeira-vez-uma-mulher-vai-ser-primeira-ministra_v1768646",
+  "resumo": "Marrocos vive um momento histórico. Uma mulher vai ser primeira-ministra pela primeira vez.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T14:55:47+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "“Os preços do petróleo estão a caminhar para uma queda acentuada”, antecipa Cathie Wood",
+  "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/os-precos-do-petroleo-estao-a-caminhar-para-uma-queda-acentuada-antecipa-cathie-wood",
+  "resumo": "A CEO da Ark Invest antecipa que os transportes sejam um dos setores mais afetados pela revolução da IA e que a migração para a rede elétrica cause uma forte desvalorização dos combustíveis fósseis.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T20:51:41+01:00",
+  "cats_feed": [
+   "Matérias-Primas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Uma hipótese de trabalho",
+  "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/alvaro-nascimento/detalhe/uma-hipotese-de-trabalho",
+  "resumo": "Apesar de não contabilizado no PIB, é inegável que este dinheiro no bolso das famílias acaba por desaguar no consumo e, indiretamente, nas variáveis macroeconómicas do PIB e das importações.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T20:36:20+01:00",
+  "cats_feed": [
+   "Álvaro Nascimento"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Montenegro sublinha \"sinal importante\" dado pelo PS sobre Orçamento do Estado",
+  "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/montenegro-sublinha-sinal-importante-dado-pelo-ps-sobre-orcamento-do-estado",
+  "resumo": "O primeiro-ministro referia-se à abstenção do PS na votação do Orçamento do Estado para o próximo ano.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T20:31:54+01:00",
+  "cats_feed": [
+   "Orçamento do Estado"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "\"Sell-off\" de obrigações faz setembro cumprir má fama nas bolsas europeias. Lisboa escapa",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/sell-off-de-obrigacoes-faz-setembro-cumprir-ma-fama-nas-bolsas-europeias-lisboa-escapa",
+  "resumo": "A pressão vendedora que se estende há vários meses no mercado da dívida soberana levou os juros a máximos de mais de uma década e pesou sobre a generalidade das bolsas europeias em setembro, tendo a nacional sido uma exceção. Segue-se outubro, o mês dos grandes \"crashes\".",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T20:16:55+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "BdP mantém reserva de fundos dos bancos em 0,75% a partir de 1 de outubro",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/bdp-mantem-reserva-de-fundos-dos-bancos-em-0-75-a-partir-de-1-de-outubro",
+  "resumo": "O regulador justifica a decisão com o \"enquadramento marcado por elevada incerteza\", embora aponte a \"continuada valorização dos preços do imobiliário residencial e o dinamismo do crédito à habitação\".",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T19:45:43+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "“Somos fábricas de dados. É neste cenário que a IA demonstra maior potencial”, diz Cathie Wood",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/somos-fabricas-de-dados-e-neste-cenario-que-a-ia-demonstra-maior-potencial-diz-cathie-wood",
+  "resumo": "Cathie Wood antecipa que a inteligência artificial (IA) se torne “fundamental” na tomada de decisões na área da saúde, mudando o paradigma do tratamento de doenças. Em entrevista ao Negócios, a fundadora e CEO explica que os analistas da Ark Invest estão todos focados na tecnologia.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T19:12:00+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Nos financia-se em 380 milhões junto de três bancos",
+  "link": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/nos-financia-se-em-380-milhoes-junto-de-tres-bancos",
+  "resumo": "As operações de refinanciamento substituem as linhas existentes e têm maturidades de 4, 5 e 6 anos, estando enquadradas com os objetivos de sustentabilidade da empresa, refere a telecom. Bancos envolvidos são a CGD, BCP e BPI.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T18:57:00+01:00",
+  "cats_feed": [
+   "Obrigações"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo disponível para \"limar\" regime do arredamento. Aponta convergências com o Chega",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/governo-disponivel-para-limar-regime-do-arredamento-aponta-convergencias-com-o-chega",
+  "resumo": "No Parlamento, a secretária de Estado da Habitação mostrou disponibilidade \"para conversar com todos em sede de especialidade para resolver, limar, melhorar o que no diploma tenha de ser robustecido\", apontando \"muitos pontos\" de convergência com o Chega e disponibilidade para os articular.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T18:19:41+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Função Pública pressiona Governo a ir além do previsto nos aumentos salariais",
+  "link": "https://www.jornaldenegocios.pt/economia/funcao-publica/detalhe/funcao-publica-pressiona-governo-a-ir-alem-do-previsto-nos-aumentos-salariais",
+  "resumo": "Acordo já assinado com os sindicatos da UGT prevê aumentos mínimos de 2,3% mas a frente sindical liderada pelo STE propõe subidas de mais de 7%, enquanto a Fesap defendeu aumentos de 6,5%. Proposta da Frente Comum é de 15% com o valor mínimo de 150 euros.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T18:00:00+01:00",
+  "cats_feed": [
+   "Função Pública"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Ministro das Finanças saúda abstenção do PS no OE2027. Deixa alerta sobre medidas da oposição",
+  "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/ministro-das-financas-sauda-abstencao-do-ps-no-oe2027-deixa-alerta-sobre-medidas-da-oposicao",
+  "resumo": "Miranda Sarmento diz que provável abstenção do PS é “muito positiva para o país” e avisa que qualquer proposta da oposição sem contrapartida no Orçamento do Estado para 2027 pode resultar em défice.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T17:41:00+01:00",
+  "cats_feed": [
+   "Orçamento do Estado"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Miranda Sarmento reafirma importância das contas equilibradas para enfrentar choques",
+  "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/miranda-sarmento-reafirma-importancia-das-contas-equilibradas-para-enfrentar-choques",
+  "resumo": "Referindo-se à subida dos juros nos mercados de dívida pública nos EUA e em vários países europeus, incluindo em Portugal, o ministro de Estado e das Finanças defendeu que Portugal tem de estar \"mais bem preparado\" para enfrentar novos choques geopolíticos que podem provocar novas crises económicas.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T17:29:49+01:00",
+  "cats_feed": [
+   "Orçamento do Estado"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Air France e Lufthansa jogam a última cartada para ficar com a TAP",
+  "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/air-france-e-lufthansa-jogam-a-ultima-cartada-para-ficar-com-a-tap",
+  "resumo": "Os dois grupos de aviação mantém-se focados em juntar a companhia portuguesa aos respetivos portefólios, mas apenas um irá sair vitorioso destas \"propostas melhoradas\". A Parpública e o Governo terão 15 dias para analisar as últimas ofertas.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T17:08:00+01:00",
+  "cats_feed": [
+   "Aviação"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "PSI fecha na linha de água em dia de perdas na Europa",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/psi-fecha-na-linha-de-agua-em-dia-de-perdas-na-europa",
+  "resumo": "As bolsas europeias fecharammaioritariamente no vermelho, num dia em que os dados revelaram uma aceleração da inflação na maior economia europeia. Grupo EDP manteve índice à tona.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T17:03:00+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo avisa Man. City após escândalo financeiro. \"Um clube pode ser expulso da Premier League se acusações se confirmarem\"",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/governo-avisa-man-city-apos-escandalo-financeiro-um-clube-pode-ser-expulso-da-premier-league-se-acusacoes-se-confirmarem",
+  "resumo": "A Secretária de Estado para a Cultura, Meios de Comunicação e Desporto do Reino Unido, Lisa Nandy, quer esperar por um eventual recurso dos \"cityzens\", mas mantém cenários em cima da mesa",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T16:31:00+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Fitch deixa SATA a um nível do clube do A antes da privatização",
+  "link": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/fitch-deixa-sata-a-um-nivel-do-clube-do-a-antes-da-privatizacao",
+  "resumo": "A agência de notação financeira elevou a classificação da dívida da dona da Azores Airlines, com base na garantia do Governo Regional dos Açores – cujo rating já tinha sido melhorado no passado dia 21.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T15:49:27+01:00",
+  "cats_feed": [
+   "Obrigações"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Contas públicas mantêm excedente em agosto",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/contas-publicas-mantem-excedente-em-agosto",
+  "resumo": "Contas públicas chegaram a agosto com um pequeno excedente, praticamente inalterado face ao mês anterior. Já comparando com o mesmo período do ano passado, há uma deterioração expressiva das contas públicas dado o pagamento das dívidas em atraso do SNS.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T15:24:00+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Portal da Transparência do SNS avança com novos indicadores relativos ao Registo Nacional de Utentes",
+  "link": "https://jornaleconomico.sapo.pt/noticias/portal-da-transparencia-do-sns-avanca-com-novos-indicadores-relativos-ao-registo-nacional-de-utentes/",
+  "resumo": "A medida, anunciada pela Administração Central do Sistema de Saúde através do comunicado número doze, visa reforçar o acesso público à informação e assegurar uma leitura mais rigorosa da resposta prestada aos utentes.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T19:30:53+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "Saúde",
+   "SNS"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Rauschert recua e repõe prémio de assiduidade a trabalhadores que fizeram greve, anuncia sindicato",
+  "link": "https://jornaleconomico.sapo.pt/noticias/rauschert-recua-e-repoe-premio-de-assiduidade-a-trabalhadores-que-fizeram-greve-anuncia-sindicato/",
+  "resumo": "Segundo o sindicato, a empresa informou que irá processar o pagamento do prémio de assiduidade aos trabalhadores abrangidos pela medida. Grupo alemão Rauschert tem uma fábrica na zona industrial do Ameal, em Torres Vedras.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T19:20:15+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Rauschert"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "“Nos últimos seis anos, as rendas dos portugueses subiram descontroladamente”, refere André Ventura",
+  "link": "https://jornaleconomico.sapo.pt/noticias/nos-ultimos-seis-anos-as-rendas-dos-portugueses-subiram-descontroladamente-refere-andre-ventura/",
+  "resumo": "O líder do Chega criticou a politica do atual Governo de abrir \"as portas a toda a gente\", que acabou por provocar \"um brutal aumento de procura na habitação\". O Novo Regime do Arrendamento Urbano (NRAU) baixa para a especialidade depois do Partido Socialista e Chega anunciarem o seu voto contra.",
+  "fonte": "Jornal Económico",
+  "autor": "Rodolfo Alexandre Reis",
+  "data": "2026-09-30T19:10:33+00:00",
+  "cats_feed": [
+   "Economia",
+   "Habitação",
+   "Sapo Economia",
+   "nova lei do arrendamento urbano"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Alojamento turístico no Algarve cresce 5,8% em agosto e atinge 384,9 milhões de receitas",
+  "link": "https://jornaleconomico.sapo.pt/noticias/alojamento-turistico-no-algarve-cresce-58-em-agosto-e-atinge-3849-milhoes-de-receitas/",
+  "resumo": "O Algarve assumiu a liderança nacional nos principais indicadores de rentabilidade do setor durante o principal mês da época alta. O rendimento médio por quarto disponível, conhecido por RevPAR, atingiu os 180 euros, fixando o valor mais elevado do país e ficando à frente da Região Autónoma da Madeira, que registou 138,10 euros.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T19:00:52+00:00",
+  "cats_feed": [
+   "Autarquias",
+   "Economia",
+   "Sapo Economia",
+   "Turismo",
+   "Turismo do Algarve"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Oney lança crédito pessoal com processo 100% digital e financiamento instantâneo",
+  "link": "https://jornaleconomico.sapo.pt/noticias/oney-lanca-credito-pessoal-com-processo-100-digital-e-financiamento-instantaneo/",
+  "resumo": "“Hoje em dia, os consumidores querem soluções financeiras que acompanhem o seu ritmo de vida, ou seja, rápidas, diria mesmo, instantâneas, simples e totalmente digitais”, afirmou Dario Coffetti, diretor-geral do Oney em Portugal.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T18:51:48+00:00",
+  "cats_feed": [
+   "Banca",
+   "Empresas",
+   "Sapo Economia",
+   "Oney Bank"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Arrow Global Portugal muda-se para o República 5 numa operação de 6.200 m² assessorada pela Dils",
+  "link": "https://jornaleconomico.sapo.pt/noticias/arrow-global-portugal-muda-se-para-o-republica-5-numa-operacao-de-6-200-m%c2%b2-assessorada-pela-dils/",
+  "resumo": "A mudança responde à evolução da organização e à necessidade de um espaço que acompanhe uma nova abordagem ao trabalho, mais focada na colaboração entre equipas e na experiência do colaborador.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T18:20:09+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Imobiliário",
+   "Sapo Economia",
+   "Arrow Global"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Produção de amêndoa em Portugal poderá aumentar 40% este ano",
+  "link": "https://jornaleconomico.sapo.pt/noticias/producao-de-amendoa-em-portugal-podera-aumentar-40-este-ano/",
+  "resumo": "Esta previsão foi feita para a Portugal Nuts – Associação Promoção Frutos Secos pela Demeter, empresa internacional em dados sobre cadeias de valor agrícolas e publicação de índices.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T18:10:32+00:00",
+  "cats_feed": [
+   "Agricultura",
+   "Economia",
+   "Sapo Economia",
+   "amêndoa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Sindicato da hotelaria leva protesto “porta-a-porta” aos hotéis da Avenida da Liberdade",
+  "link": "https://jornaleconomico.sapo.pt/noticias/sindicato-da-hotelaria-leva-protesto-porta-a-porta-aos-hoteis-da-avenida-da-liberdade/",
+  "resumo": "A iniciativa integra a campanha nacional da FESAHT – Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal – contra os salários de miséria e pela negociação da contratação coletiva nos setores da hotelaria, restauração e turismo.",
+  "fonte": "Jornal Económico",
+  "autor": "Redação",
+  "data": "2026-09-30T18:09:48+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Turismo",
+   "Sindicato de Hotelaria do Sul"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo disponível para “limar” regime do arredamento aponta convergências com o Chega",
+  "link": "https://jornaleconomico.sapo.pt/noticias/governo-disponivel-para-limar-regime-do-arredamento-aponta-convergencias-com-o-chega/",
+  "resumo": "Durante o debate, a secretária de Estado da Habitação, Patrícia Gonçalves Costa, mostrou disponibilidade “para conversar com todos em sede de especialidade para resolver, limar, melhorar o que no diploma tenha de ser robustecido”.",
+  "fonte": "Jornal Económico",
+  "autor": "Rodolfo Alexandre Reis",
+  "data": "2026-09-30T18:05:04+00:00",
+  "cats_feed": [
+   "Economia",
+   "Habitação",
+   "Sapo Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Cabaz alimentar sobe 11 cêntimos na última semana para 254,22 euros, diz Deco Proteste",
+  "link": "https://jornaleconomico.sapo.pt/noticias/cabaz-alimentar-sobe-11-centimos-na-ultima-semana-para-25422-euros-diz-deco-proteste/",
+  "resumo": "Segundo a Deco Proteste, no início do ano, para comprar o mesmo cabaz composto por 63 produtos, os consumidores gastavam menos 12,39 euros (menos 5,12%).",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T17:55:58+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "Deco Proteste"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "PSD e Chega de acordo: Novo regime do arrendamento baixa à especialidade",
+  "link": "https://www.noticiasaominuto.com/politica/3059886/psd-e-chega-de-acordo-novo-regime-do-arrendamento-baixa-a-especialidade#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T20:59:46+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "AR levanta imunidade ao presidente da Transparência, Rui Paulo Sousa",
+  "link": "https://www.noticiasaominuto.com/politica/3059880/ar-levanta-imunidade-ao-presidente-da-transparencia-rui-paulo-sousa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T20:53:52+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE2027? Montenegro sublinha \"sinal importante\" dado pelo PS",
+  "link": "https://www.noticiasaominuto.com/politica/3059862/oe2027-montenegro-sublinha-sinal-importante-dado-pelo-ps#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T20:14:36+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "BE em Lisboa denuncia suspensão do programa de renda acessível jovem",
+  "link": "https://www.noticiasaominuto.com/pais/3059842/be-lisboa-denuncia-suspensao-do-programa-de-renda-acessivel-jovem#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T19:24:02+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "PCP quer rede pública de lares de idosos com 80 mil novas vagas em 2027",
+  "link": "https://www.noticiasaominuto.com/pais/3059836/pcp-quer-rede-publica-de-lares-de-idosos-com-80-mil-novas-vagas-em-2027#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T19:18:44+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE: Abstenção do PS não surpreende porque \"governa em conjunto\" com PSD",
+  "link": "https://www.noticiasaominuto.com/pais/3059835/oe2027-ventura-diz-que-abstencao-do-ps-nao-surpreende-porque-esta-a-governar-em-conjunto-com-o-psd#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T19:07:27+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Arrendamento? Ventura falou com Montenegro (mas não recebeu \"garantias\")",
+  "link": "https://www.noticiasaominuto.com/pais/3059827/ventura-diz-que-falou-com-montenegro-sobre-arrendamento-sem-garantias-quanto-as-exigencias-do-partido#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T18:55:12+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "BE acusa Governo de escolher ajudar o lado dos \"senhorios\" e \"fundos\"",
+  "link": "https://www.noticiasaominuto.com/pais/3059821/be-acusa-governo-de-escolher-ajudar-o-lado-dos-senhorios-e-fundos-imobiliarios#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T18:37:52+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Arrendamento? Governo disponível para \"limar\" e a convergência com Chega",
+  "link": "https://www.noticiasaominuto.com/pais/3059786/governo-disponivel-para-limar-regime-do-arredamento-aponta-convergencias-com-o-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T18:01:37+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE2027: IL sem voto definido diz-se disponível para negociar com Governo",
+  "link": "https://www.noticiasaominuto.com/pais/3059747/oe2027-il-sem-voto-definido-diz-se-disponivel-para-negociar-proposta-do-governo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T17:23:06+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE? Governo saúda provável abstenção do PS: \"Muito positiva\"",
+  "link": "https://www.noticiasaominuto.com/pais/3059721/oe2027-governo-sauda-provavel-abstencao-do-ps-como-muito-positiva-para-o-pais#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T16:52:45+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Ministra da Justiça ouvida em audição urgente sobre buscas na PJ",
+  "link": "https://www.noticiasaominuto.com/pais/3059700/ministra-da-justica-ouvida-em-audicao-urgente-sobre-buscas-na-pj#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T16:34:26+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "OE2027: Carneiro vai propor aos órgãos do partido abstenção do PS",
+  "link": "https://www.noticiasaominuto.com/economia/3059677/oe2027-carneiro-vai-propor-aos-orgaos-do-partido-abstencao-do-ps#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T15:57:02+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Paulo Núncio e Isabel Moreira apresentam queixas um contra o outro",
+  "link": "https://www.noticiasaominuto.com/pais/3059575/paulo-nuncio-cds-e-isabel-moreira-ps-apresentam-queixas-um-contra-o-outro#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T14:10:15+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Governo anuncia parceria entre idD e Fincantieri para recuperar Alfeite",
+  "link": "https://www.noticiasaominuto.com/pais/3059874/governo-anuncia-parceria-entre-idd-e-italiana-fincantieri-para-recuperar-alfeite-sem-despedimentos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T20:49:37+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "BdP mantém reserva de fundos dos bancos em 0,75% a partir de 1 de outubro",
+  "link": "https://www.noticiasaominuto.com/economia/3059834/bdp-mantem-reserva-de-fundos-dos-bancos-em-0-75-a-partir-de-01-de-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T19:52:29+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "SIBS e homólogos criam entidade para soberania europeia nos pagamentos",
+  "link": "https://www.noticiasaominuto.com/economia/3059661/sibs-e-homologos-internacionais-criam-entidade-para-soberania-europeia-nos-pagamentos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T18:50:34+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Air France-KLM e Lufthansa reforçam argumentos após entrega de propostas",
+  "link": "https://www.noticiasaominuto.com/pais/3059817/tap-air-france-klm-e-lufthansa-reforcam-argumentos-apos-entrega-de-propostas-finais#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T18:33:55+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Qualquer medida da oposição sem contrapartida pode resultar \"em défice\"",
+  "link": "https://www.noticiasaominuto.com/pais/3059742/oe2027-governo-avisa-que-qualquer-medida-da-oposicao-sem-contrapartida-pode-resultar-em-defice-c-audio#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T18:31:03+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "SNQTB entrega na AR abaixo-assinado em defesa das pensões dos bancários",
+  "link": "https://www.noticiasaominuto.com/pais/3059776/snqtb-entrega-no-parlamento-abaixo-assinado-em-defesa-das-pensoes-dos-bancarios#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T17:54:42+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Air France-KLM e Lufthansa entregaram propostas melhoradas pela TAP",
+  "link": "https://www.noticiasaominuto.com/economia/3059760/air-france-klm-e-lufthansa-entregaram-propostas-melhoradas-pela-tap#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T17:33:41+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Miranda Sarmento reafirma importância de \"manter contas equilibradas\"",
+  "link": "https://www.noticiasaominuto.com/pais/3059755/miranda-sarmento-reafirma-importancia-das-contas-equilibradas-para-enfrentar-choques#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T17:26:05+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Excedente da Segurança Social sobe para 5.122,7 ME até agosto",
+  "link": "https://www.noticiasaominuto.com/economia/3059746/excedente-da-seguranca-social-sobe-para-5122-7-me-ate-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T17:20:11+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo pede \"plano\" à gestora do Volta. \"Mitigar problemas de limpeza\"",
+  "link": "https://www.noticiasaominuto.com/economia/3059704/governo-pede-plano-a-gestora-do-volta-mitigar-problemas-de-limpeza#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T17:02:26+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Cabaz alimentar sobe 11 cêntimos na última semana para 254,22 euros",
+  "link": "https://www.noticiasaominuto.com/economia/3059707/cabaz-alimentar-sobe-11-centimos-na-ultima-semana-para-254-22-euros#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T16:35:00+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Receita fiscal do Estado sobe 5% para 41.592 milhões até agosto",
+  "link": "https://www.noticiasaominuto.com/economia/3059711/receita-fiscal-do-estado-sobe-5-para-41592-milhoes-ate-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T16:30:46+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Produção de amêndoa em Portugal poderá aumentar 40% este ano",
+  "link": "https://www.noticiasaominuto.com/economia/3059695/producao-de-amendoa-em-portugal-podera-aumentar-40-este-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T16:24:51+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ethiopian Airlines assina acordo com Boeing para 10 aviões de carga",
+  "link": "https://www.noticiasaominuto.com/mundo/3059697/ethiopian-airlines-assina-acordo-com-a-boeing-para-adquirir-10-avioes-de-carga#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T16:17:41+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "OE2026: Pagamentos em atraso sobem para 1.005 milhões até agosto",
+  "link": "https://www.noticiasaominuto.com/economia/3059687/oe2026-pagamentos-em-atraso-sobem-para-1005-milhoes-ate-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T16:03:12+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Execução orçamental: Excedente cai para 249,3 milhões até agosto",
+  "link": "https://www.noticiasaominuto.com/pais/3059653/urgente-oe2026-excedente-do-estado-cai-para-249-3-me-ate-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T15:25:14+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Rendas? Montenegro com disponibilidade para \"pontos de convergência\"",
+  "link": "https://www.noticiasaominuto.com/pais/3059646/pm-manifesta-disponibilidade-para-pontos-de-convergencia-sobre-rendas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T15:13:17+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministro diz que Governo está \"a fazer o máximo\" para apoiar agricultores",
+  "link": "https://www.noticiasaominuto.com/economia/3059642/ministro-diz-que-governo-esta-a-fazer-o-maximo-para-apoiar-agricultores#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T15:10:15+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "\"Estamos a fazer grande esforço para ajudar as famílias e empresas\"",
+  "link": "https://www.noticiasaominuto.com/economia/3059644/estamos-a-fazer-grande-esforco-para-ajudar-as-familias-e-empresas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T15:06:55+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Plataforma \"Não dá mais\" protestou em Lisboa para \"despejar\" ministro",
+  "link": "https://www.noticiasaominuto.com/economia/3059629/plataforma-nao-da-mais-protestou-em-lisboa-para-despejar-ministro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T14:49:34+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Crise dos combustíveis? Ministra aponta novidades para Conselho Europeu",
+  "link": "https://www.noticiasaominuto.com/pais/3059618/irao-conselho-europeu-de-outubro-vai-tomar-decisoes-na-resposta-a-crise-dos-combustiveis#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T14:28:16+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministro admite que inflação é um \"fator que está a correr mal\"",
+  "link": "https://www.noticiasaominuto.com/economia/3059612/ministro-da-economia-admite-que-inflacao-e-um-fator-que-esta-a-correr-mal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T14:26:36+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Média da Euribor a três, seis e 12 meses volta a subir em setembro",
+  "link": "https://www.noticiasaominuto.com/pais/3059603/media-da-euribor-a-tres-seis-e-12-meses-volta-a-subir-em-setembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T14:08:38+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "GNR apanha mais dez suspeitos de apoio ao tráfico de droga nas águas do Algarve",
+  "link": "https://cnnportugal.iol.pt/trafico-de-droga/droga/gnr-apanha-mais-dez-suspeitos-de-apoio-ao-trafico-de-droga-nas-aguas-do-algarve/20260930/6abd491cd34e9a786e75a5a3",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.616783+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo diz-se disponível para \"limar\" regime do arredamento e aponta \"muitas\" convergências com o Chega",
+  "link": "https://cnnportugal.iol.pt/lei-do-arrendamento/regime-de-arrendamento/governo-diz-se-disponivel-para-limar-regime-do-arredamento-e-aponta-muitas-convergencias-com-o-chega/20260930/6abd4bb3d34e53c759c7485a",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.616842+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "OE2027. Ventura diz que abstenção do PS \"não surpreende\" porque está \"a governar em conjunto\" com o PSD",
+  "link": "https://cnnportugal.iol.pt/oe2027/orcamento-do-estado/oe2027-ventura-diz-que-abstencao-do-ps-nao-surpreende-porque-esta-a-governar-em-conjunto-com-o-psd/20260930/6abd570fd34e53c759c74883",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.616874+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Sintomas depressivos afetam 40% dos adolescentes de 259 escolas do país",
+  "link": "https://cnnportugal.iol.pt/depressao/sintomas-depressivos/sintomas-depressivos-afetam-40-dos-adolescentes-de-259-escolas-do-pais/20260930/6abd5ac8d34e9a786e75a5e0",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.616918+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo desmente Chega e garante que \"não assumiu qualquer compromisso\" de pagar indemnizações às antigas colónias",
+  "link": "https://cnnportugal.iol.pt/governo/indemnizacoes/governo-desmente-chega-e-garante-que-nao-assumiu-qualquer-compromisso-de-pagar-indemnizacoes-as-antigas-colonias/20260930/6abd3de7d34e9a786e75a563",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617209+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Receita fiscal do Estado subiu 5% para 41.592 milhões de euros até agosto",
+  "link": "https://cnnportugal.iol.pt/receita-fiscal/impostos/receita-fiscal-do-estado-subiu-5-para-41-592-milhoes-de-euros-ate-agosto/20260930/6abd387ed34e53c759c747fb",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617229+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Governo quer \"plano de ação e prevenção\" até dia 16 para eliminar lixo espalhado nas ruas devido ao Volta",
+  "link": "https://cnnportugal.iol.pt/volta/sistema-volta/governo-quer-plano-de-acao-e-prevencao-ate-dia-16-para-eliminar-lixo-espalhado-nas-ruas-devido-ao-volta/20260930/6abd3759d34e9a786e75a54c",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617252+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "TAP. Parpública confirma entrega de propostas melhoradas da Air France-KLM e Lufthansa",
+  "link": "https://cnnportugal.iol.pt/tap/parpublica/tap-parpublica-confirma-entrega-de-propostas-melhoradas-da-air-france-klm-e-lufthansa/20260930/6abd4112d34e53c759c74822",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617271+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "OE2027. Governo avisa que qualquer medida da oposição sem contrapartida pode resultar em défice",
+  "link": "https://cnnportugal.iol.pt/oe2027/orcamento-do-estado/oe2027-governo-avisa-que-qualquer-medida-da-oposicao-sem-contrapartida-pode-resultar-em-defice/20260930/6abd44ddd34e9a786e75a58a",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617291+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "\"Cristiano Ronaldo, por tudo o que construiu na sua carreira, não sabe o que é estar no banco\"",
+  "link": "https://cnnportugal.iol.pt/videos/cristiano-ronaldo-por-tudo-o-que-construiu-na-sua-carreira-nao-sabe-o-que-e-estar-no-banco/6abd30810cf22b9f8904d5f9",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617488+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Ministra da Justiça ouvida em audição urgente sobre buscas na PJ",
+  "link": "https://cnnportugal.iol.pt/ministra-da-justica/rita-alarcao-judice/ministra-da-justica-ouvida-em-audicao-urgente-sobre-buscas-na-pj/20260930/6abd3197d34e9a786e75a53d",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617588+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "\"É uma decisão muito positiva\": Governo saúda provável abstenção do PS no OE2027",
+  "link": "https://cnnportugal.iol.pt/oe2027/orcamento-do-estado/e-uma-decisao-muito-positiva-governo-sauda-provavel-abstencao-do-ps-no-oe2027/20260930/6abd34f8d34e53c759c747f2",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617610+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "OE2027. Carneiro vai propor abstenção do PS em resposta a \"sinal muito positivo\" de Montenegro",
+  "link": "https://cnnportugal.iol.pt/oe2027/orcamento-do-estado/oe2027-carneiro-vai-propor-abstencao-do-ps-em-resposta-a-sinal-muito-positivo-de-montenegro/20260930/6abd299fd34e9a786e75a52a",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617811+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "\"Não vale a pena estar com papões\": Montenegro rejeita que novas regras flexibilizem rendas",
+  "link": "https://cnnportugal.iol.pt/habitacao/luis-montenegro/nao-vale-a-pena-estar-com-papoes-montenegro-rejeita-que-novas-regras-flexibilizem-rendas/20260930/6abd202fd34e53c759c747c5",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617880+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Custo de vida: Montenegro não diz se haverá novas medidas e pede cautela com as contas",
+  "link": "https://cnnportugal.iol.pt/custo-de-vida/montenegro/custo-de-vida-montenegro-nao-diz-se-havera-novas-medidas-e-pede-cautela-com-as-contas/20260930/6abd1e26d34e9a786e75a50f",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617899+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Roménia continua sem novo Governo: Parlamento rejeita candidato a primeiro-ministro",
+  "link": "https://cnnportugal.iol.pt/romenia/governo-romeno/romenia-continua-sem-novo-governo-parlamento-rejeita-candidato-a-primeiro-ministro/20260930/6abd1c6bd34e9a786e75a50b",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T20:05:16.617920+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Excedente do Estado cai para 249,3 milhões de euros até agosto",
+  "link": "https://24noticias.sapo.pt/economia/artigos/excedente-do-estado-cai-para-2493-milhoes-de-euros-ate-agosto",
+  "resumo": "O Estado registou um excedente de 249,3 milhões de euros até agosto, uma diminuição de 1.799,4 milhões de euros face ao período homólogo, revelou a síntese de execução orçamental. O conteúdo Excedente do Estado cai para 249,3 milhões de euros até agosto aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-30T19:27:43+00:00",
+  "cats_feed": [
+   "Economia",
+   "Administrações Públicas",
+   "Excedente do Estado"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "53 cursos ficaram sem colocados na 2.ª fase. Há licenciaturas com dezenas de vagas por preencher",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/53-cursos-ficaram-sem-colocados-na-2-a-fase-ha-licenciaturas-com-dezenas-de-vagas-por-preencher",
+  "resumo": "Ao todo, 53 cursos não tiveram qualquer colocado na segunda fase do Concurso Nacional de Acesso de 2026. 21 licenciaturas tinham conseguido colocar estudantes na primeira fase, mas ficaram a zero na segunda. Há ainda sete cursos que, depois de não terem colocado ninguém na primeira fase, conseguiram atrair apenas um a três alunos na segunda. O conteúdo 53 cursos ficaram sem colocados na 2.ª fase. Há licenciaturas com dezenas de vagas por preencher aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Meiline Silva",
+  "data": "2026-09-30T17:33:12+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "colocações",
+   "Cursos desertos",
+   "Ensino Superior",
+   "estudantes",
+   "Politécnicos",
+   "Universidades"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Investigadores procuram “ponto fraco” do cancro da mama mais agressivo",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/investigadores-procuram-ponto-fraco-do-cancro-da-mama-mais-agressivo",
+  "resumo": "O projeto CheMAP pretende identificar vulnerabilidades genéticas em células tumorais resistentes aos tratamentos, com vista ao desenvolvimento de terapias mais personalizadas e eficazes. O conteúdo Investigadores procuram “ponto fraco” do cancro da mama mais agressivo aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-09-30T16:55:19+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Saúde",
+   "Cancro da Mama",
+   "Isto é útil",
+   "Nacional",
+   "Projeto CheMAP"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Ministra do Ambiente não afasta racionamento de combustível e volta a pedir “consumos responsáveis”. Portugal enfrentou escassez em 2019",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/ministra-do-ambiente-nao-afasta-racionamento-de-combustivel-e-volta-a-pedir-consumos-responsaveis-portugal-enfrentou-escassez-em-2019",
+  "resumo": "Maria da Graça Carvalho não exclui a possibilidade de um racionamento de combustível e voltou a pedir \"consumos responsáveis\". Em 2019, Portugal enfrentou uma escassez de combustíveis devido à greve dos motoristas de matérias perigosas. O conteúdo Ministra do Ambiente não afasta racionamento de combustível e volta a pedir “consumos responsáveis”. Portugal enfrentou escassez em 2019 aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Catarina Duarte",
+  "data": "2026-09-30T16:44:21+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Economia",
+   "aumento dos preços",
+   "Combustíveis",
+   "Gasóleo",
+   "Gasolina",
+   "Ministério do Ambiente"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Há novas regras para os transportes turísticos de passageiros no Porto",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/ha-novas-regras-para-os-transportes-turisticos-de-passageiros-no-porto",
+  "resumo": "O Município do Porto vai alterar, a partir desta quinta-feira, 1 de outubro, vários locais de paragem para tomada e largada de passageiros de transportes turísticos. As mudanças abrangem veículos pesados de passageiros em serviço ocasional e veículos com lotação igual ou inferior a nove lugares, incluindo os conhecidos “tuk-tuk”. O conteúdo Há novas regras para os transportes turísticos de passageiros no Porto aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-09-30T16:33:51+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Isto é útil",
+   "Nacional",
+   "Porto",
+   "Turismo"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Hospital dos Pequeninos regressa a Lisboa para ajudar crianças a perder o medo dos médicos",
+  "link": "https://24noticias.sapo.pt/saude/artigos/hospital-dos-pequeninos-regressa-a-lisboa-para-ajudar-criancas-a-perder-o-medo-dos-medicos",
+  "resumo": "Crianças entre os 3 e os 10 anos vão poder brincar aos médicos e aprender a lidar com os cuidados de saúde durante mais uma edição do Hospital dos Pequeninos, projeto organizado pela Associação de Estudantes da Faculdade de Medicina de Lisboa (AEFML). O conteúdo Hospital dos Pequeninos regressa a Lisboa para ajudar crianças a perder o medo dos médicos aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-30T11:54:43+00:00",
+  "cats_feed": [
+   "Saúde",
+   "Crianças",
+   "Hospital dos Pequeninos",
+   "Médicos",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Não é só sombra: como uma árvore consegue arrefecer uma rua",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/nao-e-so-sombra-como-uma-arvore-consegue-arrefecer-uma-rua",
+  "resumo": "Em dias de calor, há uma forma simples de procurar algum alívio: a sombra de uma árvore. Mas aquilo que sentimos debaixo de uma copa não resulta apenas da própria sombra. A árvore também funciona como um pequeno sistema natural de arrefecimento, através da água que transporta desde as raízes até às folhas. O conteúdo Não é só sombra: como uma árvore consegue arrefecer uma rua aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Ana Pimentel",
+  "data": "2026-09-30T11:41:25+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Ambiente",
+   "árvore",
+   "Natureza",
+   "Planeta A"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Inflação sobe para 3,6% em setembro pressionada pelos combustíveis",
+  "link": "https://24noticias.sapo.pt/economia/artigos/inflacao-sobe-para-36-em-setembro-pressionada-pelos-combustiveis",
+  "resumo": "A taxa de inflação em Portugal acelerou para 3,6% em setembro, mais 0,3 pontos percentuais do que em agosto, refletindo sobretudo o forte aumento dos preços dos combustíveis. O valor é o mais elevado desde setembro de 2023 e surge num contexto de pressão sobre os preços da energia. O conteúdo Inflação sobe para 3,6% em setembro pressionada pelos combustíveis aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-30T11:20:27+00:00",
+  "cats_feed": [
+   "Economia",
+   "Combustíveis",
+   "Inflação",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Onde estão as 2.816 habitações com preços acessíveis? IHRU falha e governo não explica",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/ihru-falha-e-governo-nao-explica-onde-estao-as-2-816-habitacoes-com-precos-acessiveis",
+  "resumo": "Passaram seis anos em alguns casos desde que o Instituto da Habitação e da Reabilitação Urbana (IHRU) anunciou, aprovou e pagou os projetos de conceção de quase 3.000 novas habitações para arrendamento a preços acessíveis. As casas não foram construídas e ninguém sabe quando vão ser. O conteúdo Onde estão as 2.816 habitações com preços acessíveis? IHRU falha e governo não explica aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-30T10:47:53+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Economia",
+   "Governo",
+   "Habitação",
+   "Habitações",
+   "IHRU",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Incêndios: época mais crítica termina com menos área ardida e mais fogos",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/incendios-epoca-mais-critica-termina-com-menos-area-ardida-e-mais-fogos",
+  "resumo": "O período de maior mobilização do dispositivo de combate aos incêndios rurais termina esta quarta-feira. Portugal registou quase oito mil fogos e 74.267 hectares de área ardida, uma redução de 72% face a 2025. O conteúdo Incêndios: época mais crítica termina com menos área ardida e mais fogos aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-30T08:09:35+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Bombeiros",
+   "Fogo",
+   "Incêndios",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Governo quer acelerar despejos enquanto rendas batem recordes",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/governo-quer-acelerar-despejos-enquanto-rendas-batem-recordes",
+  "resumo": "O Governo pretende reduzir de três para dois meses o período de incumprimento necessário para avançar com um despejo. A proposta é votada esta quarta-feira no Parlamento, num momento em que as novas rendas atingiram um máximo histórico. O conteúdo Governo quer acelerar despejos enquanto rendas batem recordes aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-09-30T06:27:31+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Arrendamento",
+   "Despejos",
+   "Habitação",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
  }
 ]
