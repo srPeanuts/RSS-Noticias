@@ -4,10 +4,10 @@
   "resumo": "Os preços do gás natural no mercado regulado aumentam em média 6,4% a partir de hoje, segundo as tarifas aprovadas pela Entidade Reguladora dos Serviços Energéticos (ERSE).",
   "categoria": "economia",
   "palavras": [
-   "mercado",
    "partir",
+   "mercado",
    "regulado",
-   "gas"
+   "tarifas"
   ],
   "fontes": [
    "Expresso",
@@ -52,14 +52,190 @@
   ]
  },
  {
+  "titulo": "Portugal teve a maior subida nos preços das casas no 2.º trimestre na UE",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "precos casas",
+   "ue",
+   "trimestre",
+   "maior subida"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Expresso",
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "Preços das casas em Portugal têm maior subida da União Europeia",
+    "link": "https://expresso.pt/economia/economia_imobiliario/2026-10-01-portugal-tem-a-maior-subida-do-preco-das-casas-na-uniao-europeia-no-segundo-trimestre-do-ano-b54ba7d5",
+    "fonte": "Expresso",
+    "data": "2026-10-01T11:28:09+01:00"
+   },
+   {
+    "titulo": "Portugal teve a maior subida nos preços das casas no 2.º trimestre na UE",
+    "link": "https://www.noticiasaominuto.com/pais/3060113/urgente-portugal-com-maior-subida-nos-precos-das-casas-no-1-trimestre-na-ue#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T10:35:52+00:00"
+   },
+   {
+    "titulo": "Portugal é o país da UE em que os preços das casas mais subiram no 1.º trimestre",
+    "link": "https://cnnportugal.iol.pt/habitacao/precos/portugal-e-o-pais-da-ue-em-que-os-precos-das-casas-mais-subiram-no-1-trimestre/20261001/6abe2bc9d34e9a786e75a6e9",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.311181+00:00"
+   },
+   {
+    "titulo": "Portugal com maior subida nos preços das casas no primeiro trimestre na UE",
+    "link": "https://jornaleconomico.sapo.pt/noticias/portugal-com-maior-subida-nos-precos-das-casas-no-primeiro-trimestre-na-ue/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T09:53:36+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Raimundo acusa Carneiro de \"dar gás\" ao Governo",
+  "resumo": "O secretário-geral do PCP acusou hoje o líder do PS de \"dar gás\" às políticas do Governo ao abster-se no Orçamento e desafiou a direção dos socialistas a não aceitar o voto proposto por José Luís Carneiro.",
+  "categoria": "politica",
+  "palavras": [
+   "dar gas",
+   "raimundo acusa",
+   "governo",
+   "acusa carneiro"
+  ],
+  "fontes": [
+   "Expresso",
+   "Jornal Económico",
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "Paulo Raimundo acusa PS de ”dar gás” às políticas do Governo com abstenção no Orçamento do Estado",
+    "link": "https://expresso.pt/partidos-politicos/2026-10-01-paulo-raimundo-acusa-ps-de-dar-gas-as-politicas-do-governo-com-abstencao-no-orcamento-do-estado-e65c0a4c",
+    "fonte": "Expresso",
+    "data": "2026-10-01T11:15:36+01:00"
+   },
+   {
+    "titulo": "Raimundo acusa Carneiro de “dar gás” ao Governo",
+    "link": "https://jornaleconomico.sapo.pt/noticias/raimundo-acusa-carneiro-de-dar-gas-ao-governo/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T10:46:28+00:00"
+   },
+   {
+    "titulo": "Raimundo acusa Carneiro de \"dar gás\" ao Governo",
+    "link": "https://www.rtp.pt/noticias/economia/raimundo-acusa-carneiro-de-dar-gas-ao-governo_n1768818",
+    "fonte": "RTP",
+    "data": "2026-10-01T10:08:41+01:00"
+   },
+   {
+    "titulo": "PS abstém-se no OE? Raimundo acusa Carneiro de \"dar gás\" ao Governo",
+    "link": "https://www.noticiasaominuto.com/pais/3060053/oe2027-raimundo-acusa-carneiro-de-dar-gas-ao-governo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T08:58:34+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"É preciso colocar a marca Ronaldo acima do jogador Cristiano Ronaldo\"",
+  "resumo": "Carlos Brito, presidente da Ordem dos Economistas do Norte, considera que a marca \"fortíssima\" de Cristiano Ronaldo pode ser extremamente valiosa para Portugal e vai exigir \"muita negociação que não se compadece com os estados emocionais\" que vivemos agora, com o abandono de Ronaldo do estágio da seleção. \"Não é pelos minutos em campo\" que Ronaldo fará a diferença, porque \"agora, a marca vale mais do que o jogador\", assegura.",
+  "categoria": "economia",
+  "palavras": [
+   "ronaldo",
+   "cristiano",
+   "marca",
+   "bateu"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 4,
+  "pontuacao": 13,
+  "artigos": [
+   {
+    "titulo": "\"É preciso colocar a marca Ronaldo acima do jogador Cristiano Ronaldo\"",
+    "link": "https://www.rtp.pt/noticias/economia/e-preciso-colocar-a-marca-ronaldo-acima-do-jogador-cristiano-ronaldo_n1768847",
+    "fonte": "RTP",
+    "data": "2026-10-01T12:37:05+01:00"
+   },
+   {
+    "titulo": "Cristiano Ronaldo bateu a porta: Qual o impacto económico para Portugal?",
+    "link": "https://www.noticiasaominuto.com/economia/3060138/cristiano-ronaldo-bateu-a-porta-qual-o-impacto-economico-para-portugal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T11:21:00+00:00"
+   },
+   {
+    "titulo": "Cristiano Ronaldo chegou ao aeroporto de Copenhaga e tinha \"quatro ou cinco curiosos\" à sua espera",
+    "link": "https://cnnportugal.iol.pt/videos/cristiano-ronaldo-chegou-ao-aeroporto-de-copenhaga-e-tinha-quatro-ou-cinco-curiosos-a-sua-espera/6abd7e2c0cf299bc2953e0fc",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.312094+00:00"
+   },
+   {
+    "titulo": "Para a marca de Cristiano Ronaldo \"é mais humilhante estar no banco e não entrar do que sair da Seleção\"",
+    "link": "https://cnnportugal.iol.pt/videos/para-a-marca-de-cristiano-ronaldo-e-mais-humilhante-estar-no-banco-e-nao-entrar-do-que-sair-da-selecao/6abe20350cf22b9f8904d769",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.311334+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo reserva 3,8 milhões para \"Botija de Gás Solidária\" em 2027",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "solidaria",
+   "botija",
+   "2027",
+   "reserva milhoes"
+  ],
+  "fontes": [
+   "Expresso",
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Governo reserva 3,8 milhões para \"Botija de Gás Solidária\" em 2027",
+    "link": "https://www.noticiasaominuto.com/economia/3060140/governo-reserva-3-8-me-para-botija-de-gas-solidaria-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T11:58:30+00:00"
+   },
+   {
+    "titulo": "Programa Botija Solidária vai continuar em 2027 com verbas de €3,8 milhões",
+    "link": "https://expresso.pt/economia/economia_energia/2026-10-01-programa-botija-solidaria-vai-continuar-em-2027-com-verbas-de-38-milhoes-02701c96",
+    "fonte": "Expresso",
+    "data": "2026-10-01T11:49:27+01:00"
+   },
+   {
+    "titulo": "Governo reserva 3,8 milhões de euros para “Botija de Gás Solidária” em 2027",
+    "link": "https://jornaleconomico.sapo.pt/noticias/governo-reserva-38-milhoes-de-euros-para-botija-de-gas-solidaria-em-2027/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T10:33:49+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Chega quer Convenção em dia de plenário, Aguiar-Branco mantém calendário",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
    "calendario",
    "convencao",
-   "aguiar-branco mantem",
-   "plenario aguiar-branco"
+   "chega quer",
+   "aguiar-branco"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -91,79 +267,41 @@
   ]
  },
  {
-  "titulo": "Portugal teve a maior subida nos preços das casas no 2.º trimestre na UE",
+  "titulo": "PCP pede à ministra da Saúde que \"desça à realidade\" e faz \"ultimato\"",
   "resumo": "",
-  "categoria": "economia",
+  "categoria": "politica",
   "palavras": [
-   "ue",
-   "precos casas",
-   "trimestre",
-   "subida precos"
+   "realidade",
+   "ultimato",
+   "saude desca",
+   "ministra"
   ],
   "fontes": [
-   "CNN Portugal",
    "Jornal Económico",
-   "Notícias ao Minuto"
+   "Notícias ao Minuto",
+   "RTP"
   ],
   "n_fontes": 3,
   "n_artigos": 3,
   "pontuacao": 12,
   "artigos": [
    {
-    "titulo": "Portugal teve a maior subida nos preços das casas no 2.º trimestre na UE",
-    "link": "https://www.noticiasaominuto.com/pais/3060113/urgente-portugal-com-maior-subida-nos-precos-das-casas-no-1-trimestre-na-ue#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T10:35:52+00:00"
+    "titulo": "Raimundo pede à ministra da Saúde que \"desça à realidade\" e faz \"ultimato\"",
+    "link": "https://www.rtp.pt/noticias/pais/raimundo-pede-a-ministra-da-saude-que-desca-a-realidade-e-faz-ultimato_n1768826",
+    "fonte": "RTP",
+    "data": "2026-10-01T11:28:04+01:00"
    },
    {
-    "titulo": "Portugal é o país da UE em que os preços das casas mais subiram no 1.º trimestre",
-    "link": "https://cnnportugal.iol.pt/habitacao/precos/portugal-e-o-pais-da-ue-em-que-os-precos-das-casas-mais-subiram-no-1-trimestre/20261001/6abe2bc9d34e9a786e75a6e9",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.311181+00:00"
-   },
-   {
-    "titulo": "Portugal com maior subida nos preços das casas no primeiro trimestre na UE",
-    "link": "https://jornaleconomico.sapo.pt/noticias/portugal-com-maior-subida-nos-precos-das-casas-no-primeiro-trimestre-na-ue/",
+    "titulo": "Raimundo pede à ministra da Saúde que “desça à realidade” e faz “ultimato”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/raimundo-pede-a-ministra-da-saude-que-desca-a-realidade-e-faz-ultimato/",
     "fonte": "Jornal Económico",
-    "data": "2026-10-01T09:53:36+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Cristiano Ronaldo bateu a porta: Qual o impacto económico para Portugal?",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "cristiano",
-   "ronaldo",
-   "bateu",
-   "impacto"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 3,
-  "pontuacao": 9,
-  "artigos": [
+    "data": "2026-10-01T10:41:11+00:00"
+   },
    {
-    "titulo": "Cristiano Ronaldo bateu a porta: Qual o impacto económico para Portugal?",
-    "link": "https://www.noticiasaominuto.com/economia/3060138/cristiano-ronaldo-bateu-a-porta-qual-o-impacto-economico-para-portugal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "PCP pede à ministra da Saúde que \"desça à realidade\" e faz \"ultimato\"",
+    "link": "https://www.noticiasaominuto.com/politica/3060090/pcp-pede-a-ministra-da-saude-que-desca-a-realidade-e-faz-ultimato#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T11:21:00+00:00"
-   },
-   {
-    "titulo": "Cristiano Ronaldo chegou ao aeroporto de Copenhaga e tinha \"quatro ou cinco curiosos\" à sua espera",
-    "link": "https://cnnportugal.iol.pt/videos/cristiano-ronaldo-chegou-ao-aeroporto-de-copenhaga-e-tinha-quatro-ou-cinco-curiosos-a-sua-espera/6abd7e2c0cf299bc2953e0fc",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.312094+00:00"
-   },
-   {
-    "titulo": "Para a marca de Cristiano Ronaldo \"é mais humilhante estar no banco e não entrar do que sair da Seleção\"",
-    "link": "https://cnnportugal.iol.pt/videos/para-a-marca-de-cristiano-ronaldo-e-mais-humilhante-estar-no-banco-e-nao-entrar-do-que-sair-da-selecao/6abe20350cf22b9f8904d769",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.311334+00:00"
+    "data": "2026-10-01T09:49:07+00:00"
    }
   ]
  },
@@ -200,46 +338,46 @@
   ]
  },
  {
-  "titulo": "Cerca de 680 médicos de família vão reformar-se até 2029, mas há mais de 1.400 em formação",
+  "titulo": "Condutores, combustíveis devem ficar mais baratos na próxima semana",
   "resumo": "",
-  "categoria": "governo",
+  "categoria": "economia",
   "palavras": [
-   "medicos familia",
-   "2029",
-   "reformar-se",
-   "formacao"
+   "proxima semana",
+   "condutores combustiveis",
+   "ficar baratos",
+   "devem"
   ],
   "fontes": [
    "CNN Portugal",
-   "Público"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 2,
   "n_artigos": 2,
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Cerca de 680 médicos de família vão reformar-se até 2029, mas há mais de 1.400 em formação",
-    "link": "https://cnnportugal.iol.pt/medicos-de-familia/reforma/cerca-de-680-medicos-de-familia-vao-reformar-se-ate-2029-mas-ha-1-446-em-formacao/20261001/6abde9d0d34e53c759c7490d",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.311858+00:00"
+    "titulo": "Condutores, combustíveis devem ficar mais baratos na próxima semana",
+    "link": "https://www.noticiasaominuto.com/economia/3060184/condutores-combustiveis-devem-ficar-mais-baratos-na-proxima-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T12:07:34+00:00"
    },
    {
-    "titulo": "Médicos de família: aposentações vão cair a pique. Ainda é possível dar médico a todos até 2029",
-    "link": "https://www.publico.pt/2026/10/01/sociedade/noticia/medicos-familia-aposentacoes-vao-cair-pique-possivel-dar-medico-ate-2029-2189882",
-    "fonte": "Público",
-    "data": "2026-09-30T23:01:00+00:00"
+    "titulo": "Preços do gasóleo e gasolina deverão voltar a baixar na próxima semana: saiba o que esperar",
+    "link": "https://cnnportugal.iol.pt/preco-dos-combustiveis/gasoleo/precos-do-gasoleo-e-gasolina-deverao-voltar-a-baixar-na-proxima-semana-saiba-o-que-esperar/20261001/6abe3be9d34e9a786e75a72b",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T11:54:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Pensões mais baixas deverão registar subida acima da inflação no próximo ano",
-  "resumo": "As pensões mais baixas, que abrangem a grande maioria dos pensionistas no país, deverão ter um aumento acima da inflação, caso se confirmem as previsões para o crescimento económico e a inflação.",
+  "titulo": "Recebe até este valor de reforma? Deverá ter aumento acima da inflação",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
    "inflacao",
    "acima",
    "aumento",
-   "devera"
+   "recebe valor"
   ],
   "fontes": [
    "Jornal de Negócios",
@@ -264,14 +402,46 @@
   ]
  },
  {
-  "titulo": "Receitas do jogo em Macau com valor mais baixo dos últimos dois anos",
-  "resumo": "",
-  "categoria": "economia",
+  "titulo": "PSP regista mais de 54 mil crimes contra idosos em três anos",
+  "resumo": "Furtos, burlas e violência doméstica estão entre os crimes mais registados. Os carteiristas ganharam peso em 2025, segundo dados divulgados pela PSP. O conteúdo PSP regista mais de 54 mil crimes contra idosos em três anos aparece primeiro em 24 Notícias .",
+  "categoria": "sociedade",
   "palavras": [
-   "receitas jogo",
-   "ultimos",
-   "valor baixo",
-   "jogo macau"
+   "crimes",
+   "psp",
+   "idosos",
+   "domestica"
+  ],
+  "fontes": [
+   "Público",
+   "SAPO 24"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "PSP registou quase 1900 crimes de violência doméstica contra idosos em 2025",
+    "link": "https://www.publico.pt/2026/10/01/sociedade/noticia/psp-registou-quase-1900-crimes-violencia-domestica-idosos-2025-2189917",
+    "fonte": "Público",
+    "data": "2026-10-01T09:47:31+00:00"
+   },
+   {
+    "titulo": "PSP regista mais de 54 mil crimes contra idosos em três anos",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/psp-regista-mais-de-54-mil-crimes-contra-idosos-em-tres-anos",
+    "fonte": "SAPO 24",
+    "data": "2026-10-01T07:02:52+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "OE. PCP quer reforçar direitos de pais e crianças",
+  "resumo": "O PCP promete levar os direitos de pais e crianças para as negociações do Orçamento do Estado que terão início nas próximas semanas, defendendo que são um \"aspeto fundamental\" para discutir um \"projeto de futuro\" para o país. São temas que vão estar em debate nos próximos dois dias nas jornadas parlamentares do partido, que arrancam esta quinta-feira na Assembleia da República, em Lisboa.",
+  "categoria": "politica",
+  "palavras": [
+   "direitos criancas",
+   "pcp",
+   "inicia jornadas",
+   "jornadas parlamentares"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -282,26 +452,58 @@
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Receitas do jogo em Macau em setembro com valor mais baixo dos últimos dois anos",
-    "link": "https://www.rtp.pt/noticias/economia/receitas-do-jogo-em-macau-em-setembro-com-valor-mais-baixo-dos-ultimos-dois-anos_n1768789",
-    "fonte": "RTP",
-    "data": "2026-10-01T08:02:20+01:00"
+    "titulo": "PCP inicia jornadas parlamentares sobre direitos das crianças",
+    "link": "https://www.noticiasaominuto.com/politica/3060005/pcp-inicia-jornadas-parlamentares-sobre-direitos-das-criancas#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T06:11:00+00:00"
    },
    {
-    "titulo": "Receitas do jogo em Macau com valor mais baixo dos últimos dois anos",
-    "link": "https://www.noticiasaominuto.com/economia/3060021/receitas-do-jogo-em-macau-com-valor-mais-baixo-dos-ultimos-dois-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T07:12:36+00:00"
+    "titulo": "OE. PCP quer reforçar direitos de pais e crianças",
+    "link": "https://www.rtp.pt/noticias/politica/oe-pcp-quer-reforcar-direitos-de-pais-e-criancas_n1768762",
+    "fonte": "RTP",
+    "data": "2026-10-01T01:00:14+01:00"
    }
   ]
  },
  {
-  "titulo": "Prejuízo da Greenvolt aumenta de 13 milhões para 54,7 milhões no semestre. Biomassa cresce 26%",
-  "resumo": "A Greenvolt registou um prejuízo atribuível de 54,7 milhões de euros no primeiro semestre, contra perdas de 13 milhões de euros em igual período de 2025, penalizada pelo menor ritmo de rotação de ativos na área utility-scale, segundo a apresentação de resultados divulgados à CMVM.",
+  "titulo": "IGAS abre inquérito a surto de gripe A em lar de Estremoz que provocou seis mortos",
+  "resumo": "O inquérito vai analisar o acompanhamento clínico, prevenção e controlo da infeção, referenciação para cuidados hospitalares e articulação entre a instituição e entidades de saúde.",
+  "categoria": "sociedade",
+  "palavras": [
+   "gripe",
+   "lar",
+   "estremoz",
+   "surto"
+  ],
+  "fontes": [
+   "Expresso",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "IGAS abre inquérito a mortes de lar em Estremoz com surto de gripe A",
+    "link": "https://www.rtp.pt/noticias/pais/igas-abre-inquerito-a-mortes-de-lar-em-estremoz-com-surto-de-gripe-a_n1768807",
+    "fonte": "RTP",
+    "data": "2026-10-01T08:55:24+01:00"
+   },
+   {
+    "titulo": "IGAS abre inquérito a surto de gripe A em lar de Estremoz que provocou seis mortos",
+    "link": "https://expresso.pt/saude-publica/2026-10-01-igas-abre-inquerito-a-surto-de-gripe-a-em-lar-de-estremoz-que-provocou-seis-mortos-4f34a51a",
+    "fonte": "Expresso",
+    "data": "2026-10-01T08:55:16+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Prejuízo da Greenvolt sobe para 54,7 milhões no primeiro semestre",
+  "resumo": "A empresa de energias renováveis tinha registado perdas de 14,5 milhões no trimestre homólogo de 2025 e explica a queda dos rendimentos operacionais com a redução das operações de rotação de ativos.",
   "categoria": "economia",
   "palavras": [
-   "54 milhoes",
    "greenvolt",
+   "54 milhoes",
    "prejuizo",
    "semestre"
   ],
@@ -328,237 +530,13 @@
   ]
  },
  {
-  "titulo": "PCP inicia jornadas parlamentares sobre direitos das crianças",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "direitos criancas",
-   "pcp",
-   "jornadas",
-   "parlamentares"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "PCP inicia jornadas parlamentares sobre direitos das crianças",
-    "link": "https://www.noticiasaominuto.com/politica/3060005/pcp-inicia-jornadas-parlamentares-sobre-direitos-das-criancas#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T06:11:00+00:00"
-   },
-   {
-    "titulo": "OE. PCP quer reforçar direitos de pais e crianças",
-    "link": "https://www.rtp.pt/noticias/politica/oe-pcp-quer-reforcar-direitos-de-pais-e-criancas_n1768762",
-    "fonte": "RTP",
-    "data": "2026-10-01T01:00:14+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Raimundo acusa Carneiro de \"dar gás\" ao Governo",
-  "resumo": "O secretário-geral do PCP acusou hoje o líder do PS de \"dar gás\" às políticas do Governo ao abster-se no Orçamento e desafiou a direção dos socialistas a não aceitar o voto proposto por José Luís Carneiro.",
-  "categoria": "politica",
-  "palavras": [
-   "dar gas",
-   "raimundo acusa",
-   "carneiro dar",
-   "gas governo"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Raimundo acusa Carneiro de \"dar gás\" ao Governo",
-    "link": "https://www.rtp.pt/noticias/economia/raimundo-acusa-carneiro-de-dar-gas-ao-governo_n1768818",
-    "fonte": "RTP",
-    "data": "2026-10-01T10:08:41+01:00"
-   },
-   {
-    "titulo": "PS abstém-se no OE? Raimundo acusa Carneiro de \"dar gás\" ao Governo",
-    "link": "https://www.noticiasaominuto.com/pais/3060053/oe2027-raimundo-acusa-carneiro-de-dar-gas-ao-governo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T08:58:34+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Primeiro semestre bate recorde de apostas em Portugal",
-  "resumo": "O futebol continuou a ser a modalidade com mais apostas, com 69,9%, seguido do ténis (20,5%) e do basquetebol (6%), com as restantes modalidades a receberem 3,6%.",
-  "categoria": "economia",
-  "palavras": [
-   "apostas",
-   "recorde",
-   "semestre",
-   "primeiro"
-  ],
-  "fontes": [
-   "Expresso",
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Primeiro semestre bate recorde de apostas em Portugal",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/primeiro-semestre-bate-recorde-de-apostas-em-portugal",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T10:10:53+01:00"
-   },
-   {
-    "titulo": "Volume de apostas desportivas em Portugal atinge recorde histórico no primeiro semestre de 2026",
-    "link": "https://expresso.pt/economia/2026-10-01-volume-de-apostas-desportivas-em-portugal-atinge-recorde-historico-no-primeiro-semestre-de-2026-774f59d4",
-    "fonte": "Expresso",
-    "data": "2026-10-01T09:52:37+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Preço do petróleo Brent cai mais de 6%, para 96,89 dólares",
+  "titulo": "Estratégia para setor da suinicultura com 450 milhões para 2028-2034",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "dolares",
-   "petroleo",
-   "preco",
-   "brent"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Preço do petróleo Brent cai mais de 6%, para 96,89 dólares",
-    "link": "https://www.rtp.pt/noticias/economia/preco-do-petroleo-brent-cai-mais-de-6-para-9689-dolares_n1768794",
-    "fonte": "RTP",
-    "data": "2026-10-01T08:16:49+01:00"
-   },
-   {
-    "titulo": "Preço do petróleo Brent cai mais de 6%, para 96,89 dólares",
-    "link": "https://www.noticiasaominuto.com/economia/3060022/preco-do-petroleo-brent-cai-mais-de-6-para-96-89-dolares#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T07:26:42+00:00"
-   }
-  ]
- },
- {
-  "titulo": "IGAS abre inquérito a surto de gripe A em lar de Estremoz que provocou seis mortos",
-  "resumo": "O inquérito vai analisar o acompanhamento clínico, prevenção e controlo da infeção, referenciação para cuidados hospitalares e articulação entre a instituição e entidades de saúde.",
-  "categoria": "sociedade",
-  "palavras": [
-   "surto",
-   "gripe",
-   "estremoz",
-   "lar"
-  ],
-  "fontes": [
-   "Expresso",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "IGAS abre inquérito a mortes de lar em Estremoz com surto de gripe A",
-    "link": "https://www.rtp.pt/noticias/pais/igas-abre-inquerito-a-mortes-de-lar-em-estremoz-com-surto-de-gripe-a_n1768807",
-    "fonte": "RTP",
-    "data": "2026-10-01T08:55:24+01:00"
-   },
-   {
-    "titulo": "IGAS abre inquérito a surto de gripe A em lar de Estremoz que provocou seis mortos",
-    "link": "https://expresso.pt/saude-publica/2026-10-01-igas-abre-inquerito-a-surto-de-gripe-a-em-lar-de-estremoz-que-provocou-seis-mortos-4f34a51a",
-    "fonte": "Expresso",
-    "data": "2026-10-01T08:55:16+01:00"
-   }
-  ]
- },
- {
-  "titulo": "PCP pede à ministra da Saúde que \"desça à realidade\" e faz \"ultimato\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "ministra",
-   "saude desca",
-   "realidade",
-   "ultimato"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Raimundo pede à ministra da Saúde que \"desça à realidade\" e faz \"ultimato\"",
-    "link": "https://www.rtp.pt/noticias/pais/raimundo-pede-a-ministra-da-saude-que-desca-a-realidade-e-faz-ultimato_n1768826",
-    "fonte": "RTP",
-    "data": "2026-10-01T11:28:04+01:00"
-   },
-   {
-    "titulo": "PCP pede à ministra da Saúde que \"desça à realidade\" e faz \"ultimato\"",
-    "link": "https://www.noticiasaominuto.com/politica/3060090/pcp-pede-a-ministra-da-saude-que-desca-a-realidade-e-faz-ultimato#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T09:49:07+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Peru descarta \"categoricamente\" privatização total da petrolífera Petroperú",
-  "resumo": "A médio prazo, a estratégia visa que a Petroperú opere com maior eficiência, aproveite melhor os ativos e reduza a dependência do apoio estatal até se tornar financeiramente sustentável em 2032, conforme indicado pela Proinversión na altura.",
-  "categoria": "economia",
-  "palavras": [
-   "petroperu",
-   "privatizacao total",
-   "categoricamente",
-   "petrolifera"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Peru descarta \"categoricamente\" privatização total da petrolífera Petroperú",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/peru-descarta-categoricamente-privatizacao-total-da-petrolifera-petroperu",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T07:36:04+01:00"
-   },
-   {
-    "titulo": "Peru descarta \"categoricamente\" privatização total da petrolífera Petroperú",
-    "link": "https://www.rtp.pt/noticias/economia/peru-descarta-categoricamente-privatizacao-total-da-petrolifera-petroperu_n1768782",
-    "fonte": "RTP",
-    "data": "2026-10-01T07:13:36+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Estratégia para setor da suinicultura com 450 ME para o período 2028-2034",
-  "resumo": "A estratégia 2028-2034 do setor da suinicultura canaliza 450 milhões de euros para sete objetivos centrais, destacando-se um fundo para catástrofes e a aposta no aumento da autossuficiência de 65% para 80% e no rejuvenescimento da atividade.",
-  "categoria": "economia",
-  "palavras": [
+   "450",
    "2028-2034",
    "suinicultura",
-   "450",
    "estrategia"
   ],
   "fontes": [
@@ -584,14 +562,349 @@
   ]
  },
  {
+  "titulo": "Receitas do jogo em Macau em setembro com valor mais baixo dos últimos dois anos",
+  "resumo": "As receitas do jogo em Macau registaram em setembro uma queda de 17,5%, em termos mensais, alcançando o valor mais baixo dos últimos dois anos, de acordo com dados hoje anunciados.",
+  "categoria": "economia",
+  "palavras": [
+   "jogo macau",
+   "baixo ultimos",
+   "valor baixo",
+   "ultimos dois"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Receitas do jogo em Macau em setembro com valor mais baixo dos últimos dois anos",
+    "link": "https://www.rtp.pt/noticias/economia/receitas-do-jogo-em-macau-em-setembro-com-valor-mais-baixo-dos-ultimos-dois-anos_n1768789",
+    "fonte": "RTP",
+    "data": "2026-10-01T08:02:20+01:00"
+   },
+   {
+    "titulo": "Receitas do jogo em Macau com valor mais baixo dos últimos dois anos",
+    "link": "https://www.noticiasaominuto.com/economia/3060021/receitas-do-jogo-em-macau-com-valor-mais-baixo-dos-ultimos-dois-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T07:12:36+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Peru descarta \"categoricamente\" privatização total da petrolífera Petroperú",
+  "resumo": "A Agência de Promoção do Investimento Privado do Peru (Proinversión) descartou \"categoricamente\" na quarta-feira que esteja prevista uma privatização total da petrolífera Petroperú e afirmou que todos os seus ativos estratégicos continuarão nas mãos do Estado peruano.",
+  "categoria": "economia",
+  "palavras": [
+   "petroperu",
+   "categoricamente",
+   "privatizacao",
+   "total petrolifera"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Peru descarta \"categoricamente\" privatização total da petrolífera Petroperú",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/peru-descarta-categoricamente-privatizacao-total-da-petrolifera-petroperu",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T07:36:04+01:00"
+   },
+   {
+    "titulo": "Peru descarta \"categoricamente\" privatização total da petrolífera Petroperú",
+    "link": "https://www.rtp.pt/noticias/economia/peru-descarta-categoricamente-privatizacao-total-da-petrolifera-petroperu_n1768782",
+    "fonte": "RTP",
+    "data": "2026-10-01T07:13:36+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cerca de 680 médicos de família vão reformar-se até 2029, mas há mais de 1.400 em formação",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "2029",
+   "medicos",
+   "familia",
+   "formacao"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Público"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Cerca de 680 médicos de família vão reformar-se até 2029, mas há mais de 1.400 em formação",
+    "link": "https://cnnportugal.iol.pt/medicos-de-familia/reforma/cerca-de-680-medicos-de-familia-vao-reformar-se-ate-2029-mas-ha-1-446-em-formacao/20261001/6abde9d0d34e53c759c7490d",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.311858+00:00"
+   },
+   {
+    "titulo": "Médicos de família: aposentações vão cair a pique. Ainda é possível dar médico a todos até 2029",
+    "link": "https://www.publico.pt/2026/10/01/sociedade/noticia/medicos-familia-aposentacoes-vao-cair-pique-possivel-dar-medico-ate-2029-2189882",
+    "fonte": "Público",
+    "data": "2026-09-30T23:01:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Volume de apostas desportivas em Portugal atinge recorde histórico no primeiro semestre de 2026",
+  "resumo": "O futebol continuou a ser a modalidade com mais apostas, representando 69,9% do total, seguido do ténis (20,5%) e do basquetebol (6%)",
+  "categoria": "economia",
+  "palavras": [
+   "apostas",
+   "recorde",
+   "primeiro semestre",
+   "bate"
+  ],
+  "fontes": [
+   "Expresso",
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Primeiro semestre bate recorde de apostas em Portugal",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/primeiro-semestre-bate-recorde-de-apostas-em-portugal",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T10:10:53+01:00"
+   },
+   {
+    "titulo": "Volume de apostas desportivas em Portugal atinge recorde histórico no primeiro semestre de 2026",
+    "link": "https://expresso.pt/economia/2026-10-01-volume-de-apostas-desportivas-em-portugal-atinge-recorde-historico-no-primeiro-semestre-de-2026-774f59d4",
+    "fonte": "Expresso",
+    "data": "2026-10-01T09:52:37+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Preço do petróleo Brent cai mais de 6%, para 96,89 dólares",
+  "resumo": "O preço do petróleo Brent caiu hoje mais de 6% para 96,89 dólares, face aos 103,53 dólares do fecho do dia anterior, enquanto os investidores aguardavam desenvolvimentos no Médio Oriente.",
+  "categoria": "economia",
+  "palavras": [
+   "dolares",
+   "96 89",
+   "brent",
+   "petroleo"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Preço do petróleo Brent cai mais de 6%, para 96,89 dólares",
+    "link": "https://www.rtp.pt/noticias/economia/preco-do-petroleo-brent-cai-mais-de-6-para-9689-dolares_n1768794",
+    "fonte": "RTP",
+    "data": "2026-10-01T08:16:49+01:00"
+   },
+   {
+    "titulo": "Preço do petróleo Brent cai mais de 6%, para 96,89 dólares",
+    "link": "https://www.noticiasaominuto.com/economia/3060022/preco-do-petroleo-brent-cai-mais-de-6-para-96-89-dolares#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T07:26:42+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Juros da dívida sobem a cinco e a 10 anos para máximos desde 2014 e 2017",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "juros",
+   "cinco 10",
+   "maximos",
+   "2017"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Juros da dívida sobem a cinco e a 10 anos para máximos desde março de 2014 e 2017",
+    "link": "https://jornaleconomico.sapo.pt/noticias/juros-da-divida-sobem-a-cinco-e-a-10-anos-para-maximos-desde-marco-de-2014-e-2017/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T10:44:34+00:00"
+   },
+   {
+    "titulo": "Juros da dívida sobem a cinco e a 10 anos para máximos desde 2014 e 2017",
+    "link": "https://www.noticiasaominuto.com/economia/3060083/juros-da-divida-sobem-a-cinco-e-a-10-anos-para-maximos-desde-2014-e-2017#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T09:36:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Incêndio em automotora e 88 comboios suprimidos em Setembro expõem fragilidades da Linha do Vouga",
+  "resumo": "Avarias de composições na Linha do Vouga são frequentes devido a uma frota envelhecida e sobre a qual não se conhecem quaisquer planos da CP para a renovar.",
+  "categoria": "politica",
+  "palavras": [
+   "linha vouga",
+   "incendio automotora",
+   "questionar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "Público"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "BE vai questionar Governo sobre incêndio em automotora na Linha do Vouga",
+    "link": "https://www.noticiasaominuto.com/pais/3060102/be-vai-questionar-governo-sobre-incendio-em-automotora-na-linha-do-vouga#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T10:34:09+00:00"
+   },
+   {
+    "titulo": "Incêndio em automotora e 88 comboios suprimidos em Setembro expõem fragilidades da Linha do Vouga",
+    "link": "https://www.publico.pt/2026/10/01/local/noticia/incendio-automotora-88-comboios-suprimidos-setembro-expoem-fragilidades-linha-vouga-2189922",
+    "fonte": "Público",
+    "data": "2026-10-01T10:30:36+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fnac Darty: Guerra sem impacto \"para já\". \"Fatura vem a seguir ao Natal\"",
+  "resumo": "Nuno Luz, diretor-geral da Fnac Darty Iberia, está \"preocupado\" com potencial quebra do consumo em Portugal, por força dos impactos da guerra no Médio Oriente, embora ainda não o sinta nas vendas. \"Fatura\" deverá chegar após época alta do Natal.",
+  "categoria": "economia",
+  "palavras": [
+   "darty",
+   "fnac",
+   "vendas",
+   "guerra"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 2,
+  "pontuacao": 5,
+  "artigos": [
+   {
+    "titulo": "Fnac Darty: Guerra sem impacto \"para já\". \"Fatura vem a seguir ao Natal\"",
+    "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/fnac-darty-guerra-sem-impacto-para-ja-fatura-vem-a-seguir-ao-natal",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T11:30:00+01:00"
+   },
+   {
+    "titulo": "Fnac Darty espera aumentar vendas em 50% em cinco anos para 800 milhões",
+    "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/fnac-darty-espera-aumentar-vendas-em-50-em-cinco-anos-para-800-milhoes",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T09:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "NAZA , Fuck the Polis e outras estreias para esta semana",
+  "resumo": "Chegam também às salas um filme tailandês com um “fantasma útil” e mais uma adaptação de um romance de Colleen Hoover, a escritora-fenómeno que alcançou projecção mundial em 2020 com Isto Acaba Aqui .",
+  "categoria": "sociedade",
+  "palavras": [
+   "the",
+   "fuck",
+   "polis",
+   "filme"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 2,
+  "pontuacao": 5,
+  "artigos": [
+   {
+    "titulo": "Com Fuck the Polis , Rita Azevedo Gomes chegou à Grécia e derrotou o Minotauro",
+    "link": "https://www.publico.pt/2026/10/01/culturaipsilon/noticia/fuck-the-polis-rita-azevedo-gomes-chegou-grecia-derrotou-minotauro-2189694",
+    "fonte": "Público",
+    "data": "2026-10-01T10:33:00+00:00"
+   },
+   {
+    "titulo": "NAZA , Fuck the Polis e outras estreias para esta semana",
+    "link": "https://www.publico.pt/2026/10/01/culturaipsilon/noticia/naza-fuck-the-polis-estreias-semana-2189272",
+    "fonte": "Público",
+    "data": "2026-10-01T07:57:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Exclusivo: Supremo travou investigação a Marcelo",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "marcelo",
+   "investigacao",
+   "travou",
+   "exclusivo supremo"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Exclusivo: Supremo travou investigação a Marcelo",
+    "link": "https://cnnportugal.iol.pt/caso-das-gemeas/marcelo-rebelo-de-sousa/exclusivo-supremo-travou-investigacao-a-marcelo/20261001/6abe3fa1d34e53c759c749b3",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T12:09:50+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Hotéis de Macau recebem mais de 1,2 milhões de hóspedes em agosto",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "hoteis",
+   "milhoes hospedes",
+   "hospedes agosto",
+   "recebem milhoes"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Hotéis de Macau recebem mais de 1,2 milhões de hóspedes em agosto",
+    "link": "https://www.noticiasaominuto.com/economia/3059978/hoteis-de-macau-recebem-mais-de-1-2-milhoes-de-hospedes-em-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T03:47:47+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Incêndios: os 10 milhões chegam para reconstruir o que ardeu?",
   "resumo": "O apoio anunciado pelo Governo é dirigido sobretudo à recuperação das explorações agrícolas de Vouzela e Valpaços. Agricultores podem receber até 400 mil euros, mas há prejuízos que ficam fora do programa e a prevenção de novos incêndios não está incluída diretamente nesta verba. O conteúdo Incêndios: os 10 milhões chegam para reconstruir o que ardeu? aparece primeiro em 24 Notícias .",
   "categoria": "governo",
   "palavras": [
-   "ardeu",
+   "10 milhoes",
+   "reconstruir ardeu",
    "chegam reconstruir",
-   "incendios 10",
-   "10 milhoes"
+   "incendios"
   ],
   "fontes": [
    "SAPO 24"
@@ -609,76 +922,27 @@
   ]
  },
  {
-  "titulo": "Um dos cinco britânicos detidos pelo alegado plano terrorista em Fairford foi o primeiro a alertar a polícia",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "plano",
-   "detidos",
-   "fairford",
-   "policia"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Um dos cinco britânicos detidos pelo alegado plano terrorista em Fairford foi o primeiro a alertar a polícia",
-    "link": "https://cnnportugal.iol.pt/base-militar-fairford/reino-unido/um-dos-cinco-britanicos-detidos-pelo-alegado-plano-terrorista-em-fairford-foi-o-primeiro-a-alertar-a-policia/20260930/6abd7c84d34e9a786e75a624",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.312190+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Porto. Quiz literário, poesia, livros e mais. Em outubro o ponto de encontro é nas bibliotecas",
-  "resumo": "Durante o mês de outubro, as Bibliotecas do Porto promovem várias atividades dedicadas à literatura, poesia e leitura, com clubes de leitura, encontros, podcasts, espetáculos e um quiz literário. O conteúdo Porto. Quiz literário, poesia, livros e mais. Em outubro o ponto de encontro é nas bibliotecas aparece primeiro em 24 Notícias .",
-  "categoria": "sociedade",
-  "palavras": [
-   "quiz literario",
-   "bibliotecas",
-   "poesia",
-   "porto"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Porto. Quiz literário, poesia, livros e mais. Em outubro o ponto de encontro é nas bibliotecas",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/porto-quiz-literario-poesia-livros-e-mais-em-outubro-o-ponto-de-encontro-e-nas-bibliotecas",
-    "fonte": "SAPO 24",
-    "data": "2026-10-01T09:02:46+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Marco importante\": Mercadona abre mais um supermercado este mês",
-  "resumo": "",
+  "titulo": "Taxa sobre petrolíferas arrisca ser paga agora e devolvida mais tarde",
+  "resumo": "Advogados apontam riscos na CSTSP que o Governo pretende aplicar. Da retroatividade à igualdade tributária, admitem que o Estado possa ter de devolver a receita cobrada caso contribuição seja considerada inconstitucional.",
   "categoria": "economia",
   "palavras": [
-   "importante",
-   "supermercado",
-   "mercadona abre"
+   "paga agora",
+   "taxa petroliferas",
+   "tarde",
+   "devolvida"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Marco importante\": Mercadona abre mais um supermercado este mês",
-    "link": "https://www.noticiasaominuto.com/economia/3059614/marco-importante-mercadona-abre-mais-um-supermercado-este-mes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T08:05:15+00:00"
+    "titulo": "Taxa sobre petrolíferas arrisca ser paga agora e devolvida mais tarde",
+    "link": "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/taxa-sobre-petroliferas-arrisca-ser-paga-agora-e-devolvida-mais-tarde",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T12:00:00+01:00"
    }
   ]
  },
@@ -689,8 +953,8 @@
   "palavras": [
    "pancreas",
    "cancro",
-   "tumores",
-   "metastases"
+   "adn reduz",
+   "hidrogel adn"
   ],
   "fontes": [
    "SAPO 24"
@@ -708,14 +972,263 @@
   ]
  },
  {
+  "titulo": "OE2027. Livre considera que viabilização do PS \"não serve o país\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "ps nao",
+   "oe2027 livre",
+   "serve",
+   "viabilizacao"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "OE2027. Livre considera que viabilização do PS \"não serve o país\"",
+    "link": "https://www.noticiasaominuto.com/pais/3060183/oe2027-livre-considera-que-viabilizacao-do-ps-nao-serve-o-pais#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T12:14:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IL propõe serviços mínimos obrigatórios na educação durante ano letivo",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "propoe servicos",
+   "durante letivo",
+   "servicos minimos",
+   "il"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "IL propõe serviços mínimos obrigatórios na educação durante ano letivo",
+    "link": "https://www.noticiasaominuto.com/pais/3060179/il-propoe-servicos-minimos-obrigatorios-na-educacao-durante-o-periodo-letivo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T12:08:16+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PSI segue no ‘vermelho’, juntamente com a Europa",
+  "resumo": "As principais praças europeias seguem no 'vermelho', penalizadas pela nova subida do preço do petróleo e pelas discussões no governo francês de reduzir o défice orçamental.",
+  "categoria": "economia",
+  "palavras": [
+   "vermelho",
+   "segue",
+   "juntamente europa"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PSI segue no ‘vermelho’, juntamente com a Europa",
+    "link": "https://jornaleconomico.sapo.pt/noticias/psi-segue-no-vermelho-juntamente-com-a-europa/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T11:10:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Pedro Melo Alves em dose dupla: do minimalismo à explosão multimédia",
+  "resumo": "Regressa aos projectos em nome próprio com o Omniae Large Ensemble e uma empreitada multimédia. No primeiro, música de câmara; o segundo, um estudo ambicioso sobre a contemporaneidade.",
+  "categoria": "sociedade",
+  "palavras": [
+   "multimedia",
+   "dose dupla",
+   "minimalismo",
+   "pedro"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Pedro Melo Alves em dose dupla: do minimalismo à explosão multimédia",
+    "link": "https://www.publico.pt/2026/10/01/culturaipsilon/noticia/pedro-melo-alves-dose-dupla-minimalismo-explosao-multimedia-2189740",
+    "fonte": "Público",
+    "data": "2026-10-01T10:44:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Alterar impostos nos automóveis pode poupar milhões em combustíveis",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "poupar milhoes",
+   "alterar impostos",
+   "impostos automoveis",
+   "automoveis poupar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Alterar impostos nos automóveis pode poupar milhões em combustíveis",
+    "link": "https://www.noticiasaominuto.com/economia/3060143/alterar-impostos-nos-automoveis-pode-poupar-3-2-milhoes-de-litros-de-combustivelano-acap#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T11:48:45+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PR realça importância de políticas públicas que garantam acesso à água potável",
+  "resumo": "O Presidente da República realçou hoje a importância de políticas públicas que garantam o acesso à água potável e que evitem as suas perdas e apelou a um empenho coletivo pela sua \"utilização eficiente, justa e sustentável\".",
+  "categoria": "sociedade",
+  "palavras": [
+   "acesso agua",
+   "publicas garantam",
+   "garantam acesso",
+   "agua potavel"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PR realça importância de políticas públicas que garantam acesso à água potável",
+    "link": "https://www.rtp.pt/noticias/pais/pr-realca-importancia-de-politicas-publicas-que-garantam-acesso-a-agua-potavel_n1768845",
+    "fonte": "RTP",
+    "data": "2026-10-01T12:55:20+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"O ambiente no seio da Federação parece-me pesado\": o dia seguinte à saída de Ronaldo",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "seguinte",
+   "federacao parece-me",
+   "pesado",
+   "ambiente seio"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"O ambiente no seio da Federação parece-me pesado\": o dia seguinte à saída de Ronaldo",
+    "link": "https://cnnportugal.iol.pt/videos/o-ambiente-no-seio-da-federacao-parece-me-pesado-o-dia-seguinte-a-saida-de-ronaldo/6abe1a8e0cf22b9f8904d75b",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.311284+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Euroatla Logistics conclui fusão da Igacargo e reforça presença no setor de transporte e logística",
+  "resumo": "Com a concretização da fusão, a empresa assume a totalidade das operações da Igacargo e consolida a sua posição no setor logístico nacional.",
+  "categoria": "economia",
+  "palavras": [
+   "fusao",
+   "igacargo",
+   "setor",
+   "transporte logistica"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Euroatla Logistics conclui fusão da Igacargo e reforça presença no setor de transporte e logística",
+    "link": "https://jornaleconomico.sapo.pt/noticias/euroatla-logistics-conclui-fusao-da-igacargo-e-reforca-presenca-no-setor-de-transporte-e-logistica/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T10:00:52+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Militar da GNR alcoolizado despista-se e agride agente da PSP no hospital do Barreiro",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "gnr alcoolizado",
+   "militar gnr",
+   "barreiro",
+   "despista-se"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Militar da GNR alcoolizado despista-se e agride agente da PSP no hospital do Barreiro",
+    "link": "https://cnnportugal.iol.pt/gnr/psp/militar-da-gnr-alcoolizado-despista-se-e-agride-agente-da-psp-no-hospital-do-barreiro/20261001/6abe2d76d34e53c759c74974",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.311155+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Taxa de desemprego sobe 0,1 pontos em agosto na zona euro e UE",
+  "resumo": "Na comparação com junho, o indicador manteve-se estável em ambas as zonas pelo sétimo mês consecutivo, estimando o gabinete europeu de estatísticas que 13,600 milhões de pessoas na UE, das quais 11,357 milhões na zona do euro, se encontravam desempregadas em agosto de 2026.",
+  "categoria": "economia",
+  "palavras": [
+   "ue",
+   "agosto zona",
+   "taxa desemprego",
+   "desemprego sobe"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Taxa de desemprego sobe 0,1 pontos em agosto na zona euro e UE",
+    "link": "https://jornaleconomico.sapo.pt/noticias/taxa-de-desemprego-sobe-01-pontos-em-agosto-na-zona-euro-e-ue/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T10:37:55+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Quer escapar à subida dos juros? Amortize o \"mais cedo possível\" o seu crédito e escolha reduzir os anos do empréstimo para \"poupar mais juros\"",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
    "juros",
-   "cedo possivel",
-   "amortize cedo",
-   "poupar"
+   "quer escapar",
+   "possivel credito",
+   "amortize cedo"
   ],
   "fontes": [
    "CNN Portugal"
@@ -733,63 +1246,13 @@
   ]
  },
  {
-  "titulo": "PSP regista mais de 54 mil crimes contra idosos em três anos",
-  "resumo": "Furtos, burlas e violência doméstica estão entre os crimes mais registados. Os carteiristas ganharam peso em 2025, segundo dados divulgados pela PSP. O conteúdo PSP regista mais de 54 mil crimes contra idosos em três anos aparece primeiro em 24 Notícias .",
-  "categoria": "sociedade",
-  "palavras": [
-   "crimes",
-   "psp regista",
-   "54 mil",
-   "regista 54"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PSP regista mais de 54 mil crimes contra idosos em três anos",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/psp-regista-mais-de-54-mil-crimes-contra-idosos-em-tres-anos",
-    "fonte": "SAPO 24",
-    "data": "2026-10-01T07:02:52+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Cathie Wood: “O ambiente regulamentar na Europa é demasiado rígido para a inovação”",
-  "resumo": "A líder da Ark Invest descreve o panorama europeu como “desafiante”, mas considera que há um público “recetivo” em toda a Europa.",
-  "categoria": "economia",
-  "palavras": [
-   "europa",
-   "ambiente regulamentar",
-   "demasiado",
-   "rigido inovacao"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Cathie Wood: “O ambiente regulamentar na Europa é demasiado rígido para a inovação”",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/cathie-wood-o-ambiente-regulamentar-na-europa-e-demasiado-rigido-para-a-inovacao",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T11:00:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Duas propostas para comprar a TAP e um prazo para o Governo: E agora?",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "duas propostas",
+   "tap",
    "propostas comprar",
-   "comprar tap",
+   "duas propostas",
    "governo agora"
   ],
   "fontes": [
@@ -808,39 +1271,39 @@
   ]
  },
  {
-  "titulo": "Militar da GNR alcoolizado despista-se e agride agente da PSP no hospital do Barreiro",
-  "resumo": "",
+  "titulo": "O que ver no FESTin, em Lisboa? Confira a programação",
+  "resumo": "A 17ª edição do FESTin, Festival de cinema em língua portuguesa, ocupa quatro espaços de Lisboa de 1º a 11 de outubro, com entrada livre. A edição coincide com os 30 anos da CPLP.",
   "categoria": "sociedade",
   "palavras": [
-   "hospital",
-   "barreiro",
-   "agente",
-   "alcoolizado"
+   "festin",
+   "confira programacao",
+   "lisboa confira",
+   "ver"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Militar da GNR alcoolizado despista-se e agride agente da PSP no hospital do Barreiro",
-    "link": "https://cnnportugal.iol.pt/gnr/psp/militar-da-gnr-alcoolizado-despista-se-e-agride-agente-da-psp-no-hospital-do-barreiro/20261001/6abe2d76d34e53c759c74974",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.311155+00:00"
+    "titulo": "O que ver no FESTin, em Lisboa? Confira a programação",
+    "link": "https://www.publico.pt/2026/10/01/publico-brasil/noticia/festin-lisboa-confira-programacao-2189770",
+    "fonte": "Público",
+    "data": "2026-10-01T10:08:55+00:00"
    }
   ]
  },
  {
-  "titulo": "Fnac Darty espera aumentar vendas em 50% em cinco anos para 800 milhões",
-  "resumo": "Fnac Darty ambiciona quase duplicar o número de lojas até 2030 em Portugal. Até junho do próximo ano, estão previstas, em média, duas aberturas por mês.",
+  "titulo": "Fábrica da falida gigante Levira que deixou dívidas de dezenas de milhões em leilão online",
+  "resumo": "A antiga maior fabricante portuguesa de mobiliário de escritório, que fez parte do império de Gama Leão, falido com dívidas de 393 milhões de euros, e chegou a ser salva em 2019 numa operação de MBO, tem a unidade industrial em leilão eletrónico por 10 milhões de euros.",
   "categoria": "economia",
   "palavras": [
-   "darty",
-   "fnac",
-   "cinco 800",
-   "50 cinco"
+   "dividas",
+   "levira deixou",
+   "online",
+   "falida"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -850,284 +1313,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Fnac Darty espera aumentar vendas em 50% em cinco anos para 800 milhões",
-    "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/fnac-darty-espera-aumentar-vendas-em-50-em-cinco-anos-para-800-milhoes",
+    "titulo": "Fábrica da falida gigante Levira que deixou dívidas de dezenas de milhões em leilão online",
+    "link": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/fabrica-da-falida-gigante-levira-que-torrou-dezenas-de-milhoes-em-leilao-online",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T09:30:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Comissão de inquérito a mandatos de Luís Neves na PJ vai ser presidida pelo Chega",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "neves pj",
-   "inquerito mandatos",
-   "comissao inquerito",
-   "mandatos luis"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Comissão de inquérito a mandatos de Luís Neves na PJ vai ser presidida pelo Chega",
-    "link": "https://cnnportugal.iol.pt/cpi/comissao-de-inquerito/comissao-de-inquerito-a-mandatos-de-luis-neves-na-pj-vai-ser-presidida-pelo-chega/20260930/6abd79d1d34e9a786e75a621",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.312212+00:00"
-   }
-  ]
- },
- {
-  "titulo": "CMVM: “Fraude e burla estão a aumentar e são cada vez mais difíceis de identificar”",
-  "resumo": "A forma como as burlas estão a ser desenvolvidas nos mercados financeiros e o alcance que têm estão a ser fortemente influenciadas pela inteligência artificial. Este vai ser um dos temas centrais da Semana Mundial do Investidor.",
-  "categoria": "economia",
-  "palavras": [
-   "burla aumentar",
-   "cada dificeis",
-   "cmvm fraude",
-   "aumentar cada"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "CMVM: “Fraude e burla estão a aumentar e são cada vez mais difíceis de identificar”",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/cmvm-fraude-e-burla-estao-a-aumentar-e-sao-cada-vez-mais-dificeis-de-identificar",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T08:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Bolsas europeias em baixa com quedas superiores a 1%",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "baixa quedas",
-   "quedas superiores",
-   "bolsas",
-   "europeias"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Bolsas europeias em baixa com quedas superiores a 1%",
-    "link": "https://www.noticiasaominuto.com/economia/3060088/bolsas-europeias-em-baixa-com-quedas-superiores-a-1#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T09:45:31+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Atenção, beneficiários da ADSE: Há nova tabela de preços a partir de hoje",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "atencao beneficiarios",
-   "precos partir",
-   "tabela precos",
-   "beneficiarios adse"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Atenção, beneficiários da ADSE: Há nova tabela de preços a partir de hoje",
-    "link": "https://www.noticiasaominuto.com/economia/3060079/atencao-beneficiarios-da-adse-ha-nova-tabela-de-precos-a-partir-de-hoje#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T09:28:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Rendas até 2.300 euros: há mais oferta, mas os imóveis estão mais pequenos",
-  "resumo": "Uma análise do Imovirtual mostra que, em 2026, cerca de 88% dos imóveis para arrendamento em Portugal têm rendas até 2.300 euros, valor definido pelo Governo como limite máximo para as rendas moderadas. O conteúdo Rendas até 2.300 euros: há mais oferta, mas os imóveis estão mais pequenos aparece primeiro em 24 Notícias .",
-  "categoria": "economia",
-  "palavras": [
-   "rendas",
-   "imoveis",
-   "300 euros",
-   "pequenos"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Rendas até 2.300 euros: há mais oferta, mas os imóveis estão mais pequenos",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/rendas-ate-2-300-euros-ha-mais-oferta-mas-os-imoveis-estao-mais-pequenos",
-    "fonte": "SAPO 24",
-    "data": "2026-10-01T10:09:36+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Euroatla Logistics conclui fusão da Igacargo e reforça presença no setor de transporte e logística",
-  "resumo": "Com a concretização da fusão, a empresa assume a totalidade das operações da Igacargo e consolida a sua posição no setor logístico nacional.",
-  "categoria": "economia",
-  "palavras": [
-   "fusao",
-   "igacargo",
-   "setor",
-   "logistics conclui"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Euroatla Logistics conclui fusão da Igacargo e reforça presença no setor de transporte e logística",
-    "link": "https://jornaleconomico.sapo.pt/noticias/euroatla-logistics-conclui-fusao-da-igacargo-e-reforca-presenca-no-setor-de-transporte-e-logistica/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-01T10:00:52+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"O ambiente no seio da Federação parece-me pesado\": o dia seguinte à saída de Ronaldo",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "pesado",
-   "saida",
-   "seio"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"O ambiente no seio da Federação parece-me pesado\": o dia seguinte à saída de Ronaldo",
-    "link": "https://cnnportugal.iol.pt/videos/o-ambiente-no-seio-da-federacao-parece-me-pesado-o-dia-seguinte-a-saida-de-ronaldo/6abe1a8e0cf22b9f8904d75b",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.311284+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Gravidade\". PS pede audição urgente do ministro da Agricultura",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "ministro agricultura",
-   "audicao",
-   "urgente ministro",
-   "ps pede"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Gravidade\". PS pede audição urgente do ministro da Agricultura",
-    "link": "https://www.noticiasaominuto.com/politica/3060017/gravidade-ps-pede-audicao-urgente-do-ministro-da-agricultura#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T07:14:23+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Afastados de funções 62 professores com registo criminal inválido",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "criminal invalido",
-   "professores",
-   "funcoes 62",
-   "registo"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Afastados de funções 62 professores com registo criminal inválido",
-    "link": "https://cnnportugal.iol.pt/professores/docentes/afastados-de-funcoes-62-professores-com-registo-criminal-invalido/20260930/6abd9422d34e53c759c748fe",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.312021+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Recebe subsídios ou pensões? Confira as datas de pagamento de outubro",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "pensoes confira",
-   "confira datas",
-   "subsidios",
-   "pagamento outubro"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Recebe subsídios ou pensões? Confira as datas de pagamento de outubro",
-    "link": "https://www.noticiasaominuto.com/economia/3059605/recebe-subsidios-ou-pensoes-confira-as-datas-de-pagamento-de-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T07:31:06+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Best Of | CNN Portugal Summit | Políticas Públicas - Reforma da Administração Local e do Território",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "politicas publicas",
-   "local",
-   "best",
-   "reforma administracao"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Best Of | CNN Portugal Summit | Políticas Públicas - Reforma da Administração Local e do Território",
-    "link": "https://cnnportugal.iol.pt/videos/best-of-cnn-portugal-summit-politicas-publicas-reforma-da-administracao-local-e-do-territorio/6ab2a95b0cf20dc52778cf4b",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.311079+00:00"
+    "data": "2026-10-01T11:50:00+01:00"
    }
   ]
  },
@@ -1136,10 +1325,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "meses",
+   "12",
    "tres seis",
-   "credito casa",
-   "casa euribor"
+   "desce tres",
+   "euribor desce"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1157,52 +1346,152 @@
   ]
  },
  {
-  "titulo": "Os 7 de Cornell e (de novo) o debate sobre a habitação",
-  "resumo": "Na Lei da Paridade, Adriana Cardoso e Maria Castello Branco analisam o caso da violação em grupo em Cornell e o debate sobre a habitação em Portugal",
+  "titulo": "EDP, Goldenergy e Iberdrola mantêm componente de energia do gás, mas fatura pode subir",
+  "resumo": "As três comercializadoras vão manter inalterada a componente de energia do gás natural. A partir de hoje, entram em vigor as novas tarifas de acesso às redes, que também são pagas pelos clientes do mercado livre.",
   "categoria": "economia",
   "palavras": [
-   "debate habitacao",
-   "cornell",
-   "paridade adriana",
-   "analisam"
+   "componente",
+   "energia gas",
+   "fatura subir",
+   "edp goldenergy"
   ],
   "fontes": [
-   "Expresso"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Os 7 de Cornell e (de novo) o debate sobre a habitação",
-    "link": "https://expresso.pt/podcasts/lei-da-paridade/2026-10-01-os-7-de-cornell-e--de-novo--o-debate-sobre-a-habitacao-626ae901",
-    "fonte": "Expresso",
-    "data": "2026-10-01T07:15:00+01:00"
+    "titulo": "EDP, Goldenergy e Iberdrola mantêm componente de energia do gás, mas fatura pode subir",
+    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-goldenergy-e-iberdrola-mantem-componente-de-energia-do-gas-mas-fatura-pode-subir",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T10:00:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Rádio Macau no Coliseu de Lisboa: a elegância e a urgência de um regresso que não podia ficar para amanhã",
-  "resumo": "Tendo começado a ganhar forma na festa dos 60 anos de Xana, o regresso aos palcos dos Rádio Macau, que não tocavam ao vivo há cerca de 16 anos, fez-se nos termos dos seus protagonistas: sem facilitismos, percorrendo de forma mais temática do que cronológica um percurso porventura subvalorizado na música portuguesa e com uma elegância extrema no desenho de palco. Crónica de uma noite muito feliz na sala nobre de Lisboa",
-  "categoria": "sociedade",
+  "titulo": "BdP: Dívida pública cai pelo segundo mês seguido em agosto",
+  "resumo": "Foi um recuo de 0,6 mil milhões de euros em agosto que deixou o indicador em 285,6 mil milhões de euros à boleia sobretudo de uma redução dos títulos de dívida num montante de 1,8 mil milhões de euros. Deduzida de ativos, a dívida pública desceu 1,5 mil milhões.",
+  "categoria": "economia",
   "palavras": [
-   "radio",
-   "regresso",
-   "macau",
-   "podia ficar"
+   "mil milhoes",
+   "divida",
+   "agosto",
+   "bdp"
   ],
   "fontes": [
-   "Expresso"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Rádio Macau no Coliseu de Lisboa: a elegância e a urgência de um regresso que não podia ficar para amanhã",
-    "link": "https://expresso.pt/blitz/2026-10-01-radio-macau-no-coliseu-de-lisboa-a-elegancia-e-a-urgencia-de-um-regresso-que-nao-podia-ficar-para-amanha-dfac4b80",
-    "fonte": "Expresso",
-    "data": "2026-10-01T07:40:36+01:00"
+    "titulo": "BdP: Dívida pública cai pelo segundo mês seguido em agosto",
+    "link": "https://jornaleconomico.sapo.pt/noticias/bdp-divida-publica-cai-pelo-segundo-mes-seguido-em-agosto/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T10:36:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Atenção, beneficiários da ADSE: Há nova tabela de preços a partir de hoje",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "atencao",
+   "beneficiarios adse",
+   "tabela",
+   "precos partir"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Atenção, beneficiários da ADSE: Há nova tabela de preços a partir de hoje",
+    "link": "https://www.noticiasaominuto.com/economia/3060079/atencao-beneficiarios-da-adse-ha-nova-tabela-de-precos-a-partir-de-hoje#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T09:28:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Best Of | CNN Portugal Summit | Políticas Públicas - Reforma da Administração Local e do Território",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "of cnn",
+   "cnn summit",
+   "reforma administracao",
+   "administracao local"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Best Of | CNN Portugal Summit | Políticas Públicas - Reforma da Administração Local e do Território",
+    "link": "https://cnnportugal.iol.pt/videos/best-of-cnn-portugal-summit-politicas-publicas-reforma-da-administracao-local-e-do-territorio/6ab2a95b0cf20dc52778cf4b",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.311079+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Um dos cinco britânicos detidos pelo alegado plano terrorista em Fairford foi o primeiro a alertar a polícia",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "policia",
+   "alertar",
+   "detidos",
+   "plano terrorista"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Um dos cinco britânicos detidos pelo alegado plano terrorista em Fairford foi o primeiro a alertar a polícia",
+    "link": "https://cnnportugal.iol.pt/base-militar-fairford/reino-unido/um-dos-cinco-britanicos-detidos-pelo-alegado-plano-terrorista-em-fairford-foi-o-primeiro-a-alertar-a-policia/20260930/6abd7c84d34e9a786e75a624",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.312190+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tom Cruise encarna personagem \"nunca visto\" no novo filme de Iñárritu \"Digger\"",
+  "resumo": "Tom Cruise está de regresso aos ecrãs com um personagem bizarro e \"nunca visto\" que o deixou quase irreconhecível no novo filme do realizador Alejandro González Iñárritu, \"Digger\", que se estreia hoje nos cinemas portugueses.",
+  "categoria": "sociedade",
+  "palavras": [
+   "inarritu",
+   "tom cruise",
+   "nunca",
+   "digger"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Tom Cruise encarna personagem \"nunca visto\" no novo filme de Iñárritu \"Digger\"",
+    "link": "https://www.rtp.pt/noticias/cultura/tom-cruise-encarna-personagem-nunca-visto-no-novo-filme-de-inarritu-digger_n1768776",
+    "fonte": "RTP",
+    "data": "2026-10-01T06:51:11+01:00"
    }
   ]
  },
@@ -1211,10 +1500,10 @@
   "resumo": "Segurança alimentar, alterações climáticas, escassez de mão de obra e inovação estão a mudar o setor agrícola. Em Lisboa, no Global Agri Forum, especialistas e responsáveis políticos defenderam uma maior cooperação entre os países de língua portuguesa para ligar mercados, conhecimento e investimento.",
   "categoria": "economia",
   "palavras": [
+   "ponte",
+   "futuro agronegocio",
    "lusofonia",
-   "futuro",
-   "agronegocio",
-   "ponte"
+   "escassez mao"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1232,14 +1521,14 @@
   ]
  },
  {
-  "titulo": "PAN vai realizar novo Congresso após decisão do TC que invalidou eleição",
+  "titulo": "Produção industrial cai 3,8% em agosto",
   "resumo": "",
-  "categoria": "politica",
+  "categoria": "economia",
   "palavras": [
-   "eleicao",
-   "decisao tc",
-   "invalidou",
-   "congresso decisao"
+   "producao industrial",
+   "industrial cai",
+   "cai agosto",
+   "agosto producao"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1249,10 +1538,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "PAN vai realizar novo Congresso após decisão do TC que invalidou eleição",
-    "link": "https://www.noticiasaominuto.com/pais/3060122/pan-vai-realizar-novo-congresso-apos-decisao-do-tc-que-invalidou-eleicao-da-direcao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Produção industrial cai 3,8% em agosto",
+    "link": "https://www.noticiasaominuto.com/economia/3060160/producao-industrial-cai-3-8-em-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T10:53:38+00:00"
+    "data": "2026-10-01T11:49:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Porto. Quiz literário, poesia, livros e mais. Em outubro o ponto de encontro é nas bibliotecas",
+  "resumo": "Durante o mês de outubro, as Bibliotecas do Porto promovem várias atividades dedicadas à literatura, poesia e leitura, com clubes de leitura, encontros, podcasts, espetáculos e um quiz literário. O conteúdo Porto. Quiz literário, poesia, livros e mais. Em outubro o ponto de encontro é nas bibliotecas aparece primeiro em 24 Notícias .",
+  "categoria": "sociedade",
+  "palavras": [
+   "bibliotecas",
+   "poesia",
+   "quiz",
+   "literario"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Porto. Quiz literário, poesia, livros e mais. Em outubro o ponto de encontro é nas bibliotecas",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/porto-quiz-literario-poesia-livros-e-mais-em-outubro-o-ponto-de-encontro-e-nas-bibliotecas",
+    "fonte": "SAPO 24",
+    "data": "2026-10-01T09:02:46+00:00"
    }
   ]
  },
@@ -1261,10 +1575,10 @@
   "resumo": "O Origem abre a 7 de outubro, na Calçada da Ajuda, em Lisboa, apostado em recuperar sabores, produtos e receitas tradicionais pouco presentes na restauração da capital. Além dos pratos regionais, o restaurante alberga uma biblioteca gastronómica",
   "categoria": "sociedade",
   "palavras": [
-   "restaurante",
-   "viva",
-   "tradicional",
-   "lebre mangote"
+   "cabidela",
+   "cabeca porco",
+   "promete manter",
+   "conheca"
   ],
   "fontes": [
    "Expresso"
@@ -1282,27 +1596,127 @@
   ]
  },
  {
-  "titulo": "Controvérsia em torno do \"volta\" é \"de caráter político e social\", diz líder da SDR Portugal",
-  "resumo": "Presidente da SDR Portugal diz que a entidade gestora não substitui os municípios na responsabilidade pela limpeza do espaço público. E deixa a crítica: \"Temos de parar de confundir a manifestação da pobreza com a causa da pobreza\"",
+  "titulo": "Invest Madeira reforça alinhamento com “parceiro estratégico fundamental” AICEP",
+  "resumo": "A Invest Madeira participou no Fórum AICEP 2026, realizado no Palácio da Bolsa, no Porto, onde destacou a importância da articulação com a AICEP para apoiar a internacionalização das empresas madeirenses e captar investimento estrangeiro para a Região.",
   "categoria": "economia",
   "palavras": [
-   "sdr",
-   "social lider",
-   "volta",
-   "carater politico"
+   "aicep",
+   "invest madeira",
+   "reforca alinhamento",
+   "estrategico"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Controvérsia em torno do \"volta\" é \"de caráter político e social\", diz líder da SDR Portugal",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/controversia-em-torno-do-volta-e-de-carater-politico-e-social-diz-lider-da-sdr-portugal",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T10:38:08+01:00"
+    "titulo": "Invest Madeira reforça alinhamento com “parceiro estratégico fundamental” AICEP",
+    "link": "https://jornaleconomico.sapo.pt/noticias/invest-madeira-reforca-alinhamento-com-parceiro-estrategico-fundamental-aicep/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T09:33:17+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Afastados de funções 62 professores com registo criminal inválido",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "registo criminal",
+   "62 professores",
+   "invalido",
+   "professores registo"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Afastados de funções 62 professores com registo criminal inválido",
+    "link": "https://cnnportugal.iol.pt/professores/docentes/afastados-de-funcoes-62-professores-com-registo-criminal-invalido/20260930/6abd9422d34e53c759c748fe",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.312021+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governador do BoE alerta que IA pode causar choques de mercado",
+  "resumo": "Segundo a “BBC”, o governador afirmou que o BoE está a acompanhar os volumes de recursos que estão a ser investidos em IA, sendo que nem todos “saem a ganhar”.",
+  "categoria": "economia",
+  "palavras": [
+   "governador",
+   "ia",
+   "boe",
+   "choques mercado"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governador do BoE alerta que IA pode causar choques de mercado",
+    "link": "https://jornaleconomico.sapo.pt/noticias/governador-do-boe-alerta-que-ia-pode-causar-choques-de-mercado/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T11:14:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bruxelas mantém processo de infração a Portugal por pesca acessória de golfinhos",
+  "resumo": "A Comissão Europeia anunciou hoje a segunda fase de um procedimento de infração a Portugal por falhas a evitar capturas acidentais de golfinhos nas atividades de pesca.",
+  "categoria": "economia",
+  "palavras": [
+   "infracao",
+   "golfinhos",
+   "pesca",
+   "mantem processo"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bruxelas mantém processo de infração a Portugal por pesca acessória de golfinhos",
+    "link": "https://www.rtp.pt/noticias/economia/bruxelas-mantem-processo-de-infracao-a-portugal-por-pesca-acessoria-de-golfinhos_n1768852",
+    "fonte": "RTP",
+    "data": "2026-10-01T12:55:48+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tribunal dá luz verde à Paramount para acordo com a Warner Bros.",
+  "resumo": "Decisão é mais um passo para uma das maiores reformulações no sector dos media e do entretenimento em Hollywood. A transacção pode vir a ser concluída a 6 de Outubro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "verde",
+   "tribunal luz",
+   "bros",
+   "warner"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Tribunal dá luz verde à Paramount para acordo com a Warner Bros.",
+    "link": "https://www.publico.pt/2026/10/01/culturaipsilon/noticia/tribunal-luz-verde-paramount-acordo-warner-bros-2189914",
+    "fonte": "Público",
+    "data": "2026-10-01T08:38:30+00:00"
    }
   ]
  },
@@ -1311,9 +1725,9 @@
   "resumo": "O MAAT - Museu de Arte, Arquitetura e Tecnologia - está a celebrar dez anos. Uma data que vai ser comemoráda com uma exposição de Joana Vasconcelos, inspirada no trabalho do designer de alta-costura valentino.",
   "categoria": "sociedade",
   "palavras": [
-   "vasconcelos",
+   "exposicao",
+   "joana vasconcelos",
    "maat",
-   "exposicao joana",
    "celebra 10"
   ],
   "fontes": [
@@ -1332,64 +1746,14 @@
   ]
  },
  {
-  "titulo": "Tribunal dá luz verde à Paramount para acordo com a Warner Bros.",
-  "resumo": "Decisão é mais um passo para uma das maiores reformulações no sector dos media e do entretenimento em Hollywood. A transacção pode vir a ser concluída a 6 de Outubro.",
-  "categoria": "sociedade",
-  "palavras": [
-   "paramount acordo",
-   "acordo warner",
-   "warner bros",
-   "tribunal luz"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Tribunal dá luz verde à Paramount para acordo com a Warner Bros.",
-    "link": "https://www.publico.pt/2026/10/01/culturaipsilon/noticia/tribunal-luz-verde-paramount-acordo-warner-bros-2189914",
-    "fonte": "Público",
-    "data": "2026-10-01T08:38:30+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Cinema: a autoficção de Almodóvar é amarga, mas recomenda-se",
-  "resumo": "Em Cannes, Quim Gutiérrez e Aitana Sánchez-Gijón, “ chico e chica Almodóvar”, falaram com o Expresso sobre “Natal Amargo”, o novo do cineasta espanhol, que é uma dança de autoficção NATAL AMARGO De Pedro Almodóvar ★★★",
-  "categoria": "sociedade",
-  "palavras": [
-   "almodovar",
-   "autoficcao",
-   "cinema",
-   "amarga"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Cinema: a autoficção de Almodóvar é amarga, mas recomenda-se",
-    "link": "https://expresso.pt/revista/culturas/cinema/2026-10-01-cinema-a-autoficcao-de-almodovar-e-amarga-mas-recomenda-se-808d07fb-1",
-    "fonte": "Expresso",
-    "data": "2026-10-01T10:15:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Licenças de \"handling\" da Menzies podem ser prorrogadas até dois anos",
-  "resumo": "Validade das licenças de assistência em escala da Menzies nos aeroportos de Lisboa, Porto e Faro, que tem vindo a ser prolongada, pode ir até outubro de 2028.",
+  "titulo": "CMVM: “Fraude e burla estão a aumentar e são cada vez mais difíceis de identificar”",
+  "resumo": "A forma como as burlas estão a ser desenvolvidas nos mercados financeiros e o alcance que têm estão a ser fortemente influenciadas pela inteligência artificial. Este vai ser um dos temas centrais da Semana Mundial do Investidor.",
   "categoria": "economia",
   "palavras": [
-   "menzies",
-   "licencas",
-   "prorrogadas",
-   "handling"
+   "burla",
+   "cmvm",
+   "identificar",
+   "cada dificeis"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1399,10 +1763,60 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Licenças de \"handling\" da Menzies podem ser prorrogadas até dois anos",
-    "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/licencas-de-handling-da-menzies-podem-ser-prorrogadas-ate-dois-anos",
+    "titulo": "CMVM: “Fraude e burla estão a aumentar e são cada vez mais difíceis de identificar”",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/cmvm-fraude-e-burla-estao-a-aumentar-e-sao-cada-vez-mais-dificeis-de-identificar",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T10:35:19+01:00"
+    "data": "2026-10-01T08:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Aluno de 17 anos esfaqueado numa escola de Lisboa. Agressor detido",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "esfaqueado escola",
+   "detido",
+   "lisboa agressor",
+   "17 esfaqueado"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Aluno de 17 anos esfaqueado numa escola de Lisboa. Agressor detido",
+    "link": "https://cnnportugal.iol.pt/escola-academia-de-software/lisboa/aluno-de-17-anos-esfaqueado-numa-escola-de-lisboa-agressor-detido/20261001/6abe3711d34e9a786e75a715",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.310985+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mosteiro de São Bento da Vitoria no Porto reabre portas com concerto do ciclo \"Musical-mente\"",
+  "resumo": "O Mosteiro de São Bento da Vitoria no Porto esteve fechado quase um ano para obras e vai abrir as portas ao público esta quinta-feira.",
+  "categoria": "sociedade",
+  "palavras": [
+   "bento",
+   "portas",
+   "vitoria",
+   "mosteiro"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mosteiro de São Bento da Vitoria no Porto reabre portas com concerto do ciclo \"Musical-mente\"",
+    "link": "https://www.rtp.pt/noticias/cultura/mosteiro-de-sao-bento-da-vitoria-no-porto-reabre-portas-com-concerto-do-ciclo-musical-mente_n1768815",
+    "fonte": "RTP",
+    "data": "2026-10-01T09:36:00+01:00"
    }
   ]
  },
@@ -1432,114 +1846,13 @@
   ]
  },
  {
-  "titulo": "Aluno de 17 anos esfaqueado numa escola de Lisboa. Agressor detido",
+  "titulo": "Bolsas europeias em baixa com quedas superiores a 1%",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "economia",
   "palavras": [
-   "aluno 17",
-   "agressor",
-   "escola",
-   "esfaqueado"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Aluno de 17 anos esfaqueado numa escola de Lisboa. Agressor detido",
-    "link": "https://cnnportugal.iol.pt/escola-academia-de-software/lisboa/aluno-de-17-anos-esfaqueado-numa-escola-de-lisboa-agressor-detido/20261001/6abe3711d34e9a786e75a715",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T10:34:58.310985+00:00"
-   }
-  ]
- },
- {
-  "titulo": "A educação que temos, a meritocracia que fingimos ter",
-  "resumo": "Houve exames com erros de correção , atrasos e discrepâncias na pontuação . Fica em aberto a possibilidade de alguns estudantes terem ido ao Concurso Nacional de Acesso ao Ensino Superior com notas que não refletiam o seu desempenho real nas provas",
-  "categoria": "sociedade",
-  "palavras": [
-   "meritocracia fingimos",
-   "temos meritocracia",
-   "educacao temos",
-   "atrasos discrepancias"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "A educação que temos, a meritocracia que fingimos ter",
-    "link": "https://expresso.pt/geracao-e/2026-10-01-a-educacao-que-temos-a-meritocracia-que-fingimos-ter-ad146cf2",
-    "fonte": "Expresso",
-    "data": "2026-10-01T08:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Mosteiro de São Bento da Vitoria no Porto reabre portas com concerto do ciclo \"Musical-mente\"",
-  "resumo": "O Mosteiro de São Bento da Vitoria no Porto esteve fechado quase um ano para obras e vai abrir as portas ao público esta quinta-feira.",
-  "categoria": "sociedade",
-  "palavras": [
-   "bento vitoria",
-   "vitoria porto",
-   "mosteiro bento",
-   "portas"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Mosteiro de São Bento da Vitoria no Porto reabre portas com concerto do ciclo \"Musical-mente\"",
-    "link": "https://www.rtp.pt/noticias/cultura/mosteiro-de-sao-bento-da-vitoria-no-porto-reabre-portas-com-concerto-do-ciclo-musical-mente_n1768815",
-    "fonte": "RTP",
-    "data": "2026-10-01T09:36:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Tom Cruise encarna personagem \"nunca visto\" no novo filme de Iñárritu \"Digger\"",
-  "resumo": "Tom Cruise está de regresso aos ecrãs com um personagem bizarro e \"nunca visto\" que o deixou quase irreconhecível no novo filme do realizador Alejandro González Iñárritu, \"Digger\", que se estreia hoje nos cinemas portugueses.",
-  "categoria": "sociedade",
-  "palavras": [
-   "digger",
-   "inarritu",
-   "tom",
-   "nunca"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Tom Cruise encarna personagem \"nunca visto\" no novo filme de Iñárritu \"Digger\"",
-    "link": "https://www.rtp.pt/noticias/cultura/tom-cruise-encarna-personagem-nunca-visto-no-novo-filme-de-inarritu-digger_n1768776",
-    "fonte": "RTP",
-    "data": "2026-10-01T06:51:11+01:00"
-   }
-  ]
- },
- {
-  "titulo": "BE vai questionar Governo sobre incêndio em automotora na Linha do Vouga",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "automotora",
-   "be",
-   "questionar governo",
-   "incendio"
+   "quedas superiores",
+   "baixa",
+   "bolsas"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1549,35 +1862,60 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "BE vai questionar Governo sobre incêndio em automotora na Linha do Vouga",
-    "link": "https://www.noticiasaominuto.com/pais/3060102/be-vai-questionar-governo-sobre-incendio-em-automotora-na-linha-do-vouga#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Bolsas europeias em baixa com quedas superiores a 1%",
+    "link": "https://www.noticiasaominuto.com/economia/3060088/bolsas-europeias-em-baixa-com-quedas-superiores-a-1#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T10:34:09+00:00"
+    "data": "2026-10-01T09:45:31+00:00"
    }
   ]
  },
  {
-  "titulo": "“As pessoas são pessoas em qualquer idade”",
-  "resumo": "No Dia Internacional das Pessoas Idosas, olhamos para a longevidade a partir dos direitos, da participação e da forma como a sociedade vê quem tem mais idade. Falámos com Maria João Quintela, médica especialista em gerontologia, sobre envelhecimento ativo, relações entre gerações, linguagem e dignidade",
-  "categoria": "sociedade",
+  "titulo": "Comissão de inquérito a mandatos de Luís Neves na PJ vai ser presidida pelo Chega",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "pessoas",
-   "idade",
-   "qualquer",
-   "falamos"
+   "inquerito mandatos",
+   "comissao inquerito",
+   "presidida chega",
+   "mandatos luis"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“As pessoas são pessoas em qualquer idade”",
-    "link": "https://expresso.pt/longevidade/2026-10-01-as-pessoas-sao-pessoas-em-qualquer-idade-22b6d308",
-    "fonte": "Expresso",
-    "data": "2026-10-01T10:53:30+01:00"
+    "titulo": "Comissão de inquérito a mandatos de Luís Neves na PJ vai ser presidida pelo Chega",
+    "link": "https://cnnportugal.iol.pt/cpi/comissao-de-inquerito/comissao-de-inquerito-a-mandatos-de-luis-neves-na-pj-vai-ser-presidida-pelo-chega/20260930/6abd79d1d34e9a786e75a621",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T10:34:58.312212+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Marco importante\": Mercadona abre mais um supermercado este mês",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "mercadona",
+   "abre supermercado",
+   "importante",
+   "supermercado mes"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Marco importante\": Mercadona abre mais um supermercado este mês",
+    "link": "https://www.noticiasaominuto.com/economia/3059614/marco-importante-mercadona-abre-mais-um-supermercado-este-mes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T08:05:15+00:00"
    }
   ]
  },
@@ -1586,10 +1924,10 @@
   "resumo": "A Guarda Nacional Republicana (GNR) deteve hoje de madrugada 10 pessoas numa operação de vigilância, depois de terem sido detetadas embarcações de alta velocidade nos concelhos de Olhão e Tavira, no distrito de Faro.",
   "categoria": "sociedade",
   "palavras": [
-   "10 pessoas",
    "embarcacoes",
+   "10 pessoas",
    "gnr",
-   "apreende duas"
+   "pessoas apreende"
   ],
   "fontes": [
    "RTP"
@@ -1607,14 +1945,39 @@
   ]
  },
  {
-  "titulo": "Vendas de alimentos caem pela primeira vez em três anos",
-  "resumo": "É necessário recuar a dezembro de 2023 para encontrar a última quebra em termos homólogos no índice de volume de negócios do comércio de produtos alimentares, bebidas e tabaco.",
+  "titulo": "Rendas até 2.300 euros: há mais oferta, mas os imóveis estão mais pequenos",
+  "resumo": "Uma análise do Imovirtual mostra que, em 2026, cerca de 88% dos imóveis para arrendamento em Portugal têm rendas até 2.300 euros, valor definido pelo Governo como limite máximo para as rendas moderadas. O conteúdo Rendas até 2.300 euros: há mais oferta, mas os imóveis estão mais pequenos aparece primeiro em 24 Notícias .",
   "categoria": "economia",
   "palavras": [
-   "caem",
-   "primeira tres",
-   "alimentos",
-   "vendas"
+   "rendas",
+   "300 euros",
+   "imoveis",
+   "pequenos"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Rendas até 2.300 euros: há mais oferta, mas os imóveis estão mais pequenos",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/rendas-ate-2-300-euros-ha-mais-oferta-mas-os-imoveis-estao-mais-pequenos",
+    "fonte": "SAPO 24",
+    "data": "2026-10-01T10:09:36+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Licenças de \"handling\" da Menzies podem ser prorrogadas até dois anos",
+  "resumo": "Validade das licenças de assistência em escala da Menzies nos aeroportos de Lisboa, Porto e Faro, que tem vindo a ser prolongada, pode ir até outubro de 2028.",
+  "categoria": "economia",
+  "palavras": [
+   "licencas",
+   "menzies",
+   "handling",
+   "prorrogadas"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1624,184 +1987,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Vendas de alimentos caem pela primeira vez em três anos",
-    "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/vendas-de-alimentos-caem-pela-primeira-vez-em-tres-anos",
+    "titulo": "Licenças de \"handling\" da Menzies podem ser prorrogadas até dois anos",
+    "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/licencas-de-handling-da-menzies-podem-ser-prorrogadas-ate-dois-anos",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T08:50:32+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Governo reserva 3,8 milhões de euros para “Botija de Gás Solidária” em 2027",
-  "resumo": "“[…] considerando que subsistem os fatores de risco associados ao atual contexto geopolítico internacional, cujos efeitos se refletem de forma direta na volatilidade dos preços da energia e no funcionamento das cadeias de abastecimento do setor energético, revela-se adequado antecipar a previsão orçamental para o exercício de 2027”, lê-se na resolução do Conselho de Ministros n.º 191/2026, publicada hoje em Diário da República.",
-  "categoria": "economia",
-  "palavras": [
-   "reserva",
-   "botija gas",
-   "euros botija",
-   "solidaria 2027"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Governo reserva 3,8 milhões de euros para “Botija de Gás Solidária” em 2027",
-    "link": "https://jornaleconomico.sapo.pt/noticias/governo-reserva-38-milhoes-de-euros-para-botija-de-gas-solidaria-em-2027/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-01T10:33:49+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Ventura insiste em ex-colónias e MNE atira: \"Segunda edição da mentira\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "mne atira",
-   "ventura insiste",
-   "ex-colonias",
-   "atira segunda"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Ventura insiste em ex-colónias e MNE atira: \"Segunda edição da mentira\"",
-    "link": "https://www.noticiasaominuto.com/politica/3059935/ventura-insiste-no-tema-das-ex-colonias-mne-segunda-edicao-da-mentira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-09-30T23:52:47+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“A incidência provável de uma mulher desenvolver cancro da mama em Portugal é 1 em cada 9”: e depois do diagnóstico, o que fazer?",
-  "resumo": "Nesta Consulta Aberta , Margarida Santos tem consigo Sérgio Dias (investigador do GIMM e colíder do Laboratório Translacional de Cancro da Mama Avançado) e Tânia Graça (psicóloga e sexóloga) para falar sobre a pessoa que sofre com o cancro da cama e sobre a evolução na ciência que trata esta doença",
-  "categoria": "sociedade",
-  "palavras": [
-   "mama",
-   "cancro",
-   "incidencia provavel",
-   "cada depois"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“A incidência provável de uma mulher desenvolver cancro da mama em Portugal é 1 em cada 9”: e depois do diagnóstico, o que fazer?",
-    "link": "https://expresso.pt/podcasts/consulta-aberta/2026-10-01-a-incidencia-provavel-de-uma-mulher-desenvolver-cancro-da-mama-em-portugal-e-1-em-cada-9-e-depois-do-diagnostico-o-que-fazer--e49c532f",
-    "fonte": "Expresso",
-    "data": "2026-10-01T07:45:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Cathie Wood: “A SpaceX vai ter o maior poder computacional no espaço ao menor custo”",
-  "resumo": "A CEO da Ark Invest está confiante no investimento que fez nas empresas de Elon Musk. Apesar de não ter certeza de que ainda verá o momento que seja seguro aos humanos viajarem até Marte, admite que gostaria de explorar o planeta.",
-  "categoria": "economia",
-  "palavras": [
-   "poder computacional",
-   "spacex maior",
-   "computacional espaco",
-   "menor custo"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Cathie Wood: “A SpaceX vai ter o maior poder computacional no espaço ao menor custo”",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/cathie-wood-a-spacex-vai-ter-o-maior-poder-computacional-no-espaco-ao-menor-custo",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T09:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "A primeira página do Jornal Económico de 1 de outubro",
-  "resumo": "Subscreva a newsletter Edição da Manhã para receber o seu Jornal Económico em formato digital, todos os dias às 7h00.",
-  "categoria": "economia",
-  "palavras": [
-   "jornal economico",
-   "primeira pagina",
-   "pagina jornal",
-   "economico outubro"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "A primeira página do Jornal Económico de 1 de outubro",
-    "link": "https://jornaleconomico.sapo.pt/noticias/a-primeira-pagina-do-jornal-economico-de-1-de-outubro-3/",
-    "fonte": "Jornal Económico",
-    "data": "2026-09-30T23:03:05+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Invest Madeira reforça alinhamento com “parceiro estratégico fundamental” AICEP",
-  "resumo": "A Invest Madeira participou no Fórum AICEP 2026, realizado no Palácio da Bolsa, no Porto, onde destacou a importância da articulação com a AICEP para apoiar a internacionalização das empresas madeirenses e captar investimento estrangeiro para a Região.",
-  "categoria": "economia",
-  "palavras": [
-   "aicep",
-   "invest madeira",
-   "reforca alinhamento",
-   "estrategico fundamental"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Invest Madeira reforça alinhamento com “parceiro estratégico fundamental” AICEP",
-    "link": "https://jornaleconomico.sapo.pt/noticias/invest-madeira-reforca-alinhamento-com-parceiro-estrategico-fundamental-aicep/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-01T09:33:17+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Lisboa arranca no vermelho. Só Semapa ganha",
-  "resumo": "A bolsa portuguesa entrou em outubro com o pé esquerdo. As quedas alastraram a praticamente todas as cotadas do PSI, com a Galp a ser a mais castigada.",
-  "categoria": "economia",
-  "palavras": [
-   "semapa ganha",
-   "arranca",
-   "vermelho semapa"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Lisboa arranca no vermelho. Só Semapa ganha",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-arranca-no-vermelho-so-semapa-ganha",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T08:23:13+01:00"
+    "data": "2026-10-01T10:35:19+01:00"
    }
   ]
  },
@@ -1831,14 +2020,64 @@
   ]
  },
  {
-  "titulo": "Hotéis de Macau recebem mais de 1,2 milhões de hóspedes em agosto",
-  "resumo": "",
+  "titulo": "“A incidência provável de uma mulher desenvolver cancro da mama em Portugal é 1 em cada 9”: e depois do diagnóstico, o que fazer?",
+  "resumo": "Nesta Consulta Aberta , Margarida Santos tem consigo Sérgio Dias (investigador do GIMM e colíder do Laboratório Translacional de Cancro da Mama Avançado) e Tânia Graça (psicóloga e sexóloga) para falar sobre a pessoa que sofre com o cancro da cama e sobre a evolução na ciência que trata esta doença",
+  "categoria": "sociedade",
+  "palavras": [
+   "cancro mama",
+   "incidencia provavel",
+   "provavel mulher",
+   "mulher desenvolver"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“A incidência provável de uma mulher desenvolver cancro da mama em Portugal é 1 em cada 9”: e depois do diagnóstico, o que fazer?",
+    "link": "https://expresso.pt/podcasts/consulta-aberta/2026-10-01-a-incidencia-provavel-de-uma-mulher-desenvolver-cancro-da-mama-em-portugal-e-1-em-cada-9-e-depois-do-diagnostico-o-que-fazer--e49c532f",
+    "fonte": "Expresso",
+    "data": "2026-10-01T07:45:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cathie Wood: “A SpaceX vai ter o maior poder computacional no espaço ao menor custo”",
+  "resumo": "A CEO da Ark Invest está confiante no investimento que fez nas empresas de Elon Musk. Apesar de não ter certeza de que ainda verá o momento que seja seguro aos humanos viajarem até Marte, admite que gostaria de explorar o planeta.",
   "categoria": "economia",
   "palavras": [
-   "milhoes hospedes",
-   "hospedes agosto",
-   "hoteis",
-   "recebem milhoes"
+   "spacex",
+   "computacional espaco",
+   "maior poder",
+   "menor custo"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Cathie Wood: “A SpaceX vai ter o maior poder computacional no espaço ao menor custo”",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/cathie-wood-a-spacex-vai-ter-o-maior-poder-computacional-no-espaco-ao-menor-custo",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T09:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ventura insiste em ex-colónias e MNE atira: \"Segunda edição da mentira\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "ex-colonias",
+   "insiste",
+   "mne",
+   "edicao mentira"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1848,10 +2087,135 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Hotéis de Macau recebem mais de 1,2 milhões de hóspedes em agosto",
-    "link": "https://www.noticiasaominuto.com/economia/3059978/hoteis-de-macau-recebem-mais-de-1-2-milhoes-de-hospedes-em-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Ventura insiste em ex-colónias e MNE atira: \"Segunda edição da mentira\"",
+    "link": "https://www.noticiasaominuto.com/politica/3059935/ventura-insiste-no-tema-das-ex-colonias-mne-segunda-edicao-da-mentira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T03:47:47+00:00"
+    "data": "2026-09-30T23:52:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A primeira página do Jornal Económico de 1 de outubro",
+  "resumo": "Subscreva a newsletter Edição da Manhã para receber o seu Jornal Económico em formato digital, todos os dias às 7h00.",
+  "categoria": "economia",
+  "palavras": [
+   "jornal economico",
+   "primeira pagina",
+   "economico outubro",
+   "pagina jornal"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A primeira página do Jornal Económico de 1 de outubro",
+    "link": "https://jornaleconomico.sapo.pt/noticias/a-primeira-pagina-do-jornal-economico-de-1-de-outubro-3/",
+    "fonte": "Jornal Económico",
+    "data": "2026-09-30T23:03:05+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Rádio Macau no Coliseu de Lisboa: a elegância e a urgência de um regresso que não podia ficar para amanhã",
+  "resumo": "Tendo começado a ganhar forma na festa dos 60 anos de Xana, o regresso aos palcos dos Rádio Macau, que não tocavam ao vivo há cerca de 16 anos, fez-se nos termos dos seus protagonistas: sem facilitismos, percorrendo de forma mais temática do que cronológica um percurso porventura subvalorizado na música portuguesa e com uma elegância extrema no desenho de palco. Crónica de uma noite muito feliz na sala nobre de Lisboa",
+  "categoria": "sociedade",
+  "palavras": [
+   "radio macau",
+   "regresso",
+   "urgencia",
+   "macau coliseu"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Rádio Macau no Coliseu de Lisboa: a elegância e a urgência de um regresso que não podia ficar para amanhã",
+    "link": "https://expresso.pt/blitz/2026-10-01-radio-macau-no-coliseu-de-lisboa-a-elegancia-e-a-urgencia-de-um-regresso-que-nao-podia-ficar-para-amanha-dfac4b80",
+    "fonte": "Expresso",
+    "data": "2026-10-01T07:40:36+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Gravidade\". PS pede audição urgente do ministro da Agricultura",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "agricultura",
+   "gravidade",
+   "audicao",
+   "ministro"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Gravidade\". PS pede audição urgente do ministro da Agricultura",
+    "link": "https://www.noticiasaominuto.com/politica/3060017/gravidade-ps-pede-audicao-urgente-do-ministro-da-agricultura#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T07:14:23+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Vendas de alimentos caem pela primeira vez em três anos",
+  "resumo": "É necessário recuar a dezembro de 2023 para encontrar a última quebra em termos homólogos no índice de volume de negócios do comércio de produtos alimentares, bebidas e tabaco.",
+  "categoria": "economia",
+  "palavras": [
+   "alimentos",
+   "caem primeira",
+   "primeira tres",
+   "vendas"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Vendas de alimentos caem pela primeira vez em três anos",
+    "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/vendas-de-alimentos-caem-pela-primeira-vez-em-tres-anos",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T08:50:32+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tribunal de Contas alerta para PRR atrasado, pouco transparente e longe do bolso dos beneficiários",
+  "resumo": "‘Bazuca’ deixou pelo menos €2,3 mil milhões por executar no ano passado",
+  "categoria": "economia",
+  "palavras": [
+   "longe bolso",
+   "pouco transparente",
+   "transparente longe",
+   "bolso beneficiarios"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Tribunal de Contas alerta para PRR atrasado, pouco transparente e longe do bolso dos beneficiários",
+    "link": "https://expresso.pt/economia/2026-10-01-tribunal-de-contas-alerta-para-prr-atrasado-pouco-transparente-e-longe-do-bolso-dos-beneficiarios-a62eecb7",
+    "fonte": "Expresso",
+    "data": "2026-10-01T08:00:00+01:00"
    }
   ]
  },
@@ -1861,8 +2225,8 @@
   "categoria": "sociedade",
   "palavras": [
    "album mela",
-   "alegre",
-   "parceria",
+   "passo album",
+   "parceria joana",
    "primeiro passo"
   ],
   "fontes": [
@@ -1881,52 +2245,52 @@
   ]
  },
  {
-  "titulo": "Partidos divididos sobre apoios aos antigos combatentes",
-  "resumo": "No parlamento os partidos voltaram a dividir-se sobre os apoios aos antigos combatentes. O Chega e o PCP defenderam aumentos nas pensões e novos complementos, mas as propostas acabaram chumbadas.",
+  "titulo": "Cinema: a autoficção de Almodóvar é amarga, mas recomenda-se",
+  "resumo": "Em Cannes, Quim Gutiérrez e Aitana Sánchez-Gijón, “ chico e chica Almodóvar”, falaram com o Expresso sobre “Natal Amargo”, o novo do cineasta espanhol, que é uma dança de autoficção NATAL AMARGO De Pedro Almodóvar ★★★",
   "categoria": "sociedade",
   "palavras": [
-   "partidos",
-   "apoios antigos",
-   "combatentes",
-   "divididos"
+   "autoficcao",
+   "almodovar",
+   "amarga",
+   "recomenda-se"
   ],
   "fontes": [
-   "RTP"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Partidos divididos sobre apoios aos antigos combatentes",
-    "link": "https://www.rtp.pt/noticias/pais/partidos-divididos-sobre-apoios-aos-antigos-combatentes_n1768793",
-    "fonte": "RTP",
-    "data": "2026-10-01T08:12:37+01:00"
+    "titulo": "Cinema: a autoficção de Almodóvar é amarga, mas recomenda-se",
+    "link": "https://expresso.pt/revista/culturas/cinema/2026-10-01-cinema-a-autoficcao-de-almodovar-e-amarga-mas-recomenda-se-808d07fb-1",
+    "fonte": "Expresso",
+    "data": "2026-10-01T10:15:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Juros da dívida sobem a cinco e a 10 anos para máximos desde 2014 e 2017",
-  "resumo": "",
+  "titulo": "Controvérsia em torno do \"volta\" é \"de caráter político e social\", diz líder da SDR Portugal",
+  "resumo": "Presidente da SDR Portugal diz que a entidade gestora não substitui os municípios na responsabilidade pela limpeza do espaço público. E deixa a crítica: \"Temos de parar de confundir a manifestação da pobreza com a causa da pobreza\"",
   "categoria": "economia",
   "palavras": [
-   "10 maximos",
-   "cinco 10",
-   "desde 2014",
-   "divida"
+   "sdr",
+   "torno volta",
+   "politico",
+   "controversia torno"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Juros da dívida sobem a cinco e a 10 anos para máximos desde 2014 e 2017",
-    "link": "https://www.noticiasaominuto.com/economia/3060083/juros-da-divida-sobem-a-cinco-e-a-10-anos-para-maximos-desde-2014-e-2017#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-01T09:36:07+00:00"
+    "titulo": "Controvérsia em torno do \"volta\" é \"de caráter político e social\", diz líder da SDR Portugal",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/controversia-em-torno-do-volta-e-de-carater-politico-e-social-diz-lider-da-sdr-portugal",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T10:38:08+01:00"
    }
   ]
  },
@@ -1935,10 +2299,10 @@
   "resumo": "No rescaldo da acusação, André Ventura voltou a acusar o relatório final da comissão parlamentar de inquérito de ter sido “propositadamente enviesado\". Mas o Ministério Público não dá razão ao relatório inicial do inquérito parlamentar feito pela deputada do Chega e que foi rejeitado",
   "categoria": "politica",
   "palavras": [
-   "ministerio publico",
    "razao",
+   "ministerio",
    "caso",
-   "cinco perguntas"
+   "publico"
   ],
   "fontes": [
    "Expresso"
@@ -1956,52 +2320,27 @@
   ]
  },
  {
-  "titulo": "GNR inicia operação \"Censos Sénior 2026\". PSP sinalizou quase 300 idosos em risco nos centros urbanos",
-  "resumo": "A GNR realiza a partir desta quinta-feira a operação “Censos Sénior 2026” que tem como objetivo sensibilizar os idosos para a adoção de comportamentos de segurança e fazer o levantamento das condições de vida daquela população. Hoje ficam também a saber-se números da PSP, que registou mais de 54.000 crimes contra idosos nos últimos três anos.",
-  "categoria": "sociedade",
-  "palavras": [
-   "operacao censos",
-   "senior",
-   "gnr",
-   "idosos"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "GNR inicia operação \"Censos Sénior 2026\". PSP sinalizou quase 300 idosos em risco nos centros urbanos",
-    "link": "https://www.rtp.pt/noticias/pais/gnr-inicia-operacao-censos-senior-2026-psp-sinalizou-quase-300-idosos-em-risco-nos-centros-urbanos_n1768827",
-    "fonte": "RTP",
-    "data": "2026-10-01T10:51:16+01:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Qualquer quarto leva metade do nosso salário\". Quase 300 pessoas mantêm acampamento na praça da Catalunha em Barcelona",
+  "titulo": "Recebe subsídios ou pensões? Confira as datas de pagamento de outubro",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "qualquer quarto",
-   "catalunha barcelona",
-   "praca catalunha",
-   "mantem acampamento"
+   "confira datas",
+   "pagamento outubro",
+   "datas pagamento",
+   "subsidios pensoes"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Qualquer quarto leva metade do nosso salário\". Quase 300 pessoas mantêm acampamento na praça da Catalunha em Barcelona",
-    "link": "https://cnnportugal.iol.pt/habitacao/crise-da-habitacao/qualquer-quarto-leva-metade-do-nosso-salario-quase-300-pessoas-mantem-acampamento-na-praca-da-catalunha-em-barcelona/20261001/6abd8b36d34e53c759c748ea",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-01T00:03:00+01:00"
+    "titulo": "Recebe subsídios ou pensões? Confira as datas de pagamento de outubro",
+    "link": "https://www.noticiasaominuto.com/economia/3059605/recebe-subsidios-ou-pensoes-confira-as-datas-de-pagamento-de-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T07:31:06+00:00"
    }
   ]
  },
@@ -2010,10 +2349,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "acusa governo",
-   "governo responder",
+   "responder subida",
    "vida chantagem",
-   "responder subida"
+   "pcp acusa",
+   "subida custo"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2031,14 +2370,14 @@
   ]
  },
  {
-  "titulo": "EDP, Goldenergy e Iberdrola mantêm componente de energia do gás, mas fatura pode subir",
-  "resumo": "As três comercializadoras vão manter inalterada a componente de energia do gás natural. A partir de hoje, entram em vigor as novas tarifas de acesso às redes, que também são pagas pelos clientes do mercado livre.",
+  "titulo": "Bancos foram mais rápidos a aumentar taxas nos empréstimos do que nos depósitos",
+  "resumo": "A subida das taxas de juro iniciada em 2022 foi passada mais depressa para os empréstimos do que para os depósitos, diz Banco de Portugal. Análise mostra que os bancos nacionais são dos que têm uma remuneração mais baixa dos depósitos a prazo na Zona Euro.",
   "categoria": "economia",
   "palavras": [
-   "componente energia",
-   "energia gas",
-   "fatura subir",
-   "mantem componente"
+   "depositos",
+   "bancos",
+   "emprestimos",
+   "taxas"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2048,21 +2387,97 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "EDP, Goldenergy e Iberdrola mantêm componente de energia do gás, mas fatura pode subir",
-    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-goldenergy-e-iberdrola-mantem-componente-de-energia-do-gas-mas-fatura-pode-subir",
+    "titulo": "Bancos foram mais rápidos a aumentar taxas nos empréstimos do que nos depósitos",
+    "link": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/bancos-foram-mais-rapidos-a-aumentar-taxas-nos-emprestimos-do-que-nos-depositos",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-01T10:00:00+01:00"
+    "data": "2026-10-01T12:11:36+01:00"
    }
   ]
  },
  {
-  "titulo": "Aurea no Coliseu de Lisboa em 2027",
-  "resumo": "Com novo álbum previsto para a primavera, Aurea anuncia concerto no Coliseu dos Recreios no final do próximo ano",
+  "titulo": "\"Qualquer quarto leva metade do nosso salário\". Quase 300 pessoas mantêm acampamento na praça da Catalunha em Barcelona",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "acampamento",
+   "qualquer quarto",
+   "metade",
+   "quarto leva"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Qualquer quarto leva metade do nosso salário\". Quase 300 pessoas mantêm acampamento na praça da Catalunha em Barcelona",
+    "link": "https://cnnportugal.iol.pt/habitacao/crise-da-habitacao/qualquer-quarto-leva-metade-do-nosso-salario-quase-300-pessoas-mantem-acampamento-na-praca-da-catalunha-em-barcelona/20261001/6abd8b36d34e53c759c748ea",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-01T00:03:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Partidos divididos sobre apoios aos antigos combatentes",
+  "resumo": "No parlamento os partidos voltaram a dividir-se sobre os apoios aos antigos combatentes. O Chega e o PCP defenderam aumentos nas pensões e novos complementos, mas as propostas acabaram chumbadas.",
   "categoria": "sociedade",
   "palavras": [
-   "aurea",
-   "coliseu",
-   "lisboa 2027"
+   "partidos",
+   "antigos",
+   "combatentes",
+   "apoios"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Partidos divididos sobre apoios aos antigos combatentes",
+    "link": "https://www.rtp.pt/noticias/pais/partidos-divididos-sobre-apoios-aos-antigos-combatentes_n1768793",
+    "fonte": "RTP",
+    "data": "2026-10-01T08:12:37+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Lisboa arranca no vermelho. Só Semapa ganha",
+  "resumo": "A bolsa portuguesa entrou em outubro com o pé esquerdo. As quedas alastraram a praticamente todas as cotadas do PSI, com a Galp a ser a mais castigada.",
+  "categoria": "economia",
+  "palavras": [
+   "ganha",
+   "lisboa arranca",
+   "vermelho semapa",
+   "arranca vermelho"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Lisboa arranca no vermelho. Só Semapa ganha",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-arranca-no-vermelho-so-semapa-ganha",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T08:23:13+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“As pessoas são pessoas em qualquer idade”",
+  "resumo": "No Dia Internacional das Pessoas Idosas, olhamos para a longevidade a partir dos direitos, da participação e da forma como a sociedade vê quem tem mais idade. Falámos com Maria João Quintela, médica especialista em gerontologia, sobre envelhecimento ativo, relações entre gerações, linguagem e dignidade",
+  "categoria": "sociedade",
+  "palavras": [
+   "idade",
+   "pessoas",
+   "qualquer",
+   "participacao"
   ],
   "fontes": [
    "Expresso"
@@ -2072,10 +2487,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Aurea no Coliseu de Lisboa em 2027",
-    "link": "https://expresso.pt/blitz/noticias/2026-10-01-aurea-no-coliseu-de-lisboa-em-2027-ca1715aa",
+    "titulo": "“As pessoas são pessoas em qualquer idade”",
+    "link": "https://expresso.pt/longevidade/2026-10-01-as-pessoas-sao-pessoas-em-qualquer-idade-22b6d308",
     "fonte": "Expresso",
-    "data": "2026-10-01T10:43:06+01:00"
+    "data": "2026-10-01T10:53:30+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "GNR inicia operação \"Censos Sénior 2026\". PSP sinalizou quase 300 idosos em risco nos centros urbanos",
+  "resumo": "A GNR realiza a partir desta quinta-feira a operação “Censos Sénior 2026” que tem como objetivo sensibilizar os idosos para a adoção de comportamentos de segurança e fazer o levantamento das condições de vida daquela população. Hoje ficam também a saber-se números da PSP, que registou mais de 54.000 crimes contra idosos nos últimos três anos.",
+  "categoria": "sociedade",
+  "palavras": [
+   "senior 2026",
+   "operacao censos",
+   "censos senior",
+   "gnr"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "GNR inicia operação \"Censos Sénior 2026\". PSP sinalizou quase 300 idosos em risco nos centros urbanos",
+    "link": "https://www.rtp.pt/noticias/pais/gnr-inicia-operacao-censos-senior-2026-psp-sinalizou-quase-300-idosos-em-risco-nos-centros-urbanos_n1768827",
+    "fonte": "RTP",
+    "data": "2026-10-01T10:51:16+01:00"
    }
   ]
  },
@@ -2087,7 +2527,7 @@
    "14",
    "sobem setembro",
    "casas sobem",
-   "precos casas"
+   "17"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2101,6 +2541,56 @@
     "link": "https://jornaleconomico.sapo.pt/noticias/precos-das-casas-sobem-79-em-setembro/",
     "fonte": "Jornal Económico",
     "data": "2026-10-01T09:38:33+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PAN vai realizar novo Congresso após decisão do TC que invalidou eleição",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "realizar congresso",
+   "pan realizar",
+   "tc",
+   "invalidou"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PAN vai realizar novo Congresso após decisão do TC que invalidou eleição",
+    "link": "https://www.noticiasaominuto.com/pais/3060122/pan-vai-realizar-novo-congresso-apos-decisao-do-tc-que-invalidou-eleicao-da-direcao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-01T10:53:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Aurea no Coliseu de Lisboa em 2027",
+  "resumo": "Com novo álbum previsto para a primavera, Aurea anuncia concerto no Coliseu dos Recreios no final do próximo ano",
+  "categoria": "sociedade",
+  "palavras": [
+   "aurea",
+   "coliseu",
+   "lisboa 2027",
+   "previsto primavera"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Aurea no Coliseu de Lisboa em 2027",
+    "link": "https://expresso.pt/blitz/noticias/2026-10-01-aurea-no-coliseu-de-lisboa-em-2027-ca1715aa",
+    "fonte": "Expresso",
+    "data": "2026-10-01T10:43:06+01:00"
    }
   ]
  },
@@ -2130,27 +2620,52 @@
   ]
  },
  {
-  "titulo": "NAZA , Fuck the Polis e outras estreias para esta semana",
-  "resumo": "Chegam também às salas um filme tailandês com um “fantasma útil” e mais uma adaptação de um romance de Colleen Hoover, a escritora-fenómeno que alcançou projecção mundial em 2020 com Isto Acaba Aqui .",
-  "categoria": "sociedade",
+  "titulo": "Os 7 de Cornell e (de novo) o debate sobre a habitação",
+  "resumo": "Na Lei da Paridade, Adriana Cardoso e Maria Castello Branco analisam o caso da violação em grupo em Cornell e o debate sobre a habitação em Portugal",
+  "categoria": "economia",
   "palavras": [
-   "estreias semana",
-   "polis estreias",
-   "fuck the",
-   "naza fuck"
+   "debate",
+   "cornell",
+   "habitacao",
+   "lei paridade"
   ],
   "fontes": [
-   "Público"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "NAZA , Fuck the Polis e outras estreias para esta semana",
-    "link": "https://www.publico.pt/2026/10/01/culturaipsilon/noticia/naza-fuck-the-polis-estreias-semana-2189272",
-    "fonte": "Público",
-    "data": "2026-10-01T07:57:00+00:00"
+    "titulo": "Os 7 de Cornell e (de novo) o debate sobre a habitação",
+    "link": "https://expresso.pt/podcasts/lei-da-paridade/2026-10-01-os-7-de-cornell-e--de-novo--o-debate-sobre-a-habitacao-626ae901",
+    "fonte": "Expresso",
+    "data": "2026-10-01T07:15:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cathie Wood: “O ambiente regulamentar na Europa é demasiado rígido para a inovação”",
+  "resumo": "A líder da Ark Invest descreve o panorama europeu como “desafiante”, mas considera que há um público “recetivo” em toda a Europa.",
+  "categoria": "economia",
+  "palavras": [
+   "europa",
+   "ambiente regulamentar",
+   "demasiado",
+   "wood ambiente"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Cathie Wood: “O ambiente regulamentar na Europa é demasiado rígido para a inovação”",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/cathie-wood-o-ambiente-regulamentar-na-europa-e-demasiado-rigido-para-a-inovacao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-01T11:00:00+01:00"
    }
   ]
  },
@@ -2397,10 +2912,10 @@
   ]
  },
  {
-  "titulo": "O labirinto de Ventura e o muro de Carneiro",
-  "resumo": "É tempo de olhar para o sistema eleitoral sem medo e sem tabus. O princípio da representação proporcional é um limite constitucional que deve ser respeitado. Mas dentro desse limite há espaço para trabalhar",
+  "titulo": "A paranoia das fusões no ministério: a alquimia de somar dois desastres",
+  "resumo": "Não temos docentes suficientes para a estrutura atual, logo redefinimos a estrutura para fingir que a escassez é uma “otimização de recursos partilhados”",
   "categoria": "opiniao",
-  "autor": "Diogo Feio",
+  "autor": "João Conde",
   "data": "2026-10-01T07:00:00+01:00",
   "palavras": [],
   "fontes": [
@@ -2411,8 +2926,8 @@
   "pontuacao": 0,
   "artigos": [
    {
-    "titulo": "O labirinto de Ventura e o muro de Carneiro",
-    "link": "https://expresso.pt/opiniao/2026-10-01-o-labirinto-de-ventura-e-o-muro-de-carneiro-6117685c",
+    "titulo": "A paranoia das fusões no ministério: a alquimia de somar dois desastres",
+    "link": "https://expresso.pt/opiniao/2026-10-01-a-paranoia-das-fusoes-no-ministerio-a-alquimia-de-somar-dois-desastres-7934e46e",
     "fonte": "Expresso",
     "data": "2026-10-01T07:00:00+01:00"
    }

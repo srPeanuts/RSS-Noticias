@@ -10,7 +10,8 @@
    "Sociedade"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "\"Cumpram!\": PSP e GNR manifestam-se no Porto antes de negociações com o Governo",
@@ -23,7 +24,8 @@
    "Segurança"
   ],
   "categoria_forcada": "",
-  "categoria": "governo"
+  "categoria": "governo",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "CAP exige ao Governo \"pacote urgente\" de 140 milhões de euros de apoios aos agricultores",
@@ -36,7 +38,8 @@
    "Economia"
   ],
   "categoria_forcada": "",
-  "categoria": "governo"
+  "categoria": "governo",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "\"Estejam preparados, façam formação (em IA) para não perderem oportunidades\", aconselha o governador do Banco de Portugal",
@@ -49,7 +52,8 @@
    "Economia"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Porque é que a Nvidia vai fazer a maior recompra de ações da história?",
@@ -62,7 +66,8 @@
    "Mercados Financeiros"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Alex Perry: “Não quero que morram crianças africanas para eu poder aquecer a minha casa”",
@@ -75,7 +80,8 @@
    "Moçambique"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "O que se sabe do Orçamento? Excedente entre 0,1 e 0,2%, crescimento de 2% e inflação \"subavaliada\"",
@@ -88,7 +94,8 @@
    "Partidos Políticos"
   ],
   "categoria_forcada": "",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Aumento de salários \"deve ser ambição\": Seguro pressiona Turismo a não fechar os olhos às consequências negativas do setor",
@@ -101,7 +108,8 @@
    "Presidência da República"
   ],
   "categoria_forcada": "",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Ainda ninguém sabe quanto irá custar o novo aeroporto: Pinto Luz remete valores finais para 2028",
@@ -114,7 +122,8 @@
    "Economia"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Lacerda Sales rejeita acusação no caso das gémeas e diz ter recebido despacho “com enorme surpresa”",
@@ -127,7 +136,8 @@
    "Justiça"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "🍩Sal fora do prato até 1 ano, açúcar até aos 2: DGS aperta regras para refeições nas creches",
@@ -140,7 +150,8 @@
    "Sociedade"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Governo recusa baixar IVA dos combustíveis e pede à UE \"atitude mais proativa\" para \"reduzir problemas de concorrência\"",
@@ -153,7 +164,8 @@
    "Energia"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Lisboa tem turismo a mais?",
@@ -166,7 +178,8 @@
    "Economia dia a dia"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Pinto Luz quer acelerar aeroporto em Alcochete e diz \"não\" ao Montijo: \"não contam comigo para decisões mancas\"",
@@ -179,7 +192,8 @@
    "Aviação"
   ],
   "categoria_forcada": "",
-  "categoria": "governo"
+  "categoria": "governo",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Entrevista a André Ventura. \"Justiça deu razão ao Chega\" no caso das Gémeas",
@@ -192,7 +206,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Guerra híbrida. UE discute mecanismo de resposta",
@@ -205,7 +220,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "OE2027. Governo prevê crescimento a rondar os 2%",
@@ -218,7 +234,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Caso das Gémeas. CPI já apontava suspeitas sobre os arguidos",
@@ -231,7 +248,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Brilhante Dias: \"O Governo, de forma insensível, não estará preparado para apoiar os portugueses\"",
@@ -244,7 +262,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Chega afirma que Governo não quer baixar impostos e diz que OE é \"insensível\"",
@@ -257,7 +276,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "\"Simplificar\". Passos aspira a Estado \"mais ágil a gastar\" e \"que gaste melhor\"",
@@ -270,7 +290,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "JSD quer continuidade da Garantia Pública aos jovens e alargá-la à construção da primeira casa",
@@ -283,7 +304,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Lisboa tem TVDE e Tuc-Tuc a mais, alerta Moedas",
@@ -296,7 +318,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "CAP exige pacote de 140 milhões em medidas para recuperar competitividade do setor",
@@ -309,7 +332,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "PR pede estratégia a prazo para \"nova etapa\" no turismo com coesão territorial e melhores salários",
@@ -322,7 +346,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "União Europeia devia criar ações conjuntas para combustíveis e fertilizantes, defende ministro da Agricultura em Bruxelas",
@@ -335,7 +360,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Portugal quer que Bruxelas tenha em atenção as particularidades de cada país nas medidas que vier a decidir sobre a energia",
@@ -348,7 +374,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Custo do novo aeroporto não será conhecido antes da conclusão do projeto",
@@ -361,7 +388,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Preços dos combustíveis. Como estão os países europeus a responder à crise?",
@@ -374,7 +402,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Lagarde vê na IA potencial para reduzir pressões inflacionistas a longo prazo",
@@ -387,7 +416,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Jornalismo perde leitores por falta de interação com o público",
@@ -400,7 +430,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Ministra da Energia pede UE \"mais interveniente\" na crise dos combustíveis",
@@ -413,7 +444,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Novo regulamento do mecenato cultural prevê plataforma operacional até ao Natal",
@@ -426,7 +458,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Estudante cria plataforma que calcula onde é mais barato abastecer",
@@ -439,7 +472,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Câmara de Comércio no Rio de Janeiro tem pela primeira vez uma mulher presidente",
@@ -452,7 +486,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Protesto de trabalhadores do turismo junto à cimeira do setor",
@@ -465,7 +500,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Portugal vai receber uma fábrica de munições de pequeno calibre",
@@ -478,7 +514,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Ligeira descida dos preços dos combustíveis em Portugal esta semana",
@@ -491,7 +528,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Governo mostra abertura para alargar descontos do gasóleo à terraplanagem",
@@ -504,7 +542,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "CMVM aplicou 10 coimas no valor total de 280 mil euros em 2025",
@@ -517,7 +556,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Excedente agroalimentar da UE aumenta para 30,1 mil ME no primeiro semestre",
@@ -530,7 +570,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Habitação. Governo quer despejos em dois meses e mercado de arrendamento mais flexível",
@@ -543,7 +584,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Governo recebe empresários que realizaram marcha lenta em dia de descida de preço dos combustíveis",
@@ -556,7 +598,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Cerca de 200 polícias manifestam-se na véspera de reunião com MAI",
@@ -569,7 +612,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Quatro em cada dez interrupções da gravidez feitas por mulheres estrangeiras",
@@ -582,7 +626,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Surto de gripe A em lar de Estremoz já provocou cinco mortos",
@@ -595,7 +640,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Governo e sindicatos acordam novo Regime do Ensino de Português no Estrangeiro",
@@ -608,7 +654,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Porto Covo. Encontrado corpo de um dos trabalhadores soterrados em obra de hotel",
@@ -621,7 +668,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Tribunal de Évora começa a julgar homem acusado de matar outro com um sabre",
@@ -634,7 +682,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Quatro acusados no caso das gémeas. \"Ninguém está acima da Constituição e da Lei\"",
@@ -647,7 +696,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Marcelo Rebelo de Sousa considera que \"ninguém está acima da lei\"",
@@ -660,7 +710,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Oito meses depois da tempestade Kristin, ainda há 73 famílias desalojadas",
@@ -673,7 +724,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "\"Temos um drama muito grande, tem sido trágico\". Câmara de Mação desespera com invasão de javalis",
@@ -686,7 +738,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Caso das Gémeas. Defesa de filho do ex-Presidente da República diz que acusação não tem fundamento",
@@ -699,7 +752,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Há 30 mil mortes por ano em Portugal provocadas por doenças cardiovasculares",
@@ -712,7 +766,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "DGS recomenda a promoção e proteção do aleitamento materno até aos 3 anos",
@@ -725,7 +780,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Caso das Gémeas. Deduzida acusação contra quatro arguidos",
@@ -738,7 +794,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Tempestade Kristin. Oito meses depois ainda há 73 famílias desalojadas em Leiria",
@@ -751,7 +808,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Polícias protestam no Porto para exigir aumentos",
@@ -764,7 +822,8 @@
    "País"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Apoio em Parceria Arte e Coesão Territorial com verba extra de 500 mil euros",
@@ -777,7 +836,8 @@
    "Cultura"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Apoio às artes vai ter reforço de dez milhões de euros",
@@ -790,7 +850,8 @@
    "Cultura"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Rita Cabaço estreia-se na encenação a olhar para o presente a partir do Holocausto",
@@ -803,7 +864,8 @@
    "Cultura"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Arte, surf, música e gastronomia em festival na praia do Cabedelo",
@@ -816,7 +878,8 @@
    "Cultura"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Festival AmadoraBD com 24 obras a concurso para prémios de banda desenhada",
@@ -829,7 +892,8 @@
    "Cultura"
   ],
   "categoria_forcada": "sociedade",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Caso gémeas: Brilhante Dias convicto de que Lacerda Sales está inocente",
@@ -842,7 +906,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "OE2027: Governo prevê inflação média \"praticamente idêntica\" à de 2026",
@@ -855,7 +920,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "OE. Chega diz que Governo prevê excedente de 0,2% no próximo ano",
@@ -868,7 +934,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "OE2027: Livre vai propor licença simultânea para pais de crianças com cancro",
@@ -881,7 +948,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "BE questiona Governo sobre ciberataque à Universidade de Aveiro",
@@ -894,7 +962,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Gémeas: MP desautoriza conclusões da comissão de inquérito, diz Ventura",
@@ -907,7 +976,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "OE2027: Livre antecipa que \"dificilmente acompanhará\" proposta do Governo",
@@ -920,7 +990,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Passos Coelho defende mais \"agilidade\" nas decisões do Estado",
@@ -933,7 +1004,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Garantia pública? JSD quer alargamento à construção de primeira habitação",
@@ -946,7 +1018,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "\"Só o Chega beneficia com o descrédito das instituições democráticas\"",
@@ -959,7 +1032,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "BE quer mudar sistema de devolução de garrafas: \"Dar a volta ao Volta\"",
@@ -972,7 +1046,8 @@
    "Política"
   ],
   "categoria_forcada": "politica",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "CAP exige pacote de 140 milhões em medidas para recuperar competitividade",
@@ -985,7 +1060,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Confagri pede audiências a Seguro e Montenegro sobre subida dos preços",
@@ -998,7 +1074,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Passageiros desembarcados em portos nos Açores baixam 5,4% em agosto",
@@ -1011,7 +1088,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Turismo deve apostar noutras regiões e produtos, diz governador do BdP",
@@ -1024,7 +1102,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Coesão e melhores salários: Seguro quer \"nova etapa\" no turismo",
@@ -1037,7 +1116,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Mais de dois terços das maiores empresas consideram o sistema fiscal ineficaz",
@@ -1050,7 +1130,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Porto da Figueira lança concurso superior a nove milhões para dragagens",
@@ -1063,7 +1144,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Portugal sobe para 11.º lugar no ranking de competitividade turística",
@@ -1076,7 +1158,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Barcelos vai cobrar taxa municipal turística de dois euros por dormida",
@@ -1089,7 +1172,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "EUA destronam Reino Unido como 5.º mercado para o calçado português",
@@ -1102,7 +1186,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Custo do novo aeroporto não será conhecido antes da conclusão do projeto",
@@ -1115,7 +1200,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Governo compromete-se a alargar apoios do gasóleo ao setor industrial",
@@ -1128,7 +1214,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Lagarde vê na IA potencial para reduzir pressões inflacionistas a longo prazo",
@@ -1141,7 +1228,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Castro Almeida: Segurança é \"ativo económico\" para turismo português",
@@ -1154,7 +1242,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Leilão de ilha privada na ria de Aveiro acaba: Não atingiu valor base",
@@ -1167,7 +1256,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Ministra pede UE \"mais interveniente\" na crise dos combustíveis",
@@ -1180,7 +1270,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Agricultores alertam para \"tragédia\" e protestam contra combustíveis",
@@ -1193,7 +1284,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Reservas mínimas na UE? Governo afasta disrupção no fornecimento de gás",
@@ -1206,7 +1298,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Meia centena de trabalhadores protestam em frente à Cimeira do Turismo",
@@ -1219,7 +1312,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "CMVM aplicou 10 coimas no valor total de 280 mil euros em 2025",
@@ -1232,7 +1326,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Excedente agroalimentar da UE aumenta para 30,1 mil milhões de euros",
@@ -1245,7 +1340,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Aeroportos da Madeira movimentaram mais de 606 mil passageiros em agosto",
@@ -1258,7 +1354,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Fragmentação da banca europeia resulta de opções políticas",
@@ -1271,7 +1368,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Após marcha lenta, empresários das terraplanagens e Governo reúnem-se",
@@ -1284,7 +1382,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Swiftair condenada a multa de 225 mil euros por acidente em 2014",
@@ -1297,7 +1396,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Tem crédito à habitação? Euribor desce em todos os prazos",
@@ -1310,7 +1410,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Nível de atividade da reabilitação urbana abranda 0,5% em agosto",
@@ -1323,7 +1424,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "UE adota regras para proteger trabalhadores destacados",
@@ -1336,7 +1438,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Açores registam menos 100 mil passageiros desde a saída da Ryanair",
@@ -1349,7 +1452,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Bolsas europeias em alta atentas ao petróleo e às obrigações soberanas",
@@ -1362,7 +1466,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "\"Estamos a brincar com o fogo\": Centeno faz aviso sobre contas públicas",
@@ -1375,7 +1480,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Passe de 20€ já circula em Lisboa e no Porto: Tudo o que deve saber",
@@ -1388,7 +1494,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Petróleo começa a semana em alta: Brent dispara 3% para 107 dólares",
@@ -1401,7 +1508,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Atenção, universitários: Governo explica que apoios fiscais podem ter",
@@ -1414,7 +1522,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Estrangeiros a usarem roaming da NOS sobe 67,4% entre maio e agosto",
@@ -1427,7 +1536,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Pensões, subsídios e outros apoios: Descubra já quando recebe em outubro",
@@ -1440,7 +1550,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Combustíveis ficam mais baratos. Se abastecer nestes postos ainda poupa",
@@ -1453,7 +1564,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Candidaturas ao apoio extraordinário para o Douro abrem hoje",
@@ -1466,7 +1578,8 @@
    "Economia"
   ],
   "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "\"Em audiência de julgamento, Marcelo Rebelo de Sousa pode não prestar declarações. O filho dele é arguido\"",
@@ -1477,7 +1590,8 @@
   "data": "2026-09-28T23:39:00+01:00",
   "cats_feed": [],
   "categoria_forcada": "",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Caso das gémeas. \"Esta ação só aconteceu porque Marcelo Rebelo de Sousa deu azo a que ela se propiciasse\"",
@@ -1488,7 +1602,8 @@
   "data": "2026-09-28T23:38:00+01:00",
   "cats_feed": [],
   "categoria_forcada": "",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Mário Centeno não quer ser primeiro-ministro, mas tem \"uma posição muito forte contra o 'nunca'\"",
@@ -1499,7 +1614,8 @@
   "data": "2026-09-28T23:30:00+01:00",
   "cats_feed": [],
   "categoria_forcada": "",
-  "categoria": "governo"
+  "categoria": "governo",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Em 2025, quatro em cada dez interrupções da gravidez foram por mulheres estrangeiras",
@@ -1517,7 +1633,8 @@
    "SNS"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Presidente da República pede estratégia a prazo para “nova etapa” no turismo",
@@ -1533,7 +1650,8 @@
    "Turismo"
   ],
   "categoria_forcada": "",
-  "categoria": "politica"
+  "categoria": "politica",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Professores de português no estrangeiro têm aumentos de 20% até 2029",
@@ -1552,7 +1670,8 @@
    "Português no estrangeiro"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Associação Sindical de Profissionais da Polícia acusa MAI de “não fazer nada”",
@@ -1569,7 +1688,8 @@
    "PSP"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Hospital Pedro Hispano realiza primeira cirurgia robótica com bypass gástrico",
@@ -1586,7 +1706,8 @@
    "Operação"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Um morto e um trabalhador ainda soterrado após acidente em obra de hotel em Porto Covo",
@@ -1603,7 +1724,8 @@
    "Porto Covo"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Mais de quatro mil pessoas viram o coração de D. Pedro IV no Porto",
@@ -1621,7 +1743,8 @@
    "Porto"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "“Um programa de retoques” vs. “Uma situação ainda mais precária”: as duas faces da reforma do arrendamento",
@@ -1643,7 +1766,8 @@
    "Sindicato de Moradores de Lisboa"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Apetite não é controlado por sistemas isolados. Investigadores descobrem rede cerebral mais complexa",
@@ -1662,7 +1786,8 @@
    "Universidade do Minho"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Amadora: homem que era cuidador informal de crianças detido por suspeita de crimes sexuais",
@@ -1679,7 +1804,8 @@
    "violência sexual"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Preços das casas estabilizam em setembro, mas rendas sobem no Norte",
@@ -1696,7 +1822,8 @@
    "Nacional"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Quer impulsionar o seu negócio? Há 20 vagas para uma formação gratuita em Lisboa",
@@ -1717,7 +1844,8 @@
    "Turismo de Portugal"
   ],
   "categoria_forcada": "",
-  "categoria": "economia"
+  "categoria": "economia",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Portugal cria prémio de 20 mil euros para promover cultura portuguesa no estrangeiro",
@@ -1734,7 +1862,8 @@
    "Prémios"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Portugueses ao serviço da Hungria censuram Ricardo Araújo Pereira da Sérvia?",
@@ -1766,7 +1895,8 @@
    "Zoran Kesić"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  },
  {
   "titulo": "Padres Contra o Genocídio levam a Roma os nomes de 300 crianças mortas",
@@ -1784,6 +1914,7 @@
    "Religião"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade"
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
  }
 ]
