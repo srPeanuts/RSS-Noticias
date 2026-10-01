@@ -254,8 +254,8 @@
   "categoria": "politica",
   "palavras": [
    "proposta governo",
-   "governo rever",
    "rever regime",
+   "governo rever",
    "arrendamento"
   ],
   "fontes": [
@@ -457,7 +457,7 @@
    "10",
    "m2",
    "17",
-   "mediana contratos"
+   "renda mediana"
   ],
   "fontes": [
    "Expresso",
@@ -796,10 +796,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "zona euro",
-   "sentimento",
-   "euro ue",
-   "setembro zona"
+   "euro",
+   "zona",
+   "economico recua",
+   "sentimento economico"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -892,10 +892,10 @@
   "resumo": "Bolsa norte-americana fechou sessão desta terça-feira com ligeiras quebras, depois de o juro da dívida dos EUA a 30 anos ultrapassar os 5,59%. SpaceX valorizou mais de 2%. Apple recuou na mesma medida.",
   "categoria": "economia",
   "palavras": [
-   "wall street",
+   "wall",
    "negativo",
-   "terreno",
-   "sessao"
+   "street",
+   "terreno"
   ],
   "fontes": [
    "Jornal Económico",
@@ -925,9 +925,9 @@
   "categoria": "sociedade",
   "palavras": [
    "estrangeiras",
-   "feitas",
+   "gravidez",
    "interrupcoes",
-   "gravidez"
+   "feitas"
   ],
   "fontes": [
    "Expresso",
@@ -989,9 +989,9 @@
   "categoria": "sociedade",
   "palavras": [
    "mortes",
-   "ferroviarios",
-   "acidentes",
-   "14"
+   "acidentes ferroviarios",
+   "14",
+   "passagens nivel"
   ],
   "fontes": [
    "RTP",
@@ -1085,9 +1085,9 @@
   "categoria": "economia",
   "palavras": [
    "prestacao casa",
-   "ficar cara",
    "casa ficar",
-   "cara outubro"
+   "cara outubro",
+   "outubro simulacoes"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -1183,7 +1183,7 @@
    "gastou",
    "100 mil",
    "ue",
-   "combustiveis fosseis"
+   "fosseis"
   ],
   "fontes": [
    "Jornal de Negócios",
@@ -1658,10 +1658,10 @@
   "resumo": "A qualidade da água da torneira em Portugal continental mantém-se próxima dos 100%, com 98,86% da água considerada segura para consumo humano em 2024. O valor confirma o elevado nível de qualidade registado no país e mantém-se próximo da meta de 99% definida para 2030. Os dados constam do Relatório do Estado do Ambiente e […] O conteúdo Qualidade da água da torneira em Portugal mantém-se perto dos 100% aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "agua torneira",
+   "torneira",
+   "agua",
    "qualidade",
-   "100",
-   "mantem-se"
+   "100"
   ],
   "fontes": [
    "RTP",
@@ -1690,10 +1690,10 @@
   "resumo": "Os membros eleitos do Conselho de Redação (CR) da Lusa afirmaram hoje no parlamento ter recebido \"informações preocupantes, com provas documentais, de decisões administrativas que permitem a interferência do Conselho de Administração em questões editoriais\".",
   "categoria": "economia",
   "palavras": [
-   "decisoes",
-   "administrativas permitem",
-   "cr lusa",
-   "permitem interferencia"
+   "administrativas",
+   "permitem",
+   "cr",
+   "decisoes"
   ],
   "fontes": [
    "Público",
@@ -1754,10 +1754,10 @@
   "resumo": "O crude do Mar do Norte, de referência na Europa, fechou a sessão no Intercontinental Exchange a cotar 2,69 dólares abaixo dos 105,28 com que encerrou as transações na segunda-feira.",
   "categoria": "economia",
   "palavras": [
-   "brent entrega",
+   "56",
+   "102 59",
    "59 dolares",
-   "102",
-   "56"
+   "entrega novembro"
   ],
   "fontes": [
    "Jornal Económico",
@@ -1947,9 +1947,9 @@
   "categoria": "economia",
   "palavras": [
    "jovens",
-   "sobrelotadas",
-   "casas",
-   "vivem"
+   "casas sobrelotadas",
+   "vivem casas",
+   "ue"
   ],
   "fontes": [
    "Expresso",
@@ -2010,10 +2010,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "66 lucro",
-   "lucro ajustado",
-   "kong",
-   "hong"
+   "ajustado",
+   "shein",
+   "hong",
+   "queda 66"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -2073,8 +2073,8 @@
   "resumo": "Executivo prossegue esta terça-feira as reuniões no âmbito do Orçamento do Estado para 2027. Partidos vão insistir em descidas de impostos, medidas para responder ao aumento do custo de vida, assim como o reforço do SNS",
   "categoria": "politica",
   "palavras": [
-   "medidas responder",
    "responder aumento",
+   "medidas responder",
    "aumento custo",
    "2027"
   ],
@@ -2228,10 +2228,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "cabaz",
+   "cabaz alimentar",
    "iva",
-   "alimentar",
-   "zero"
+   "zero cabaz"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2434,10 +2433,9 @@
   "resumo": "Que filme é este que causa tanta turbulência, ao ponto de suscitar reações do próprio Benjamin Netanyahu, ameaçando revogar a cidadania a Yuval Abraham e Rachel Szor, e manifestações de ativistas de extrema-direita à porta da casa dos pais de Rachel, gritando pela execução dos traidores? Aparentemente, algo muito simples",
   "categoria": "sociedade",
   "palavras": [
-   "enfureceu telavive",
-   "telavive chega",
-   "chamada",
-   "bomba"
+   "naza documentario",
+   "bomba chamada",
+   "telavive"
   ],
   "fontes": [
    "Expresso"
@@ -2684,10 +2682,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "territorio nacional",
    "100 postos",
-   "nacional 100",
-   "trabalho belgica",
-   "acordo construir"
+   "fabrica municoes",
+   "trabalho belgica"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2809,10 +2807,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "100 contratos",
-   "pessoas corda",
    "contratos pessoas",
-   "pescoco"
+   "pessoas corda",
+   "pescoco",
+   "100 contratos"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2837,7 +2835,7 @@
    "imoveis",
    "devolutos",
    "seguranca social",
-   "indevidamente"
+   "ocupados indevidamente"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2886,7 +2884,7 @@
   "palavras": [
    "pedreiras",
    "fiscalizacao",
-   "psp deteta",
+   "16 infracoes",
    "deteta 16"
   ],
   "fontes": [
@@ -3236,8 +3234,8 @@
   "palavras": [
    "seguros",
    "ca",
-   "47 lugares",
-   "europeu great"
+   "great",
+   "lugares"
   ],
   "fontes": [
    "Jornal Económico"
@@ -3359,10 +3357,10 @@
   "resumo": "A proposta de lei do Governo que altera a lei do arrendamento vai ser debatida esta quarta-feira e não terá o apoio dos socialistas, que contrariam “a forma e o conteúdo”. Também o Chega diz que “tal como está” o diploma vai votar contra e desafia o Governo a pedir a descida à comissão sem votação para propor alterações.",
   "categoria": "economia",
   "palavras": [
-   "ameacas chega",
-   "ps ameacas",
+   "ameacas",
    "plenario voto",
-   "rendas sobem"
+   "voto ps",
+   "sobem plenario"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -3411,7 +3409,8 @@
   "palavras": [
    "estradas",
    "portagens",
-   "percorridos"
+   "kms percorridos",
+   "zonas"
   ],
   "fontes": [
    "Expresso"
@@ -3585,7 +3584,7 @@
   "palavras": [
    "ip",
    "autoestradas",
-   "debate politico",
+   "falta know",
    "privados fora"
   ],
   "fontes": [
@@ -3708,10 +3707,10 @@
   "resumo": "A escritora brasileira estará no clube de leitura do PÚBLICO e da revista Quatro Cinco Um a 13 de Outubro, às 22h em Lisboa (18h em Brasília) no Zoom. Em destaque vai estar Ressuscitar Mamutes .",
   "categoria": "sociedade",
   "palavras": [
+   "silvana tavano",
    "encontro",
-   "leituras",
-   "convidada",
-   "silvana tavano"
+   "tavano convidada",
+   "leituras"
   ],
   "fontes": [
    "Público"
@@ -3784,9 +3783,9 @@
   "categoria": "politica",
   "palavras": [
    "livre chega",
+   "voto livre",
    "projetos voto",
-   "deputados aprovam",
-   "voto livre"
+   "chega lusa"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -3808,10 +3807,10 @@
   "resumo": "A tapeçaria de Bayeux regressou a Inglaterra. O British Museum vendeu em 24 horas 100 mil bilhetes para a exposição.",
   "categoria": "sociedade",
   "palavras": [
+   "tapecaria",
    "regressou inglaterra",
    "bayeux",
-   "tapecaria",
-   "quase mil"
+   "mil regressou"
   ],
   "fontes": [
    "RTP"
@@ -3833,8 +3832,8 @@
   "resumo": "Miguel Pinto Luz garante que o Governo está aberto a olhar para novas formas de financiar a rodovia, mas não abdica do principio do utilizador-pagador. “Temos de voltar a ter essa visão de consenso”, atira, criticando os populismos.",
   "categoria": "sociedade",
   "palavras": [
-   "populista",
    "coletivo",
+   "populista",
    "autoestradas portagens",
    "nosso futuro"
   ],
@@ -4056,10 +4055,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "aluno",
-   "estado gasta",
-   "superior valor",
-   "10 206"
+   "cada aluno",
+   "aluno ensino",
+   "10 206",
+   "superior valor"
   ],
   "fontes": [
    "CNN Portugal"
@@ -4281,10 +4280,10 @@
   "resumo": "A marca de design de mobiliário e decoração, que está presente em mais de 80 países, ultrapassando já os 180 pontos de venda, decidiu agora entrar no país vizinho, instalando-se com uma loja com 1.100 metros quadrados na matosinhense Avenida Dom Afonso Henriques.",
   "categoria": "economia",
   "palavras": [
-   "kave escolhe",
    "espanhola",
+   "kave escolhe",
    "escolhe matosinhos",
-   "aterrar"
+   "matosinhos aterrar"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -4331,10 +4330,10 @@
   "resumo": "A sociedade criou o ML One AI, uma plataforma de inteligência artificial generativa desenvolvida em parceria com a Xpand IT.",
   "categoria": "economia",
   "palavras": [
-   "morais",
    "leitao aposta",
+   "acesso conhecimento",
    "transformar acesso",
-   "acesso conhecimento"
+   "ia transformar"
   ],
   "fontes": [
    "Jornal Económico"
@@ -4458,7 +4457,7 @@
    "acores",
    "passageiros",
    "menos dormidas",
-   "ryanair deixou"
+   "continente"
   ],
   "fontes": [
    "SAPO 24"
@@ -4780,10 +4779,10 @@
   "resumo": "A Assembleia da República prepara-se para votar uma medida controversa que há muito enfrenta a oposição de defensores de mobilidade activa.",
   "categoria": "politica",
   "palavras": [
+   "electricas",
    "capacete",
-   "obrigatorio bicicletas",
-   "trotinetas",
-   "electricas causa"
+   "bicicletas trotinetas",
+   "obrigatorio bicicletas"
   ],
   "fontes": [
    "Público"
@@ -4929,8 +4928,8 @@
   "resumo": "Em 14 dos 24 concelhos mais populosos do país o número de novos contratos de arrendamento diminuiu, mas o valor das rendas subiu em todos eles. “Haver menos operações não significa menos procura, pode ser resultado da falta de oferta”",
   "categoria": "economia",
   "palavras": [
-   "procura",
    "rendas",
+   "procura",
    "subiram 80",
    "80 seis"
   ],
@@ -5330,9 +5329,9 @@
   "categoria": "economia",
   "palavras": [
    "nvidia",
-   "cerca 75",
-   "quer recomprar",
-   "75 pib"
+   "equivalente cerca",
+   "75 pib",
+   "razao"
   ],
   "fontes": [
    "Jornal Económico"
@@ -5679,10 +5678,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "cidadaos",
-   "colocam",
-   "posicao vulneravel",
-   "paises pedir"
+   "pedir aceleracao",
+   "fosseis colocam",
+   "junta-se dois",
+   "dois paises"
   ],
   "fontes": [
    "CNN Portugal"
@@ -5705,7 +5704,7 @@
   "categoria": "economia",
   "palavras": [
    "uniao europeia",
-   "desceu",
+   "desceu uniao",
    "producao construcao",
    "europeia julho"
   ],
@@ -5730,9 +5729,9 @@
   "categoria": "economia",
   "palavras": [
    "apple",
-   "violacao",
    "pagar mil",
-   "condenada"
+   "euros violacao",
+   "patentes"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -5880,9 +5879,9 @@
   "categoria": "economia",
   "palavras": [
    "despejos",
-   "renovacao automatica",
    "automatica contratos",
-   "travao"
+   "renovacao",
+   "2030"
   ],
   "fontes": [
    "Público"
@@ -6129,10 +6128,10 @@
   "resumo": "Reunião está marcada para 6 de outubro. Proposta de Orçamento do Estado para o próximo ano deve ser entregue na Assembleia da República até 12 de outubro",
   "categoria": "economia",
   "palavras": [
+   "publica 2027",
    "atualizacao",
    "salarial administracao",
-   "publica 2027",
-   "reune-se sindicatos"
+   "governo reune-se"
   ],
   "fontes": [
    "Expresso"
@@ -6230,9 +6229,9 @@
   "categoria": "economia",
   "palavras": [
    "juros",
-   "descem dois",
    "dois cinco",
-   "cinco 10"
+   "cinco 10",
+   "divida descem"
   ],
   "fontes": [
    "Jornal Económico"
@@ -6378,10 +6377,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "chega ameaca",
+   "votar revisao",
    "revisao regime",
-   "nao serve",
-   "arrendamento nao"
+   "chega ameaca",
+   "nao serve"
   ],
   "fontes": [
    "Notícias ao Minuto"
