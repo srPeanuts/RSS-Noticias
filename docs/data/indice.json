@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-09-30T21:05+01:00",
- "hoje": "2026-09-30",
+ "atualizado": "2026-10-01T01:35+01:00",
+ "hoje": "2026-10-01",
  "dias": [
   "2026-09-27",
   "2026-09-28",
   "2026-09-29",
-  "2026-09-30"
+  "2026-09-30",
+  "2026-10-01"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -17,7 +18,7 @@
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
   "http://feeds.dn.pt/DN-Ultimas": 20,
-  "https://www.noticiasaominuto.com/rss/politica": 643,
+  "https://www.noticiasaominuto.com/rss/politica": 655,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50,
   "https://24noticias.sapo.pt/feed": 25,

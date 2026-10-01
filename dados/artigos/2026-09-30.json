@@ -1712,8 +1712,8 @@
   "categoria": "sociedade"
  },
  {
-  "titulo": "Ministra da Saúde chama médicos tarefeiros antes de fechar nova tabela de pagamentos",
-  "link": "https://expresso.pt/sociedade/saude/2026-09-30-ministra-da-saude-chama-medicos-tarefeiros-antes-de-fechar-nova-tabela-de-pagamentos-a6c856f0",
+  "titulo": "Ministra da Saúde chama médicos tarefeiros antes de publicar honorários",
+  "link": "https://expresso.pt/sociedade/saude/2026-09-30-ministra-da-saude-chama-medicos-tarefeiros-antes-de-publicar-honorarios-a6c856f0",
   "resumo": "Ana Paula Martins convocou a associação dos prestadores de serviços médicos para uma reunião na próxima sexta-feira. Em cima da mesa deverão estar os novos valores por hora de trabalho, que o Governo prometeu publicar no início de outubro",
   "fonte": "Expresso",
   "autor": "Vera Lúcia Arreigoso",
@@ -1868,11 +1868,11 @@
   "categoria": "economia"
  },
  {
-  "titulo": "A campanha eleitoral já começou?",
-  "link": "https://expresso.pt/opiniao/2026-09-30-a-campanha-eleitoral-ja-comecou--77910cda",
-  "resumo": "O país parece ter entrado numa nova vertigem pré-eleitoral. O presente já não interessa para nada. E o futuro é a aurora do passado, como escreveu Teixeira de Pascoais",
+  "titulo": "Sobreinvestimento na inteligência artificial?",
+  "link": "https://expresso.pt/opiniao/2026-09-30-sobreinvestimento-na-inteligencia-artificial--fffee006",
+  "resumo": "Para justificar o investimento de 10,3 biliões de dólares em IA, os centros de dados americanos teriam de faturar 9% do PIB em 2032. Não é impossível, mas é implausível",
   "fonte": "Expresso",
-  "autor": "Luís Marques",
+  "autor": "Ricardo Reis",
   "data": "2026-09-30T16:00:00+01:00",
   "cats_feed": [
    "Opinião"
@@ -2168,16 +2168,16 @@
  },
  {
   "titulo": "Parlamento aprova nova lei do arrendamento com abstenção do Chega",
-  "link": "https://www.rtp.pt/noticias/economia/parlamento-aprova-nova-lei-do-arrendamento-com-abstencao-do-chega_e1768638",
-  "resumo": "O Parlamento aprovou esta quarta-feira a nova lei das rendas que prevê a revisão do regime de arrendamento urbano. O diploma, proposto pelo Governo, passou com a abstenção do Chega.",
+  "link": "https://www.rtp.pt/noticias/politica/parlamento-aprova-nova-lei-do-arrendamento-com-abstencao-do-chega_e1768638",
+  "resumo": "O Parlamento aprovou na generalidade o diploma que prevê a revisão do regime de arrendamento urbano. O diploma do Governo passou com a abstenção do Chega.",
   "fonte": "RTP",
   "autor": "",
   "data": "2026-09-30T21:57:29+01:00",
   "cats_feed": [
-   "Economia"
+   "Política"
   ],
-  "categoria_forcada": "economia",
-  "categoria": "economia"
+  "categoria_forcada": "politica",
+  "categoria": "politica"
  },
  {
   "titulo": "Taxa de inflação volta a acelerar à boleia dos combustíveis",
@@ -3691,5 +3691,627 @@
   ],
   "categoria_forcada": "",
   "categoria": "economia"
+ },
+ {
+  "titulo": "Lutadora, trabalhadora, vítima da especulação imobiliária e de uma lei sexista: quem é Maricarmen Abascal, cujo despejo comoveu um país?",
+  "link": "https://expresso.pt/espanha/2026-09-30-lutadora-trabalhadora-vitima-da-especulacao-imobiliaria-e-de-uma-lei-sexista-quem-e-maricarmen-abascal-cujo-despejo-comoveu-um-pais--8e328197",
+  "resumo": "A mulher de 87 anos que foi expulsa de casa no passado dia 23 vai, afinal, poder regressar ao seu lar de 70 anos. De saúde periclitante, viu gerar-se uma onda de solidariedade que conseguiu a reversão inédita de um despejo",
+  "fonte": "Expresso",
+  "autor": "Pedro Cordeiro",
+  "data": "2026-09-30T22:05:34+01:00",
+  "cats_feed": [
+   "Espanha"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Capacete passa a ser obrigatório para utilizadores de trotinetes e bicicletas elétricas",
+  "link": "https://expresso.pt/economia/transportes/2026-09-30-capacete-passa-a-ser-obrigatorio-para-utilizadores-de-trotinetes-e-bicicletas-eletricas-4cdd1468",
+  "resumo": "Além do capacete, todos os condutores de trotinetas serão obrigados a utilizar elementos refletores quando a visibilidade for reduzida. A proposta do PSD segue agora para discussão na especialidade e prevê multas que podem chegar aos 300 euros",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-09-30T21:38:54+01:00",
+  "cats_feed": [
+   "Transportes"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "“Muitas Maricarmens”, é preciso um “empréstimo para arrendar”, “parem de empatar o país”: no meio de críticas, lei do arrendamento sobrevive",
+  "link": "https://expresso.pt/economia/economia_imobiliario/2026-09-30-muitas-maricarmens-e-preciso-um-emprestimo-para-arrendar-parem-de-empatar-o-pais-no-meio-de-criticas-lei-do-arrendamento-sobrevive-ac31ec42",
+  "resumo": "A revisão à lei do arrendamento foi aprovada graças à abstenção do Chega, mas partido critica o fim do limite das cauções. Apenas a Iniciativa Liberal apoiou o Governo, apesar de dizer que este poderia ter ido “mais longe”",
+  "fonte": "Expresso",
+  "autor": "Eunice Parreira",
+  "data": "2026-09-30T21:31:14+01:00",
+  "cats_feed": [
+   "Imobiliário"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Registo de terrenos grátis no BUPi já terminou: E agora?",
+  "link": "https://expresso.pt/economia/economia_imobiliario/2026-09-30-registo-de-terrenos-gratis-no-bupi-ja-terminou-e-agora--11c2c11f",
+  "resumo": "Quase quatro milhões de propriedades rústicas a norte do Tejo e na Madeira foram identificadas através do BUPi - Balcão Único do Prédio",
+  "fonte": "Expresso",
+  "autor": "Eunice Parreira",
+  "data": "2026-09-30T21:00:00+01:00",
+  "cats_feed": [
+   "Imobiliário"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Parlamento vai discutir regras mais flexíveis para contratar professores no privado",
+  "link": "https://www.rtp.pt/noticias/politica/parlamento-vai-discutir-regras-mais-flexiveis-para-contratar-professores-no-privado_n1768758",
+  "resumo": "O parlamento vai discutir, em sede de especialidade, duas iniciativas do CDS-PP e da IL que pretendem flexibilizar as regras para a contratação de professores por parte dos colégios privados e que mereceram críticas das restantes bancadas.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T23:28:24+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Uso de capacete para quem utiliza trotinete e bicicleta elétrica aprovado na generalidade",
+  "link": "https://www.rtp.pt/noticias/politica/uso-de-capacete-para-quem-utiliza-trotinete-e-bicicleta-eletrica-aprovado-na-generalidade_n1768746",
+  "resumo": "O uso obrigatório de capacete para utilizadores de trotinetes e bicicletas elétricas foi hoje aprovado, na generalidade, pela Assembleia da República, seguindo agora para a discussão na especialidade, após um projeto de lei do PSD ter passado por maioria.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:40:45+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Parlamento rejeita cessar a vigência da nova lei orgânica do INEM",
+  "link": "https://www.rtp.pt/noticias/politica/parlamento-rejeita-cessar-a-vigencia-da-nova-lei-organica-do-inem_n1768745",
+  "resumo": "O parlamento rejeitou hoje a proposta do PCP para que cessasse a vigência da nova lei orgânica do Instituto Nacional de Emergência Médica (INEM), na sequência da apreciação parlamentar do decreto-lei do Governo aprovado em maio.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:39:33+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Rui Paulo Sousa. Parlamento levanta imunidade ao presidente da Comissão da Transparência",
+  "link": "https://www.rtp.pt/noticias/politica/rui-paulo-sousa-parlamento-levanta-imunidade-ao-presidente-da-comissao-da-transparencia_n1768737",
+  "resumo": "A Assembleia da República levantou, por unanimidade, a imunidade parlamentar ao presidente da Comissão da Transparência, Rui Paulo Sousa, do Chega, por alegados crimes de discriminação e incitação ao ódio, e de fotografia ilícita.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:37:52+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Seguro vê problemas por resolver como inimigos da democracia",
+  "link": "https://www.rtp.pt/noticias/politica/seguro-ve-problemas-por-resolver-como-inimigos-da-democracia_v1768750",
+  "resumo": "António José Seguro pediu uma solução europeia para enfrentar a subida do custo de vida.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:27:47+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Governo anuncia parceria entre idD e italiana Fincantieri para recuperar Alfeite sem despedimentos",
+  "link": "https://www.rtp.pt/noticias/economia/governo-anuncia-parceria-entre-idd-e-italiana-fincantieri-para-recuperar-alfeite-sem-despedimentos_n1768733",
+  "resumo": "O Arsenal do Alfeite terá um \"novo modelo gestionário e operacional\" que passará por uma parceria entre a entidade pública idD Portugal Defence e a italiana Fincantieri, anunciou hoje o Ministério da Defesa Nacional, assegurando que não haverá despedimentos.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:36:25+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Corrida à TAP. Governo garante decisão até meio de outubro",
+  "link": "https://www.rtp.pt/noticias/economia/corrida-a-tap-governo-garante-decisao-ate-meio-de-outubro_v1768748",
+  "resumo": "A corrida à TAP entrou na reta final. Air France e Lufthansa entregaram as propostas melhoradas para comprar parte da companhia aérea portuguesa.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:23:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Nunca as rendas foram tão caras. Valor por metro quadrado ultrapassou os dez euros",
+  "link": "https://www.rtp.pt/noticias/economia/nunca-as-rendas-foram-tao-caras-valor-por-metro-quadrado-ultrapassou-os-dez-euros_v1768741",
+  "resumo": "A proposta de alteração da lei das rendas surge numa altura de grande subida dos preços da habitação. Os inquilinos queixam-se de que a renda das casas é mais alta do que o salário mínimo.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:09:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Mais de 60 professores com registo criminal inválido afastados provisoriamente",
+  "link": "https://www.rtp.pt/noticias/pais/mais-de-60-professores-com-registo-criminal-invalido-afastados-provisoriamente_n1768760",
+  "resumo": "O ministro da Educação já pediu uma análise \"urgente e imediata\" de todas as situações de registo criminal inválido.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T23:40:51+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Mais de 20 idosos retirados de lar ilegal em Olhão com falta de condições",
+  "link": "https://www.rtp.pt/noticias/pais/mais-de-20-idosos-retirados-de-lar-ilegal-em-olhao-com-falta-de-condicoes_v1768744",
+  "resumo": "Foram retirados 22 idosos de um lar ilegal em Olhão. Os idosos viviam aí em condições de falta de higiene e de falta de cuidados básicos de saúde.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:13:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "\"Digger\". Tom Cruise em comédia negra sobre magnata que coloca humanidade em risco",
+  "link": "https://www.rtp.pt/noticias/cultura/digger-tom-cruise-em-comedia-negra-sobre-magnata-que-coloca-humanidade-em-risco_v1768751",
+  "resumo": "Tom Cruise chega aos cinemas com uma comédia negra. Desta vez não salta de avião, mas veste o fato de um magnata do petróleo que vai pôr a humanidade em risco.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-09-30T22:28:47+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Constitucional põe em risco IMI sobre parques eólicos, mas não só",
+  "link": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/constitucional-poe-em-risco-imi-sobre-parques-eolicos-mas-nao-so",
+  "resumo": "Tribunal declarou inconstitucional a norma que serve de base à avaliação dos parques eólicos e que o Fisco tem reiterado em instruções aos serviços. A mesma norma é aplicada a outros prédios e equipamentos, como barragens, parques de campismo ou campos de golfe, cujas avaliações e liquidações de IMI e IMT ficam também em risco.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T23:30:00+01:00",
+  "cats_feed": [
+   "Impostos"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "O elo mais fraco",
+  "link": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/o-elo-mais-fraco",
+  "resumo": "Em França, os juros estão a transformar-se num encargo insustentável num Estado com um grave problema orçamental e as dificuldades do país surgem quando poderosas economias como os EUA, Japão ou Alemanha estão também a ser pressionados pelos investidores.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T23:00:00+01:00",
+  "cats_feed": [
+   "Diana Ramos"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Aprovado projeto do Chega que elimina comissão de reembolso no crédito com taxa variável",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/aprovado-projeto-do-chega-que-elimina-comissao-de-reembolso-no-credito-com-taxa-variavel",
+  "resumo": "A iniciativa do Chega e um projeto de resolução do JPP foram os únicos diplomas aprovados na generalidade entre um conjunto de diplomas dos partidos da oposição para proteger as famílias da subida das taxas de juro.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T22:36:30+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "O original… e a cópia",
+  "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/o-original-e-a-copia",
+  "resumo": "É possível que no curto prazo a técnica funcione. O líder do Chega pode enganar todos por algum tempo. Pode enganar alguns por muito tempo. Mas não pode enganar todos para sempre. Até porque entre o original (o Socialismo) e a cópia, os eleitores costumam preferir o primeiro.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T21:30:22+01:00",
+  "cats_feed": [
+   "Camilo Lourenço"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Volatilidade faz Wall Street apagar maioria das subidas apesar de inflação abaixo do esperado",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/volatilidade-de-ultima-hora-faz-wall-street-apagar-subidas-com-inflacao-abaixo-do-esperado",
+  "resumo": "As principais bolsas norte-americanas fecharam o dia em terreno maioritariamente negativo, apesar de o indicador preferido da Reserva Federal para a inflação ter ficado abaixo das previsões dos analistas.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T21:27:00+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "ZERO quer testar fim do gás fóssil na produção elétrica já em 2035",
+  "link": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/zero-quer-testar-fim-do-gas-fossil-na-producao-eletrica-ja-em-2035",
+  "resumo": "Associação pede que a estratégia de armazenamento avalie se baterias, barragens e gestão do consumo permitem antecipar em cinco anos a saída do gás fóssil da produção de eletricidade.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T21:13:00+01:00",
+  "cats_feed": [
+   "Ambiental"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Uma alternativa às contas dos economistas",
+  "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/jose-bento-da-silva/detalhe/uma-alternativa-as-contas-dos-economistas",
+  "resumo": "Mas há uma alternativa às contas dos economistas. E essa alternativa passa por olharmos para os custos de tudo (e quando digo tudo, é tudo) o que envolve a habitação.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-09-30T21:01:00+01:00",
+  "cats_feed": [
+   "José Bento da Silva"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao"
+ },
+ {
+  "titulo": "Wall Street fecha mista após volatilidade na última hora. PCE abaixo do esperado alivia pressão sobre a Fed",
+  "link": "https://jornaleconomico.sapo.pt/noticias/wall-street-fecha-mista-apos-volatilidade-na-ultima-hora-pce-abaixo-do-esperado-alivia-pressao-sobre-a-fed/",
+  "resumo": "O dia ficou marcado pela divulgação dos dados da inflação nos Estados Unidos, que ficaram abaixo das previsões dos analistas. O índice de preços das despesas de consumo pessoal (PCE) — a principal medida de inflação acompanhada pela Reserva Federal (Fed) — subiu 0,3% em agosto face ao mês anterior, depois de um aumento de 0,1% em julho (valor entretanto revisto em baixa). O resultado ficou abaixo dos 0,4% esperados pelos economistas consultados pela Reuters.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T21:28:50+00:00",
+  "cats_feed": [
+   "Mercados",
+   "Sapo Economia",
+   "wall street"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Cotação do Brent fecha setembro a valorizar 14,43% mensais nos 103,53 dólares",
+  "link": "https://jornaleconomico.sapo.pt/noticias/cotacao-do-brent-fecha-setembro-a-valorizar-1443-mensais-nos-10353-dolares/",
+  "resumo": "O crude do Mar do Norte, de referência na Europa, fechou a sessão no Intercontinental Exchange a cotar 94 cêntimos acima dos 102,59 dólares com que encerrou as transações na terça-feira.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-09-30T21:19:27+00:00",
+  "cats_feed": [
+   "Mercados",
+   "Sapo Economia",
+   "brent"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "PSD e Chega chegam a acordo para alterar na especialidade proposta do Governo sobre novo regime do arrendamento urbano",
+  "link": "https://jornaleconomico.sapo.pt/noticias/psd-e-chega-chegam-a-acordo-para-alterar-na-especialidade-proposta-do-governo-sobre-novo-regime-do-arrendamento-urbano/",
+  "resumo": "“Tendo o Governo apresentado na Assembleia da República proposta para alterar o legislação em matéria de arrendamento urbano e tendo o Chega apresentado vários dos elementos constantes da mesma que necessitam de alterações e/ou garantias de aperfeiçoamento, o PSD compromete-se formalmente a levar a cabo” quatro alterações, lê-se no acordo a que a Lusa teve acesso assinado por Hugo Soares e André Ventura.",
+  "fonte": "Jornal Económico",
+  "autor": "Jornal Económico com Lusa",
+  "data": "2026-09-30T20:30:58+00:00",
+  "cats_feed": [
+   "Política",
+   "Sapo Economia",
+   "arrendamento",
+   "Novo Regime do Arrendamento Urbano",
+   "PS",
+   "PSD"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "CPI a mandatos de Luís Neves na PJ vai ser presidida pelo Chega",
+  "link": "https://www.noticiasaominuto.com/pais/3059889/comissao-de-inquerito-a-mandatos-de-luis-neves-na-pj-vai-ser-presidida-pelo-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T22:48:50+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "PS abstém-se no OE2027? Governo saúda, Chega critica: \"Não surpreende\"",
+  "link": "https://www.noticiasaominuto.com/politica/3059883/ps-abstem-se-no-oe2027-governo-sauda-chega-critica-nao-surpreende#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T22:17:00+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "AR vai discutir regras mais flexíveis para contratar docentes no privado",
+  "link": "https://www.noticiasaominuto.com/pais/3059910/parlamento-vai-discutir-regras-mais-flexiveis-para-contratar-professores-no-privado#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T22:09:12+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Uso de capacete para quem utiliza trotinete e bicicleta elétrica aprovado",
+  "link": "https://www.noticiasaominuto.com/pais/3059901/uso-de-capacete-para-quem-utiliza-trotinete-e-bicicleta-eletrica-aprovado-na-generalidade-atualizada#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:48:37+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Aprovado projeto do Chega que elimina reembolso no crédito com taxa variável",
+  "link": "https://www.noticiasaominuto.com/pais/3059900/aprovado-projeto-do-chega-que-elimina-comissao-de-reembolso-no-credito-com-taxa-variavel#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:43:17+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Antigos combatentes? PSD, PS e CDS chumbam iniciativas de Chega e PCP",
+  "link": "https://www.noticiasaominuto.com/pais/3059890/psd-ps-e-cds-chumbam-iniciativas-de-chega-e-pcp-para-aumentar-rendimentos-a-antigos-combatentes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:28:45+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "AR lamenta mortes de pioneiro da bioética e embaixadora na Bulgária",
+  "link": "https://www.noticiasaominuto.com/pais/3059898/parlamento-lamenta-mortes-de-pioneiro-da-bioetica-e-embaixadora-na-bulgaria#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:26:14+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Taxas de juro? PS e PSD acusam-se pela subida dos preços das casas",
+  "link": "https://www.noticiasaominuto.com/pais/3059876/protecao-das-familias-contra-subida-dos-juros-da-casa-gera-troca-de-acusacoes-entre-ps-e-psd#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:22:44+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Parlamento rejeita cessar a vigência da nova lei orgânica do INEM",
+  "link": "https://www.noticiasaominuto.com/pais/3059895/parlamento-rejeita-cessar-a-vigencia-da-nova-lei-organica-do-inem#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:18:56+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "AR unânime no pesar e no elogio ao legado de Jorge Palma",
+  "link": "https://www.noticiasaominuto.com/pais/3059877/ar-unanime-no-pesar-e-no-elogio-ao-legado-de-jorge-palma#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:15:22+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Parlamento saúda 50 anos da adesão de Portugal ao Conselho da Europa",
+  "link": "https://www.noticiasaominuto.com/mundo/3059879/parlamento-sauda-50-anos-da-adesao-de-portugal-ao-conselho-da-europa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T21:03:21+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Arrendamento? Plataforma alerta para \"cheque em branco\" dado ao governo",
+  "link": "https://www.noticiasaominuto.com/pais/3059927/plataforma-alerta-para-cheque-em-branco-dado-ao-governo-para-legislar-contra-quem-arrenda-casa#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-09-30T22:56:26+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia"
+ },
+ {
+  "titulo": "Afastados de funções 62 professores com registo criminal inválido",
+  "link": "https://cnnportugal.iol.pt/professores/docentes/afastados-de-funcoes-62-professores-com-registo-criminal-invalido/20260930/6abd9422d34e53c759c748fe",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T23:59:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Cristiano Ronaldo chegou ao aeroporto de Copenhaga e tinha \"quatro ou cinco curiosos\" à sua espera",
+  "link": "https://cnnportugal.iol.pt/videos/cristiano-ronaldo-chegou-ao-aeroporto-de-copenhaga-e-tinha-quatro-ou-cinco-curiosos-a-sua-espera/6abd7e2c0cf299bc2953e0fc",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T23:11:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Um dos cinco britânicos detidos pelo alegado plano terrorista em Fairford foi o primeiro a alertar a polícia",
+  "link": "https://cnnportugal.iol.pt/base-militar-fairford/reino-unido/um-dos-cinco-britanicos-detidos-pelo-alegado-plano-terrorista-em-fairford-foi-o-primeiro-a-alertar-a-policia/20260930/6abd7c84d34e9a786e75a624",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T22:49:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Comissão de inquérito a mandatos de Luís Neves na PJ vai ser presidida pelo Chega",
+  "link": "https://cnnportugal.iol.pt/cpi/comissao-de-inquerito/comissao-de-inquerito-a-mandatos-de-luis-neves-na-pj-vai-ser-presidida-pelo-chega/20260930/6abd79d1d34e9a786e75a621",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T22:43:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Proposta do Governo que altera regime do arrendamento aprovada na generalidade após abstenção do Chega",
+  "link": "https://cnnportugal.iol.pt/regime-de-arrendamento/nova-lei-de-arrendamento/proposta-do-governo-para-rever-regime-do-arrendamento-aprovada-na-generalidade/20260930/6abd7546d34e9a786e75a612",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-09-30T21:49:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo"
+ },
+ {
+  "titulo": "Uso de capacete nas trotinetes e bicicletas elétricas aprovado no Parlamento",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/uso-de-capacete-nas-trotinetes-e-bicicletas-eletricas-aprovado-no-parlamento",
+  "resumo": "O uso obrigatório de capacete para utilizadores de trotinetes e bicicletas elétricas foi esta quarta-feira aprovado, na generalidade, pela Assembleia da República, seguindo agora para a discussão na especialidade. O conteúdo Uso de capacete nas trotinetes e bicicletas elétricas aprovado no Parlamento aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-30T22:55:49+00:00",
+  "cats_feed": [
+   "Atualidade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Lisboa. Tenha atenção aos cortes na Avenida da Liberdade",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/lisboa-tenha-atencao-aos-cortes-na-avenida-da-liberdade",
+  "resumo": "A Câmara Municipal de Lisboa informou de cortes diários na Avenida da Liberdade, entre as 21h e as 5h, até 15 de outubro. O conteúdo Lisboa. Tenha atenção aos cortes na Avenida da Liberdade aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-30T22:00:36+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Local",
+   "Isto é útil",
+   "Lisboa",
+   "Trânsito"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Parlamento rejeita cessar a vigência da nova lei orgânica do INEM",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/parlamento-rejeita-cessar-a-vigencia-da-nova-lei-organica-do-inem",
+  "resumo": "O parlamento rejeitou esta quarta-feira a proposta do PCP para que cessasse a vigência da nova lei orgânica do Instituto Nacional de Emergência Médica (INEM), na sequência da apreciação parlamentar do decreto-lei do Governo aprovado em maio. O conteúdo Parlamento rejeita cessar a vigência da nova lei orgânica do INEM aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-30T21:45:31+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "INEM",
+   "Parlamento"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica"
+ },
+ {
+  "titulo": "Túnel de Chelas parado custa 15 mil euros diários",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/tunel-de-chelas-parado-custa-15-mil-euros-diarios",
+  "resumo": "A obra de um dos túneis do Plano Geral de Drenagem de Lisboa (PGDL) já estava parada antes da descoberta arqueológica em Chelas, admitiu esta quarta-feira a governação PSD/CDS-PP/IL, contabilizando um custo acrescido de “cerca de quatro milhões de euros”. O conteúdo Túnel de Chelas parado custa 15 mil euros diários aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-30T20:35:46+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Local"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
+ },
+ {
+  "titulo": "Lisboa: Um milhão de euros para fomentar desporto entre crianças, jovens e envelhecimento ativo",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/um-milhao-de-euros-para-para-fomentar-desporto-entre-criancas-e-jovens-e-envelhecimento-ativo",
+  "resumo": "A Câmara Municipal de Lisboa (CML) vai avançar um conjunto de propostas que visam fomentar desporto entre crianças e jovens e envelhecimento ativo. O conteúdo Lisboa: Um milhão de euros para fomentar desporto entre crianças, jovens e envelhecimento ativo aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-09-30T20:09:23+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Local",
+   "Vida",
+   "Idosos",
+   "Jovens",
+   "Lisboa"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade"
  }
 ]
