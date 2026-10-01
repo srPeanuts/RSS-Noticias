@@ -11,15 +11,20 @@ Notícias de Portugal — recolha e análise diária.
 Não usa nenhuma IA paga: tudo corre com Python + scikit-learn, de graça.
 """
 
+import hashlib
+import inspect
 import json
 import re
 import sys
+import time
 import unicodedata
 import xml.etree.ElementTree as ET
 from collections import Counter
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
+from contextlib import contextmanager
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from functools import lru_cache
 from html import unescape
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -38,7 +43,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 DADOS = RAIZ / "dados"            # histórico bruto (artigos e temas por dia)
 SITE = RAIZ / "docs" / "data"     # o que a página web lê
 LISBOA = ZoneInfo("Europe/Lisbon")
-MAX_PARALELO = 5
+MAX_PARALELO = 12        # pedidos em simultâneo no total (rede.POR_SITE limita cada site)
 
 CATEGORIAS = ["politica", "governo", "economia", "sociedade", "opiniao"]
 NOTICIAS = ["politica", "governo", "economia", "sociedade"]   # categorias agrupadas por cobertura
@@ -163,8 +168,15 @@ def e_estrangeira(titulo: str, resumo: str) -> bool:
 SIGLAS_POLITICA = {"PS", "PSD", "CDS", "IL", "BE", "PCP", "PAN", "JPP", "Livre", "Chega", "AD", "OE"}
 
 
+@lru_cache(maxsize=None)
+def _padrao(termo: str) -> re.Pattern:
+    """Prepara a pesquisa de cada termo uma só vez. Sem esta cache, o Python voltava a preparar
+    o mesmo padrão centenas de milhares de vezes por atualização (a cache interna do re é pequena)."""
+    return re.compile(r"(?<![a-z0-9])" + re.escape(normalizar(termo)) + r"(?![a-z0-9])")
+
+
 def _contem(texto_norm: str, termo: str) -> bool:
-    return re.search(r"(?<![a-z0-9])" + re.escape(normalizar(termo)) + r"(?![a-z0-9])", texto_norm) is not None
+    return _padrao(termo).search(texto_norm) is not None
 
 
 def classificar(titulo: str, resumo: str, cats_feed: list, categoria_forcada: str, link: str = "") -> str | None:
@@ -212,6 +224,31 @@ def classificar(titulo: str, resumo: str, cats_feed: list, categoria_forcada: st
         return None
     return pontos.most_common(1)[0][0]
 
+
+def _versao_regras() -> str:
+    """Impressão digital das regras de classificação (listas de palavras + código das funções).
+    Muda sempre que alguém afina as regras, e aí todo o histórico volta a ser classificado."""
+    listas = [EXCLUIR, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
+              OPINIAO_CATS, sorted(SIGLAS_POLITICA), NOTICIAS]
+    partes = [json.dumps(listas, ensure_ascii=False)]
+    partes += [inspect.getsource(f) for f in (normalizar, e_opiniao, e_estrangeira, _padrao, classificar)]
+    return hashlib.sha1("\n".join(partes).encode("utf-8")).hexdigest()[:10]
+
+
+VERSAO_REGRAS = _versao_regras()
+
+
+def categoria_atual(a: dict) -> str | None:
+    """Categoria do artigo. Cada artigo é classificado uma vez só e o resultado fica guardado
+    (com a versão das regras); só volta a ser classificado se as regras mudarem."""
+    if a.get("regras") != VERSAO_REGRAS:
+        if "categoria_forcada" not in a:   # artigos muito antigos: a categoria guardada fazia de secção do feed
+            a["categoria_forcada"] = a.get("categoria", "")
+        a["categoria"] = classificar(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
+                                     a["categoria_forcada"], a.get("link", ""))
+        a["regras"] = VERSAO_REGRAS
+    return a["categoria"]
+
 # --------------------------------------------------------------------------
 # Recolha RSS
 # --------------------------------------------------------------------------
@@ -241,7 +278,7 @@ def _data(valor: str):
 
 
 def ler_feed(feed: dict) -> list:
-    r = obter(feed["url"], timeout=25)
+    r = obter(feed["url"])
     raiz = ET.fromstring(r.content)
     atom = "{http://www.w3.org/2005/Atom}"
     rdf = "{http://purl.org/rss/1.0/}"          # alguns jornais (ex.: CM) usam RSS 1.0
@@ -283,17 +320,29 @@ def _erro_feed(e: Exception) -> str:
     return f"erro HTTP {codigo}" if codigo else f"erro: {e.__class__.__name__}"
 
 
-def recolher_artigos(config: dict) -> tuple[list, dict]:
-    feeds = config["feeds"]
-    resultados = [None] * len(feeds)
+def _resultado(futuro) -> tuple:
+    try:
+        return ("ok", futuro.result())
+    except Exception as e:
+        return ("erro", e)
+
+
+def recolher(config: dict, feeds: bool = True, capas: bool = True) -> tuple[list, dict, list]:
+    """Lê os feeds e as capas ao mesmo tempo, num só conjunto de threads
+    (antes as capas só começavam depois de todos os feeds terminarem)."""
+    lista_feeds = config["feeds"] if feeds else []
+    lista_capas = config["capas"] if capas else []
     with ThreadPoolExecutor(max_workers=MAX_PARALELO) as pool:
-        futuros = {pool.submit(ler_feed, feed): i for i, feed in enumerate(feeds)}
-        for fut in as_completed(futuros):
-            i = futuros[fut]
-            try:
-                resultados[i] = ("ok", fut.result())
-            except Exception as e:
-                resultados[i] = ("erro", e)
+        fut_feeds = [pool.submit(ler_feed, f) for f in lista_feeds]
+        fut_capas = [pool.submit(ler_capa, c) for c in lista_capas]
+        res_feeds = [_resultado(f) for f in fut_feeds]
+        res_capas = [_resultado(f) for f in fut_capas]
+    artigos, estado = _relatorio_feeds(lista_feeds, res_feeds) if feeds else ([], {})
+    return artigos, estado, (_relatorio_capas(lista_capas, res_capas) if capas else [])
+
+
+def _relatorio_feeds(feeds: list, resultados: list) -> tuple[list, dict]:
+    print("Feeds RSS:")
     todos, estado = [], {}
     for feed, res in zip(feeds, resultados):
         if res[0] == "ok":
@@ -314,7 +363,7 @@ def recolher_artigos(config: dict) -> tuple[list, dict]:
 
 def ler_capa(c: dict) -> dict:
     pagina = f"https://www.vercapas.com/capa/{c['slug']}.html"
-    html = obter(pagina, timeout=25).text
+    html = obter(pagina).text
     m = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)', html) or \
         re.search(r'content=["\']([^"\']+)["\']\s+property=["\']og:image', html)
     if not m:
@@ -328,17 +377,8 @@ def ler_capa(c: dict) -> dict:
             "pagina": pagina, "data": d.group(1) if d else None}
 
 
-def recolher_capas(config: dict) -> list:
-    lista = config["capas"]
-    resultados = [None] * len(lista)
-    with ThreadPoolExecutor(max_workers=MAX_PARALELO) as pool:
-        futuros = {pool.submit(ler_capa, c): i for i, c in enumerate(lista)}
-        for fut in as_completed(futuros):
-            i = futuros[fut]
-            try:
-                resultados[i] = ("ok", fut.result())
-            except Exception as e:
-                resultados[i] = ("erro", e)
+def _relatorio_capas(lista: list, resultados: list) -> list:
+    print("Capas:")
     capas = []
     for c, res in zip(lista, resultados):
         if res[0] == "ok":
@@ -402,10 +442,8 @@ def temas_do_dia(artigos: list) -> list:
     temas = []
     grupo, opinioes = [], []
     for a in sem_duplicados(artigos):
-        # reclassifica sempre, para que afinações às regras se apliquem também ao histórico
-        cat = classificar(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
-                          a.get("categoria_forcada") if "categoria_forcada" in a else a.get("categoria", ""),
-                          a.get("link", ""))
+        # usa a categoria guardada; se as regras foram afinadas, reclassifica (também o histórico)
+        cat = categoria_atual(a)
         if cat == "opiniao":
             opinioes.append(dict(a, categoria=cat))
         elif cat:
@@ -530,46 +568,59 @@ def apagar_antigos(hoje) -> None:
         print(f"Limpeza: {apagados} ficheiros com mais de {DIAS_A_GUARDAR} dias apagados")
 
 
+@contextmanager
+def etapa(nome: str, tempos: list):
+    """Mede quanto tempo demora cada parte da atualização (aparece no fim do registo do Actions)."""
+    t0 = time.perf_counter()
+    try:
+        yield
+    finally:
+        tempos.append((nome, time.perf_counter() - t0))
+
+
 def main(artigos_teste: list | None = None, capas_teste: list | None = None):
+    inicio_total = time.perf_counter()
+    tempos = []
     config = ler_json(RAIZ / "fontes.json", None)
     agora = datetime.now(LISBOA)
     hoje = agora.date().isoformat()
     print(f"== Atualização {agora:%Y-%m-%d %H:%M} (Lisboa) ==")
 
-    # 1. Recolher
+    # 1. Recolher feeds e capas (ao mesmo tempo)
+    with etapa("recolha", tempos):
+        novos, estado, capas = recolher(config, feeds=artigos_teste is None, capas=capas_teste is None)
     if artigos_teste is not None:
         novos, estado = artigos_teste, {"teste": len(artigos_teste)}
-    else:
-        print("Feeds RSS:")
-        novos, estado = recolher_artigos(config)
-    print("Capas:")
-    capas = capas_teste if capas_teste is not None else recolher_capas(config)
+    if capas_teste is not None:
+        capas = capas_teste
 
     # 2. Classificar e juntar ao histórico de cada dia (os feeds só guardam as últimas horas,
     #    por isso o script corre várias vezes por dia e vai acumulando)
-    limite = agora - timedelta(days=2)
-    por_dia = {}
-    for a in novos:
-        d = datetime.fromisoformat(a["data"]).astimezone(LISBOA)
-        if d < limite:
-            continue
-        cat = classificar(a["titulo"], a["resumo"], a["cats_feed"], a["categoria_forcada"], a["link"])
-        if not cat:
-            continue
-        a = dict(a, categoria=cat)
-        por_dia.setdefault(d.date().isoformat(), []).append(a)
+    with etapa("classificação e temas do dia", tempos):
+        limite = agora - timedelta(days=2)
+        por_dia = {}
+        for a in novos:
+            d = datetime.fromisoformat(a["data"]).astimezone(LISBOA)
+            if d < limite:
+                continue
+            a = dict(a)
+            if not categoria_atual(a):
+                continue
+            por_dia.setdefault(d.date().isoformat(), []).append(a)
 
-    dias_tocados = set(por_dia) | {hoje}
-    for dia in dias_tocados:
-        f = DADOS / "artigos" / f"{dia}.json"
-        existentes = {a["link"]: a for a in ler_json(f, [])}
-        for a in por_dia.get(dia, []):
-            existentes.setdefault(a["link"], a)
-        artigos_dia = sem_duplicados(list(existentes.values()))
-        escrever_json(f, artigos_dia)
-        temas = temas_do_dia(artigos_dia)
-        escrever_json(DADOS / "temas" / f"{dia}.json", temas)
-        print(f"Dia {dia}: {len(artigos_dia)} artigos → {len(temas)} temas")
+        dias_tocados = set(por_dia) | {hoje}
+        for dia in dias_tocados:
+            f = DADOS / "artigos" / f"{dia}.json"
+            existentes = {a["link"]: a for a in ler_json(f, [])}
+            for a in por_dia.get(dia, []):
+                existentes.setdefault(a["link"], a)
+            artigos_dia = sem_duplicados(list(existentes.values()))
+            for a in artigos_dia:
+                categoria_atual(a)          # só classifica os novos (ou todos, se as regras mudaram)
+            escrever_json(f, artigos_dia)
+            temas = temas_do_dia(artigos_dia)
+            escrever_json(DADOS / "temas" / f"{dia}.json", temas)
+            print(f"Dia {dia}: {len(artigos_dia)} artigos → {len(temas)} temas")
 
     # 3. Capas do dia
     f_capas = DADOS / "capas" / f"{hoje}.json"
@@ -596,40 +647,58 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
             "n_artigos": sum(t["n_artigos"] for t in temas),
         }, compacto=True)
 
+    # A semana está dentro do mês: cada dia é lido (e, se preciso, classificado) uma vez só
+    temas_cache, validos_cache = {}, {}
+
+    def temas_de(d: str) -> list:
+        if d not in temas_cache:
+            temas_cache[d] = ler_json(DADOS / "temas" / f"{d}.json", [])
+        return temas_cache[d]
+
+    def validos_de(d: str) -> list:
+        """Artigos com categoria (os que contam para "quem está nas notícias")."""
+        if d not in validos_cache:
+            f = DADOS / "artigos" / f"{d}.json"
+            artigos = ler_json(f, [])
+            por_classificar = any(a.get("regras") != VERSAO_REGRAS for a in artigos)
+            validos_cache[d] = [a for a in artigos if categoria_atual(a)]
+            if por_classificar:
+                escrever_json(f, artigos)   # guarda a classificação para não a repetir na próxima vez
+        return validos_cache[d]
+
     for nome, n in (("semana", 7), ("mes", 30)):
-        inicio = agora.date() - timedelta(days=n - 1)
-        janela = [(inicio + timedelta(days=i)).isoformat() for i in range(n)]   # todos os dias, mesmo sem dados
-        com_dados = [d for d in todos_dias if d >= janela[0]]
-        dias = {d: ler_json(DADOS / "temas" / f"{d}.json", []) for d in com_dados}
-        historias = temas_do_periodo(dias)
-        tendencias.acrescentar_series(historias, janela)
-        alta = tendencias.em_alta(historias, com_dados) if nome == "semana" else []
-        # artigos válidos (com categoria) de cada dia, para contar quem está nas notícias
-        artigos_janela = {d: [] for d in janela}
-        for d in com_dados:
-            artigos_janela[d] = [a for a in ler_json(DADOS / "artigos" / f"{d}.json", [])
-                                 if classificar(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
-                                                a.get("categoria_forcada", a.get("categoria", "")), a.get("link", ""))]
-        pessoas = tendencias.quem_esta_nas_noticias(artigos_janela, 15)
-        opinioes = sorted((t for ts in dias.values() for t in ts if t["categoria"] == "opiniao"),
-                          key=lambda t: t.get("data", ""), reverse=True)[:20]
-        publico = resumo_publico(historias, 15)
-        publico["opiniao"] = opinioes
-        escrever_json(SITE / f"{nome}.json", {
-            "de": janela[0], "ate": hoje, "n_dias": len(com_dados), "dias": janela,
-            "temas": publico, "em_alta": alta, "pessoas": pessoas,
-        }, compacto=True)
-        print(f"{nome}: {len(com_dados)} dias → {len(historias)} histórias, {len(alta)} em alta, "
-              f"{len(pessoas)} entidades")
+        with etapa(nome, tempos):
+            inicio = agora.date() - timedelta(days=n - 1)
+            janela = [(inicio + timedelta(days=i)).isoformat() for i in range(n)]   # todos os dias, mesmo sem dados
+            com_dados = [d for d in todos_dias if d >= janela[0]]
+            dias = {d: temas_de(d) for d in com_dados}
+            historias = temas_do_periodo(dias)
+            tendencias.acrescentar_series(historias, janela)
+            alta = tendencias.em_alta(historias, com_dados) if nome == "semana" else []
+            artigos_janela = {d: [] for d in janela}
+            for d in com_dados:
+                artigos_janela[d] = validos_de(d)
+            pessoas = tendencias.quem_esta_nas_noticias(artigos_janela, 15)
+            opinioes = sorted((t for ts in dias.values() for t in ts if t["categoria"] == "opiniao"),
+                              key=lambda t: t.get("data", ""), reverse=True)[:20]
+            publico = resumo_publico(historias, 15)
+            publico["opiniao"] = opinioes
+            escrever_json(SITE / f"{nome}.json", {
+                "de": janela[0], "ate": hoje, "n_dias": len(com_dados), "dias": janela,
+                "temas": publico, "em_alta": alta, "pessoas": pessoas,
+            }, compacto=True)
+            print(f"{nome}: {len(com_dados)} dias → {len(historias)} histórias, {len(alta)} em alta, "
+                  f"{len(pessoas)} entidades")
 
     # 6. Indicadores económicos (uma vez por dia chega: os dados são mensais/trimestrais)
     f_ind = SITE / "indicadores.json"
     atual = ler_json(f_ind, {})
     if atual.get("obtido") != hoje and artigos_teste is None:
-        print("Indicadores:")
-        lista = indicadores.recolher()
-        if lista:
-            escrever_json(f_ind, {"obtido": hoje, "fonte": "Eurostat", "indicadores": lista})
+        with etapa("indicadores", tempos):
+            print("Indicadores:")
+            lista = indicadores.recolher()
+            if lista:
+                escrever_json(f_ind, {"obtido": hoje, "fonte": "Eurostat", "indicadores": lista})
 
     escrever_json(SITE / "indice.json", {
         "atualizado": agora.isoformat(timespec="minutes"),
@@ -640,6 +709,8 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         "nomes_fontes": sorted({f["fonte"] for f in config["feeds"]}),
         "nomes_capas": [c["nome"] for c in config["capas"]],
     })
+    tempos.append(("total", time.perf_counter() - inicio_total))
+    print("Tempos: " + " · ".join(f"{nome} {seg:.1f}s" for nome, seg in tempos))
     print("Concluído.")
 
 

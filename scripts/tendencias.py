@@ -8,6 +8,7 @@ Tendências ao longo do tempo:
 import re
 import unicodedata
 from collections import Counter, defaultdict
+from functools import lru_cache
 
 
 def _norm(t: str) -> str:
@@ -159,6 +160,12 @@ def extrair(texto: str) -> set:
     return encontrados
 
 
+@lru_cache(maxsize=None)
+def _entidades(texto: str) -> tuple:
+    """extrair() com memória: a vista Mês reaproveita o trabalho já feito para a Semana."""
+    return tuple(extrair(texto))
+
+
 def quem_esta_nas_noticias(artigos_por_dia: dict, n: int = 15) -> list:
     """Conta em quantas notícias aparece cada entidade, e a série por dia."""
     dias = sorted(artigos_por_dia)
@@ -167,7 +174,7 @@ def quem_esta_nas_noticias(artigos_por_dia: dict, n: int = 15) -> list:
     for d in dias:
         for a in artigos_por_dia[d]:
             texto = f"{a['titulo']}. {a.get('resumo', '')[:300]}"
-            for e in extrair(texto):
+            for e in _entidades(texto):
                 total[e] += 1
                 por_dia[e][d] += 1
     resultado = []

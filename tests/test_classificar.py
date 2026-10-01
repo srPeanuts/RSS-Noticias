@@ -43,3 +43,36 @@ def test_opiniao_pela_url():
 
 def test_categoria_forcada_do_feed():
     assert classificar("Título genérico qualquer", "sem palavras especiais", [], "economia", "") == "economia"
+
+
+# --- classificar cada artigo uma vez só -------------------------------------------------
+
+import pytest  # noqa: E402
+
+import atualizar  # noqa: E402
+from atualizar import VERSAO_REGRAS, categoria_atual  # noqa: E402
+
+
+def _artigo(**extra):
+    return dict({"titulo": "Governo aprova decreto-lei sobre habitação", "resumo": "", "cats_feed": [],
+                 "categoria_forcada": "", "link": ""}, **extra)
+
+
+def test_categoria_fica_guardada_e_nao_se_repete(monkeypatch):
+    a = _artigo()
+    assert categoria_atual(a) == "governo"
+    assert a["categoria"] == "governo" and a["regras"] == VERSAO_REGRAS
+    monkeypatch.setattr(atualizar, "classificar", lambda *x: pytest.fail("não devia voltar a classificar"))
+    assert categoria_atual(a) == "governo"
+
+
+def test_regras_novas_voltam_a_classificar():
+    a = _artigo(categoria="economia", regras="versao-antiga")
+    assert categoria_atual(a) == "governo"
+    assert a["regras"] == VERSAO_REGRAS
+
+
+def test_artigo_antigo_sem_categoria_forcada():
+    a = {"titulo": "Título genérico qualquer", "resumo": "sem palavras especiais", "categoria": "economia"}
+    assert categoria_atual(a) == "economia"
+    assert a["categoria_forcada"] == "economia"

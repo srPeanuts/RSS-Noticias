@@ -4,6 +4,8 @@ Indicadores económicos de Portugal (dados oficiais do Eurostat, API gratuita e 
 Cada indicador guarda o último valor, o anterior e uma série curta para o gráfico.
 """
 
+from concurrent.futures import ThreadPoolExecutor
+
 from rede import obter
 
 API = "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/"
@@ -44,7 +46,7 @@ INDICADORES = [
 def _serie(dataset: str, params: dict, geo: str, n: int) -> list:
     """Devolve [(periodo, valor), ...] do mais antigo para o mais recente."""
     q = dict(params, geo=geo, lastTimePeriod=n)
-    d = obter(API + dataset, params=q, timeout=30).json()
+    d = obter(API + dataset, params=q, timeout=(5, 30)).json()
     ids, tamanhos = d["id"], d["size"]
     # passo (stride) de cada dimensão no índice "achatado" do JSON-stat
     passos, acc = {}, 1
@@ -63,32 +65,41 @@ def _serie(dataset: str, params: dict, geo: str, n: int) -> list:
     return sorted(serie.items())
 
 
+def _um_indicador(ind: dict) -> tuple[dict | None, str]:
+    """Devolve (resultado, linha para o registo)."""
+    geo = ind.get("geo", "PT")
+    try:
+        serie = _serie(ind["dataset"], ind["params"], geo, ind["n"])
+        if not serie:
+            raise ValueError("sem dados")
+        comparacao = None
+        if ind["comparar"]:
+            try:
+                s2 = dict(_serie(ind["dataset"], ind["params"], ind["comparar"], 3))
+                comparacao = s2.get(serie[-1][0])
+            except Exception:
+                pass
+        ultimo, anterior = serie[-1], (serie[-2] if len(serie) > 1 else None)
+        return {
+            "id": ind["id"], "nome": ind["nome"], "descricao": ind["descricao"], "unidade": ind["unidade"],
+            "bom": ind["bom"], "link": ind["link"], "geo": geo,
+            "periodo": ultimo[0], "valor": ultimo[1],
+            "anterior": anterior[1] if anterior else None,
+            "variacao": round(ultimo[1] - anterior[1], 2) if anterior else None,
+            "zona_euro": comparacao,
+            "serie": [{"p": p, "v": v} for p, v in serie],
+        }, f"  ✓ {ind['nome']}: {ultimo[1]}{ind['unidade']} ({ultimo[0]})"
+    except Exception as e:
+        return None, f"  ✗ {ind['nome']}: {e.__class__.__name__} {str(e)[:80]}"
+
+
 def recolher() -> list:
-    resultado = []
-    for ind in INDICADORES:
-        geo = ind.get("geo", "PT")
-        try:
-            serie = _serie(ind["dataset"], ind["params"], geo, ind["n"])
-            if not serie:
-                raise ValueError("sem dados")
-            comparacao = None
-            if ind["comparar"]:
-                try:
-                    s2 = dict(_serie(ind["dataset"], ind["params"], ind["comparar"], 3))
-                    comparacao = s2.get(serie[-1][0])
-                except Exception:
-                    pass
-            ultimo, anterior = serie[-1], (serie[-2] if len(serie) > 1 else None)
-            resultado.append({
-                "id": ind["id"], "nome": ind["nome"], "descricao": ind["descricao"], "unidade": ind["unidade"],
-                "bom": ind["bom"], "link": ind["link"], "geo": geo,
-                "periodo": ultimo[0], "valor": ultimo[1],
-                "anterior": anterior[1] if anterior else None,
-                "variacao": round(ultimo[1] - anterior[1], 2) if anterior else None,
-                "zona_euro": comparacao,
-                "serie": [{"p": p, "v": v} for p, v in serie],
-            })
-            print(f"  ✓ {ind['nome']}: {ultimo[1]}{ind['unidade']} ({ultimo[0]})")
-        except Exception as e:
-            print(f"  ✗ {ind['nome']}: {e.__class__.__name__} {str(e)[:80]}")
-    return resultado
+    """Pede os indicadores todos ao mesmo tempo (antes era um de cada vez); mantém a ordem."""
+    with ThreadPoolExecutor(max_workers=len(INDICADORES)) as pool:
+        resultados = list(pool.map(_um_indicador, INDICADORES))
+    lista = []
+    for res, linha in resultados:
+        print(linha)
+        if res:
+            lista.append(res)
+    return lista

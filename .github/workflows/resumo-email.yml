@@ -23,15 +23,19 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-          cache: pip
 
       - name: E a hora do envio?
         id: hora
         run: python scripts/enviar_email.py --hora
 
-      - name: Instalar dependencias
+      - uses: astral-sh/setup-uv@v10.2.0
         if: steps.hora.outputs.enviar == 'true'
-        run: pip install -r requirements.txt
+        with:
+          enable-cache: true
+
+      - name: Instalar dependencias (uv, mais rapido que o pip)
+        if: steps.hora.outputs.enviar == 'true'
+        run: uv pip install --system -r requirements.txt
 
       - name: Recolher noticias (tenta 2 vezes)
         if: steps.hora.outputs.enviar == 'true'
