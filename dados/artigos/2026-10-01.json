@@ -420,17 +420,17 @@
   "regras": "af63d7f20c"
  },
  {
-  "titulo": "A educação que temos, a meritocracia que fingimos ter",
-  "link": "https://expresso.pt/geracao-e/2026-10-01-a-educacao-que-temos-a-meritocracia-que-fingimos-ter-ad146cf2",
-  "resumo": "Houve exames com erros de correção , atrasos e discrepâncias na pontuação . Fica em aberto a possibilidade de alguns estudantes terem ido ao Concurso Nacional de Acesso ao Ensino Superior com notas que não refletiam o seu desempenho real nas provas",
+  "titulo": "Tribunal de Contas alerta para PRR atrasado, pouco transparente e longe do bolso dos beneficiários",
+  "link": "https://expresso.pt/economia/2026-10-01-tribunal-de-contas-alerta-para-prr-atrasado-pouco-transparente-e-longe-do-bolso-dos-beneficiarios-a62eecb7",
+  "resumo": "‘Bazuca’ deixou pelo menos €2,3 mil milhões por executar no ano passado",
   "fonte": "Expresso",
-  "autor": "Gonçalo Soeiro Ferreira",
+  "autor": "Mariana Coelho Dias",
   "data": "2026-10-01T08:00:00+01:00",
   "cats_feed": [
-   "Geração E"
+   "Economia"
   ],
   "categoria_forcada": "",
-  "categoria": "sociedade",
+  "categoria": "economia",
   "regras": "af63d7f20c"
  },
  {
@@ -546,11 +546,11 @@
   "regras": "af63d7f20c"
  },
  {
-  "titulo": "O labirinto de Ventura e o muro de Carneiro",
-  "link": "https://expresso.pt/opiniao/2026-10-01-o-labirinto-de-ventura-e-o-muro-de-carneiro-6117685c",
-  "resumo": "É tempo de olhar para o sistema eleitoral sem medo e sem tabus. O princípio da representação proporcional é um limite constitucional que deve ser respeitado. Mas dentro desse limite há espaço para trabalhar",
+  "titulo": "A paranoia das fusões no ministério: a alquimia de somar dois desastres",
+  "link": "https://expresso.pt/opiniao/2026-10-01-a-paranoia-das-fusoes-no-ministerio-a-alquimia-de-somar-dois-desastres-7934e46e",
+  "resumo": "Não temos docentes suficientes para a estrutura atual, logo redefinimos a estrutura para fingir que a escassez é uma “otimização de recursos partilhados”",
   "fonte": "Expresso",
-  "autor": "Diogo Feio",
+  "autor": "João Conde",
   "data": "2026-10-01T07:00:00+01:00",
   "cats_feed": [
    "Opinião"
@@ -2259,6 +2259,40 @@
   "autor": "",
   "data": "2026-10-01T11:54:00+01:00",
   "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Sugal quer ganhar escala no tomate com agricultura, Lusofonia está a ser estudada",
+  "link": "https://jornaleconomico.sapo.pt/noticias/sugal-quer-ganhar-escala-no-tomate-com-agricultura-lusofonia-esta-a-ser-estudada/",
+  "resumo": "Da fábrica da Zambuja para cinco unidades em três geografias, o grupo português tornou-se o segundo maior do mundo em capacidade de produção de tomate. Exporta mais de 90% do que produz e está agora a apostar na integração vertical, na tecnologia e na eficiência agrícola para ganhar escala e enfrentar a concorrência internacional. Angola e Moçambique podem entrar no radar, mas o risco é uma variável decisiva.",
+  "fonte": "Jornal Económico",
+  "autor": "Teresa Cotrim",
+  "data": "2026-10-01T11:18:36+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Sugal"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Portugal vai ter fábrica de drones indianos com investimento que pode chegar aos 50 milhões de euros",
+  "link": "https://24noticias.sapo.pt/economia/artigos/portugal-vai-ter-fabrica-de-drones-indianos-com-investimento-que-pode-chegar-aos-50-milhoes-de-euros",
+  "resumo": "A unidade será criada pela portuguesa Keydef em parceria com a indiana FWDA. Produção deverá incluir sistemas de vigilância, defesa aérea e aplicações civis, com objetivo de entrada nos mercados europeu e da NATO. O conteúdo Portugal vai ter fábrica de drones indianos com investimento que pode chegar aos 50 milhões de euros aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Goncalo Lopes",
+  "data": "2026-10-01T10:44:20+00:00",
+  "cats_feed": [
+   "Economia",
+   "Drone",
+   "Fábrica",
+   "Índia",
+   "Nacional"
+  ],
   "categoria_forcada": "",
   "categoria": "economia",
   "regras": "af63d7f20c"
