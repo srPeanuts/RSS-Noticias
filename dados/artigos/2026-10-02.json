@@ -543,17 +543,17 @@
   "regras": "af63d7f20c"
  },
  {
-  "titulo": "“Ronaldo changed the way the world sees Portugal. We owe him a lot. Before him, people would hear ‘Portuguese’ and think of Brazil”",
-  "link": "https://expresso.pt/podcasts/the-heart-and-hustle-of-portugal/2026-10-02-ronaldo-changed-the-way-the-world-sees-portugal.-we-owe-him-a-lot.-before-him-people-would-hear-portuguese-and-think-of-brazil-2e7d3c1c",
-  "resumo": "Ana Ventura Miranda arrived in New York in 2006 with a plan to spend three months studying acting before heading to Brazil. She stayed. In this episode of The Heart & Hustle of Portugal podcast, the founder of the Art Institute speaks to Tony Gonçalves abou how the city's energy changed her course.",
+  "titulo": "Manter o banco que os seus pais escolheram é uma boa opção ou deve procurar alternativas? Pedro Andersson responde",
+  "link": "https://expresso.pt/podcasts/contas-poupanca/2026-10-02-manter-o-banco-que-os-seus-pais-escolheram-e-uma-boa-opcao-ou-deve-procurar-alternativas--pedro-andersson-responde-1ccc3dde",
+  "resumo": "Uma ouvinte percebeu que ela e o namorado mantêm os bancos escolhidos pelos pais, sem nunca terem comparado custos, serviços ou alternativas. Agora que querem organizar as finanças do casal, por onde devem começar?",
   "fonte": "Expresso",
-  "autor": "Tony Gonçalves",
+  "autor": "Pedro Andersson",
   "data": "2026-10-02T07:01:00+01:00",
   "cats_feed": [
-   "The Heart and Hustle of Portugal"
+   "Contas Poupança"
   ],
   "categoria_forcada": "",
-  "categoria": "politica",
+  "categoria": "economia",
   "regras": "af63d7f20c"
  },
  {
@@ -1653,6 +1653,422 @@
   ],
   "categoria_forcada": "",
   "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Câmara de Cascais avança com contestação à ordem do Ministério Público sobre hotel Hilton",
+  "link": "https://www.publico.pt/2026/10/02/local/noticia/camara-cascais-avanca-contestacao-ordem-ministerio-publico-hotel-hilton-2190067",
+  "resumo": "Ministério Público pediu a suspensão imediata das obras do novo hotel Hilton, na Parede, e demolições de, pelo menos, três pisos. Autarquia de Cascais confirma que recorre da ordem.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-02T11:39:31+00:00",
+  "cats_feed": [
+   "Cascais"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Polícia destaca equipe especializada em atos violentos para atuar nas eleições",
+  "link": "https://www.publico.pt/2026/10/02/publico-brasil/noticia/policia-destaca-equipe-especializada-atos-violentos-atuar-eleicoes-2190063",
+  "resumo": "PSP escala Equipes de Intervenção Rápida (EIR) para garantir a segurança nos locais de votação para as eleições presidenciais brasileiras. Em Lisboa, urnas estarão instaladas em três prédios.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-02T11:16:28+00:00",
+  "cats_feed": [
+   "Atualidade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Ministério da Educação afasta 62 professores com antecedentes criminais",
+  "link": "https://expresso.pt/educacao/2026-10-02-ministerio-da-educacao-afasta-62-professores-com-antecedentes-criminais-da60ea8c",
+  "resumo": "Afastamento deve-se a c ondenações por crimes como abuso sexual, pornografia de menores e violência doméstica",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-10-02T12:43:50+01:00",
+  "cats_feed": [
+   "Educação"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Ex-presidente e ex-diretores da Águas de Gaia acusados de “manipular” adjudicação de obras",
+  "link": "https://expresso.pt/justica/2026-10-02-ex-presidente-e-ex-diretores-da-aguas-de-gaia-acusados-de-manipular-adjudicacao-de-obras-fbe03932",
+  "resumo": "O o bjetivo do plano, alegadamente posto em prática entre 2015 e 2017, seria favorecer duas empresas de construção",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-10-02T12:40:26+01:00",
+  "cats_feed": [
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "A Sonae vai ter um novo CEO: João Dolores, \"o braço direito\" de Cláudia, é o seu sucessor",
+  "link": "https://expresso.pt/economia/2026-10-02-a-sonae-vai-ter-um-novo-ceo-joao-dolores-o-braco-direito-de-claudia-e-o-seu-sucessor-2127466e",
+  "resumo": "Aos 45 anos, João Dolores aceita o desafio de suceder aos irmãos Azevedo na presidência executiva da Sonae. Não é da família mas “representa os valores da Sonae” que assim entra “num novo ciclo”",
+  "fonte": "Expresso",
+  "autor": "Margarida Cardoso",
+  "data": "2026-10-02T12:35:00+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Operação Influencer: ministra da Justiça avisa que uma investigação \"não pode prolongar-se indefinidamente\"",
+  "link": "https://expresso.pt/justica/2026-10-02-operacao-influencer-ministra-da-justica-avisa-que-uma-investigacao-nao-pode-prolongar-se-indefinidamente-9a3fe986",
+  "resumo": "P raticamente três anos depois das detenções feitas, o ex-primeiro-ministro António Costa, considerado suspeito no processo, continua sem acesso aos autos",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-10-02T12:33:33+01:00",
+  "cats_feed": [
+   "Justiça"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Uma carne açoriana a assar o dia inteiro e dez chefs à volta do fogo: Lume é o novo festival do Pico",
+  "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/aberturas-novidades/2026-10-02-uma-carne-acoriana-a-assar-o-dia-inteiro-e-dez-chefs-a-volta-do-fogo-lume-e-o-novo-festival-do-pico-8ededab0",
+  "resumo": "Na primeira edição do Lume, a vila açoriana das Lajes do Pico entrega a rua aos chefs. Há cozinha ao lume perante o público, vinhos dos currais, conversas sobre o território, música e um jantar comunitário. Por trás está o Bioma, o restaurante que ganhou o Prémio Nacional de Turismo",
+  "fonte": "Expresso",
+  "autor": "Boa Cama Boa Mesa",
+  "data": "2026-10-02T12:07:29+01:00",
+  "cats_feed": [
+   "Aberturas e Novidades"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Trabalhadores da Função Pública manifestaram-se em Lisboa",
+  "link": "https://www.rtp.pt/noticias/pais/trabalhadores-da-funcao-publica-manifestaram-se-em-lisboa_v1769157",
+  "resumo": "Greve que se complementa com uma manifestação em Lisboa que exige valorização das carreiras. Livre PCP e Bloco de Esquerda marcaram presença e querem que o aumento dos salários conste Orçamento do Estado.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-02T14:22:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Miranda Sarmento: \"Tenho um perfil muito conservador de investimento\"",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/miranda-sarmento-tenho-um-perfil-muito-conservador-de-investimento",
+  "resumo": "Ao longo da Semana Mundial do Investidor, a CMVM desafiou dez personalidades a falarem sobre literacia financeira. O ministro de Estado e das Finanças, Joaquim Miranda Sarmento, responde à questão: qual foi a melhor decisão financeira da sua vida?",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-02T13:30:00+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Galp avalia venda parcial ou entrada de parceiro nos ativos de renováveis",
+  "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-avalia-venda-parcial-ou-entrada-de-parceiro-nos-ativos-de-renovaveis",
+  "resumo": "Petrolífera portuguesa está a estudar formas de rentabilizar um portefólio de energias renováveis com 2,7 GW de capacidade. Entre as opções está a venda de parte dos ativos ou de uma participação a um investidor.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-02T13:17:49+01:00",
+  "cats_feed": [
+   "Energia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "“Portugal está impreparado para enfrentar o choque da IA”, assume ministra do Trabalho",
+  "link": "https://www.jornaldenegocios.pt/economia/emprego/detalhe/portugal-esta-impreparado-para-enfrentar-o-choque-da-ia-assume-ministra-do-trabalho",
+  "resumo": "Maria do Rosário Palma Ramalho abriu a \"talk\" \"IA na Indústria - A transformação nas Empresas\", iniciativa do Negócios, onde defendeu que os Estados devem flexibilizar as leis, os trabalhadoes devem ser protegidos e que Portugal não está preparado para a vaga tecnológica que já se faz sentir.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-02T13:00:00+01:00",
+  "cats_feed": [
+   "Emprego"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Agricultores em marcha lenta em Serpa contra aumento dos custos de produção",
+  "link": "https://jornaleconomico.sapo.pt/noticias/agricultores-em-marcha-lenta-em-serpa-contra-aumento-dos-custos-de-producao/",
+  "resumo": "A manifestação começou quando um grupo partiu, às 07:53, de Serpa pela EN260 em direção a Vila Nova de São Bento, igualmente no concelho de Serpa, tendo desta localidade saído, pouco depois, um outro grupo em direção a Serpa.",
+  "fonte": "Jornal Económico",
+  "autor": "Inês Correia Botelho",
+  "data": "2026-10-02T12:42:25+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "agricultura",
+   "Agricultura e Pescas",
+   "animais",
+   "economia",
+   "empresas",
+   "energia",
+   "governo",
+   "Informação sobre empresas",
+   "Negócios e Finanças",
+   "pecuária",
+   "Política",
+   "sociedade"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Rendas sobem 6,1% em setembro e Lisboa mantém-se como a cidade mais cara",
+  "link": "https://jornaleconomico.sapo.pt/noticias/rendas-sobem-61-em-setembro-e-lisboa-mantem-se-como-a-cidade-mais-cara/",
+  "resumo": "Preços das casas para arrendar aumentaram pelo terceiro mês consecutivo. Aveiro e Viana do Castelo registam as maiores subidas entre as capitais, enquanto Faro contraria a tendência. Na capital, o valor mediano já chega aos 25,1 euros por metro quadrado.",
+  "fonte": "Jornal Económico",
+  "autor": "Teresa Cotrim",
+  "data": "2026-10-02T12:29:18+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "acesso à habitação"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Conversas sem Guião com Inês Rocha de Gouveia, Presidente da Fundação Santander",
+  "link": "https://jornaleconomico.sapo.pt/noticias/conversas-sem-guiao-com-ines-rocha-de-gouveia-presidente-da-fundacao-santander/",
+  "resumo": "Neste episódio que inaugura a 2ª temporada do Conversas sem Guião, Inês Rocha de Gouveia, Presidente da Fundação Santander, partilha a visão de uma instituição dedicada a impulsionar o impacto social, a educação e a transição sustentável em Portugal. Uma reflexão estratégica sobre o papel da inovação social, do apoio ao talento e da liderança com propósito no desenvolvimento do ecossistema nacional.",
+  "fonte": "Jornal Económico",
+  "autor": "JE Lab",
+  "data": "2026-10-02T12:19:59+00:00",
+  "cats_feed": [
+   "Conversas sem Guião",
+   "JE Lab"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Reservas turísticas via plataformas online sobem 5,3% no 2.º trimestre na UE",
+  "link": "https://jornaleconomico.sapo.pt/noticias/reservas-turisticas-via-plataformas-online-sobem-53-no-2-o-trimestre-na-ue/",
+  "resumo": "De acordo com o gabinete estatístico da UE, entre abril e junho, os turistas passaram 258,8 milhões de noites em alojamentos de curta duração na UE reservados através da Airbnb, Booking ou Expedia.",
+  "fonte": "Jornal Económico",
+  "autor": "Inês Correia Botelho",
+  "data": "2026-10-02T12:19:21+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "economia",
+   "hotelaria e alojamentos",
+   "Macroeconomia",
+   "Negócios e Finanças",
+   "turismo",
+   "união europeia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Banksy não gostou do Brexit e criou “Keep OU T”, que agora vai a leilão",
+  "link": "https://jornaleconomico.sapo.pt/noticias/banksy-nao-gostou-do-brexit-e-criou-keep-ou-t-que-agora-vai-a-leilao/",
+  "resumo": "Uma instalação do artista britânico Banksy, que reaproveita um portão das chegadas do aeroporto de Heathrow, numa mensagem anti-Brexit, vai a leilão a 15 de outubro, em Londres.",
+  "fonte": "Jornal Económico",
+  "autor": "Ana Pina",
+  "data": "2026-10-02T12:10:30+00:00",
+  "cats_feed": [
+   "Cultura & Lifestyle",
+   "Et Cetera",
+   "Mercados",
+   "Sapo Atualidade",
+   "Sapo Economia",
+   "anti-Brexit",
+   "Banksy",
+   "instalação",
+   "leilão"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Indra Group adquire Dares Technology para reforçar liderança em radares e drones",
+  "link": "https://jornaleconomico.sapo.pt/noticias/indra-group-adquire-dares-technology-para-reforcar-lideranca-em-radares-e-drones/",
+  "resumo": "Em comunicado, a multinacional explicou que a transação vai permitir integrar radares de abertura sintética (SAR, na sigla em inglês) de elevado desempenho e compacto na sua família de drones Tarsis, destinados às Forças Armadas no âmbito do Programa Especial de Modernização.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-02T12:00:19+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Indra Group"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Chega questiona Governo açoriano sobre obras na escola das Flores",
+  "link": "https://www.noticiasaominuto.com/pais/3060796/chega-questiona-governo-acoriano-sobre-obras-na-escola-basica-e-secundaria-das-flores#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-02T13:41:15+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Portugal deve reforçar posição no Atlântico através das regiões autónomas",
+  "link": "https://www.noticiasaominuto.com/pais/3060764/portugal-deve-reforcar-posicao-estrategica-no-atlantico-atraves-das-regioes-autonomas-albuquerque#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-02T13:00:12+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Autarca da Guarda reivindica IC7 e segunda fase das obras do hospital",
+  "link": "https://www.noticiasaominuto.com/economia/3060791/autarca-da-guarda-reivindica-ic7-e-segunda-fase-das-obras-do-hospital-da-cidade#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-02T13:39:14+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Milhares de trabalhadores manifestam-se no Ministério das Finanças",
+  "link": "https://www.noticiasaominuto.com/economia/3060778/milhares-de-trabalhadores-da-administracao-publica-manifestam-se-no-ministerio-das-financas-caudio-e-video#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-02T13:33:22+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Seleção chega ao Porto entre aplausos e críticas a Jorge Jesus",
+  "link": "https://cnnportugal.iol.pt/videos/selecao-chega-ao-porto-entre-aplausos-e-criticas-a-jorge-jesus/6abfa44c0cf22b9f8904d975",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-02T12:44:00.283026+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Uma investigação \"não pode prolongar-se indefinidamente\". Ministra da Justiça deixa aviso sobre a Operação Influencer",
+  "link": "https://cnnportugal.iol.pt/rita-judice/operacao-influencer/uma-investigacao-nao-pode-prolongar-se-indefinidamente-ministra-da-justica-deixa-aviso-sobre-operacao-influencer/20261002/6abfa057d34e53c759c74c9a",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-02T12:44:00.283067+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Detido suspeito de pornografia de menores após denúncia de pais de vítima",
+  "link": "https://cnnportugal.iol.pt/pornografia-de-menores/denuncia/detido-suspeito-de-pornografia-de-menores-apos-denuncia-de-pais-de-vitima/20261002/6abf9f57d34e53c759c74c97",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-02T12:44:00.283130+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "\"Serás sempre o nosso capitão\" vs \"tratar de forma errada um capitão\": cartazes a favor de Cristiano Ronaldo e contra Jorge Jesus aparecem em Lisboa",
+  "link": "https://cnnportugal.iol.pt/selecao/cristiano-ronaldo/seras-sempre-o-nosso-capitao-vs-tratar-de-forma-errada-um-capitao-cartazes-a-favor-de-cristiano-ronaldo-e-contra-jorge-jesus-aparecem-em-lisboa/20261002/6abf9e32d34e53c759c74c95",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-02T12:44:00.283156+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Cartazes colocados em Lisboa a favor de Ronaldo e contra Jorge Jesus",
+  "link": "https://cnnportugal.iol.pt/videos/cartazes-colocados-em-lisboa-a-favor-de-ronaldo-e-contra-jorge-jesus/6abf9cdf0cf22b9f8904d96e",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-02T12:44:00.283175+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Governo veta Pacheco Pereira e Seixas da Costa para Conselho de Curadores da Universidade Nova",
+  "link": "https://cnnportugal.iol.pt/jose-pacheco-pereira/francisco-seixas-da-costa/governo-veta-pacheco-pereira-e-seixas-da-costa-para-conselho-de-curadores-da-universidade-nova/20261002/6abf9a75d34e9a786e75aa19",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-02T12:44:00.283195+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Faltam 300 mil casas em Portugal, praticamente uma Lisboa inteira",
+  "link": "https://24noticias.sapo.pt/opiniao/artigos/faltam-300-mil-casas-em-portugal-praticamente-uma-lisboa-inteira",
+  "resumo": "Os números são do Banco de Portugal. O governo contrapõe: em dois anos há mais 31.700 casas — pouco mais de 10% das necessidades do país — e verbas para muito mais. É preciso construir casas que as pessoas possam pagar e encarar a realidade: o problema não é só dos mais pobres, é também da classe média. Se não falta dinheiro, então o que falta? O conteúdo Faltam 300 mil casas em Portugal, praticamente uma Lisboa inteira aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Rute Sousa Vasco",
+  "data": "2026-10-02T12:05:17+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Opinião",
+   "Habitação",
+   "PRR"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao",
   "regras": "af63d7f20c"
  }
 ]
