@@ -10,40 +10,40 @@
  {
   "nome": "Expresso",
   "slug": "expresso",
-  "imagem": "https://imgs.vercapas.com/covers/expresso/2026/expresso-2026-10-02-209eb5f2-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/expresso/2026/expresso-2026-10-02-209eb5f2-x.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/expresso/2026/expresso-2026-10-02-64d2a15a.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/expresso/2026/expresso-2026-10-02-64d2a15a.jpg",
   "pagina": "https://www.vercapas.com/capa/expresso.html",
   "data": "2026-10-02"
  },
  {
   "nome": "Diário de Notícias",
   "slug": "diario-de-noticias",
-  "imagem": "https://imgs.vercapas.com/covers/diario-de-noticias/2026/diario-de-noticias-2026-10-02-841a05fd-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/diario-de-noticias/2026/diario-de-noticias-2026-10-02-841a05fd-x.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/diario-de-noticias/2026/diario-de-noticias-2026-10-02-882b6bbd.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/diario-de-noticias/2026/diario-de-noticias-2026-10-02-882b6bbd.jpg",
   "pagina": "https://www.vercapas.com/capa/diario-de-noticias.html",
   "data": "2026-10-02"
  },
  {
   "nome": "Jornal de Notícias",
   "slug": "jornal-de-noticias",
-  "imagem": "https://imgs.vercapas.com/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-10-02-a0f8b2c4-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-10-02-a0f8b2c4-x.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-10-02-9f881f05.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-de-noticias/2026/jornal-de-noticias-2026-10-02-9f881f05.jpg",
   "pagina": "https://www.vercapas.com/capa/jornal-de-noticias.html",
   "data": "2026-10-02"
  },
  {
   "nome": "Correio da Manhã",
   "slug": "correio-da-manha",
-  "imagem": "https://imgs.vercapas.com/covers/correio-da-manha/2026/correio-da-manha-2026-10-01-5ded3cf2.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/correio-da-manha/2026/correio-da-manha-2026-10-01-5ded3cf2.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/correio-da-manha/2026/correio-da-manha-2026-10-02-5b6f3a27.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/correio-da-manha/2026/correio-da-manha-2026-10-02-5b6f3a27.jpg",
   "pagina": "https://www.vercapas.com/capa/correio-da-manha.html",
-  "data": "2026-10-01"
+  "data": "2026-10-02"
  },
  {
   "nome": "Nascer do SOL",
   "slug": "sol",
-  "imagem": "https://imgs.vercapas.com/covers/sol/2026/sol-2026-10-02-0b36980a-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/sol/2026/sol-2026-10-02-0b36980a-x.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/sol/2026/sol-2026-10-02-d18d220a.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/sol/2026/sol-2026-10-02-d18d220a.jpg",
   "pagina": "https://www.vercapas.com/capa/sol.html",
   "data": "2026-10-02"
  },
@@ -58,16 +58,16 @@
  {
   "nome": "Jornal Económico",
   "slug": "jornal-economico",
-  "imagem": "https://imgs.vercapas.com/covers/jornal-economico/2026/jornal-economico-2026-10-02-194653d7-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-economico/2026/jornal-economico-2026-10-02-194653d7-x.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/jornal-economico/2026/jornal-economico-2026-10-02-84d21d22.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/jornal-economico/2026/jornal-economico-2026-10-02-84d21d22.jpg",
   "pagina": "https://www.vercapas.com/capa/jornal-economico.html",
   "data": "2026-10-02"
  },
  {
   "nome": "Expresso Economia",
   "slug": "expresso-economia",
-  "imagem": "https://imgs.vercapas.com/covers/expresso-economia/2026/expresso-economia-2026-10-02-3404e567-x.jpg",
-  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/expresso-economia/2026/expresso-economia-2026-10-02-3404e567-x.jpg",
+  "imagem": "https://imgs.vercapas.com/covers/expresso-economia/2026/expresso-economia-2026-10-02-62d905da.jpg",
+  "miniatura": "https://imgs.vercapas.com/thumbc/26/covers/expresso-economia/2026/expresso-economia-2026-10-02-62d905da.jpg",
   "pagina": "https://www.vercapas.com/capa/expresso-economia.html",
   "data": "2026-10-02"
  },
