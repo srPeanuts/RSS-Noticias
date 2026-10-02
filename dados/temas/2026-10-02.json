@@ -1,0 +1,426 @@
+[
+ {
+  "titulo": "Petroleiro atacado quando atravessava estreito de Ormuz",
+  "resumo": "A agência de segurança marítima britânica UKMTO indicou que a tripulação está a salvo, sem especificar a nacionalidade do navio, os seus portos de origem e destino, ou se se tratava de um navio-tanque de petróleo ou de gás natural liquefeito (GNL).",
+  "categoria": "economia",
+  "palavras": [
+   "ormuz",
+   "petroleiro",
+   "atravessava",
+   "atacado"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Petroleiro atacado quando atravessava estreito de Ormuz",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/petroleiro-atacado-quando-atravessava-estreito-de-ormuz",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-02T00:06:21+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Incêndio em prédio no Cais do Sodré dominado",
+  "resumo": "As chamas deflagraram no número 54 da Rua Nova do Carvalho, junto ao Cais do Sodré.",
+  "categoria": "sociedade",
+  "palavras": [
+   "cais",
+   "sodre",
+   "dominado",
+   "incendio predio"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Incêndio em prédio no Cais do Sodré dominado",
+    "link": "https://www.rtp.pt/noticias/pais/incendio-em-predio-no-cais-do-sodre-dominado_n1769040",
+    "fonte": "RTP",
+    "data": "2026-10-02T01:44:37+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Deixem o Luís ensinar",
+  "resumo": "Ninguém melhor do que Montenegro para ir dar uma aula “sobre ética, integridade e prevenção da corrupção” a uma escola de Espinho — pois então! Opinião de Susana Peralta",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T23:30:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Deixem o Luís ensinar",
+    "link": "https://www.publico.pt/2026/10/02/opiniao/opiniao/deixem-luis-ensinar-2189999",
+    "fonte": "Público",
+    "data": "2026-10-01T23:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Não percamos a capacidade de não nos surpreendermos",
+  "resumo": "Não sei o que sairá da investigação ao alegado assalto ao gabinete do Chega no Parlamento, se é que dela sairá alguma coisa. Sei, porém, o que não quero que aconteça. Opinião de Francisco Mendes da Silva",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T23:25:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Não percamos a capacidade de não nos surpreendermos",
+    "link": "https://www.publico.pt/2026/10/02/opiniao/opiniao/nao-percamos-capacidade-nao-surpreendermos-2189972",
+    "fonte": "Público",
+    "data": "2026-10-01T23:25:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Quem guarda os curadores?",
+  "resumo": "Não deveriam subsistir dúvidas sobre quem foi escolhido para reitor da Universidade Nova de Lisboa. Mas a universidade, como tantas instituições antigas, não é pastagem segura para a simplicidade. Opinião de Paulo Pereira",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T23:20:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Quem guarda os curadores?",
+    "link": "https://www.publico.pt/2026/10/02/opiniao/opiniao/guarda-curadores-2189946",
+    "fonte": "Público",
+    "data": "2026-10-01T23:20:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Continuar a olhar o PRR",
+  "resumo": "O PRR chega ao fim. A avaliação do seu legado deve começar agora porque executar era uma meta, mas transformar Portugal foi sempre o objetivo.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:16:06+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Continuar a olhar o PRR",
+    "link": "https://jornaleconomico.sapo.pt/noticias/continuar-a-olhar-o-prr/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:16:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Financiar a democracia",
+  "resumo": "Apoiar a comunicação social é reconhecer que há valor no processo jornalístico e um interesse público na existência de informação profissional, plural e independente. Uma democracia com media frágeis torna-se ela própria mais frágil.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:15:22+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Financiar a democracia",
+    "link": "https://jornaleconomico.sapo.pt/noticias/financiar-a-democracia/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:15:22+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "David à entrada do Mar Vermelho",
+  "resumo": "Bab el-Mandeb era importante porque ninguém reparava nele. Os navios passavam, as cargas chegavam, o petróleo seguia para norte. Funcionava. Por isso, desaparecia. Opinião de Manuel Serrano",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T23:15:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "David à entrada do Mar Vermelho",
+    "link": "https://www.publico.pt/2026/10/02/opiniao/opiniao/david-entrada-mar-vermelho-2189830",
+    "fonte": "Público",
+    "data": "2026-10-01T23:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Justiça Administrativa com GPS",
+  "resumo": "O que foi conseguido em dez anos pela solução Estado+CAAD teria levado 30 anos aos tribunais do Estado (sozinhos) a conseguir. Dito de outra forma, a arbitragem tributária poupou à justiça fiscal cerca de 20 anos, é o tempo de uma geração.",
+  "categoria": "opiniao",
+  "autor": "Nuno Villa-Lobos",
+  "data": "2026-10-01T23:14:03+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Justiça Administrativa com GPS",
+    "link": "https://jornaleconomico.sapo.pt/noticias/justica-administrativa-com-gps/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:14:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Construir hoje, pagar amanhã?",
+  "resumo": "Com a chegada do outono, o mar volta a expor a vulnerabilidade do litoral. Hoje conhecemos melhor os riscos e sabemos onde estão muitas das zonas mais expostas. Mas, se ainda assim, continuamos a construir nessas áreas, a pergunta é inevitável, quem pagará a conta no futuro?",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:13:04+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Construir hoje, pagar amanhã?",
+    "link": "https://jornaleconomico.sapo.pt/noticias/construir-hoje-pagar-amanha/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:13:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Perder com os ‘finfluencers’",
+  "resumo": "Mais de metade dos britânicos que seguiram conselhos financeiros vindos das redes sociais, através dos chamados 'finfluencers', perderam dinheiro.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:12:07+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Perder com os ‘finfluencers’",
+    "link": "https://jornaleconomico.sapo.pt/noticias/perder-com-os-finfluencers/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:12:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O novo luxo será fazer coisas inúteis?",
+  "resumo": "A discussão sobre IA não pode ficar presa à tecnologia ou à produtividade. Não basta medir horas poupadas. É preciso perceber quem fica com elas e o que consegue fazer com elas.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:11:30+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "O novo luxo será fazer coisas inúteis?",
+    "link": "https://jornaleconomico.sapo.pt/noticias/o-novo-luxo-sera-fazer-coisas-inuteis/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:11:30+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ensaio sobre a lucidez",
+  "resumo": "Seja quem for eleito, o próximo Presidente do Brasil herda uma reforma tributária com calendário constitucional. A verdadeira escolha está nos detalhes, e o planeamento não pode esperar pela segunda volta.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:10:17+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Ensaio sobre a lucidez",
+    "link": "https://jornaleconomico.sapo.pt/noticias/ensaio-sobre-a-lucidez/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:10:17+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Jesus Cris. E no princípio era o golo!",
+  "resumo": "Convenhamos que é uma sorte extraordinária vivermos num país sem outros problemas urgentes. E é aqui que começa o verdadeiro mistério. Opinião de João Nuno Tavares",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T23:10:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Jesus Cris. E no princípio era o golo!",
+    "link": "https://www.publico.pt/2026/10/02/opiniao/opiniao/jesus-cris-principio-golo-2190018",
+    "fonte": "Público",
+    "data": "2026-10-01T23:10:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A economia está bem, mas o senhor do talho não sabe",
+  "resumo": "O homem atrás do balcão pode não conhecer o saldo estrutural nem o PIB potencial. Mas sabe quanto custava um quilo de carne há três anos. E vê, todos os dias, a cara e a carteira de quem entra pela porta.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:09:23+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "A economia está bem, mas o senhor do talho não sabe",
+    "link": "https://jornaleconomico.sapo.pt/noticias/a-economia-esta-bem-mas-o-senhor-do-talho-nao-sabe/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:09:23+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O drone seguinte",
+  "resumo": "Portugal não precisa de uma fábrica de milhões de unidades. Precisa de um ecossistema que entregue sempre a geração seguinte e a saiba multiplicar quando for preciso.",
+  "categoria": "opiniao",
+  "autor": "Ana Pina",
+  "data": "2026-10-01T23:08:04+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "O drone seguinte",
+    "link": "https://jornaleconomico.sapo.pt/noticias/o-drone-seguinte/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:08:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Maninhos da UNITA: qual é a estratégia para 2027?",
+  "resumo": "A demora na tomada de uma decisão quanto à estratégia político-eleitoral a ser adoptada pela UNITA pode retirar-lhe capacidade efectiva de controlar a dinâmica de alternância de poder e de influenciar a agenda política.",
+  "categoria": "opiniao",
+  "autor": "Sérgio Dundão, Investigador",
+  "data": "2026-10-01T23:07:44+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Maninhos da UNITA: qual é a estratégia para 2027?",
+    "link": "https://jornaleconomico.sapo.pt/noticias/maninhos-da-unita-qual-e-a-estrategia-para-2027/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-01T23:07:44+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Não sejas Sovina",
+  "resumo": "Vivemos num país onde o turismo vai moldando hábitos e inflacionando preços. Habitação, serviços, restauração, tudo aquilo que a procura consegue valorizar acaba por ficar mais caro. Crónica de Luís Alves Monteiro",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T23:05:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Não sejas Sovina",
+    "link": "https://www.publico.pt/2026/10/02/opiniao/cronica/nao-sejas-sovina-2189520",
+    "fonte": "Público",
+    "data": "2026-10-01T23:05:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A fuga dos conjuntivos",
+  "resumo": "Tenho abominado em silêncio a fuga dos portugueses ao conjuntivo – já há quem se ria quando o ouve –, mas confesso que admiro secretamente a manha raposina com que conseguem fugir dele. Crónica de Miguel Esteves Cardoso",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T23:00:01+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "A fuga dos conjuntivos",
+    "link": "https://www.publico.pt/2026/10/02/opiniao/cronica/fuga-conjuntivos-2189948",
+    "fonte": "Público",
+    "data": "2026-10-01T23:00:01+00:00"
+   }
+  ]
+ }
+]

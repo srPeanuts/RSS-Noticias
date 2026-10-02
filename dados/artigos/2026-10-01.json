@@ -4559,8 +4559,8 @@
   "regras": "af63d7f20c"
  },
  {
-  "titulo": "Caso das gémeas. \"A acusação está coxa pela ausência de Marcelo Rebelo de Sousa\"",
-  "link": "https://cnnportugal.iol.pt/videos/caso-das-gemeas-a-acusacao-esta-coxa-pela-ausencia-de-marcelo-rebelo-de-sousa/6abe78830cf23b0ed4fda3be",
+  "titulo": "Caso das gémeas. \"Não vejo nenhuma razão para uma investigação formal a Marcelo Rebelo de Sousa\"",
+  "link": "https://cnnportugal.iol.pt/videos/caso-das-gemeas-nao-vejo-nenhuma-razao-para-uma-investigacao-formal-a-marcelo-rebelo-de-sousa/6abe78770cf23b0ed4fda3bd",
   "resumo": "",
   "fonte": "CNN Portugal",
   "autor": "",
@@ -4875,6 +4875,375 @@
   ],
   "categoria_forcada": "",
   "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Juiz recusa ilibar Lindsay Clancy após julgamento falhado",
+  "link": "https://www.publico.pt/2026/10/01/impar/noticia/juiz-recusa-ilibar-lindsay-clancy-apos-julgamento-falhado-2190030",
+  "resumo": "Em entrevistas televisivas após o primeiro julgamento, vários jurados disseram que, não fosse o único jurado que se manteve irredutível, iriam considerar Clancy inocente por insanidade.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T22:54:20+00:00",
+  "cats_feed": [
+   "Crime"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Figuras do PS socorreram-se de Lacerda Sales para saberem de doentes em Santa Maria",
+  "link": "https://www.publico.pt/2026/10/01/sociedade/noticia/figuras-ps-socorreramse-lacerda-sales-saberem-doentes-santa-maria-2190028",
+  "resumo": "Quando estava no Governo, o hoje arguido encaminhava pedidos que recebia para o director clínico do Hospital de Santa Maria: “O desejo era obter contrato. Peço desculpa pelo incómodo.”",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-01T21:39:51+00:00",
+  "cats_feed": [
+   "Caso das Gémeas"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "A 1ª página do Expresso Economia",
+  "link": "https://expresso.pt/semanario/economia",
+  "resumo": "",
+  "fonte": "Expresso",
+  "autor": "Expresso",
+  "data": "2026-10-01T22:58:00+01:00",
+  "cats_feed": [
+   "Capas"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Sydney Sweeney — o “regresso” da gaja boa",
+  "link": "https://expresso.pt/opiniao/2026-10-01-sydney-sweeney--o-regresso-da-gaja-boa-5be73df9",
+  "resumo": "Sydney Sweeney pode mesmo estar a fazer um favor a todas as mulheres mais Pamelas do que Kates. Desta vez, fez-se acionista da casa de apostas que o seu peito promove",
+  "fonte": "Expresso",
+  "autor": "Eugénia Galvão Teles",
+  "data": "2026-10-01T22:57:32+01:00",
+  "cats_feed": [
+   "Opinião"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "A síndrome da seleção",
+  "link": "https://expresso.pt/semanario/primeiro/editorial/2026-10-01-a-sindrome-da-selecao-8d26f61f",
+  "resumo": "Não somos todos Ronaldo, mas seremos as suas gerações. A sua saída será uma libertação?",
+  "fonte": "Expresso",
+  "autor": "Expresso",
+  "data": "2026-10-01T22:57:30+01:00",
+  "cats_feed": [
+   "Editorial"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Acusação não deu razão ao Chega",
+  "link": "https://expresso.pt/politica/2026-10-01-acusacao-nao-deu-razao-ao-chega-d2a7ed2d",
+  "resumo": "Acusação diverge do relatório inicial apresentado por deputada do Chega e rejeitado pela CPI",
+  "fonte": "Expresso",
+  "autor": "Cláudia Monarca Almeida",
+  "data": "2026-10-01T22:57:24+01:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Maia recicla quase o dobro da média nacional",
+  "link": "https://expresso.pt/sociedade/2026-10-01-maia-recicla-quase-o-dobro-da-media-nacional-a455affb",
+  "resumo": "O município é pioneiro no sistema Reciclo Mais, Pago Menos que permite a recolha seletiva de 45% do lixo",
+  "fonte": "Expresso",
+  "autor": "Carla Tomás",
+  "data": "2026-10-01T22:57:17+01:00",
+  "cats_feed": [
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Imobiliário, transportes, investimento, concessões e contas públicas nos Altos e Baixos da Economia",
+  "link": "https://expresso.pt/semanario/primeiro/em-destaque/altos--baixos/2026-10-01-imobiliario-transportes-investimento-concessoes-e-contas-publicas-nos-altos-e-baixos-da-economia-82ff4fb6",
+  "resumo": "Alguns dos destaques desta semana na área económica em Portugal",
+  "fonte": "Expresso",
+  "autor": "Pedro Lima",
+  "data": "2026-10-01T22:57:00+01:00",
+  "cats_feed": [
+   "Altos & Baixos"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "UGT reivindica salário mínimo nacional acima de mil euros em janeiro",
+  "link": "https://www.rtp.pt/noticias/economia/ugt-reivindica-salario-minimo-nacional-acima-de-mil-euros-em-janeiro_n1768998",
+  "resumo": "A política reivindicativa da UGT \"coloca a valorização dos salários e do trabalho, o reforço dos direitos laborais e da negociação coletiva no centro das prioridades para 2027\".",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-01T22:55:43+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Greve dos tripulantes da easyJet deverá afetar pelo menos 443 voos",
+  "link": "https://www.rtp.pt/noticias/economia/greve-dos-tripulantes-da-easyjet-devera-afetar-pelo-menos-443-voos_n1768996",
+  "resumo": "A greve dos tripulantes de cabine da easyJet arranca na sexta-feira e prolonga-se até terça-feira, com 443 voos das bases de Lisboa, Porto e Faro já cancelados, segundo o Sindicato Nacional do Pessoal de Voo da Aviação Civil (SNPVAC).",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-01T22:28:39+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Trinta mortes e 1.418 salvamentos em cinco meses de época balnear",
+  "link": "https://www.rtp.pt/noticias/pais/trinta-mortes-e-1418-salvamentos-em-cinco-meses-de-epoca-balnear_n1769031",
+  "resumo": "Trinta pessoas morreram em cinco meses da época balnear, divulgou hoje a Autoridade Marítima Nacional (AMN) num balanço que assinala ainda 1.418 salvamentos e 2.609 ações de primeiros-socorros.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-01T23:57:27+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Novas regras para simplificar urbanismo nos municípios entraram em vigor",
+  "link": "https://www.rtp.pt/noticias/pais/novas-regras-para-simplificar-urbanismo-nos-municipios-entraram-em-vigor_n1769023",
+  "resumo": "Novas regras para simplificar os processos urbanísticos entraram hoje em vigor, numa altura em que as Câmaras ainda estão a adaptar-se aos procedimentos, com a Ordem dos Arquitetos a defender uma comissão de acompanhamento para controlar eventuais problemas.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-01T23:49:48+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Arranca em Lisboa a 27ª edição da Festa do Cinema Francês",
+  "link": "https://www.rtp.pt/noticias/cultura/arranca-em-lisboa-a-27a-edicao-da-festa-do-cinema-frances_n1769020",
+  "resumo": "A 27ª edição da Festa do Cinema Francês ganha a dimensão de festival, com a criação de uma seção competitiva. Outra novidade é celebrar a Francofonia: abre-se ao cinema do espaço francófono.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-01T23:39:49+01:00",
+  "cats_feed": [
+   "Cultura"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "UGT reivindica salário mínimo nacional acima de 1.000 euros em janeiro",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/ugt-reivindica-salario-minimo-nacional-acima-de-1-000-euros-em-janeiro",
+  "resumo": "Organização sindical destaca que a estratégia aprovada \"coloca a valorização dos salários e do trabalho, o reforço dos direitos laborais e da negociação coletiva no centro das prioridades para 2027\".",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-01T23:49:00+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Novo crédito para a casa tem maior queda em ano e meio no início do travão do BdP",
+  "link": "https://www.jornaldenegocios.pt/mercados/credito/detalhe/novo-credito-para-a-casa-tem-maior-queda-em-ano-e-meio-no-inicio-do-travao-do-bdp",
+  "resumo": "Depois de ter superado, em março, a fasquia dos 3 mil milhões de euros concedidos num só mês, o montante tem vindo a oscilar. O primeiro mês das novas regras do Banco de Portugal coincidiu com um tombo na concessão de novos empréstimos.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-01T23:30:00+01:00",
+  "cats_feed": [
+   "Crédito"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Greve dos tripulantes da easyJet já provocou cancelamento de 443 voos",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/greve-dos-tripulantes-da-easyjet-ja-provocou-cancelamento-de-443-voos",
+  "resumo": "Outros voos poderão ser afetados pela paralisação dos tripulantes de cabine da companhia aérea, que começa na sexta-feira e prolonga-se até terça-feira, afetando as bases de Lisboa, Porto e Faro.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-01T22:44:22+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Portugal vence Dinamarca na Liga das Nações no primeiro jogo sem Ronaldo",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/portugal-vence-dinamarca-na-liga-das-nacoes-no-primeiro-jogo-sem-ronaldo",
+  "resumo": "Os golos da Seleção Nacional foram apontados por João Cancelo, Gonçalo Ramos, Vitinha e João Félix. Portugal somou a terceira vitória em outros tantos jogos na competição.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-01T22:20:00+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Taxa mista no crédito também vai ser afetada por subida da inflação, avisa Fitch",
+  "link": "https://www.jornaldenegocios.pt/mercados/credito/detalhe/taxa-mista-no-credito-tambem-vai-ser-afetada-por-subida-da-inflacao-avisa-fitch",
+  "resumo": "A agência de notação financeira vê os empréstimos com taxas variáveis e mistas sujeitos a risco de reversão como os principais focos de risco a monitorizar no setor do crédito à habitação em Portugal e Espanha.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-01T21:45:47+01:00",
+  "cats_feed": [
+   "Crédito"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Não são os recordes",
+  "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/nao-sao-os-recordes",
+  "resumo": "Confesso que não percebo tanta “excitação” com os recordes quando o mais importante é tentar perceber porque é que eles se sucedem. Tanto no preço de venda como nas rendas.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-01T21:30:00+01:00",
+  "cats_feed": [
+   "Camilo Lourenço"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "opiniao",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Wall Street com ganhos ligeiros após alívio nos juros da dívida. Accenture sobe mais de 15%",
+  "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-com-ganhos-ligeiros-apos-alivio-nos-juros-da-divida-accenture-sobe-mais-de-15",
+  "resumo": "\"Yields\" recuaram depois de o vice-presidente da Reserva Federal, Philip Jefferson, ter afirmado que o banco central norte-americano pode precisar de mais tempo para avaliar se deve voltar a subir as taxas de juro para conter a inflação, impulsionando os índices.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-01T21:21:00+01:00",
+  "cats_feed": [
+   "Bolsa"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Governo aprova reprogramação financeira do Pisão e execução até 2030",
+  "link": "https://www.noticiasaominuto.com/pais/3060461/governo-aprova-reprogramacao-financeira-da-barragem-do-pisao-e-execucao-ate-2030#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-01T21:50:40+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Restauração representou 7,6% do PIB e 523 mil postos de trabalho em 2025",
+  "link": "https://www.noticiasaominuto.com/pais/3060462/restauracao-representou-7-6-do-pib-e-523-mil-postos-de-trabalho-em-2025-estudo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-01T21:22:48+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Prorrogada isenção da Taxa de Gestão de Resíduos até ao final do ano",
+  "link": "https://www.noticiasaominuto.com/pais/3060423/mau-tempo-prorrogada-isencao-da-taxa-de-gestao-de-residuos-ate-ao-final-do-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-01T21:21:10+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "UGT reivindica salário mínimo nacional acima de 1.000 euros em janeiro",
+  "link": "https://cnnportugal.iol.pt/ugt/salario-minimo/ugt-reivindica-salario-minimo-nacional-acima-de-1-000-euros-em-janeiro/20261001/6abebe37d34e9a786e75a8fb",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-01T23:32:00+01:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Piscinas do Inatel em Lisboa só reabrem em 2027, quatro anos depois de fecharem",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/piscinas-do-inatel-em-lisboa-so-reabrem-em-2027-quatro-anos-depois-de-fecharem",
+  "resumo": "Piscinas do Complexo Desportivo do Estádio 1.º de Maio, em Lisboa, reabrem no primeiro semestre de 2027 e não no final de 2006. Administração da Fundação INATEL justifica novo adiamento com obras no ginásio, um elevador, ar condicionado e melhorias no sistema de segurança. Fechadas desde junho de 2023, receberam 1,7 milhões de euros de investimento. O conteúdo Piscinas do Inatel em Lisboa só reabrem em 2027, quatro anos depois de fecharem aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "David Pacheco",
+  "data": "2026-10-01T21:28:18+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Inatel",
+   "Piscinas"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Gás natural e eletricidade ficam mais caros. Saiba quanto vai pagar a mais a partir de hoje",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/gas-natural-e-eletricidade-ficam-mais-caros-saiba-quanto-vai-pagar-a-mais-a-partir-de-hoje",
+  "resumo": "O gás natural e a eletricidade ficaram mais caros, a partir de hoje, no mercado regulado. Os aumentos da eletricidade vão atingir 779 mil portugueses, enquanto subida do gás afeta cerca de 431 mil pessoas. O conteúdo Gás natural e eletricidade ficam mais caros. Saiba quanto vai pagar a mais a partir de hoje aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Catarina Duarte",
+  "data": "2026-10-01T21:22:16+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Economia",
+   "Eletricidade",
+   "energia",
+   "Gás natural",
+   "Hoje o dia foi assim"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
   "regras": "af63d7f20c"
  }
 ]
