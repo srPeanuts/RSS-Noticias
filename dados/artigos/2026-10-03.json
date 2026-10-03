@@ -1086,5 +1086,688 @@
   "categoria_forcada": "",
   "categoria": "sociedade",
   "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Diploma que reforça acesso dos consumidores a garrafas de gás entra em vigor",
+  "link": "https://www.publico.pt/2026/10/03/economia/noticia/diploma-reforca-acesso-consumidores-garrafas-gas-entra-vigor-2190213",
+  "resumo": "Postos de abastecimento podem, a partir deste sábado, armazenar uma maior quantidade de garrafas de GPL sem ser necessário um licenciamento.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T15:44:43+00:00",
+  "cats_feed": [
+   "Energia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Milícia próxima do Governo etíope diz ter tomado o controlo do aeroporto de Tigré",
+  "link": "https://www.publico.pt/2026/10/03/mundo/noticia/milicia-proxima-governo-etiope-tomado-controlo-aeroporto-tigre-2190214",
+  "resumo": "A infra-estrutura localizada em Mekelle, capital do estado, passou para as mãos das Forças de Paz de Tigré, cisão da Frente Popular de Libertação de Tigré, neste reacender da guerra de 2020.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T15:22:29+00:00",
+  "cats_feed": [
+   "Guerra civil"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Pequenas conversas, grandes caminhos",
+  "link": "https://www.publico.pt/2026/10/03/impar/cronica/conversas-caminhos-2190209",
+  "resumo": "Cada conversa, à sua maneira, diz-nos alguma coisa sobre a forma como envelhecemos, amamos, sofremos, lidamos com as perdas e vivemos com os outros. Crónica de João da Silva",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T15:15:13+00:00",
+  "cats_feed": [
+   "700 km de esperança"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Sair da casa linguística já é se aventurar",
+  "link": "https://www.publico.pt/2026/10/03/publico-brasil/cronica/sair-casa-linguistica-ja-aventurar-2190212",
+  "resumo": "Na convivência com uma criança catalã, as fricções entre o português, o castelhano e o catalão mostram que aprender um novo idioma é aceitar o desafio de voltar a ser aprendiz da leitura. Crónica de Vivien Merciel Suarez",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T15:15:11+00:00",
+  "cats_feed": [
+   "Público Brasil"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "André Ventura vai presidir à comissão de inquérito aos mandatos de Luís Neves na PJ",
+  "link": "https://www.publico.pt/2026/10/03/politica/noticia/andre-ventura-vai-presidir-comissao-inquerito-mandatos-luis-neves-pj-2190208",
+  "resumo": "Inquérito imposto pelo Chega ao actual ministro da Administração Interna será presidida pelo líder do partido. Terá 8 deputados do PSD, 5 do Chega e do PS, 2 da IL e do Livre e 1 do PCP, CDS e JPP.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T14:34:42+00:00",
+  "cats_feed": [
+   "Parlamento"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Brilhante Dias garante que o PS não está a “dar carta branca ao governo” no Orçamento",
+  "link": "https://expresso.pt/podcasts/facto-politico/2026-10-03-brilhante-dias-garante-que-o-ps-nao-esta-a-dar-carta-branca-ao-governo-no-orcamento-f5c256fd",
+  "resumo": "Na semana em que José Luís Carneiro anunciou a viabilização do Orçamento do Estado sem olhar para o documento, o líder parlamentar socialista, Eurico Brilhante Dias, vem ao Facto Político garantir que não está a “dar carta branca ao governo”",
+  "fonte": "Expresso",
+  "autor": "SIC Notícias",
+  "data": "2026-10-03T16:50:00+01:00",
+  "cats_feed": [
+   "Facto Político"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "André Ventura assume luta direta: vai presidir à comissão de inquérito a Luís Neves e garante que o fará \"sem medo das consequências\"",
+  "link": "https://expresso.pt/parlamento/2026-10-03-andre-ventura-assume-luta-direta-vai-presidir-a-comissao-de-inquerito-a-luis-neves-e-garante-que-o-fara-sem-medo-das-consequencias-768030f2",
+  "resumo": "O presidente do Chega garante que não vai ser \"bloqueio\" à recolha de informação sobre o s mandatos de Luís Neves à frente da Polícia Judiciária. \"Es ta comissão de inquérito vai efetivamente cumprir o seu papel, sem medo, independentemente das consequências\"",
+  "fonte": "Expresso",
+  "autor": "Liliana Valente",
+  "data": "2026-10-03T15:03:39+01:00",
+  "cats_feed": [
+   "Parlamento"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Escola António Arroio envia carta aberta a Fernando Alexandre rejeitando a digitalização dos exames",
+  "link": "https://expresso.pt/educacao/2026-10-03-escola-antonio-arroio-envia-carta-aberta-a-fernando-alexandre-rejeitando-a-digitalizacao-dos-exames-8145b02f",
+  "resumo": "A Escola Artística António Arroio endereçou na sexta-feira uma carta aberta ao ministro da Educação na qual rejeita o modelo de classificação dos exames nacionais adotado no ano letivo transato, que originou 100 pedidos de reapreciação.",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-10-03T14:31:38+01:00",
+  "cats_feed": [
+   "Educação"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Greve na Easyjet gera cancelamentos de 90% dos voos, segundo o sindicato em Portugal",
+  "link": "https://expresso.pt/economia/2026-10-03-greve-na-easyjet-gera-cancelamentos-de-90-dos-voos-segundo-o-sindicato-em-portugal-50ccb68d",
+  "resumo": "A paralisação de tripulantes na companhia aérea teve este sábado “total adesão”, mas com alguns voos substituídos por trabalhadores “de outras bases”, o que o sindicato considera ser “ilegal”",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-10-03T12:24:51+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Falsa taróloga brasileira detida em Portugal por extorquir 400 mil euros a vítima aproveitando-se da sua \"fragilidade emocional\"",
+  "link": "https://expresso.pt/sociedade/2026-10-03-falsa-tarologa-brasileira-detida-em-portugal-por-extorquir-400-mil-euros-a-vitima-aproveitando-se-da-sua-fragilidade-emocional-daea325b",
+  "resumo": "Foi um caso exemplar de atuação policial sobre burlas na Internet, em que foi aplicada pena máxima: prisão preventiva. Mobilizou investigação conjunta de forças policiais em Portugal e no Brasil, e culminou na detenção de um casal com antecedentes criminais similares",
+  "fonte": "Expresso",
+  "autor": "Agência Lusa",
+  "data": "2026-10-03T10:21:17+01:00",
+  "cats_feed": [
+   "Sociedade"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Greve na Easyjet com adesão total. Cancelamentos podem atingir os 90%",
+  "link": "https://www.rtp.pt/noticias/economia/greve-na-easyjet-com-adesao-total-cancelamentos-podem-atingir-os-90_n1769374",
+  "resumo": "A greve dos tripulantes de cabine da Easyjet voltou a registar este sábado total adesão. O presidente do Sindicato Nacional do Pessoal de Voo da Aviação Civil, Ricardo Penarroias, antecipa que os cancelamentos possam atingir os 90 por cento.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T17:15:21+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Uvas sem grainha biológicas são aposta no Alentejo",
+  "link": "https://www.rtp.pt/noticias/economia/uvas-sem-grainha-biologicas-sao-aposta-no-alentejo_v1769347",
+  "resumo": "As uvas sem grainha são cada vez mais procuradas. No Alentejo, há quem as cultive de forma 100% biológica. Um investimento arriscado que, pelo menos para já, compensa.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T15:28:47+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Cerca de 325 milhões de barris libertados das reservas estratégicas de petróleo",
+  "link": "https://www.rtp.pt/noticias/economia/cerca-de-325-milhoes-de-barris-libertados-das-reservas-estrategicas-de-petroleo_n1769327",
+  "resumo": "A Agência Internacional de Energia (AIE) adiantou que, até hoje, foram libertados cerca de 325 milhões de barris das reservas estratégicas de petróleo.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T13:53:22+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Pomar dos Sabores é um jardim botânico onde quase tudo é comestível",
+  "link": "https://www.rtp.pt/noticias/pais/pomar-dos-sabores-e-um-jardim-botanico-onde-quase-tudo-e-comestivel_v1769349",
+  "resumo": "Flores, folhas, raízes e frutos chegam dos vários cantos do mundo, para ajudar o Algarve a adaptar-se às alterações climáticas. Chama-se Pomar dos Sabores e fica em Tavira.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T15:30:48+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "André Ventura vai presidir à comissão parlamentar de inquérito a Luís Neves",
+  "link": "https://www.rtp.pt/noticias/pais/andre-ventura-vai-presidir-a-comissao-parlamentar-de-inquerito-a-luis-neves_v1769346",
+  "resumo": "André Ventura anunciou este sábado que vai presidir à comissão de inquérito proposta pelo seu partido a Luís Neves. O presidente do Chega garante a imparcialidade e promete que todos os partidos vão ter lugar e voz.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T15:17:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Presidente da República lembra que \"não há territórios dispensáveis\"",
+  "link": "https://www.rtp.pt/noticias/pais/presidente-da-republica-lembra-que-nao-ha-territorios-dispensaveis_v1769344",
+  "resumo": "Esta manhã, na terra onde nasceu e cresceu, Penamacor, garantiu que há lugares que nunca se deixam para trás e volta apelar ao investimento no interior do país.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T15:16:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Transplante de medula óssea. País já trata doenças não oncológicas do sangue",
+  "link": "https://www.rtp.pt/noticias/pais/transplante-de-medula-ossea-pais-ja-trata-doencas-nao-oncologicas-do-sangue_v1769338",
+  "resumo": "Portugal passou a assegurar o transplante de medula a crianças com doenças do sangue não oncológicas mas que são fatais. Até agora tinham de ir ao estrangeiro.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T14:47:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Frente Cívica acredita que Rui Pinto corre perigo de vida",
+  "link": "https://www.rtp.pt/noticias/pais/frente-civica-acredita-que-rui-pinto-corre-perigo-de-vida_v1769337",
+  "resumo": "A Frente Cívica acredita que Rui Pinto corre perigo de vida e pede a intervenção da ministra da Justiça.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T14:45:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Há escolas em Lisboa que mandaram alunos para casa por falta de professores",
+  "link": "https://www.rtp.pt/noticias/pais/ha-escolas-em-lisboa-que-mandaram-alunos-para-casa-por-falta-de-professores_v1769334",
+  "resumo": "São mais de trezentas crianças. A polémica multiplica-se porque de acordo com o jornal Público foi exigido aos pais que apresentassem um comprovativo de trabalho para que os filhos pudessem entrar na escola.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T14:37:48+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "PJ detém no aeroporto de Lisboa três mulheres com 11 Kg de cocaína",
+  "link": "https://www.rtp.pt/noticias/pais/pj-detem-no-aeroporto-de-lisboa-tres-mulheres-com-11-kg-de-cocaina_n1769326",
+  "resumo": "A Polícia Judiciária (PJ) deteve no Aeroporto Humberto Delgado, em Lisboa, três mulheres estrangeiras que transportavam dissimulado nas bagagens 11 quilos de cocaína, com elevado grau de pureza, foi hoje divulgado.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T13:53:04+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "O ano dos IPO cripto não aconteceu. Mas há uma empresa a querer \"furar\" o pessimismo",
+  "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/o-ano-dos-ipo-cripto-nao-aconteceu-mas-ha-uma-empresa-a-querer-furar-o-pessimismo",
+  "resumo": "A Blockchain.com estará a preparar um IPO já para este ano, apesar de as mais recentes entradas em bolsa do setor terem falhado em convencer os investidores. A recuperação da bitcoin pode ser uma janela de oportunidade para a empresa.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T17:00:00+01:00",
+  "cats_feed": [
+   "Criptoativos"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Importações do Brasil ganham força com disparo nos preços dos combustíveis",
+  "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/importacoes-do-brasil-ganham-forca-com-disparo-nos-precos-dos-combustiveis",
+  "resumo": "Petróleo e gás são dos produtos que Portugal mais compra ao Brasil e, com a guerra no Irão e o disparo nos preços dos combustíveis, estão a ajudar as importações do mercado brasileiro a subir a pique. Défice comercial com mercado brasileiro superou em julho o valor observado no conjunto de 2025.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T16:00:00+01:00",
+  "cats_feed": [
+   "Américas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "André Ventura assume presidência da comissão de inquérito a Luís Neves",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/andre-ventura-assume-presidencia-da-comissao-de-inquerito-a-luis-neves",
+  "resumo": "Líder do Chega disse também que o partido já entregou na Assembleia da República os nomes que integrarão a comissão e que serão sete.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T15:36:48+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Diploma que reforça acesso dos consumidores a garrafas de gás entra em vigor",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/diploma-que-reforca-acesso-dos-consumidores-a-garrafas-de-gas-entra-em-vigor",
+  "resumo": "A partir deste sábado os postos de abastecimento podem armazenar uma maior quantidade de garrafas de GPL sem necessidade de licenciamento.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T14:08:52+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "OPEP+ deixa inalteradas quotas de produção de novembro",
+  "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/opep-deixa-inalteradas-quotas-de-producao-de-novembro",
+  "resumo": "Os membros do cartel deverão optar por uma nova pausa na abertura de torneiras, depois de em setembro ter sido essa a decisão para o arranque do último trimestre do ano. O petróleo que tinha sido retido voluntariamente em finais de 2023 já foi todo devolvido ao mercado.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T14:00:00+01:00",
+  "cats_feed": [
+   "Petróleo"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Cerca de 325 milhões de barris libertados das reservas estratégicas de petróleo",
+  "link": "https://www.jornaldenegocios.pt/mercados/detalhe/cerca-de-325-milhoes-de-barris-libertados-das-reservas-estrategicas-de-petroleo",
+  "resumo": "Em março, o G7 prometeu libertar 400 milhões de barris de petróleo.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T13:08:55+01:00",
+  "cats_feed": [
+   "Mercados"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Greve na easyJet com total adesão e cancelamentos podem chegar a 90%, diz sindicato",
+  "link": "https://www.jornaldenegocios.pt/empresas/detalhe/greve-na-easyjet-com-total-adesao-e-cancelamentos-podem-chegar-a-90-diz-sindicato",
+  "resumo": "A paralisação dos tripulantes da companhia aérea começou na sexta-feira e prolonga-se até terça-feira.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T12:43:02+01:00",
+  "cats_feed": [
+   "Empresas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Presidente da Fundação EDP: “Contribuir para uma sociedade mais criativa, culta e cosmopolita”",
+  "link": "https://jornaleconomico.sapo.pt/noticias/contribuir-para-uma-sociedade-mais-criativa-culta-e-cosmopolita/",
+  "resumo": "O MAAT celebra 10 anos a 5 de outubro. Pretexto para falar sobre o percurso de um museu que redesenhou a frente ribeirinha de Belém, em Lisboa, e que tem sido uma montra incortornável da arte contemporânea que se faz em Portugal e no mundo.",
+  "fonte": "Jornal Económico",
+  "autor": "Ana Pina",
+  "data": "2026-10-03T15:19:13+00:00",
+  "cats_feed": [
+   "Cultura & Lifestyle",
+   "Empresas",
+   "Et Cetera",
+   "Pessoas",
+   "Sapo Economia",
+   "acervo",
+   "Arquitetura e Tecnologia",
+   "arte contemporânea",
+   "artistas",
+   "belém",
+   "Coleção de Arte Fundação EDP",
+   "Fundação EDP",
+   "MAAT - Museu de Arte",
+   "prémios",
+   "Vera Pinto Pereira",
+   "visitantes",
+   "zona ribeirinha"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Portugal depende do automóvel para trabalhar e ir à escola",
+  "link": "https://jornaleconomico.sapo.pt/noticias/portugal-depende-do-automovel-para-trabalhar-e-ir-a-escola/",
+  "resumo": "O automóvel é o principal meio de transporte usado pelas pessoas nas suas deslocações. De Norte a Sul, nos Açores e na Madeira. Sem combustível na bomba, o país parava.",
+  "fonte": "Jornal Económico",
+  "autor": "Almerinda Romeira",
+  "data": "2026-10-03T13:28:08+00:00",
+  "cats_feed": [
+   "JE Leitor",
+   "Sapo Economia",
+   "Sociedade",
+   "Transportes",
+   "automóvel Barómetro das Cidades",
+   "combustível",
+   "FFMS",
+   "IMT",
+   "transportes"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Presidente da República alerta para natalidade e despovoamento na inauguração de creche em Penamacor",
+  "link": "https://jornaleconomico.sapo.pt/noticias/presidente-da-republica-alerta-para-natalidade-e-despovoamento-na-inauguracao-de-creche-em-penamacor/",
+  "resumo": "Ao inaugurar a Creche de Nossa Senhora da Conceição, em Penamacor, o Chefe de Estado apontou a falta de nascimentos, o envelhecimento e o esvaziamento do interior como problemas nacionais que exigem investimento público e condições concretas para as famílias.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T13:06:45+00:00",
+  "cats_feed": [
+   "Autarquias",
+   "Política",
+   "Sapo Economia",
+   "Penamacor"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Thales apresenta soluções com IA, mas já alerta para o perigo quântico",
+  "link": "https://jornaleconomico.sapo.pt/noticias/thales-apresenta-solucoes-com-ia-mas-ja-alerta-para-o-perigo-quantico/",
+  "resumo": "A inteligência artificial está a mudar a velocidade, frequência e tipologia dos ataques informáticos. Mas já se olha para ameças mais poderosas.",
+  "fonte": "Jornal Económico",
+  "autor": "Filipe Gil",
+  "data": "2026-10-03T12:45:04+00:00",
+  "cats_feed": [
+   "Defesa",
+   "Empresas",
+   "JE Leitor",
+   "defesa",
+   "Thales"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "OPEP+ avalia oferta de petróleo após G7 anunciar libertação de reservas",
+  "link": "https://jornaleconomico.sapo.pt/noticias/opep-avalia-oferta-de-petroleo-apos-g7-anunciar-libertacao-de-reservas/",
+  "resumo": "Segundo analistas citados pela imprensa espanhola, a expectativa é de que o grupo mantenha inalteradas as quotas de produção, prolongando até ao final de novembro a decisão tomada há um mês, que manteve estável o nível de oferta em outubro.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T12:01:57+00:00",
+  "cats_feed": [
+   "Economia",
+   "Energia",
+   "Sapo Economia",
+   "OPEP"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Ventura presidirá à CPI a Luís Neves: \"Investigar até ao fim, sem medo\"",
+  "link": "https://www.noticiasaominuto.com/politica/3061271/ventura-presidira-a-cpi-a-luis-neves-investigar-ate-ao-fim-sem-medo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T15:38:12+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "\"Remodelação na Educação foi feita com arrogância e desconsideração\"",
+  "link": "https://www.noticiasaominuto.com/pais/3061250/reestruturacao-na-educacao-foi-feita-com-arrogancia-e-agravou-problemas-livre-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T14:10:10+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "\"Governo, em vez de adotar medidas determinadas, faz o contrário\"",
+  "link": "https://www.noticiasaominuto.com/pais/3061225/be-acusa-governo-de-favorecer-capital-fazendo-o-contrario-do-que-as-pessoas-precisam-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T12:45:07+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Diploma que reforça acesso dos consumidores a garrafas de gás em vigor",
+  "link": "https://www.noticiasaominuto.com/pais/3061254/diploma-que-reforca-acesso-dos-consumidores-a-garrafas-de-gas-entra-em-vigor-governo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T14:03:49+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Cerca de 325 milhões de barris libertados das reservas de petróleo",
+  "link": "https://www.noticiasaominuto.com/economia/3061235/cerca-de-325-milhoes-de-barris-libertados-das-reservas-de-petroleo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T13:35:09+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "André Ventura assume presidência da comissão de inquérito a Luís Neves",
+  "link": "https://cnnportugal.iol.pt/luis-neves/andre-ventura/andre-ventura-assume-presidencia-da-comissao-de-inquerito-a-luis-neves/20261003/6ac1254fd34e9a786e75abc3",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T16:26:35.714219+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Filme português selecionado para o festival de cinema do Rio de Janeiro",
+  "link": "https://cnnportugal.iol.pt/filme/lisboa/filme-portugues-selecionado-para-o-festival-de-cinema-do-rio-de-janeiro/20261003/6ac10a7cd34e53c759c74e26",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T16:26:35.714463+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "PJ detém no aeroporto de Lisboa três mulheres com 11 Kg de cocaína",
+  "link": "https://cnnportugal.iol.pt/droga/aeroporto/pj-detem-no-aeroporto-de-lisboa-tres-mulheres-com-11-kg-de-cocaina/20261003/6ac10244d34e53c759c74e1a",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T16:26:35.714494+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Seguro defende que o interior precisa políticas públicas de investimento",
+  "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/presidente-da-republica/seguro-defende-que-o-interior-precisa-politicas-publicas-de-investimento/20261003/6ac10089d34e53c759c74e17",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T16:26:35.714545+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "\"Tudo o que se compra vai acabar por ser afetado\": como a pressão nos juros pode chegar à carteira",
+  "link": "https://cnnportugal.iol.pt/videos/tudo-o-que-se-compra-vai-acabar-por-ser-afetado-como-a-pressao-nos-juros-pode-chegar-a-carteira/6ac0f0a80cf20dc52778e46a",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T16:26:35.714676+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Ventura à frente da comissão a Luís Neves: “Sem medo, independentemente das consequências”",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/ventura-a-frente-da-comissao-a-luis-neves-sem-medo-independentemente-das-consequencias",
+  "resumo": "O líder do Chega vai presidir pessoalmente à comissão parlamentar de inquérito aos mandatos de Luís Neves na Polícia Judiciária. André Ventura garante que não haverá “bloqueios” à recolha de prova e promete uma investigação “sem medo”, independentemente de quem venha a ser visado. O conteúdo Ventura à frente da comissão a Luís Neves: “Sem medo, independentemente das consequências” aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-10-03T14:27:35+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "André Ventura",
+   "Chega",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/psp-de-setubal-culpa-telemoveis-por-quedas-nas-escadas-sindicato-critica-foco-nos-comportamentos-dos-policias",
+  "resumo": "Uma Ordem de Serviço emitida pelo Comando Distrital de Setúbal da PSP recomenda aos polícias que utilizem o corrimão e não usem o telemóvel enquanto circulam nas escadas. A ASPP/PSP considera, contudo, que a abordagem ignora problemas relacionados com as condições das instalações e com os acidentes em serviço. O conteúdo PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-10-03T13:53:21+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Nacional",
+   "PSP",
+   "Telemóveis"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Porto convida a descobrir a cidade através da literatura, do património e da paisagem",
+  "link": "https://24noticias.sapo.pt/vida/artigos/porto-convida-a-descobrir-a-cidade-atraves-da-literatura-do-patrimonio-e-da-paisagem",
+  "resumo": "Derivas urbanas, percursos literários, visitas guiadas e propostas ligadas aos jardins e ao património fazem parte da programação de outubro do Museu e Bibliotecas do Porto. As iniciativas levam os participantes a percorrer diferentes espaços da cidade, da antiga Estrada de Guimarães às camélias dos jardins do Palácio de Cristal. O conteúdo Porto convida a descobrir a cidade através da literatura, do património e da paisagem aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-10-03T13:07:10+00:00",
+  "cats_feed": [
+   "Vida",
+   "É Desta Que Leio Isto",
+   "Literatura",
+   "Livros",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Governo simplifica licenciamento de instalações de combustíveis e facilita acesso a garrafas de gás",
+  "link": "https://24noticias.sapo.pt/atualidade/artigos/governo-simplifica-licenciamento-de-instalacoes-de-combustiveis-e-facilita-acesso-a-garrafas-de-gas",
+  "resumo": "O novo regime entra em vigor este sábado e dispensa de licenciamento algumas instalações, desde que cumpram as regras de segurança. Postos de abastecimento passam também a poder armazenar mais garrafas de GPL sem licenciamento. O conteúdo Governo simplifica licenciamento de instalações de combustíveis e facilita acesso a garrafas de gás aparece primeiro em 24 Notícias .",
+  "fonte": "SAPO 24",
+  "autor": "Alexandra Antunes",
+  "data": "2026-10-03T12:14:29+00:00",
+  "cats_feed": [
+   "Atualidade",
+   "Combustíveis",
+   "Garrafas de gás",
+   "Governo",
+   "Isto é útil",
+   "Nacional"
+  ],
+  "categoria_forcada": "",
+  "categoria": "governo",
+  "regras": "af63d7f20c"
  }
 ]
