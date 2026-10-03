@@ -360,13 +360,13 @@
  },
  {
   "titulo": "Empresários portugueses no Brasil esperam menos entraves e burocracias do próximo Presidente",
-  "link": "https://expresso.pt/internacional/brasil/2026-10-03-empresarios-portugueses-no-brasil-esperam-menos-entraves-e-burocracias-do-proximo-presidente-1a8bae6f",
+  "link": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-03-empresarios-portugueses-no-brasil-esperam-menos-entraves-e-burocracias-do-proximo-presidente-1a8bae6f",
   "resumo": "Representantes de câmaras de comércio portuguesas no Brasil ouvidos pela Lusa pedem ao próximo Presidente menos burocracia, segurança jurídica e regras tributárias mais claras para facilitar a atividade empresarial, independentemente do vencedor das eleições presidenciais de domingo",
   "fonte": "Expresso",
   "autor": "Agência Lusa",
   "data": "2026-10-03T08:12:02+01:00",
   "cats_feed": [
-   "Brasil"
+   "Eleições no Brasil"
   ],
   "categoria_forcada": "",
   "categoria": "politica",
@@ -1768,6 +1768,396 @@
   ],
   "categoria_forcada": "",
   "categoria": "governo",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
+  "link": "https://www.publico.pt/2026/10/03/fugas/noticia/abertura-tempo-vitor-matos-quer-tornar-cucina-di-toscani-italiana-2189660",
+  "resumo": "Um dos novos projectos no Porto fica no Lenscape. No restaurante, para já de cozinha “internacional”, o chef conta vir a introduzir aos poucos mais pratos da cozinha regional italiana.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T20:10:00+00:00",
+  "cats_feed": [
+   "Restaurantes"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Isaac e Cati",
+  "link": "https://www.publico.pt/2026/10/03/p3/cronica/isaac-cati-2190138",
+  "resumo": "Sempre que comentam, dialogam um com o outro de uma forma que não deixa de ser comovente, por ser tão rara nos dias de hoje, seja na vida real, seja nas caixas de comentários. Crónica de Cláudia Lucas Chéu",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T19:28:00+00:00",
+  "cats_feed": [
+   "Megafone"
+  ],
+  "categoria_forcada": "",
+  "categoria": "opiniao",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "O inédito que Antonio Tabucchi dizia não ter e a nova colecção da Livros Zigurate",
+  "link": "https://www.publico.pt/2026/10/03/culturaipsilon/noticia/inedito-antonio-tabucchi-dizia-nao-nova-coleccao-livros-zigurate-2189841",
+  "resumo": "Cartas ao Capitão Nemo , do italiano, foi organizado por Thea Rimini a partir de folhas dispersas. Ensaios de Enrique Díaz Álvarez, Santiago Gerchunoff e Diego S. Garrocho já estão nas livrarias.",
+  "fonte": "Público",
+  "autor": "publico@publico.pt",
+  "data": "2026-10-03T17:49:49+00:00",
+  "cats_feed": [
+   "Livros"
+  ],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Eleições no Brasil: guia para votar em Portugal, em 8 perguntas e respostas",
+  "link": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-03-eleicoes-no-brasil-uma-guia-para-os-eleitores-brasileiros-em-portugal-ff73301e",
+  "resumo": "Mais de 134 mil brasileiros residentes em Portugal estão inscritos para votar nas eleições presidenciais deste domingo. Quem pode votar, que documentos são necessários, onde ficam as mesas de voto e o que acontece a quem faltar? Reunimos as respostas às principais dúvidas",
+  "fonte": "Expresso",
+  "autor": "Helena Bento",
+  "data": "2026-10-03T19:20:10+01:00",
+  "cats_feed": [
+   "Eleições no Brasil"
+  ],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Tiffany abre loja na capital portuguesa no próximo ano",
+  "link": "https://expresso.pt/empresas-negocios/2026-10-03-tiffany-abre-loja-na-capital-portuguesa-no-proximo-ano-d02c2824",
+  "resumo": "A marca de joalharia norte-americana é uma das quatro aberturas previstas para 2027 na Avenida da Liberdade",
+  "fonte": "Expresso",
+  "autor": "Eunice Parreira",
+  "data": "2026-10-03T18:27:19+01:00",
+  "cats_feed": [
+   "Empresas e Negócios"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "A Linha de Cascais vai ser privatizada? Saiba o que muda em 2028",
+  "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-03-a-linha-de-cascais-vai-ser-privatizada--saiba-o-que-muda-em-2028-94a78df6",
+  "resumo": "A ferrovia portuguesa vai começar a abrir espaço à gestão privada de algumas linhas. Porque é que o Governo quer mudar o modelo atual? A análise deste tema foi feita pelo jornalista da secção de Economia do Expresso Pedro Lima. Ouça o novo episódio do Economia dia a dia, podcast diário do Expresso conduzido por Juliana Simões",
+  "fonte": "Expresso",
+  "autor": "Juliana Simões",
+  "data": "2026-10-03T18:20:00+01:00",
+  "cats_feed": [
+   "Economia dia a dia"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Big Mac já não custa sempre o mesmo: McDonald’s utiliza IA para mexer nos preços nos Estados Unidos",
+  "link": "https://expresso.pt/ia-inteligencia-artificial/2026-10-03-big-mac-ja-nao-custa-sempre-o-mesmo-mcdonalds-utiliza-ia-para-mexer-nos-precos-nos-estados-unidos-d537bded",
+  "resumo": "A gigante da restauração desenvolveu um modelo de Inteligência Artificial para definir a \"sensibilidade\" dos clientes ao preçário nos EUA. Em resposta ao Expresso, a McDonald’s Portugal lembra que várias empresas utilizam \"ferramentas de recomendação de preços\" e que os valores apurados não são “mandatórios”",
+  "fonte": "Expresso",
+  "autor": "Margarida Coutinho",
+  "data": "2026-10-03T18:11:21+01:00",
+  "cats_feed": [
+   "Inteligência Artificial"
+  ],
+  "categoria_forcada": "",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Reforma da Lei de Organização e Processo do Tribunal de Contas: Presidente do Tribunal de Contas admite recorrer ao Constitucional",
+  "link": "https://www.rtp.pt/noticias/economia/reforma-da-lei-de-organizacao-e-processo-do-tribunal-de-contas-presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional_v1769120",
+  "resumo": "O Tribunal de Contas não pretende \"sair de cena\" e se for necessário vai bater à porta do Tribunal Constitucional para evitar a aplicação de certas normas previstas na reforma da Lei de Organização e Processo do Tribunal de Contas em discussão no Parlamento.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T22:59:38+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Policiamento de proximidade. Agentes da PSP visitam idosos para prevenir crimes",
+  "link": "https://www.rtp.pt/noticias/pais/policiamento-de-proximidade-agentes-da-psp-visitam-idosos-para-prevenir-crimes_v1769425",
+  "resumo": "Vários idosos recebem visitas de polícias que deixam conselhos sobre como se podem proteger de criminosos. É o policiamento de proximidade da PSP.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T22:08:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Associação Animal contesta inscrição da tauromaquia como património cultural imaterial",
+  "link": "https://www.rtp.pt/noticias/pais/associacao-animal-contesta-inscricao-da-tauromaquia-como-patrimonio-cultural-imaterial_n1769378",
+  "resumo": "A associação Animal contestou hoje inscrição das corridas de toiros no Inventário Nacional do Património Cultural Imaterial e apelou aos cidadãos que estão contra para que manifestem a sua posição durante o período de consulta pública.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T19:39:47+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Ministra da Justiça está a analisar pedidos sobre retirada de proteção especial a Rui Pinto",
+  "link": "https://www.rtp.pt/noticias/pais/ministra-da-justica-esta-a-analisar-pedidos-sobre-retirada-de-protecao-especial-a-rui-pinto_n1769383",
+  "resumo": "A ministra da Justiça, Rita Alarcão Júdice, disse este sábado que está a analisar a decisão do encerramento do Programa Especial de Segurança de que Rui Pinto beneficiava, prometendo uma resposta até ao dia 10.",
+  "fonte": "RTP",
+  "autor": "",
+  "data": "2026-10-03T18:28:24+01:00",
+  "cats_feed": [
+   "País"
+  ],
+  "categoria_forcada": "sociedade",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Filipa Calvão: “O Tribunal de Contas não pode sair de cena”",
+  "link": "https://www.jornaldenegocios.pt/economia/detalhe/o-tribunal-de-contas-nao-pode-sair-de-cena",
+  "resumo": "O TdC tem que ter um acompanhamento mais intenso sobre a certificação de mecanismos de controlo interno, “sob pena de o sistema ficar fragilizado”, diz a presidente. Desresponsabilização dos gestores públicos é outra grande preocupação.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T21:00:00+01:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Explicador: A defesa da UE",
+  "link": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-a-defesa-da-ue",
+  "resumo": "No discurso do Estado da União, Ursula Von der Leyen apresentou várias medidas no âmbito da defesa europeia, entre elas um mecanismo semelhante ao Artigo 4.º da NATO. O explicador da semana esclarece de que se trata.",
+  "fonte": "Jornal de Negócios",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-10-03T18:00:00+01:00",
+  "cats_feed": [
+   "Explicadores"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Presidente do Tribunal de Contas admite recorrer ao Constitucional contra a reforma que acaba com o visto prévio",
+  "link": "https://jornaleconomico.sapo.pt/noticias/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-contra-a-reforma-que-acaba-com-o-visto-previo/",
+  "resumo": "Filipa Urbano Calvão diz que a instituição \"não pode sair de cena\" e quer poder travar obras que violem a lei. Sobre o fim do visto prévio, Filipa Urbano Calvão lembra que a \"crença de que agilizando os procedimentos da Administração Pública vamos garantir a eficácia da prossecução do interesse público e das finanças públicas está por demonstrar\".",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T19:05:06+00:00",
+  "cats_feed": [
+   "Economia",
+   "Sapo Economia",
+   "Filipa Urbano Calvão",
+   "Tribunal de Contas"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "André Ventura assume presidência da comissão de inquérito a Luís Neves",
+  "link": "https://jornaleconomico.sapo.pt/noticias/andre-ventura-assume-presidencia-da-comissao-de-inquerito-a-luis-neves/",
+  "resumo": "“Após ter reunido com a liderança do partido e parlamentar, entendi que devia presidir a esta comissão de inquérito ao caso de Luís Neves”, anunciou André Ventura.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T18:56:22+00:00",
+  "cats_feed": [
+   "Política",
+   "Sapo Economia",
+   "Comissão Parlamentar de Inquérito (CPI)"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Ministra da Justiça está a analisar pedidos sobre retirada de proteção especial a Rui Pinto",
+  "link": "https://jornaleconomico.sapo.pt/noticias/ministra-da-justica-esta-a-analisar-pedidos-sobre-retirada-de-protecao-especial-a-rui-pinto/",
+  "resumo": "A ministra da Justiça, Rita Alarcão Júdice, disse hoje que está a analisar a decisão do encerramento do Programa Especial de Segurança de que Rui Pinto beneficiava, prometendo uma resposta até ao dia 10.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T18:53:53+00:00",
+  "cats_feed": [
+   "Justiça",
+   "Sapo Economia",
+   "Rui Pinto"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "ANJE e Monsha’at assinam acordo para aproximar empresas portuguesas e sauditas",
+  "link": "https://jornaleconomico.sapo.pt/noticias/anje-e-monshaat-assinam-acordo-para-aproximar-empresas-portuguesas-e-sauditas/",
+  "resumo": "Memorando cria uma base de cooperação no apoio ao empreendedorismo e às PME e reforça a aposta da ANJE no mercado saudita.",
+  "fonte": "Jornal Económico",
+  "autor": "António Freitas de Sousa",
+  "data": "2026-10-03T18:00:57+00:00",
+  "cats_feed": [
+   "Empresas",
+   "JE Leitor",
+   "Sapo Economia",
+   "anje",
+   "arábia saudita",
+   "exportações",
+   "internacinalização"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Trump promete dar 5.000 dólares por adulto se republicanos vencerem eleições em novembro",
+  "link": "https://jornaleconomico.sapo.pt/noticias/trump-promete-dar-5-000-dolares-por-adulto-se-republicanos-vencerem-eleicoes-em-novembro/",
+  "resumo": "Em vários vídeos centrados nas eleições, publicados na sua rede social, Truth, Trump anunciou este pagamento e ainda um subsídio de 100 dólares para 20 milhões de reformados, proveniente de um fundo destinado ao seguro de saúde Medicare.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T17:54:31+00:00",
+  "cats_feed": [
+   "Mundo",
+   "Sapo Economia",
+   "trump"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Corticeira Amorim associa-se à Fundação LAPS para criar parque infantil em cortiça na nova Casa LAPS",
+  "link": "https://jornaleconomico.sapo.pt/noticias/corticeira-amorim-associa-se-a-fundacao-laps-para-criar-parque-infantil-em-cortica-na-nova-casa-laps/",
+  "resumo": "A cortiça portuguesa integra num novo projeto de forte impacto social em Cascais – a nova Casa LAPS, que é inaugurada no Dia Internacional da Não-Violência e no ano em que a Fundação LAPS celebra 10 anos.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T17:52:12+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Sociedade"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Fabricantes de automóveis aceleram robotização em plena onda de despedimentos",
+  "link": "https://jornaleconomico.sapo.pt/noticias/fabricantes-de-automoveis-aceleram-robotizacao-em-plena-onda-de-despedimentos/",
+  "resumo": "Hyundai e Toyota lideram investimentos milionários em robótica e inteligência artificial para transformar fábricas, enquanto o setor acumula mais de 130 mil saídas de trabalhadores anunciadas até 2030.",
+  "fonte": "Jornal Económico",
+  "autor": "Maria Teixeira Alves",
+  "data": "2026-10-03T16:53:59+00:00",
+  "cats_feed": [
+   "Empresas",
+   "Sapo Economia",
+   "Grupo Toyota",
+   "Hyundai"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "OE. PCP acusa PS de contribuir para \"hipocrisia\" e \"máscara\" do Chega",
+  "link": "https://www.noticiasaominuto.com/pais/3061333/oe2027-pcp-acusa-ps-de-estar-a-contribuir-para-a-mascara-do-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T20:39:37+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "PS quer apoio ao arrendamento, decisões públicas e conselho local em Gaia",
+  "link": "https://www.noticiasaominuto.com/pais/3061321/ps-quer-apoio-ao-arrendamento-decisoes-publicas-e-conselho-local-de-habitacao-em-gaia#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T19:39:50+00:00",
+  "cats_feed": [
+   "Política"
+  ],
+  "categoria_forcada": "politica",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Presidente do TdC admite recorrer ao TC por normas inconstitucionais",
+  "link": "https://www.noticiasaominuto.com/pais/3061340/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-por-normas-que-considere-inconstitucionais#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+  "resumo": "",
+  "fonte": "Notícias ao Minuto",
+  "autor": "",
+  "data": "2026-10-03T21:22:59+00:00",
+  "cats_feed": [
+   "Economia"
+  ],
+  "categoria_forcada": "economia",
+  "categoria": "economia",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Homem encontrado morto em Camarate. PJ a caminho do local",
+  "link": "https://cnnportugal.iol.pt/homicidio/camarate/homem-morto-a-tiro-em-camarate-suspeito-em-fuga/20261003/6ac16563d34e53c759c74ef9",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T21:22:31.818210+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "O bolsonarismo mostra a sua força com uma marcha de milhares de motos antes das eleições",
+  "link": "https://cnnportugal.iol.pt/brasil-2026/flavio-bolsonaro/o-bolsonarismo-mostra-a-sua-forca-com-uma-marcha-de-milhares-de-motos-antes-das-eleicoes/20261003/6ac14fc1d34e9a786e75ac62",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T21:22:31.818319+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "politica",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "Ministra da Justiça está a analisar pedidos sobre retirada de proteção especial a Rui Pinto",
+  "link": "https://cnnportugal.iol.pt/rui-pinto/football-leaks/ministra-da-justica-esta-a-analisar-pedidos-sobre-retirada-de-protecao-especial-a-rui-pinto/20261003/6ac12ee0d34e9a786e75abdd",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T21:22:31.818790+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "governo",
+  "regras": "af63d7f20c"
+ },
+ {
+  "titulo": "«Que o carimbo da qualificação fique no nosso país»",
+  "link": "https://cnnportugal.iol.pt/videos/que-o-carimbo-da-qualificacao-fique-no-nosso-pais/6ac127590cf299bc2953e59f",
+  "resumo": "",
+  "fonte": "CNN Portugal",
+  "autor": "",
+  "data": "2026-10-03T21:22:31.819030+00:00",
+  "cats_feed": [],
+  "categoria_forcada": "",
+  "categoria": "sociedade",
   "regras": "af63d7f20c"
  }
 ]
